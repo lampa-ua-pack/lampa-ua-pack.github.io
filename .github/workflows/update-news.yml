@@ -1,0 +1,54 @@
+name: Daily News Fetch and Localize
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: news-update
+  cancel-in-progress: true   # отменяет старые запуски
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch latest remote state
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+
+      - name: Run fetch and localization script
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python .github/scripts/update-news.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "lampa.ua.pack@proton.me"
+          git add news/data.json news/data.hash news/data.uk.json
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update news data (Ukrainian localization)"
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
