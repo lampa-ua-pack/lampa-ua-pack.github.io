@@ -50,7 +50,7 @@ def get_tmdb_episode(tmdb_id: int, season: int, episode: int):
         return None
 
 def localize_item(item: dict) -> dict:
-    """Повертає копію item з українськими текстовими полями (замінює data)"""
+    """Повертає копію item з українськими текстовими полями та чистими зображеннями з TMDb"""
     new_item = copy.deepcopy(item)
     tmdb_id = new_item.get("card_id")
     if not tmdb_id:
@@ -64,6 +64,7 @@ def localize_item(item: dict) -> dict:
         data_obj = new_item["data"]
         tmdb_info = get_tmdb_data(tmdb_id, media_type)
         if tmdb_info:
+            # Оновлення основних полів
             if media_type == "movie":
                 if tmdb_info.get("title"):
                     data_obj["title"] = tmdb_info["title"]
@@ -71,10 +72,8 @@ def localize_item(item: dict) -> dict:
                     data_obj["original_title"] = tmdb_info["original_title"]
                 if tmdb_info.get("overview"):
                     data_obj["overview"] = tmdb_info["overview"]
-                # Для сумісності, якщо є поле name
                 if "name" in data_obj and tmdb_info.get("title"):
                     data_obj["name"] = tmdb_info["title"]
-                # Оновлюємо назву в масиві names, якщо він є
                 if "names" in data_obj and isinstance(data_obj["names"], list) and tmdb_info.get("title"):
                     if tmdb_info["title"] not in data_obj["names"]:
                         data_obj["names"].insert(0, tmdb_info["title"])
@@ -89,17 +88,27 @@ def localize_item(item: dict) -> dict:
                     if tmdb_info["name"] not in data_obj["names"]:
                         data_obj["names"].insert(0, tmdb_info["name"])
 
-            # --- Локалізація жанрів ---
+            # Оновлення зображень (щоб уникнути російських текстів на постерах)
+            if tmdb_info.get("poster_path"):
+                data_obj["poster_path"] = tmdb_info["poster_path"]
+            if tmdb_info.get("backdrop_path"):
+                data_obj["backdrop_path"] = tmdb_info["backdrop_path"]
+
+            # Оновлення жанрів
             if "genres" in tmdb_info and isinstance(tmdb_info["genres"], list):
                 genre_names = [g["name"] for g in tmdb_info["genres"] if "name" in g]
                 if genre_names:
                     data_obj["genres"] = genre_names
 
-            # --- Локалізація країн виробництва ---
+            # Оновлення країн виробництва
             if "production_countries" in tmdb_info and isinstance(tmdb_info["production_countries"], list):
                 country_names = [c["name"] for c in tmdb_info["production_countries"] if "name" in c]
                 if country_names:
                     data_obj["countries"] = country_names
+
+            # (Опціонально) можна оновити рік/дату релізу, якщо потрібно
+            # if tmdb_info.get("release_date"):
+            #     data_obj["release_date"] = tmdb_info["release_date"]
 
         # Локалізація епізоду, якщо є
         if new_item.get("type") == "episode" and "episode" in data_obj:
@@ -121,6 +130,7 @@ def localize_item(item: dict) -> dict:
                         ep_data["air_date"] = tmdb_ep["air_date"]
                     if tmdb_ep.get("vote_average") is not None:
                         ep_data["vote_average"] = tmdb_ep["vote_average"]
+                    # Також оновлюємо зображення для епізоду (still_path) вже є вище
 
     return new_item
 
