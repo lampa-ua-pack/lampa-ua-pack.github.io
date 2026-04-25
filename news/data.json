@@ -1,0 +1,2589 @@
+{
+  "secuses": true,
+  "result": [
+    {
+      "id": 2663,
+      "time": 1777107388623,
+      "card_id": "241609",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 241609,
+        "original_language": "en",
+        "name": "Друзья и соседи",
+        "original_name": "Your Friends & Neighbors",
+        "names": [
+          "Друзья и соседи",
+          "Друзья и Соседи",
+          "Your Friends & Neighbors",
+          "Your Friends and Neighbors"
+        ],
+        "overview": "После внезапного развода и потери работы крупный финансист начинает грабить богатых соседей, чтобы удержаться на плаву. Кражи у людей из того же социального слоя странным образом ободряют его, но постепенно он запутывается в смертоносной паутине.",
+        "poster_path": "/wr6dsSOfht23oiym1TcAlMN7R3k.jpg",
+        "first_air_date": "2025-04-10",
+        "video": false,
+        "vote_average": 7.558,
+        "vote_count": 191,
+        "popularity": 37.7031,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6600202",
+        "kp_rating": "7.5",
+        "imdb_id": "tt30459041",
+        "imdb_rating": "7.7",
+        "status": "returning series",
+        "last_air_date": "2026-04-24",
+        "seasons": {
+          "1": 9,
+          "2": 4
+        },
+        "episode": {
+          "air_date": "2026-04-23",
+          "episode_number": 4,
+          "name": "Эпизод 4",
+          "overview": "",
+          "season_number": 2,
+          "runtime": 57,
+          "still_path": "/aWimIbgbIo0bxhP1sN9cgK6WfSU.jpg",
+          "vote_average": 9
+        }
+      },
+      "type": "episode",
+      "hash": "s2;e4",
+      "premiere": 0
+    },
+    {
+      "id": 2662,
+      "time": 1777098391753,
+      "card_id": "1318447",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/s3sJ6kI3PuaNF3eiaH29HdIWND6.jpg",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "id": 1318447,
+        "original_language": "en",
+        "title": "На Вершине",
+        "original_title": "Apex",
+        "names": [
+          "Вершина",
+          "Apex",
+          "На Вершине"
+        ],
+        "overview": "Скорбящая женщина проверяет себя на прочность в австралийской пустыне и оказывается втянутой в изощренную игру с коварным убийцей, считающим ее своей добычей.",
+        "poster_path": "/5TGSFX6dxYfM2balJrFoSVB42Nv.jpg",
+        "release_date": "2026-04-24",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "popularity": 8.2081,
+        "PG": 16,
+        "release_quality": "4K",
+        "kinopoisk_id": "6553387",
+        "imdb_id": "tt16431404",
+        "status": "released",
+        "last_air_date": "2026-04-24",
+        "countries": [
+          "США",
+          "Исландия"
+        ],
+        "genres": [
+          "Триллер",
+          "Боевик"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2661,
+      "time": 1777053387495,
+      "card_id": "202411",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/7IY4wELVMvtUc78vPiuL8kQV2iA.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 202411,
+        "original_language": "en",
+        "name": "«Монарх»: Наследие монстров",
+        "original_name": "Monarch: Legacy of Monsters",
+        "names": [
+          "«Монарх»: Наследие монстров",
+          "Monarch: Legacy of Monsters",
+          "«Монарх»: наследие монстров"
+        ],
+        "overview": "Пережив нападение Годзиллы на Сан-Франциско, Кейт в очередной раз потрясена шокирующей тайной. Окружённая чудовищными опасностями, она отправляется в путешествие по миру, чтобы узнать правду о своей семье и таинственной организации, известной как «Монарх».",
+        "poster_path": "/f0e9oth1BMhg6dVacrnPOc7qNrI.jpg",
+        "first_air_date": "2023-11-16",
+        "video": false,
+        "vote_average": 7.71,
+        "vote_count": 1162,
+        "popularity": 123.1359,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4836083",
+        "kp_rating": "6.5",
+        "imdb_id": "tt17220216",
+        "imdb_rating": "7.0",
+        "status": "returning series",
+        "last_air_date": "2026-04-24",
+        "seasons": {
+          "1": 10,
+          "2": 9
+        },
+        "episode": {
+          "air_date": "2026-04-23",
+          "episode_number": 9,
+          "name": "На краю земли",
+          "overview": "«Монарх» и команда отправляются на остров Черепа. Кейт пытается вразумить Кэнтаро и остановить Изабель. Шоу и Кэйко ищут давно потерянный разлом Билли.",
+          "season_number": 2,
+          "runtime": 44,
+          "still_path": "/uktOfZpCC4hNSBJZ9rpZf9wFZHo.jpg",
+          "vote_average": 0
+        }
+      },
+      "type": "episode",
+      "hash": "s2;e9",
+      "premiere": 0
+    },
+    {
+      "id": 2660,
+      "time": 1776945390050,
+      "card_id": "202555",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
+        "genre_ids": [
+          18,
+          10759,
+          80
+        ],
+        "id": 202555,
+        "original_language": "en",
+        "name": "Сорвиголова: Рождённый заново",
+        "original_name": "Daredevil: Born Again",
+        "names": [
+          "Сорвиголова: Рожденный заново",
+          "Сорвиголова: Рождённый Заново",
+          "Daredevil: Born Again",
+          "Сорвиголова: Рождённый заново",
+          "Daredevil: Born Again | Behind The Scenes"
+        ],
+        "overview": "Слепому адвокату Мэтту Мёрдоку снова приходится облачиться в костюм Сорвиголовы, чтобы противостоять криминальному авторитету Уилсону Фиску, который решил занять пост мэра Нью-Йорка.",
+        "poster_path": "/gJIXWIQeq8ZNnAgWbilnMLKcBV7.jpg",
+        "first_air_date": "2025-03-04",
+        "video": false,
+        "vote_average": 8.03,
+        "vote_count": 752,
+        "popularity": 101.2019,
+        "PG": 17,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "5060265",
+        "kp_rating": "7.3",
+        "imdb_id": "tt18923754",
+        "imdb_rating": "8.0",
+        "status": "returning series",
+        "last_air_date": "2026-04-22",
+        "seasons": {
+          "1": 9,
+          "2": 6
+        },
+        "episode": {
+          "air_date": "2026-04-21",
+          "episode_number": 6,
+          "name": "Эпизод 6",
+          "overview": "",
+          "season_number": 2,
+          "runtime": 52,
+          "still_path": "/bHWHSzLxwGO6lv7bWQQVAGn4ccu.jpg",
+          "vote_average": 9.25
+        }
+      },
+      "type": "episode",
+      "hash": "s2;e6",
+      "premiere": 0
+    },
+    {
+      "id": 2659,
+      "time": 1776927388487,
+      "card_id": "76479",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "id": 76479,
+        "original_language": "en",
+        "name": "Пацаны",
+        "original_name": "The Boys",
+        "names": [
+          "Пацаны",
+          "The Boys",
+          "Хлопці / Хлопаки"
+        ],
+        "overview": "События разворачивается в 2000-ые в мире, где существуют супергерои. Именно они являются настоящими звёздами, которых все знают и обожают. Но за идеальным фасадом скрывается гораздо более мрачный мир наркотиков и секса, а большинство героев в жизни не самые приятные люди. Для контроля за супергероями ЦРУ создаёт специальный отряд, неофициально известный как «Пацаны», суровые члены которого всегда готовы поставить зазнавшегося героя на место самым жестоким способом.",
+        "poster_path": "/3NqlBDpWI83TgQ9nmeFwTVxEmtZ.jpg",
+        "first_air_date": "2019-07-25",
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 11923,
+        "popularity": 596.6609,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "460586",
+        "kp_rating": "8.3",
+        "imdb_id": "tt1190634",
+        "imdb_rating": "8.6",
+        "status": "returning series",
+        "last_air_date": "2026-04-22",
+        "seasons": {
+          "1": 8,
+          "2": 8,
+          "3": 8,
+          "4": 8,
+          "5": 4
+        },
+        "episode": {
+          "air_date": "2026-04-22",
+          "episode_number": 4,
+          "name": "Царь ада",
+          "overview": "В ЭТОМ ДОМЕ МЫ ВЕРИМ В ХОУМЛЕНДЕРА!",
+          "season_number": 5,
+          "runtime": 65,
+          "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
+          "vote_average": 7.3
+        }
+      },
+      "type": "episode",
+      "hash": "s5;e4",
+      "premiere": 0
+    },
+    {
+      "id": 2658,
+      "time": 1776873387537,
+      "card_id": "95557",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10765,
+          10759
+        ],
+        "id": 95557,
+        "original_language": "en",
+        "name": "НЕПОБЕДИМЫЙ",
+        "original_name": "INVINCIBLE",
+        "names": [
+          "Неуязвимый",
+          "Invincible",
+          "Невразливий",
+          "Непобедимый",
+          "Invisible",
+          "INVINCIBLE",
+          "НЕПОБЕДИМЫЙ",
+          "Invencible"
+        ],
+        "overview": "Когда в 17 лет Марк Грейсон унаследует суперспособности, он присоединяется к своему отцу, став одним из величайших героев Земли. Все его мечты исполнились - пока шокурующее событие не меняет всё.",
+        "poster_path": "/fXSjDqVMl5nEIXiCt2tbEyWKAuh.jpg",
+        "first_air_date": "2021-03-25",
+        "video": false,
+        "vote_average": 8.63,
+        "vote_count": 5579,
+        "popularity": 221.882,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1171895",
+        "kp_rating": "8.1",
+        "imdb_id": "tt6741278",
+        "imdb_rating": "8.7",
+        "status": "returning series",
+        "last_air_date": "2026-04-22",
+        "seasons": {
+          "1": 8,
+          "2": 8,
+          "3": 8,
+          "4": 8
+        },
+        "episode": {
+          "air_date": "2026-04-22",
+          "episode_number": 8,
+          "name": "Не оставляй меня здесь висеть",
+          "overview": "Марк сталкивается со своими самыми мрачными страхами, и его жизнь меняется навсегда.",
+          "season_number": 4,
+          "runtime": 51,
+          "still_path": "/a103TuPbdItnmw4d4yDFQngJywu.jpg",
+          "vote_average": 9.5
+        }
+      },
+      "type": "episode",
+      "hash": "s4;e8",
+      "premiere": 0
+    },
+    {
+      "id": 2657,
+      "time": 1776793941648,
+      "card_id": "1304313",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
+        "genre_ids": [
+          27,
+          9648
+        ],
+        "id": 1304313,
+        "original_language": "en",
+        "title": "Мумия",
+        "original_title": "Lee Cronin's The Mummy",
+        "names": [
+          "Мумия",
+          "The Mummy",
+          "Lee Cronin's The Mummy"
+        ],
+        "overview": "Юная дочь журналиста бесследно исчезает в пустыне. 8 лет спустя разрушенная семья с ужасом обнаруживает её возвращение, и радостное воссоединение превращается в настоящий кошмар.",
+        "poster_path": "/wBeZTBXqjOs5hP3SHftpZGDtoCy.jpg",
+        "release_date": "2026-04-15",
+        "video": false,
+        "vote_average": 6.887,
+        "vote_count": 97,
+        "popularity": 168.596,
+        "PG": 18,
+        "release_quality": "ts",
+        "kinopoisk_id": "6785084",
+        "imdb_id": "tt32612507",
+        "status": "released",
+        "last_air_date": "2026-04-21",
+        "countries": [
+          "США",
+          "Ирландия"
+        ],
+        "genres": [
+          "Ужасы",
+          "Детектив"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2656,
+      "time": 1776790337348,
+      "card_id": "79744",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
+        "genre_ids": [
+          80,
+          18,
+          35
+        ],
+        "id": 79744,
+        "original_language": "en",
+        "name": "Новичок",
+        "original_name": "The Rookie",
+        "names": [
+          "Новичок",
+          "The Rookie",
+          "Новобранец",
+          "Новобранець"
+        ],
+        "overview": "Начинать с чистого листа всегда нелегко, особенно для уроженца маленького городка Джона Нолана, который после инцидента, перевернувшего его жизнь, решил воплотить в жизнь давнюю мечту и присоединиться к полиции Лос-Анджелеса. Возрастного новичка встречают с понятным скептицизмом, однако жизненный опыт, упорство и чувство юмора дают Джону преимущество.",
+        "poster_path": "/jfxInWjSixQeeyT7oiBvdXjd7HM.jpg",
+        "first_air_date": "2018-10-16",
+        "video": false,
+        "vote_average": 8.539,
+        "vote_count": 3105,
+        "popularity": 275.7799,
+        "PG": 0,
+        "release_quality": "hdtv",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1142153",
+        "kp_rating": "8.4",
+        "imdb_id": "tt7587890",
+        "imdb_rating": "8.0",
+        "status": "returning series",
+        "last_air_date": "2026-04-21",
+        "seasons": {
+          "1": 20,
+          "2": 20,
+          "3": 14,
+          "4": 22,
+          "5": 22,
+          "6": 10,
+          "7": 18,
+          "8": 16
+        },
+        "episode": {
+          "air_date": "2026-04-20",
+          "episode_number": 16,
+          "name": "Эпизод 16",
+          "overview": "",
+          "season_number": 8,
+          "runtime": 43,
+          "still_path": "/gheN0HmOUZAag4N38HascquineZ.jpg",
+          "vote_average": 9.25
+        }
+      },
+      "type": "episode",
+      "hash": "s8;e16",
+      "premiere": 0
+    },
+    {
+      "id": 2655,
+      "time": 1776784942480,
+      "card_id": "85552",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/GN2KFXiHPVV6sIw4v2P2pqCJty.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 85552,
+        "original_language": "en",
+        "name": "Эйфория",
+        "original_name": "Euphoria",
+        "names": [
+          "Эйфория",
+          "Euphoria",
+          "Ейфорія"
+        ],
+        "overview": "17-летняя Ру Беннетт возвращается домой после лечения в реабилитационной клинике. Не имея ни малейшего желания завязывать с наркотиками, она немедленно берётся за старое. На вечеринке Ру обращает внимание на недавно приехавшую в их пригород ровесницу Джулс, и это знакомство становится началом большой дружбы.",
+        "poster_path": "/yJz0VPfztciUt8cYulEOnk7wQhs.jpg",
+        "first_air_date": "2019-06-16",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 10394,
+        "popularity": 435.1801,
+        "PG": 18,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1178445",
+        "kp_rating": "7.5",
+        "imdb_id": "tt8772296",
+        "imdb_rating": "8.2",
+        "status": "returning series",
+        "last_air_date": "2026-04-20",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 2
+        },
+        "countries": [
+          "США",
+          "Израиль"
+        ],
+        "genres": [
+          "Драма"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2654,
+      "time": 1776763339382,
+      "card_id": "1620551",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/Ary1sG0AHn4V1DFrwV7g72Fomq0.jpg",
+        "genre_ids": [
+          10402,
+          18,
+          35
+        ],
+        "id": 1620551,
+        "original_language": "it",
+        "title": "Почувствуй мой голос",
+        "original_title": "Non abbiam bisogno di parole",
+        "names": [
+          "Почувствуй мой голос",
+          "Non abbiam bisogno di parole"
+        ],
+        "overview": "Элетта, единственный слышащий член семьи глухих, находит свой голос и учится верить в себя через свою страсть к пению.",
+        "poster_path": "/ptWVRyHpDYDoU1vWR2jBQOFSE24.jpg",
+        "release_date": "2026-04-03",
+        "video": false,
+        "vote_average": 6.506,
+        "vote_count": 80,
+        "popularity": 16.6224,
+        "PG": 17,
+        "release_quality": "4K",
+        "kinopoisk_id": "11883620",
+        "imdb_id": "tt38589464",
+        "status": "released",
+        "last_air_date": "2026-04-05",
+        "countries": [
+          "Италия"
+        ],
+        "genres": [
+          "Музыка",
+          "Драма",
+          "Комедия"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2653,
+      "time": 1776761537421,
+      "card_id": "1305781",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
+        "genre_ids": [
+          28,
+          18,
+          36
+        ],
+        "id": 1305781,
+        "original_language": "zh",
+        "title": "Клинки хранителей",
+        "original_title": "镖人：风起大漠",
+        "names": [
+          "Клинки хранителей",
+          "Biao ren: feng qi da mo",
+          "镖人：风起大漠"
+        ],
+        "overview": "Дао Ма, «второй самый разыскиваемый беглец», получает от своего благодетеля, главы клана Мо, поручение выполнить таинственную миссию — сопроводить «самого разыскиваемого беглеца» в Чанъань.",
+        "poster_path": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
+        "release_date": "2026-02-17",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 35,
+        "popularity": 19.1685,
+        "PG": 17,
+        "release_quality": "ts",
+        "kinopoisk_id": "6359255",
+        "imdb_id": "tt32649961",
+        "imdb_rating": "7.3",
+        "status": "released",
+        "last_air_date": "2026-04-20",
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "Боевик",
+          "Драма",
+          "История"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2652,
+      "time": 1776682336824,
+      "card_id": "85552",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/GN2KFXiHPVV6sIw4v2P2pqCJty.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 85552,
+        "original_language": "en",
+        "name": "Эйфория",
+        "original_name": "Euphoria",
+        "names": [
+          "Эйфория",
+          "Euphoria",
+          "Ейфорія"
+        ],
+        "overview": "17-летняя Ру Беннетт возвращается домой после лечения в реабилитационной клинике. Не имея ни малейшего желания завязывать с наркотиками, она немедленно берётся за старое. На вечеринке Ру обращает внимание на недавно приехавшую в их пригород ровесницу Джулс, и это знакомство становится началом большой дружбы.",
+        "poster_path": "/yJz0VPfztciUt8cYulEOnk7wQhs.jpg",
+        "first_air_date": "2019-06-16",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 10394,
+        "popularity": 435.1801,
+        "PG": 18,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1178445",
+        "kp_rating": "7.5",
+        "imdb_id": "tt8772296",
+        "imdb_rating": "8.2",
+        "status": "returning series",
+        "last_air_date": "2026-04-20",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 2
+        },
+        "episode": {
+          "air_date": "2026-04-19",
+          "episode_number": 2,
+          "name": "Эпизод 2",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 60,
+          "still_path": "/hnRxdmQRxz3dhAuwOHkGpAauhaq.jpg",
+          "vote_average": 0
+        }
+      },
+      "type": "episode",
+      "hash": "s3;e2",
+      "premiere": 0
+    },
+    {
+      "id": 2651,
+      "time": 1776628336401,
+      "card_id": "124364",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "id": 124364,
+        "original_language": "en",
+        "name": "Извне",
+        "original_name": "FROM",
+        "names": [
+          "Извне",
+          "From",
+          "Ззовні",
+          "FROM"
+        ],
+        "overview": "Затерянный в лесу американский городок пленяет каждого, кому не посчастливилось проехать его по пути — покинуть это место оказывается буквально невозможно. Днем невольные жители пытаются выстроить подобие нормального быта и найти способ выбраться, а по ночам спасаются от пугающих обитателей леса, которые приходят навестить горожан, как только заходит солнце.",
+        "poster_path": "/bBk5fnZipHd3Zwn3nz6faZyzl8U.jpg",
+        "first_air_date": "2022-02-20",
+        "video": false,
+        "vote_average": 8.165,
+        "vote_count": 2542,
+        "popularity": 179.1681,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4476885",
+        "kp_rating": "7.6",
+        "imdb_id": "tt9813792",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-04-19",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 1
+        },
+        "episode": {
+          "air_date": "2026-04-19",
+          "episode_number": 1,
+          "name": "Эпизод 1",
+          "overview": "",
+          "season_number": 4,
+          "runtime": 54,
+          "still_path": "/ysFWXqB5yGUQ9j7vbsOtXe6cZ7z.jpg",
+          "vote_average": 4.5
+        }
+      },
+      "type": "episode",
+      "hash": "s4;e1",
+      "premiere": 0
+    },
+    {
+      "id": 2650,
+      "time": 1776586939415,
+      "card_id": "241609",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 241609,
+        "original_language": "en",
+        "name": "Друзья и соседи",
+        "original_name": "Your Friends & Neighbors",
+        "names": [
+          "Друзья и соседи",
+          "Друзья и Соседи",
+          "Your Friends & Neighbors",
+          "Your Friends and Neighbors"
+        ],
+        "overview": "После внезапного развода и потери работы крупный финансист начинает грабить богатых соседей, чтобы удержаться на плаву. Кражи у людей из того же социального слоя странным образом ободряют его, но постепенно он запутывается в смертоносной паутине.",
+        "poster_path": "/wr6dsSOfht23oiym1TcAlMN7R3k.jpg",
+        "first_air_date": "2025-04-10",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 189,
+        "popularity": 43.2497,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6600202",
+        "kp_rating": "7.5",
+        "imdb_id": "tt30459041",
+        "imdb_rating": "7.7",
+        "status": "returning series",
+        "last_air_date": "2026-04-17",
+        "seasons": {
+          "1": 9,
+          "2": 3
+        },
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Драма",
+          "Криминал"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2649,
+      "time": 1776495678937,
+      "card_id": "202411",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/7IY4wELVMvtUc78vPiuL8kQV2iA.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 202411,
+        "original_language": "en",
+        "name": "«Монарх»: Наследие монстров",
+        "original_name": "Monarch: Legacy of Monsters",
+        "names": [
+          "«Монарх»: Наследие монстров",
+          "Monarch: Legacy of Monsters",
+          "«Монарх»: наследие монстров"
+        ],
+        "overview": "Пережив нападение Годзиллы на Сан-Франциско, Кейт в очередной раз потрясена шокирующей тайной. Окружённая чудовищными опасностями, она отправляется в путешествие по миру, чтобы узнать правду о своей семье и таинственной организации, известной как «Монарх».",
+        "poster_path": "/f0e9oth1BMhg6dVacrnPOc7qNrI.jpg",
+        "first_air_date": "2023-11-16",
+        "video": false,
+        "vote_average": 7.701,
+        "vote_count": 1149,
+        "popularity": 112.5906,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4836083",
+        "kp_rating": "6.5",
+        "imdb_id": "tt17220216",
+        "imdb_rating": "7.0",
+        "status": "returning series",
+        "last_air_date": "2026-04-17",
+        "seasons": {
+          "1": 10,
+          "2": 8
+        },
+        "episode": {
+          "air_date": "2026-04-16",
+          "episode_number": 8,
+          "name": "Каждый своей дорогой",
+          "overview": "Титан Икс выходит на берег Австралии, куда Шоу заманивает Годзиллу, чтобы стравить их. Изабель использует это сражение как отвлекающий маневр для своей секретной операции.",
+          "season_number": 2,
+          "runtime": 40,
+          "still_path": "/6y16mpHEyWJmY7CREy2vmdhE0tG.jpg",
+          "vote_average": 7.667
+        }
+      },
+      "type": "episode",
+      "hash": "s2;e8",
+      "premiere": 0
+    },
+    {
+      "id": 2648,
+      "time": 1776441678699,
+      "card_id": "250307",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 250307,
+        "original_language": "en",
+        "name": "Больница Питт",
+        "original_name": "The Pitt",
+        "names": [
+          "Больница Питт",
+          "The Pitt",
+          "Питт"
+        ],
+        "overview": "Повседневная жизнь медицинских работников в Питтсбургской больнице, когда онисталкиваются с личными кризисами, политикой на рабочем месте и эмоциональными нагрузками, связанными с лечением тяжелобольных пациентов, демонстрирует стойкость, необходимую для их благородного призвания.",
+        "poster_path": "/qNABFhduyxg5gvzFuuSPFRh2uls.jpg",
+        "first_air_date": "2025-01-09",
+        "video": false,
+        "vote_average": 8.7,
+        "vote_count": 623,
+        "popularity": 104.1087,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6589776",
+        "kp_rating": "8.7",
+        "imdb_id": "tt31938062",
+        "imdb_rating": "8.9",
+        "status": "returning series",
+        "last_air_date": "2026-04-17",
+        "seasons": {
+          "1": 15,
+          "2": 15
+        },
+        "episode": {
+          "air_date": "2026-04-16",
+          "episode_number": 15,
+          "name": "Пятнадцатый час: с 21:00 до 22:00",
+          "overview": "",
+          "season_number": 2,
+          "runtime": 50,
+          "still_path": "/sQTZIZGSXcI5TAbgJfhez9zyNAq.jpg",
+          "vote_average": 7.667
+        }
+      },
+      "type": "episode",
+      "hash": "s2;e15",
+      "premiere": 0
+    },
+    {
+      "id": 2647,
+      "time": 1776425486769,
+      "card_id": "1384216",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/srbk1HHT6eKjguGVOJVSHFA691R.jpg",
+        "id": 1384216,
+        "title": "Созвездие Пса",
+        "original_title": "The Dog Stars",
+        "overview": "Главный герой Хиг — гражданский пилот, живущий в постапокалиптическом Колорадо на заброшенной авиабазе вместе со своей собакой Джаспером и ворчливым, но верным рейнджером, соратником Бэнгли. Их уединенную жизнь нарушает неожиданное радиосообщение, которое пробуждает в Хиге надежду на существование других выживших. В поисках источника сигнала Хиг отправляется в опасное путешествие на своем старом самолете «Сессна». Его путь пролегает через опустошенные города, дикие леса и враждебные территории.",
+        "poster_path": "/ePWFnyCQQr4fvBOD1lgKtcvfnCd.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          878,
+          53
+        ],
+        "popularity": 4.1709,
+        "release_date": "2026-08-26",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "trailer_id": "cmzVY1goqwQ",
+        "imdb_id": "tt21285562"
+      },
+      "type": "trailer",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2646,
+      "time": 1776423677696,
+      "card_id": "241609",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 241609,
+        "original_language": "en",
+        "name": "Друзья и соседи",
+        "original_name": "Your Friends & Neighbors",
+        "names": [
+          "Друзья и соседи",
+          "Друзья и Соседи",
+          "Your Friends & Neighbors",
+          "Your Friends and Neighbors"
+        ],
+        "overview": "После внезапного развода и потери работы крупный финансист начинает грабить богатых соседей, чтобы удержаться на плаву. Кражи у людей из того же социального слоя странным образом ободряют его, но постепенно он запутывается в смертоносной паутине.",
+        "poster_path": "/wr6dsSOfht23oiym1TcAlMN7R3k.jpg",
+        "first_air_date": "2025-04-10",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 188,
+        "popularity": 60.418,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6600202",
+        "kp_rating": "7.5",
+        "imdb_id": "tt30459041",
+        "imdb_rating": "7.7",
+        "status": "returning series",
+        "last_air_date": "2026-04-17",
+        "seasons": {
+          "1": 9,
+          "2": 3
+        },
+        "episode": {
+          "air_date": "2026-04-16",
+          "episode_number": 3,
+          "name": "Эпизод 3",
+          "overview": "",
+          "season_number": 2,
+          "runtime": 53,
+          "still_path": "/cXRz241o7dRK9eF6l0oASJc1tuX.jpg",
+          "vote_average": 10
+        }
+      },
+      "type": "episode",
+      "hash": "s2;e3",
+      "premiere": 0
+    },
+    {
+      "id": 2645,
+      "time": 1776421877766,
+      "card_id": "289219",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/5SrsdKcN9Flvccq59sIfJbhq1Fk.jpg",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "id": 289219,
+        "original_language": "en",
+        "name": "Звёздные войны. Дарт Мол: Повелитель теней",
+        "original_name": "Star Wars: Maul - Shadow Lord",
+        "names": [
+          "Звёздные войны. Дарт Мол: Повелитель теней",
+          "Star Wars: Maul - Shadow Lord"
+        ],
+        "overview": "После событий на Мандалоре и уничтожения Ордена джедаев Мол скрывается от нового режима и пытается восстановить свою преступную империю «Багровый рассвет». На планете Джаникс он находит падавана по имени Девон Изара, которая вместе со своим учителем-джедаем Эко-Дио Даки выжила после Приказа 66. Мол видит в ней идеального кандидата в ученицы, чтобы использовать её тёмную сторону для мести Палпатину и Империи, которая его предала. Девон же, разочарованная необходимостью выживать и воровать, оказывается перед сложным выбором между учением своего мастера и путём силы, который предлагает Мол. Одновременно с этим местный капитан полиции Лоусон пытается бороться с растущей криминальной угрозой, не привлекая внимания Империи, которая только усугубит положение планеты. Конфликт достигает точки кипения с прибытием на Джаникс инквизиторов, включая Маррока, что вынуждает всех героев пересмотреть свои планы.",
+        "poster_path": "/q1DZC3Pb8j51LIsagxy6E94HPPf.jpg",
+        "first_air_date": "2026-04-06",
+        "video": false,
+        "vote_average": 7.414,
+        "vote_count": 35,
+        "popularity": 64.6209,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "7684174",
+        "imdb_id": "tt36594331",
+        "imdb_rating": "8.5",
+        "status": "returning series",
+        "last_air_date": "2026-04-14",
+        "seasons": {
+          "1": 4
+        },
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Мультфильм",
+          "НФ и Фэнтези",
+          "Боевик и Приключения"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2644,
+      "time": 1776407486773,
+      "card_id": "1400336",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/nubnNXuMArUhiDW1nUevGsG65x9.jpg",
+        "id": 1400336,
+        "title": "Знакомство с родителями 4",
+        "original_title": "Focker-In-Law",
+        "overview": "Молодой человек по имени Генри, сын Грега и Пэм Факеров, сталкивается с хаосом в семье, когда решает жениться на волевой женщине, которая, по-видимому, ему совершенно не подходит.",
+        "poster_path": "/sJRRWfgAKlBS1dO1XzqX44FbHws.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "popularity": 3.6073,
+        "release_date": "2026-11-25",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "trailer_id": "vyISuWUWcFs",
+        "imdb_id": "tt34966140"
+      },
+      "type": "trailer",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2643,
+      "time": 1776358878378,
+      "card_id": "661568",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/cNRYvkHKoRw8AuZxf7XecRfSuvM.jpg",
+        "genre_ids": [
+          10749,
+          18,
+          35
+        ],
+        "id": 661568,
+        "original_language": "fr",
+        "title": "Мектуб, моя любовь: Песнь вторая",
+        "original_title": "Mektoub, My Love: Canto Due",
+        "names": [
+          "Мектуб, моя любовь: Песнь вторая",
+          "Mektoub, My Love: Canto Due"
+        ],
+        "overview": "Амин возвращается в родной Сет, всё еще одержимый мечтой о большом кино. И, кажется, удача на его стороне: влиятельный голливудский продюсер готов запустить его проект. Условие лишь одно — главную роль должна сыграть жена продюсера, Джесс. Перед Амином открываются блестящие перспективы, но под палящим солнцем юга Франции всё идет не по сценарию. В дело вмешиваются случайные встречи и непредсказуемые чувства, ведь у капризной судьбы свои виды на этот фильм.",
+        "poster_path": "/Ag0gzbjcdUu8t0eeFks2USP9a5V.jpg",
+        "release_date": "2025-12-03",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 11,
+        "popularity": 3.6212,
+        "PG": 0,
+        "release_quality": "bdrip",
+        "kinopoisk_id": "5080908",
+        "imdb_id": "tt21811188",
+        "imdb_rating": "7.1",
+        "status": "released",
+        "last_air_date": "2026-04-15",
+        "countries": [
+          "Франция"
+        ],
+        "genres": [
+          "Мелодрама",
+          "Драма",
+          "Комедия"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2642,
+      "time": 1776355282350,
+      "card_id": "1290417",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 1290417,
+        "original_language": "en",
+        "title": "Хищный рывок",
+        "original_title": "Thrash",
+        "names": [
+          "Хищный рывок",
+          "Thrash"
+        ],
+        "overview": "Когда ураган категории 5 разрушает прибрежный город, штормовой прилив приносит не только разрушения и хаос, но и нечто куда более пугающее — голодных акул.",
+        "poster_path": "/1xNg6ImdaSEshc2nYNEYzEbIV6W.jpg",
+        "release_date": "2026-04-10",
+        "video": false,
+        "vote_average": 5.916,
+        "vote_count": 249,
+        "popularity": 253.4786,
+        "PG": 17,
+        "release_quality": "webdl",
+        "kinopoisk_id": "8883351",
+        "imdb_id": "tt32362890",
+        "status": "released",
+        "last_air_date": "2026-04-12",
+        "countries": [
+          "США",
+          "Австралия"
+        ],
+        "genres": [
+          "Ужасы",
+          "Триллер"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2641,
+      "time": 1776333679061,
+      "card_id": "202555",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
+        "genre_ids": [
+          18,
+          10759,
+          80
+        ],
+        "id": 202555,
+        "original_language": "en",
+        "name": "Сорвиголова: Рождённый заново",
+        "original_name": "Daredevil: Born Again",
+        "names": [
+          "Сорвиголова: Рожденный заново",
+          "Сорвиголова: Рождённый Заново",
+          "Daredevil: Born Again",
+          "Сорвиголова: Рождённый заново",
+          "Daredevil: Born Again | Behind The Scenes"
+        ],
+        "overview": "Слепому адвокату Мэтту Мёрдоку снова приходится облачиться в костюм Сорвиголовы, чтобы противостоять криминальному авторитету Уилсону Фиску, который решил занять пост мэра Нью-Йорка.",
+        "poster_path": "/gJIXWIQeq8ZNnAgWbilnMLKcBV7.jpg",
+        "first_air_date": "2025-03-04",
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 745,
+        "popularity": 117.6074,
+        "PG": 17,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "5060265",
+        "kp_rating": "7.3",
+        "imdb_id": "tt18923754",
+        "imdb_rating": "8.0",
+        "status": "returning series",
+        "last_air_date": "2026-04-15",
+        "seasons": {
+          "1": 9,
+          "2": 5
+        },
+        "episode": {
+          "air_date": "2026-04-14",
+          "episode_number": 5,
+          "name": "Эпизод 5",
+          "overview": "",
+          "season_number": 2,
+          "runtime": 53,
+          "still_path": "/3LwlF3zBobR6QuEIDh2D71KsCq6.jpg",
+          "vote_average": 9.7
+        }
+      },
+      "type": "episode",
+      "hash": "s2;e5",
+      "premiere": 0
+    },
+    {
+      "id": 2640,
+      "time": 1776279687684,
+      "card_id": "95557",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10765,
+          10759
+        ],
+        "id": 95557,
+        "original_language": "en",
+        "name": "НЕПОБЕДИМЫЙ",
+        "original_name": "Invincible",
+        "names": [
+          "Неуязвимый",
+          "Invincible",
+          "Невразливий",
+          "Непобедимый",
+          "Invisible",
+          "INVINCIBLE",
+          "НЕПОБЕДИМЫЙ",
+          "Invencible"
+        ],
+        "overview": "Когда в 17 лет Марк Грейсон унаследует суперспособности, он присоединяется к своему отцу, став одним из величайших героев Земли. Все его мечты исполнились - пока шокурующее событие не меняет всё.",
+        "poster_path": "/fXSjDqVMl5nEIXiCt2tbEyWKAuh.jpg",
+        "first_air_date": "2021-03-25",
+        "video": false,
+        "vote_average": 8.6,
+        "vote_count": 5511,
+        "popularity": 220.7368,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1171895",
+        "kp_rating": "8.1",
+        "imdb_id": "tt6741278",
+        "imdb_rating": "8.7",
+        "status": "returning series",
+        "last_air_date": "2026-04-15",
+        "seasons": {
+          "1": 8,
+          "2": 8,
+          "3": 8,
+          "4": 7
+        },
+        "episode": {
+          "air_date": "2026-04-15",
+          "episode_number": 7,
+          "name": "Не делай ничего опрометчивого",
+          "overview": "В ходе масштабного столкновения ничто не идет по плану.",
+          "season_number": 4,
+          "runtime": null,
+          "still_path": "/vEyYNzrfpLCefYhILeUmdBcLp0M.jpg",
+          "vote_average": 10
+        }
+      },
+      "type": "episode",
+      "hash": "s4;e7",
+      "premiere": 0
+    },
+    {
+      "id": 2639,
+      "time": 1776261676463,
+      "card_id": "76479",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "id": 76479,
+        "original_language": "en",
+        "name": "Пацаны",
+        "original_name": "The Boys",
+        "names": [
+          "Пацаны",
+          "The Boys",
+          "Хлопці / Хлопаки"
+        ],
+        "overview": "События разворачивается в 2000-ые в мире, где существуют супергерои. Именно они являются настоящими звёздами, которых все знают и обожают. Но за идеальным фасадом скрывается гораздо более мрачный мир наркотиков и секса, а большинство героев в жизни не самые приятные люди. Для контроля за супергероями ЦРУ создаёт специальный отряд, неофициально известный как «Пацаны», суровые члены которого всегда готовы поставить зазнавшегося героя на место самым жестоким способом.",
+        "poster_path": "/3NqlBDpWI83TgQ9nmeFwTVxEmtZ.jpg",
+        "first_air_date": "2019-07-25",
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 11816,
+        "popularity": 802.7863,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "460586",
+        "kp_rating": "8.3",
+        "imdb_id": "tt1190634",
+        "imdb_rating": "8.6",
+        "status": "returning series",
+        "last_air_date": "2026-04-15",
+        "seasons": {
+          "1": 8,
+          "2": 8,
+          "3": 8,
+          "4": 8,
+          "5": 3
+        },
+        "episode": {
+          "air_date": "2026-04-15",
+          "episode_number": 3,
+          "name": "Эпизод 3",
+          "overview": "",
+          "season_number": 5,
+          "runtime": 65,
+          "still_path": "/4ILWEFbicFs4uDpjwNJv4oOHr9v.jpg",
+          "vote_average": 7.75
+        }
+      },
+      "type": "episode",
+      "hash": "s5;e3",
+      "premiere": 0
+    },
+    {
+      "id": 2638,
+      "time": 1776243676364,
+      "card_id": "79744",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
+        "genre_ids": [
+          80,
+          18,
+          35
+        ],
+        "id": 79744,
+        "original_language": "en",
+        "name": "Новичок",
+        "original_name": "The Rookie",
+        "names": [
+          "Новичок",
+          "The Rookie",
+          "Новобранец",
+          "Новобранець"
+        ],
+        "overview": "Начинать с чистого листа всегда нелегко, особенно для уроженца маленького городка Джона Нолана, который после инцидента, перевернувшего его жизнь, решил воплотить в жизнь давнюю мечту и присоединиться к полиции Лос-Анджелеса. Возрастного новичка встречают с понятным скептицизмом, однако жизненный опыт, упорство и чувство юмора дают Джону преимущество.",
+        "poster_path": "/jfxInWjSixQeeyT7oiBvdXjd7HM.jpg",
+        "first_air_date": "2018-10-16",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 3094,
+        "popularity": 305.7118,
+        "PG": 0,
+        "release_quality": "hdtv",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1142153",
+        "kp_rating": "8.4",
+        "imdb_id": "tt7587890",
+        "imdb_rating": "8.0",
+        "status": "returning series",
+        "last_air_date": "2026-04-15",
+        "seasons": {
+          "1": 20,
+          "2": 20,
+          "3": 14,
+          "4": 22,
+          "5": 22,
+          "6": 10,
+          "7": 18,
+          "8": 15
+        },
+        "episode": {
+          "air_date": "2026-04-13",
+          "episode_number": 15,
+          "name": "Эпизод 15",
+          "overview": "",
+          "season_number": 8,
+          "runtime": 43,
+          "still_path": "/jNtElnMNH3i2L45noWugZXat8Tb.jpg",
+          "vote_average": 5.8
+        }
+      },
+      "type": "episode",
+      "hash": "s8;e15",
+      "premiere": 0
+    },
+    {
+      "id": 2637,
+      "time": 1776191485480,
+      "card_id": "1291595",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/8ujQlfBsLwNDs1lHmGxDMYkUrRT.jpg",
+        "id": 1291595,
+        "title": "Астрал 6: они уже здесь",
+        "original_title": "Insidious: Out of the Further",
+        "overview": "Молодая женщина обнаруживает, что может перемещаться в небытие и приносить оттуда в наш мир зловещих призраков.",
+        "poster_path": "/2hfvVae4Jjbfe4yIc2ygGfqI1Mt.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 3.5769,
+        "release_date": "2026-08-19",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "trailer_id": "jxU8FU3o75A",
+        "imdb_id": "tt32393988"
+      },
+      "type": "trailer",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2636,
+      "time": 1776160629078,
+      "card_id": "85552",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/9KnIzPCv9XpWA0MqmwiKBZvV1Sj.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 85552,
+        "original_language": "en",
+        "name": "Эйфория",
+        "original_name": "Euphoria",
+        "names": [
+          "Эйфория",
+          "Euphoria",
+          "Ейфорія"
+        ],
+        "overview": "Группа старшеклассников исследует любовь и дружбу в мире наркотиков, секса, травм и социальных сетей.",
+        "poster_path": "/yJz0VPfztciUt8cYulEOnk7wQhs.jpg",
+        "first_air_date": "2019-06-16",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 10372,
+        "popularity": 100.0287,
+        "PG": 18,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1178445",
+        "kp_rating": "7.5",
+        "imdb_id": "tt8772296",
+        "imdb_rating": "8.2",
+        "status": "returning series",
+        "last_air_date": "2026-04-13",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 1
+        },
+        "episode": {
+          "air_date": "2026-04-12",
+          "episode_number": 1,
+          "name": "Эпизод 1",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 62,
+          "still_path": "/hbz0xyNFagcXKcBAYbxDJ31wn9M.jpg",
+          "vote_average": 6.9
+        }
+      },
+      "type": "episode",
+      "hash": "s3;e1",
+      "premiere": 0
+    },
+    {
+      "id": 2635,
+      "time": 1776074233098,
+      "card_id": "1266127",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/jSxeFrFCajefwka3TTRY4k8XVEX.jpg",
+        "genre_ids": [
+          27,
+          35
+        ],
+        "id": 1266127,
+        "original_language": "en",
+        "title": "Я иду искать 2",
+        "original_title": "Ready or Not: Here I Come",
+        "names": [
+          "Я иду искать 2",
+          "Ready or Not 2: Here I Come",
+          "Ready or Not: Here I Come"
+        ],
+        "overview": "Пережив нападение со стороны проклятой семьи мужа, Грейс попадает на новый уровень опасной игры. Грейс узнаёт, что теперь опасность грозит её младшей сестре Фейт. Вместе сёстры противостоят 4-ём могущественным семьям, которые пытаются убить их, чтобы сохранить свои власть и богатства.",
+        "poster_path": "/q7h6tGkDJ1CUiW2vBwUu5sE2Yas.jpg",
+        "release_date": "2026-03-19",
+        "video": false,
+        "vote_average": 7.169,
+        "vote_count": 124,
+        "popularity": 43.0396,
+        "PG": 17,
+        "release_quality": "webrip",
+        "kinopoisk_id": "6747282",
+        "kp_rating": "6.5",
+        "imdb_id": "tt33978029",
+        "status": "released",
+        "last_air_date": "2026-03-23",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Ужасы",
+          "Комедия"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2634,
+      "time": 1776061629033,
+      "card_id": "1049471",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/avwIERZtWiWa34qShf5biDzAVaF.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 1049471,
+        "original_language": "en",
+        "title": "Последствия",
+        "original_title": "Outcome",
+        "names": [
+          "Последствия",
+          "Outcome"
+        ],
+        "overview": "Риф Хоук, лицо Голливуда с 6-ти лет, попадает в беду. Узнав, что его собираются шантажировать загадочным видео, Риф действует на опережение и отправляется в поездку, чтобы восстановить репутацию, противостоять своим внутренним демонам и избежать бойкота.",
+        "poster_path": "/87QuAtDU6KOds14LYjCNckyUT0X.jpg",
+        "release_date": "2026-04-06",
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 20,
+        "popularity": 138.5648,
+        "PG": 18,
+        "release_quality": "4K",
+        "kinopoisk_id": "5212144",
+        "imdb_id": "tt23724682",
+        "status": "released",
+        "last_air_date": "2026-04-12",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Комедия",
+          "Драма"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2633,
+      "time": 1775924561969,
+      "card_id": "224377",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/5Dyl2vj73s7S6NhIBtNbBLlZPmH.jpg",
+        "id": 224377,
+        "name": "Гарри Поттер",
+        "original_name": "Harry Potter",
+        "overview": "В свой 11-ый день рождения Гарри узнаёт, что является самым настоящим волшебником, и его приглашают учиться в школу магии. Поступив, он с головой погружается в мир магии и волшебства, даже не представляя какие испытания ждут его впереди.",
+        "poster_path": "/SJCnXVBJZh7X7ePLt6XMp6TZAj.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          10751
+        ],
+        "popularity": 9.2514,
+        "first_air_date": "2026-12-25",
+        "vote_average": 0,
+        "vote_count": 0,
+        "origin_country": [
+          "GB",
+          "US"
+        ],
+        "trailer_id": "MWtma9a-qYw",
+        "imdb_id": "tt13918446"
+      },
+      "type": "trailer",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2632,
+      "time": 1775922694845,
+      "card_id": "250307",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 250307,
+        "original_language": "en",
+        "name": "Больница Питт",
+        "original_name": "The Pitt",
+        "names": [
+          "Больница Питт",
+          "The Pitt",
+          "Питт"
+        ],
+        "overview": "Повседневная жизнь медицинских работников в Питтсбургской больнице, когда онисталкиваются с личными кризисами, политикой на рабочем месте и эмоциональными нагрузками, связанными с лечением тяжелобольных пациентов, демонстрирует стойкость, необходимую для их благородного призвания.",
+        "poster_path": "/qNABFhduyxg5gvzFuuSPFRh2uls.jpg",
+        "first_air_date": "2025-01-09",
+        "video": false,
+        "vote_average": 8.697,
+        "vote_count": 602,
+        "popularity": 104.8027,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6589776",
+        "kp_rating": "8.7",
+        "imdb_id": "tt31938062",
+        "imdb_rating": "8.9",
+        "status": "returning series",
+        "last_air_date": "2026-04-10",
+        "seasons": {
+          "1": 15,
+          "2": 14
+        },
+        "episode": {
+          "air_date": "2026-04-09",
+          "episode_number": 14,
+          "name": "Четырнадцатый час: с 20:00 до 21:00",
+          "overview": "",
+          "season_number": 2,
+          "runtime": 42,
+          "still_path": "/9ckc3UUzcRYRLuMeWJL7Ra1Mm8x.jpg",
+          "vote_average": 8.2
+        }
+      },
+      "type": "episode",
+      "hash": "s2;e14",
+      "premiere": 0
+    },
+    {
+      "id": 2631,
+      "time": 1775905667896,
+      "card_id": "1635276",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/7weSO3kEzMpMgdmte4AasS0tbeV.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1635276,
+        "original_language": "de",
+        "title": "Ешь, молись, лай",
+        "original_title": "Eat Pray Bark – Therapie auf vier Pfoten",
+        "names": [
+          "Ешь, молись, лай",
+          "Eat Pray Bark",
+          "Ешь, молись, рычи",
+          "Eat Pray Bark – Therapie auf vier Pfoten"
+        ],
+        "overview": "Пять владельцев собак обращаются за помощью с непослушными щенками к легендарному кинологу, живущему в горах. Но похоже, что дрессировать надо совсем не пушистиками.",
+        "poster_path": "/rQdmyrSU0ySNkZMOq3URaDhUvdq.jpg",
+        "release_date": "2026-04-01",
+        "video": false,
+        "vote_average": 5.656,
+        "vote_count": 45,
+        "popularity": 63.6885,
+        "PG": 13,
+        "release_quality": "4K",
+        "kinopoisk_id": "11832417",
+        "imdb_id": "tt39465484",
+        "status": "released",
+        "last_air_date": "2026-04-02",
+        "countries": [
+          "Германия"
+        ],
+        "genres": [
+          "Комедия"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2630,
+      "time": 1775903863289,
+      "card_id": "1307373",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/qLp9td9ZfOe7G6wHhrepKtIH5Qe.jpg",
+        "genre_ids": [
+          53,
+          80,
+          18
+        ],
+        "id": 1307373,
+        "original_language": "en",
+        "title": "Мусорщик",
+        "original_title": "Wasteman",
+        "names": [
+          "Мусорщик",
+          "Wasteman"
+        ],
+        "overview": "Надежды Тейлора на новую жизнь после условно-досрочного освобождения рушатся с появлением его сокамерника Ди. Ди берет Тейлора под свое крыло, но жестокое нападение ставит их отношения под угрозу, заставляя Тейлора выбирать между защитой Ди и собственными шансами на свободу.",
+        "poster_path": "/lKK9ImwpoTCwDZKgYpjIIJCnlf0.jpg",
+        "release_date": "2026-02-20",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 7,
+        "popularity": 8.91,
+        "PG": 0,
+        "release_quality": "webdl",
+        "kinopoisk_id": "9002462",
+        "imdb_id": "tt29028515",
+        "imdb_rating": "7.7",
+        "status": "released",
+        "last_air_date": "2026-04-10",
+        "countries": [
+          "Великобритания"
+        ],
+        "genres": [
+          "Триллер",
+          "Криминал",
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2629,
+      "time": 1775898522377,
+      "card_id": "299167",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+        "id": 299167,
+        "name": "Ранчо Даттонов",
+        "original_name": "Dutton Ranch",
+        "overview": "Ранчо Даттон, дом Бет Даттон и Рипа Уилера, является свидетельством мира, к которому они стремились, за который боролись и за который чуть не погибли, поскольку они стали очень дорожить своей землей площадью в 7000 акров. В трудные времена и при жесткой конкуренции Бет и Рип делают все необходимое для выживания, одновременно обеспечивая Картеру возможность стать тем человеком, которым он должен быть.",
+        "poster_path": "/dfFx1bPBf2FvpxZ6FWYkFF4hWJx.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "popularity": 6.3378,
+        "first_air_date": "2026-05-15",
+        "vote_average": 0,
+        "vote_count": 0,
+        "origin_country": [
+          "US"
+        ],
+        "trailer_id": "2-fu2H3ZvD8",
+        "imdb_id": "tt34991493"
+      },
+      "type": "trailer",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2628,
+      "time": 1775896665551,
+      "card_id": "202411",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/ybAYY4sOjg3K4ekYfFyEhHYsftc.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 202411,
+        "original_language": "en",
+        "name": "«Монарх»: Наследие монстров",
+        "original_name": "Monarch: Legacy of Monsters",
+        "names": [
+          "«Монарх»: Наследие монстров",
+          "Monarch: Legacy of Monsters",
+          "«Монарх»: наследие монстров"
+        ],
+        "overview": "Пережив нападение Годзиллы на Сан-Франциско, Кейт в очередной раз потрясена шокирующей тайной. Окружённая чудовищными опасностями, она отправляется в путешествие по миру, чтобы узнать правду о своей семье и таинственной организации, известной как «Монарх».",
+        "poster_path": "/f0e9oth1BMhg6dVacrnPOc7qNrI.jpg",
+        "first_air_date": "2023-11-16",
+        "video": false,
+        "vote_average": 7.697,
+        "vote_count": 1144,
+        "popularity": 121.7595,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4836083",
+        "kp_rating": "6.5",
+        "imdb_id": "tt17220216",
+        "imdb_rating": "7.0",
+        "status": "returning series",
+        "last_air_date": "2026-04-10",
+        "seasons": {
+          "1": 10,
+          "2": 7
+        },
+        "episode": {
+          "air_date": "2026-04-09",
+          "episode_number": 7,
+          "name": "Теория струн",
+          "overview": "Шоу получает невероятный радиосигнал. Кейт и Кэйко обнаруживают древнюю связь с титаном Икс. Изабель делает деловое предложение Кэнтаро.",
+          "season_number": 2,
+          "runtime": 53,
+          "still_path": "/nTHnLodxwfTrAbz7h1vMAgW0Ei8.jpg",
+          "vote_average": 7
+        }
+      },
+      "type": "episode",
+      "hash": "s2;e7",
+      "premiere": 0
+    },
+    {
+      "id": 2627,
+      "time": 1775844512329,
+      "card_id": "270476",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+        "id": 270476,
+        "name": "Уидоус-Бэй",
+        "original_name": "Widow's Bay",
+        "overview": "Мэр города в Новой Англии решает превратить его в новый центр притяжения туристов, несмотря на предупреждения местных о том, что он проклят.",
+        "poster_path": "/7Dc2FNMcOeNO61W2rOKgJDoVJ63.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          9648
+        ],
+        "popularity": 3.8034,
+        "first_air_date": "2026-04-28",
+        "vote_average": 0,
+        "vote_count": 0,
+        "origin_country": [
+          "US"
+        ],
+        "trailer_id": "VcpYPxKeGAc",
+        "imdb_id": "tt33332385"
+      },
+      "type": "trailer",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2626,
+      "time": 1775842663121,
+      "card_id": "241609",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 241609,
+        "original_language": "en",
+        "name": "Друзья и соседи",
+        "original_name": "Your Friends & Neighbors",
+        "names": [
+          "Друзья и соседи",
+          "Друзья и Соседи",
+          "Your Friends & Neighbors",
+          "Your Friends and Neighbors"
+        ],
+        "overview": "После внезапного развода и потери работы крупный финансист начинает грабить богатых соседей, чтобы удержаться на плаву. Кражи у людей из того же социального слоя странным образом ободряют его, но постепенно он запутывается в смертоносной паутине.",
+        "poster_path": "/wr6dsSOfht23oiym1TcAlMN7R3k.jpg",
+        "first_air_date": "2025-04-10",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 183,
+        "popularity": 63.8691,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6600202",
+        "kp_rating": "7.5",
+        "imdb_id": "tt30459041",
+        "imdb_rating": "7.7",
+        "status": "returning series",
+        "last_air_date": "2026-04-10",
+        "seasons": {
+          "1": 9,
+          "2": 2
+        },
+        "episode": {
+          "air_date": "2026-04-09",
+          "episode_number": 2,
+          "name": "Эпизод 2",
+          "overview": "",
+          "season_number": 2,
+          "runtime": 53,
+          "still_path": "/kEqjEw5OtCYyeR6F5xE75K3OB65.jpg",
+          "vote_average": 0
+        }
+      },
+      "type": "episode",
+      "hash": "s2;e2",
+      "premiere": 0
+    },
+    {
+      "id": 2625,
+      "time": 1775826472288,
+      "card_id": "1288445",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
+        "id": 1288445,
+        "title": "Мятеж",
+        "original_title": "Mutiny",
+        "overview": "На глазах Коула Рида убивают его босса — промышленника-миллиардера. Рид становится главным подозреваемым и пускается в бега. Чтобы доказать свою невиновность, он должен раскрыть международный заговор.",
+        "poster_path": "/4zWwbVV31Qss578iJdVECyhMslB.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "popularity": 7.7374,
+        "release_date": "2026-08-19",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "trailer_id": "x29173yRDXw",
+        "imdb_id": "tt32338669"
+      },
+      "type": "trailer",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2624,
+      "time": 1775808492409,
+      "card_id": "1401586",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/tt2lisqeBShFbGp1pDJzZyk9SRD.jpg",
+        "id": 1401586,
+        "title": "Соник 4 в Кино",
+        "original_title": "Sonic the Hedgehog 4",
+        "overview": "Сонику и его друзьям предстоит сразиться с новым ранее невиданным врагом - Метал Соником, в этом ему поможет новый союзник ежиха Эми Роуз.",
+        "poster_path": "/t8uoHBODkFlSQJRL6qc4IclUBlH.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          28,
+          10751,
+          878
+        ],
+        "popularity": 7.0416,
+        "release_date": "2027-03-11",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "trailer_id": "YShjCIA9aXk",
+        "imdb_id": "tt16744566"
+      },
+      "type": "trailer",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2623,
+      "time": 1775806668740,
+      "card_id": "241609",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 241609,
+        "original_language": "en",
+        "name": "Друзья и соседи",
+        "original_name": "Your Friends & Neighbors",
+        "names": [
+          "Друзья и соседи",
+          "Друзья и Соседи",
+          "Your Friends & Neighbors",
+          "Your Friends and Neighbors"
+        ],
+        "overview": "После внезапного развода и потери работы крупный финансист начинает грабить богатых соседей, чтобы удержаться на плаву. Кражи у людей из того же социального слоя странным образом ободряют его, но постепенно он запутывается в смертоносной паутине.",
+        "poster_path": "/wr6dsSOfht23oiym1TcAlMN7R3k.jpg",
+        "first_air_date": "2025-04-10",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 183,
+        "popularity": 63.8691,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6600202",
+        "kp_rating": "7.5",
+        "imdb_id": "tt30459041",
+        "imdb_rating": "7.7",
+        "status": "returning series",
+        "last_air_date": "2026-04-04",
+        "seasons": {
+          "1": 9,
+          "2": 1
+        },
+        "episode": {
+          "air_date": "2026-04-02",
+          "episode_number": 1,
+          "name": "Эпизод 1",
+          "overview": "",
+          "season_number": 2,
+          "runtime": 59,
+          "still_path": "/1K8Zw52TkvObE2OqKYTtWUkdwTc.jpg",
+          "vote_average": 10
+        }
+      },
+      "type": "episode",
+      "hash": "s2;e1",
+      "premiere": 0
+    },
+    {
+      "id": 2622,
+      "time": 1775761663117,
+      "card_id": "1566740",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/leksHodmmIAyKNKoITMwEVTEUE4.jpg",
+        "genre_ids": [
+          10749
+        ],
+        "id": 1566740,
+        "original_language": "te",
+        "title": "Путешествие Ситы",
+        "original_title": "సీతా ప్రయాణం",
+        "names": [
+          "Путешествие Ситы",
+          "Seetha Payanam",
+          "సీతా ప్రయాణం"
+        ],
+        "overview": "Сита теряет мать в детстве, и её отец, Раджендра Прасад, воспитывает её с огромной любовью, став ей одновременно и матерью, и отцом. Они очень близки, но Сита всегда избегает темы замужества. Она едет из Визага в Хайдарабад по работе, где знакомится с Абхи. Во время поездки несколько неожиданных событий меняют её жизнь.",
+        "poster_path": "/fHTdiVZlS2SuZA2t8wFTedu0ZT6.jpg",
+        "release_date": "2026-02-14",
+        "video": false,
+        "vote_average": 4,
+        "vote_count": 1,
+        "popularity": 0.7884,
+        "PG": 0,
+        "release_quality": "4K",
+        "imdb_id": "tt28199950",
+        "status": "released",
+        "last_air_date": "2026-04-09",
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "Мелодрама"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2621,
+      "time": 1775754482179,
+      "card_id": "317556",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/9wYxqq5I4e6Tm2Gb1pLPpizQEvC.jpg",
+        "id": 317556,
+        "name": "Двадцать двадцать шесть",
+        "original_name": "Twenty Twenty Six",
+        "overview": "После успешного руководства Олимпиадой в Лондоне 2012 года и работы главой отдела ценностей на BBC Иан Флетчер получает новую должность директора по вопросам целостности в оргкомитете Чемпионата мира по футболу 2026 года. Самый масштабный турнир в истории, который охватит сразу три страны Северной Америки, ставит перед ним и всей командой в Майами бесконечные вызовы — от бюрократических ловушек до неожиданных кризисов. В типичном для серии ироничном псевдодокументальном стиле показывается, как даже самый опытный организатор рискует утонуть в хаосе амбициозных планов, где «что может пойти не так?» звучит как знаменитое проклятие.",
+        "poster_path": "/tOMHB1sHMf4ASjB909y7AQFuX3q.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 2.3235,
+        "first_air_date": "2026-04-08",
+        "vote_average": 0,
+        "vote_count": 0,
+        "origin_country": [
+          "GB"
+        ],
+        "trailer_id": "L4ioZpDUTfo",
+        "imdb_id": "tt37366823"
+      },
+      "type": "trailer",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2620,
+      "time": 1775752666270,
+      "card_id": "202555",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
+        "genre_ids": [
+          18,
+          10759,
+          80
+        ],
+        "id": 202555,
+        "original_language": "en",
+        "name": "Сорвиголова: Рождённый заново",
+        "original_name": "Daredevil: Born Again",
+        "names": [
+          "Сорвиголова: Рожденный заново",
+          "Сорвиголова: Рождённый Заново",
+          "Daredevil: Born Again",
+          "Сорвиголова: Рождённый заново",
+          "Daredevil: Born Again | Behind The Scenes"
+        ],
+        "overview": "Прошел год с тех пор, как Мэтт Мёрдок расстался со своим амплуа уличного мстителя. Пережив трагедию и почти потеряв веру в правое дело, он решил больше не линчевать убийц в костюме красного дьявола. Старые и новые друзья в лице Карен Пэйдж и Кирстен МакДаффи переживают за Мэтта, и последняя даже хитростью заманивает его к терапевту. Но встряхнуть Мёрдока может лишь один человек во всем Нью-Йорке, и он как раз выходит из тюрьмы. Уилсон Фиск тоже будто отошел от дел — бизнесом управляет хваткая и умная жена Ванесса. Но это не значит, что Кингпин лишен амбиций. Напротив, он не оставляет надежды сделать свой город лучше и теперь целится в мэры. Первым же делом он собирается объявить всех мстителей вне закона, и, к ужасу Мэтта, набирает сторонников. Шокированный тем, как быстро жители Адской кухни забыли о преступлениях Фиска, Мёрдок решает присматривать за своим вечным врагом. Обойдется ли он одним лишь законом в этот раз, или костюм скоро снова ему пригодится?..",
+        "poster_path": "/dCz8P4EzmcGGIaYD48HgyouWuQP.jpg",
+        "first_air_date": "2025-03-04",
+        "video": false,
+        "vote_average": 8.007,
+        "vote_count": 714,
+        "popularity": 138.3129,
+        "PG": 17,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "5060265",
+        "kp_rating": "7.3",
+        "imdb_id": "tt18923754",
+        "imdb_rating": "8.0",
+        "status": "returning series",
+        "last_air_date": "2026-04-08",
+        "seasons": {
+          "1": 9,
+          "2": 4
+        },
+        "episode": {
+          "air_date": "2026-04-07",
+          "episode_number": 4,
+          "name": "Эпизод 4",
+          "overview": "",
+          "season_number": 2,
+          "runtime": 54,
+          "still_path": "/zqnzDD8iSOomE6g1LgrPXS9Saf1.jpg",
+          "vote_average": 7.214
+        }
+      },
+      "type": "episode",
+      "hash": "s2;e4",
+      "premiere": 0
+    },
+    {
+      "id": 2619,
+      "time": 1775736373645,
+      "card_id": "1226863",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+        "genre_ids": [
+          16,
+          12,
+          14,
+          10751,
+          35
+        ],
+        "id": 1226863,
+        "original_language": "en",
+        "title": "Супер Марио: Галактическое кино",
+        "original_title": "The Super Mario Galaxy Movie",
+        "names": [
+          "Супер Марио: Галактическое кино",
+          "The Super Mario Galaxy Movie"
+        ],
+        "overview": "Сиквел анимационного хита «Братья Супер Марио в кино» возвращает любимых героев — Марио, Луиджи, Принцессу Пич и Браузера. На этот раз братьям предстоит отправиться в новые миры, встретить неожиданных союзников и противников и вновь доказать, что даже самые маленькие герои могут изменить судьбу целого королевства.",
+        "poster_path": "/3NaiRtILh0UV8e64IzTALnqT7hr.jpg",
+        "release_date": "2026-04-01",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 255,
+        "popularity": 338.5845,
+        "PG": 6,
+        "release_quality": "webdl",
+        "kinopoisk_id": "5934685",
+        "kp_rating": "6.5",
+        "imdb_id": "tt28650488",
+        "status": "released",
+        "last_air_date": "2026-04-02",
+        "countries": [
+          "Япония",
+          "США"
+        ],
+        "genres": [
+          "Семейный",
+          "Комедия",
+          "Приключения",
+          "Фэнтези",
+          "Мультфильм"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2618,
+      "time": 1775733601710,
+      "card_id": "1185806",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/mtZCXtdDxVpPPG4JxWDGOtZ40Ow.jpg",
+        "id": 1185806,
+        "title": "Щенячий патруль: Динофильм",
+        "original_title": "PAW Patrol: The Dino Movie",
+        "overview": "Щенки терпят крушение на неизведанном тропическом острове, населённом динозаврами, после того, как их корабль попадает в таинственный шторм. Они встречают Рекса - щенка, который много лет провёл на этом острове и стал экспертом во всём, что связано с динозаврами. Когда заклятый враг патруля, мэр Хамдингер, начинает безрассудную добычу полезных ископаемых в надежде эксплуатировать остров ради его природных ресурсов, он непреднамеренно вызывает извержение огромного спящего вулкана. Щенки оказываются втянуты в серию опасных спасательных операций, масштабы которых превосходят всё, что они делали раньше, ведь им нужно остановить Хамдингера, прежде чем всё на острове вымрет.",
+        "poster_path": "/9l3xIPL8Kb6ssC9GIPOslFCXL2P.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          12,
+          10751,
+          35
+        ],
+        "popularity": 5.7985,
+        "release_date": "2026-08-05",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "trailer_id": "aHw4PuLCUIc",
+        "imdb_id": "tt29356163"
+      },
+      "type": "trailer",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2617,
+      "time": 1775731790507,
+      "card_id": "226637",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/fGZH7czsIFgf291AI0RLkHnGsRY.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 226637,
+        "original_language": "en",
+        "name": "Большой потенциал",
+        "original_name": "High Potential",
+        "names": [
+          "Большой потенциал",
+          "High Potential"
+        ],
+        "overview": "История о Морган, матери-одиночке с тремя детьми, которая благодаря своему исключительному уму помогает раскрыть преступление, перераспределяя улики во время своей работы уборщицей в полицейском участке.",
+        "poster_path": "/t8v6H7JA6IcGFBKIXD75c5kQJsB.jpg",
+        "first_air_date": "2024-09-17",
+        "video": false,
+        "vote_average": 8.052,
+        "vote_count": 184,
+        "popularity": 42.4811,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "5499519",
+        "kp_rating": "7.5",
+        "imdb_id": "tt26748649",
+        "imdb_rating": "7.5",
+        "status": "returning series",
+        "last_air_date": "2026-04-08",
+        "seasons": {
+          "1": 13,
+          "2": 18
+        },
+        "episode": {
+          "air_date": "2026-04-07",
+          "episode_number": 18,
+          "name": "Эпизод 18",
+          "overview": "",
+          "season_number": 2,
+          "runtime": 43,
+          "still_path": "/iTbRWNjMzSUtpRWjNLgqNl6Wl78.jpg",
+          "vote_average": 8.3
+        }
+      },
+      "type": "episode",
+      "hash": "s2;e18",
+      "premiere": 0
+    },
+    {
+      "id": 2616,
+      "time": 1775677788953,
+      "card_id": "95557",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10765,
+          10759
+        ],
+        "id": 95557,
+        "original_language": "en",
+        "name": "НЕПОБЕДИМЫЙ",
+        "original_name": "Invincible",
+        "names": [
+          "Неуязвимый",
+          "Invincible",
+          "Невразливий",
+          "Непобедимый",
+          "Invisible",
+          "INVINCIBLE",
+          "НЕПОБЕДИМЫЙ",
+          "Invencible"
+        ],
+        "overview": "Когда в 17 лет Марк Грейсон унаследует суперспособности, он присоединяется к своему отцу, став одним из величайших героев Земли. Все его мечты исполнились - пока шокурующее событие не меняет всё.",
+        "poster_path": "/fXSjDqVMl5nEIXiCt2tbEyWKAuh.jpg",
+        "first_air_date": "2021-03-25",
+        "video": false,
+        "vote_average": 8.624,
+        "vote_count": 5475,
+        "popularity": 214.5581,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1171895",
+        "kp_rating": "8.1",
+        "imdb_id": "tt6741278",
+        "imdb_rating": "8.7",
+        "status": "returning series",
+        "last_air_date": "2026-04-08",
+        "seasons": {
+          "1": 8,
+          "2": 8,
+          "3": 8,
+          "4": 6
+        },
+        "episode": {
+          "air_date": "2026-04-08",
+          "episode_number": 6,
+          "name": "Ты ужасно выглядишь",
+          "overview": "Семейные узы подвергаются испытанию. Под давлением обстоятельств Аллен заводит нового друга.",
+          "season_number": 4,
+          "runtime": 52,
+          "still_path": "/k7Z18kQXUbVy7Q9M42qOqGhVuTs.jpg",
+          "vote_average": 6.25
+        }
+      },
+      "type": "episode",
+      "hash": "s4;e6",
+      "premiere": 0
+    },
+    {
+      "id": 2615,
+      "time": 1775659788933,
+      "card_id": "76479",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/dKSLSL6R21YntEa7HDWR8HOoSMO.jpg",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "id": 76479,
+        "original_language": "en",
+        "name": "Пацаны",
+        "original_name": "The Boys",
+        "names": [
+          "Пацаны",
+          "The Boys",
+          "Хлопці / Хлопаки"
+        ],
+        "overview": "События разворачивается в 2000-е в мире, где существуют супергерои. Именно они являются настоящими звёздами, которых все знают и обожают. Но за идеальным фасадом скрывается гораздо более мрачный мир наркотиков и секса, а большинство героев в жизни не самые приятные люди. Для контроля за супергероями ЦРУ создаёт специальный отряд, неофициально известный как «Пацаны», суровые члены которого всегда готовы поставить зазнавшегося героя на место самым жестоким способом.",
+        "poster_path": "/3NqlBDpWI83TgQ9nmeFwTVxEmtZ.jpg",
+        "first_air_date": "2019-07-25",
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 11735,
+        "popularity": 129.4874,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "460586",
+        "kp_rating": "8.3",
+        "imdb_id": "tt1190634",
+        "imdb_rating": "8.6",
+        "status": "returning series",
+        "last_air_date": "2026-04-08",
+        "seasons": {
+          "1": 8,
+          "2": 8,
+          "3": 8,
+          "4": 8,
+          "5": 2
+        },
+        "episode": {
+          "air_date": "2026-04-08",
+          "episode_number": 2,
+          "name": "Эпизод 2",
+          "overview": "",
+          "season_number": 5,
+          "runtime": 63,
+          "still_path": "/6SGsPDrZlNoMz1QLMEvkJHcksGg.jpg",
+          "vote_average": 9
+        }
+      },
+      "type": "episode",
+      "hash": "s5;e2",
+      "premiere": 0
+    },
+    {
+      "id": 2614,
+      "time": 1775587788922,
+      "card_id": "79744",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
+        "genre_ids": [
+          80,
+          18,
+          35
+        ],
+        "id": 79744,
+        "original_language": "en",
+        "name": "Новичок",
+        "original_name": "The Rookie",
+        "names": [
+          "Новичок",
+          "The Rookie",
+          "Новобранец",
+          "Новобранець"
+        ],
+        "overview": "Начинать с чистого листа всегда нелегко, особенно для уроженца маленького городка Джона Нолана, который после инцидента, перевернувшего его жизнь, решил воплотить в жизнь давнюю мечту и присоединиться к полиции Лос-Анджелеса. Возрастного новичка встречают с понятным скептицизмом, однако жизненный опыт, упорство и чувство юмора дают Джону преимущество.",
+        "poster_path": "/jfxInWjSixQeeyT7oiBvdXjd7HM.jpg",
+        "first_air_date": "2018-10-16",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 3082,
+        "popularity": 279.786,
+        "PG": 0,
+        "release_quality": "hdtv",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1142153",
+        "kp_rating": "8.4",
+        "imdb_id": "tt7587890",
+        "imdb_rating": "8.0",
+        "status": "returning series",
+        "last_air_date": "2026-04-07",
+        "seasons": {
+          "1": 20,
+          "2": 20,
+          "3": 14,
+          "4": 22,
+          "5": 22,
+          "6": 10,
+          "7": 18,
+          "8": 14
+        },
+        "episode": {
+          "air_date": "2026-04-06",
+          "episode_number": 14,
+          "name": "Эпизод 14",
+          "overview": "",
+          "season_number": 8,
+          "runtime": 43,
+          "still_path": "/29Dua8XFE15WgGGsyOFKz1701Aj.jpg",
+          "vote_average": 8.75
+        }
+      },
+      "type": "episode",
+      "hash": "s8;e14",
+      "premiere": 0
+    }
+  ],
+  "duration": 5.821311950683594
+}
