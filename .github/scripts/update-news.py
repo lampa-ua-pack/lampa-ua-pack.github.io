@@ -89,6 +89,18 @@ def localize_item(item: dict) -> dict:
                     if tmdb_info["name"] not in data_obj["names"]:
                         data_obj["names"].insert(0, tmdb_info["name"])
 
+            # --- Локалізація жанрів ---
+            if "genres" in tmdb_info and isinstance(tmdb_info["genres"], list):
+                genre_names = [g["name"] for g in tmdb_info["genres"] if "name" in g]
+                if genre_names:
+                    data_obj["genres"] = genre_names
+
+            # --- Локалізація країн виробництва ---
+            if "production_countries" in tmdb_info and isinstance(tmdb_info["production_countries"], list):
+                country_names = [c["name"] for c in tmdb_info["production_countries"] if "name" in c]
+                if country_names:
+                    data_obj["countries"] = country_names
+
         # Локалізація епізоду, якщо є
         if new_item.get("type") == "episode" and "episode" in data_obj:
             ep_data = data_obj["episode"]
@@ -150,7 +162,9 @@ def main():
     uk_data = copy.deepcopy(original_data)
     if "result" in uk_data:
         new_results = []
-        for item in uk_data["result"]:
+        total = len(uk_data["result"])
+        for idx, item in enumerate(uk_data["result"], 1):
+            print(f"🔄 Processing {idx}/{total} (card_id: {item.get('card_id')})")
             localized_item = localize_item(item)
             new_results.append(localized_item)
             time.sleep(REQUEST_DELAY)  # дотримуємось лімітів TMDb
