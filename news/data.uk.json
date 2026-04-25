@@ -2,6 +2,74 @@
   "secuses": true,
   "result": [
     {
+      "id": 2664,
+      "time": 1777126308627,
+      "card_id": "224263",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
+        "genre_ids": [
+          16,
+          10765,
+          9648,
+          10759
+        ],
+        "id": 224263,
+        "original_language": "en",
+        "name": "Дивні дива: Оповідки з 85-го",
+        "original_name": "Stranger Things: Tales from '85",
+        "names": [
+          "Дивні дива: Оповідки з 85-го",
+          "Очень странные дела: Истории из 85-го",
+          "Stranger Things: Tales from '85",
+          "Очень странные дела: Байки из 85-го"
+        ],
+        "overview": "Зима. Гокінс. 1985 рік. Знову ласкаво просимо до сповненого таємниць містечка, де улюблені герої стикаються з новими загадками... й абсолютно новими видами дивних істот.",
+        "poster_path": "/jWqt3rqGes24guxUpFAQO3X5lW.jpg",
+        "first_air_date": "2026-04-23",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "popularity": 6.9805,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6531561",
+        "imdb_id": "tt27486290",
+        "status": "in production",
+        "last_air_date": "2026-04-24",
+        "seasons": {
+          "1": 10
+        },
+        "episode": {
+          "air_date": "2026-04-23",
+          "episode_number": 10,
+          "name": "Глава 10. Відлік пішов",
+          "overview": "Час спливає, група об’єднується й відважно бореться за життя. Друзі мають допомагати друзям, адже від цього залежить майбутнє Гокінса.",
+          "season_number": 1,
+          "runtime": 28,
+          "still_path": "/ls5Ctm2zIjMlEVpItcv3JU5GLRA.jpg",
+          "vote_average": 6.2
+        },
+        "genres": [
+          "Мультфільм",
+          "Науково фантастичний",
+          "Детектив",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America",
+          "Australia"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e10",
+      "premiere": 0
+    },
+    {
       "id": 2663,
       "time": 1777107388623,
       "card_id": "241609",
@@ -727,7 +795,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/zihcg1uqGZLotlSBCzGmv125XfC.jpg",
-          "vote_average": 7.3
+          "vote_average": 7.583
         },
         "genres": [
           "Драма"
@@ -988,7 +1056,7 @@
           "season_number": 2,
           "runtime": 50,
           "still_path": "/sQTZIZGSXcI5TAbgJfhez9zyNAq.jpg",
-          "vote_average": 7.781
+          "vote_average": 7.382
         },
         "genres": [
           "Драма"
@@ -2816,82 +2884,7 @@
       "type": "episode",
       "hash": "s5;e2",
       "premiere": 0
-    },
-    {
-      "id": 2614,
-      "time": 1775587788922,
-      "card_id": "79744",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
-        "genre_ids": [
-          80,
-          18,
-          35
-        ],
-        "id": 79744,
-        "original_language": "en",
-        "name": "Новобранець",
-        "original_name": "The Rookie",
-        "names": [
-          "Новичок",
-          "The Rookie",
-          "Новобранец",
-          "Новобранець"
-        ],
-        "overview": "Починати з чистого аркуша завжди нелегко, особливо для мешканця маленького містечка Джона Нолана. Після інциденту, який перевернув його життя, він вирішив здійснити давню мрію і приєднатися до поліції Лос-Анджелеса. Старого новачка зустрічають із зрозумілим скептицизмом, проте життєвий досвід, наполегливість та почуття гумору дають Джону перевагу.",
-        "poster_path": "/rN4jJz0OquSHAzNRZGRSa018dgx.jpg",
-        "first_air_date": "2018-10-16",
-        "video": false,
-        "vote_average": 8.5,
-        "vote_count": 3082,
-        "popularity": 279.786,
-        "PG": 0,
-        "release_quality": "hdtv",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1142153",
-        "kp_rating": "8.4",
-        "imdb_id": "tt7587890",
-        "imdb_rating": "8.0",
-        "status": "returning series",
-        "last_air_date": "2026-04-07",
-        "seasons": {
-          "1": 20,
-          "2": 20,
-          "3": 14,
-          "4": 22,
-          "5": 22,
-          "6": 10,
-          "7": 18,
-          "8": 14
-        },
-        "episode": {
-          "air_date": "2026-04-06",
-          "episode_number": 14,
-          "name": "Тигроведмідь",
-          "overview": "Тривожний інцидент у школі втягує команду у складну справу, а тимчасове завдання Селіни щодо розшуку зниклих безвісти призводить її до небезпечної ситуації.",
-          "season_number": 8,
-          "runtime": 43,
-          "still_path": "/29Dua8XFE15WgGGsyOFKz1701Aj.jpg",
-          "vote_average": 8.538
-        },
-        "genres": [
-          "Кримінал",
-          "Драма",
-          "Комедія"
-        ],
-        "countries": [
-          "United States of America",
-          "Canada"
-        ]
-      },
-      "type": "episode",
-      "hash": "s8;e14",
-      "premiere": 0
     }
   ],
-  "duration": 5.821311950683594
+  "duration": 6.569862365722656
 }
