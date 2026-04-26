@@ -2,6 +2,51 @@
   "secuses": true,
   "result": [
     {
+      "id": 2665,
+      "time": 1777183911742,
+      "card_id": "936075",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+        "genre_ids": [
+          10402,
+          18
+        ],
+        "id": 936075,
+        "original_language": "en",
+        "title": "Майкл",
+        "original_title": "Michael",
+        "names": [
+          "Майкл",
+          "Michael"
+        ],
+        "overview": "Захватывающий и честный портрет гениального, но противоречивого человека, ставшего королём поп-музыки. Триумфы и трагедии его жизни — от личных испытаний и внутренней борьбы до раскрытия творческого гения, воплощённого в самых легендарных выступлениях артиста. Зрителям предстоит увидеть, как никогда прежде, внутренний мир одного из самых влиятельных и новаторских музыкантов в истории.",
+        "poster_path": "/9CD2Ck1FxsTK9pKaNsTmcB8wT9v.jpg",
+        "release_date": "2026-04-22",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 63,
+        "popularity": 79.8068,
+        "PG": 13,
+        "release_quality": "ts",
+        "kinopoisk_id": "5437614",
+        "imdb_id": "tt11378946",
+        "status": "released",
+        "last_air_date": "2026-04-24",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Музыка",
+          "Драма"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2664,
       "time": 1777126308627,
       "card_id": "224263",
@@ -2513,68 +2558,7 @@
       "type": "episode",
       "hash": "s4;e6",
       "premiere": 0
-    },
-    {
-      "id": 2615,
-      "time": 1775659788933,
-      "card_id": "76479",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/dKSLSL6R21YntEa7HDWR8HOoSMO.jpg",
-        "genre_ids": [
-          10765,
-          10759
-        ],
-        "id": 76479,
-        "original_language": "en",
-        "name": "Пацаны",
-        "original_name": "The Boys",
-        "names": [
-          "Пацаны",
-          "The Boys",
-          "Хлопці / Хлопаки"
-        ],
-        "overview": "События разворачивается в 2000-е в мире, где существуют супергерои. Именно они являются настоящими звёздами, которых все знают и обожают. Но за идеальным фасадом скрывается гораздо более мрачный мир наркотиков и секса, а большинство героев в жизни не самые приятные люди. Для контроля за супергероями ЦРУ создаёт специальный отряд, неофициально известный как «Пацаны», суровые члены которого всегда готовы поставить зазнавшегося героя на место самым жестоким способом.",
-        "poster_path": "/3NqlBDpWI83TgQ9nmeFwTVxEmtZ.jpg",
-        "first_air_date": "2019-07-25",
-        "video": false,
-        "vote_average": 8.4,
-        "vote_count": 11735,
-        "popularity": 129.4874,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "460586",
-        "kp_rating": "8.3",
-        "imdb_id": "tt1190634",
-        "imdb_rating": "8.6",
-        "status": "returning series",
-        "last_air_date": "2026-04-08",
-        "seasons": {
-          "1": 8,
-          "2": 8,
-          "3": 8,
-          "4": 8,
-          "5": 2
-        },
-        "episode": {
-          "air_date": "2026-04-08",
-          "episode_number": 2,
-          "name": "Эпизод 2",
-          "overview": "",
-          "season_number": 5,
-          "runtime": 63,
-          "still_path": "/6SGsPDrZlNoMz1QLMEvkJHcksGg.jpg",
-          "vote_average": 9
-        }
-      },
-      "type": "episode",
-      "hash": "s5;e2",
-      "premiere": 0
     }
   ],
-  "duration": 6.569862365722656
+  "duration": 8.552459716796875
 }

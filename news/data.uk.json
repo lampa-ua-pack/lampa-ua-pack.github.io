@@ -2,6 +2,51 @@
   "secuses": true,
   "result": [
     {
+      "id": 2665,
+      "time": 1777183911742,
+      "card_id": "936075",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+        "genre_ids": [
+          10402,
+          18
+        ],
+        "id": 936075,
+        "original_language": "en",
+        "title": "Майкл",
+        "original_title": "Michael",
+        "names": [
+          "Майкл",
+          "Michael"
+        ],
+        "overview": "«Майкл» — це кінематографічне зображення життя і спадщини одного з найвпливовіших артистів історії. Фільм розповідає історію Майкла Джексона поза межами музики — шлях від відкриття його виняткового таланту як фронтмена The Jackson Five до становлення візіонера, чия творча амбіція підживлювала невтомне прагнення стати найбільшим артистом світу. Стрічка висвітлює як життя Джексона поза сценою, так і його найзнаковіші виступи з початку сольної кар’єри, даруючи глядачам місце в першому ряду, щоб побачити Майкла таким, яким його ще не бачили. Саме тут починається його історія.",
+        "poster_path": "/pRKvnxCC2xvmchsz5VwnU64NrJf.jpg",
+        "release_date": "2026-04-22",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 63,
+        "popularity": 79.8068,
+        "PG": 13,
+        "release_quality": "ts",
+        "kinopoisk_id": "5437614",
+        "imdb_id": "tt11378946",
+        "status": "released",
+        "last_air_date": "2026-04-24",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Музика",
+          "Драма"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2664,
       "time": 1777126308627,
       "card_id": "224263",
@@ -122,7 +167,7 @@
           "season_number": 2,
           "runtime": 57,
           "still_path": "/aWimIbgbIo0bxhP1sN9cgK6WfSU.jpg",
-          "vote_average": 9.0
+          "vote_average": 8.25
         },
         "genres": [
           "Драма",
@@ -173,7 +218,8 @@
         "last_air_date": "2026-04-24",
         "countries": [
           "United States of America",
-          "Iceland"
+          "Iceland",
+          "Australia"
         ],
         "genres": [
           "Трилер",
@@ -237,7 +283,7 @@
           "season_number": 2,
           "runtime": 44,
           "still_path": "/uktOfZpCC4hNSBJZ9rpZf9wFZHo.jpg",
-          "vote_average": 7.0
+          "vote_average": 8.2
         },
         "genres": [
           "Науково фантастичний",
@@ -307,7 +353,7 @@
           "season_number": 2,
           "runtime": 52,
           "still_path": "/lbuiEvKOaQEw4mG880gsdg8GKvr.jpg",
-          "vote_average": 9.083
+          "vote_average": 9.036
         },
         "genres": [
           "Драма",
@@ -377,7 +423,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.558
+          "vote_average": 7.661
         },
         "genres": [
           "Науково фантастичний",
@@ -452,7 +498,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/a103TuPbdItnmw4d4yDFQngJywu.jpg",
-          "vote_average": 7.857
+          "vote_average": 7.588
         },
         "genres": [
           "Мультфільм",
@@ -576,7 +622,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/gheN0HmOUZAag4N38HascquineZ.jpg",
-          "vote_average": 9.5
+          "vote_average": 9.559
         },
         "genres": [
           "Кримінал",
@@ -599,7 +645,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/GN2KFXiHPVV6sIw4v2P2pqCJty.jpg",
+        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
         "genre_ids": [
           18
         ],
@@ -751,7 +797,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/GN2KFXiHPVV6sIw4v2P2pqCJty.jpg",
+        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
         "genre_ids": [
           18
         ],
@@ -795,7 +841,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/zihcg1uqGZLotlSBCzGmv125XfC.jpg",
-          "vote_average": 7.583
+          "vote_average": 7.6
         },
         "genres": [
           "Драма"
@@ -816,7 +862,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
+        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
         "genre_ids": [
           9648,
           18,
@@ -863,8 +909,8 @@
           "overview": "Новий мешканець занурює місто в хаос. Джейд і Табіта намагаються змиритися зі своїм відкриттям біля «Дерева пляшок». Бойд намагається збагнути наслідки повернення Смайлі.",
           "season_number": 4,
           "runtime": 54,
-          "still_path": "/ysFWXqB5yGUQ9j7vbsOtXe6cZ7z.jpg",
-          "vote_average": 7.278
+          "still_path": "/vW5LTVntIb4YjSlAzhmpsCfig7z.jpg",
+          "vote_average": 7.0
         },
         "genres": [
           "Детектив",
@@ -1056,7 +1102,7 @@
           "season_number": 2,
           "runtime": 50,
           "still_path": "/sQTZIZGSXcI5TAbgJfhez9zyNAq.jpg",
-          "vote_average": 7.382
+          "vote_average": 7.528
         },
         "genres": [
           "Драма"
@@ -1418,7 +1464,7 @@
           "season_number": 2,
           "runtime": 53,
           "still_path": "/3LwlF3zBobR6QuEIDh2D71KsCq6.jpg",
-          "vote_average": 8.067
+          "vote_average": 8.1
         },
         "genres": [
           "Драма",
@@ -1494,7 +1540,7 @@
           "season_number": 4,
           "runtime": 54,
           "still_path": "/vEyYNzrfpLCefYhILeUmdBcLp0M.jpg",
-          "vote_average": 8.357
+          "vote_average": 8.432
         },
         "genres": [
           "Мультфільм",
@@ -1639,7 +1685,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/jNtElnMNH3i2L45noWugZXat8Tb.jpg",
-          "vote_average": 6.0
+          "vote_average": 6.1
         },
         "genres": [
           "Кримінал",
@@ -1700,7 +1746,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/GN2KFXiHPVV6sIw4v2P2pqCJty.jpg",
+        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
         "genre_ids": [
           18
         ],
@@ -2147,7 +2193,7 @@
           "season_number": 2,
           "runtime": 53,
           "still_path": "/nTHnLodxwfTrAbz7h1vMAgW0Ei8.jpg",
-          "vote_average": 7.7
+          "vote_average": 7.571
         },
         "genres": [
           "Науково фантастичний",
@@ -2798,8 +2844,8 @@
           "overview": "Семейные узы подвергаются испытанию. Под давлением обстоятельств Аллен заводит нового друга.",
           "season_number": 4,
           "runtime": 53,
-          "still_path": "/k7Z18kQXUbVy7Q9M42qOqGhVuTs.jpg",
-          "vote_average": 8.229
+          "still_path": "/mzWpAJk487mL9usmcRUd9b0axf4.jpg",
+          "vote_average": 8.25
         },
         "genres": [
           "Мультфільм",
@@ -2815,76 +2861,7 @@
       "type": "episode",
       "hash": "s4;e6",
       "premiere": 0
-    },
-    {
-      "id": 2615,
-      "time": 1775659788933,
-      "card_id": "76479",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-        "genre_ids": [
-          10765,
-          10759
-        ],
-        "id": 76479,
-        "original_language": "en",
-        "name": "Хлопаки",
-        "original_name": "The Boys",
-        "names": [
-          "Хлопаки",
-          "Пацаны",
-          "The Boys",
-          "Хлопці / Хлопаки"
-        ],
-        "overview": "Події розгортаються в альтернативному світі, де супергерої є звичним явищем. Вони щоденно по кілька разів рятують світ, знімаються у фільмах і стають обличчями рекламних кампаній відомих брендів. Втім, є і зворотня сторона медалі: кожен день тисячі людей страждають від дій супергероїв, для яких людське життя насправді не коштує зовсім нічого. Але є невеличка групка відчайдухів, яких такий стан справ не влаштовує, вони мають мету – покарати знахабнілих надлюдей та вивести їх на чисту воду…",
-        "poster_path": "/iNKkWK11okzbenMvJY87aOHNfll.jpg",
-        "first_air_date": "2019-07-25",
-        "video": false,
-        "vote_average": 8.4,
-        "vote_count": 11735,
-        "popularity": 129.4874,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "460586",
-        "kp_rating": "8.3",
-        "imdb_id": "tt1190634",
-        "imdb_rating": "8.6",
-        "status": "returning series",
-        "last_air_date": "2026-04-08",
-        "seasons": {
-          "1": 8,
-          "2": 8,
-          "3": 8,
-          "4": 8,
-          "5": 2
-        },
-        "episode": {
-          "air_date": "2026-04-08",
-          "episode_number": 2,
-          "name": "Підлітки Кікс",
-          "overview": "Сьогодні о 21:00/20:00 за центральним часом спеціальний репортаж на @VoughtNews: Чи є ваша близька людина таємним терористом-зорянцем?",
-          "season_number": 5,
-          "runtime": 63,
-          "still_path": "/6SGsPDrZlNoMz1QLMEvkJHcksGg.jpg",
-          "vote_average": 7.545
-        },
-        "genres": [
-          "Науково фантастичний",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s5;e2",
-      "premiere": 0
     }
   ],
-  "duration": 6.569862365722656
+  "duration": 8.552459716796875
 }
