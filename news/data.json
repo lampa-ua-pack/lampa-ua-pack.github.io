@@ -2,6 +2,113 @@
   "secuses": true,
   "result": [
     {
+      "id": 2667,
+      "time": 1777270306655,
+      "card_id": "124364",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "id": 124364,
+        "original_language": "en",
+        "name": "Извне",
+        "original_name": "FROM",
+        "names": [
+          "Извне",
+          "From",
+          "Ззовні",
+          "FROM"
+        ],
+        "overview": "Затерянный в лесу американский городок пленяет каждого, кому не посчастливилось проехать его по пути — покинуть это место оказывается буквально невозможно. Днем невольные жители пытаются выстроить подобие нормального быта и найти способ выбраться, а по ночам спасаются от пугающих обитателей леса, которые приходят навестить горожан, как только заходит солнце.",
+        "poster_path": "/dFJ8exnjJoEfTlHoR58L4OlTSEu.jpg",
+        "first_air_date": "2022-02-20",
+        "video": false,
+        "vote_average": 8.171,
+        "vote_count": 2627,
+        "popularity": 644.1358,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4476885",
+        "kp_rating": "7.6",
+        "imdb_id": "tt9813792",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-04-26",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 2
+        },
+        "episode": {
+          "air_date": "2026-04-26",
+          "episode_number": 2,
+          "name": "Эпизод 2",
+          "overview": "",
+          "season_number": 4,
+          "runtime": 54,
+          "still_path": "/4LNl4W9ARO2a843SgE3XMj1uOn9.jpg",
+          "vote_average": 5
+        }
+      },
+      "type": "episode",
+      "hash": "s4;e2",
+      "premiere": 0
+    },
+    {
+      "id": 2666,
+      "time": 1777223506629,
+      "card_id": "1269644",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/agiw674fCB712joCGQFCPzd3nSp.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1269644,
+        "original_language": "de",
+        "title": "Амрум",
+        "original_title": "Amrum",
+        "names": [
+          "Амрум",
+          "Amrum"
+        ],
+        "overview": "Остров Амрум, весна 1945 года. В последние дни войны 12-летний Наннинг, сын убеждённой нацистки и офицера СС, охотится на тюленей в коварном море, рыбачит по ночам и работает на соседней ферме, чтобы помочь матери прокормить семью. Несмотря на тяготы, жизнь на прекрасном, продуваемом всеми ветрами острове кажется ему раем. Но когда наконец наступает мир, и власти нацистов приходит конец, он обнаруживает, что враг находится гораздо ближе, чем он мог себе представить.",
+        "poster_path": "/veKogeWV5xVrg41HrLCspiwHNDy.jpg",
+        "release_date": "2025-10-09",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 52,
+        "popularity": 2.0555,
+        "PG": 12,
+        "release_quality": "bdrip",
+        "kinopoisk_id": "7605812",
+        "imdb_id": "tt22507216",
+        "imdb_rating": "7.2",
+        "status": "released",
+        "last_air_date": "2026-04-26",
+        "countries": [
+          "Германия",
+          "Бельгия"
+        ],
+        "genres": [
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2665,
       "time": 1777183911742,
       "card_id": "936075",
@@ -2434,131 +2541,7 @@
       "type": "trailer",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2617,
-      "time": 1775731790507,
-      "card_id": "226637",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/fGZH7czsIFgf291AI0RLkHnGsRY.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 226637,
-        "original_language": "en",
-        "name": "Большой потенциал",
-        "original_name": "High Potential",
-        "names": [
-          "Большой потенциал",
-          "High Potential"
-        ],
-        "overview": "История о Морган, матери-одиночке с тремя детьми, которая благодаря своему исключительному уму помогает раскрыть преступление, перераспределяя улики во время своей работы уборщицей в полицейском участке.",
-        "poster_path": "/t8v6H7JA6IcGFBKIXD75c5kQJsB.jpg",
-        "first_air_date": "2024-09-17",
-        "video": false,
-        "vote_average": 8.052,
-        "vote_count": 184,
-        "popularity": 42.4811,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "5499519",
-        "kp_rating": "7.5",
-        "imdb_id": "tt26748649",
-        "imdb_rating": "7.5",
-        "status": "returning series",
-        "last_air_date": "2026-04-08",
-        "seasons": {
-          "1": 13,
-          "2": 18
-        },
-        "episode": {
-          "air_date": "2026-04-07",
-          "episode_number": 18,
-          "name": "Эпизод 18",
-          "overview": "",
-          "season_number": 2,
-          "runtime": 43,
-          "still_path": "/iTbRWNjMzSUtpRWjNLgqNl6Wl78.jpg",
-          "vote_average": 8.3
-        }
-      },
-      "type": "episode",
-      "hash": "s2;e18",
-      "premiere": 0
-    },
-    {
-      "id": 2616,
-      "time": 1775677788953,
-      "card_id": "95557",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
-        "genre_ids": [
-          16,
-          18,
-          10765,
-          10759
-        ],
-        "id": 95557,
-        "original_language": "en",
-        "name": "НЕПОБЕДИМЫЙ",
-        "original_name": "Invincible",
-        "names": [
-          "Неуязвимый",
-          "Invincible",
-          "Невразливий",
-          "Непобедимый",
-          "Invisible",
-          "INVINCIBLE",
-          "НЕПОБЕДИМЫЙ",
-          "Invencible"
-        ],
-        "overview": "Когда в 17 лет Марк Грейсон унаследует суперспособности, он присоединяется к своему отцу, став одним из величайших героев Земли. Все его мечты исполнились - пока шокурующее событие не меняет всё.",
-        "poster_path": "/fXSjDqVMl5nEIXiCt2tbEyWKAuh.jpg",
-        "first_air_date": "2021-03-25",
-        "video": false,
-        "vote_average": 8.624,
-        "vote_count": 5475,
-        "popularity": 214.5581,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1171895",
-        "kp_rating": "8.1",
-        "imdb_id": "tt6741278",
-        "imdb_rating": "8.7",
-        "status": "returning series",
-        "last_air_date": "2026-04-08",
-        "seasons": {
-          "1": 8,
-          "2": 8,
-          "3": 8,
-          "4": 6
-        },
-        "episode": {
-          "air_date": "2026-04-08",
-          "episode_number": 6,
-          "name": "Ты ужасно выглядишь",
-          "overview": "Семейные узы подвергаются испытанию. Под давлением обстоятельств Аллен заводит нового друга.",
-          "season_number": 4,
-          "runtime": 52,
-          "still_path": "/k7Z18kQXUbVy7Q9M42qOqGhVuTs.jpg",
-          "vote_average": 6.25
-        }
-      },
-      "type": "episode",
-      "hash": "s4;e6",
-      "premiere": 0
     }
   ],
-  "duration": 8.552459716796875
+  "duration": 5.529731750488281
 }
