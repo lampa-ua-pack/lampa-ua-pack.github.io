@@ -2,6 +2,268 @@
   "secuses": true,
   "result": [
     {
+      "id": 2672,
+      "time": 1777392357025,
+      "card_id": "1659087",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
+        "genre_ids": [
+          53,
+          80,
+          18
+        ],
+        "id": 1659087,
+        "original_language": "en",
+        "title": "180",
+        "original_title": "180",
+        "names": [
+          "180",
+          "180 / One Hundred Eighty"
+        ],
+        "overview": "Случайная разборка на дороге приводит к тому, что ехавший с отцом мальчик оказывается в критическом состоянии. Отца обуревают эмоции, он впадает в ярость и жаждет мести.",
+        "poster_path": "/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
+        "release_date": "2026-04-16",
+        "video": false,
+        "vote_average": 5.615,
+        "vote_count": 65,
+        "popularity": 58.7303,
+        "PG": 16,
+        "release_quality": "4K",
+        "kinopoisk_id": "12060707",
+        "imdb_id": "tt40891145",
+        "imdb_rating": "4.6",
+        "status": "released",
+        "last_air_date": "2026-04-19",
+        "countries": [
+          "ЮАР"
+        ],
+        "genres": [
+          "Триллер",
+          "Криминал",
+          "Драма"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2671,
+      "time": 1777383357925,
+      "card_id": "56570",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "id": 56570,
+        "original_language": "en",
+        "name": "Чужестранка",
+        "original_name": "Outlander",
+        "names": [
+          "Чужестранка",
+          "Outlander",
+          "Чужоземка"
+        ],
+        "overview": "Клэр, работавшая медсестрой во время Второй мировой войны, случайно перемещается во времени и попадает в 1743 год. В этом мире, полном приключений, она знакомится с шотландским рыцарем Джейми. У героев завязывается страстный роман, несмотря на то, что сердце Клэр разрывается между двумя мужчинами — Джейми и ее мужем Фрэнком, который остался в другом времени.",
+        "poster_path": "/5HdUN4MvDegqDNLAjJDTjFRWfVR.jpg",
+        "first_air_date": "2014-08-09",
+        "video": false,
+        "vote_average": 8.174,
+        "vote_count": 2810,
+        "popularity": 110.9174,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "818284",
+        "kp_rating": "8.0",
+        "imdb_id": "tt3006802",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-04-26",
+        "seasons": {
+          "1": 16,
+          "2": 13,
+          "3": 13,
+          "4": 13,
+          "5": 12,
+          "6": 8,
+          "7": 16,
+          "8": 8
+        },
+        "episode": {
+          "air_date": "2026-04-24",
+          "episode_number": 8,
+          "name": "Эпизод 8",
+          "overview": "",
+          "season_number": 8,
+          "runtime": 57,
+          "still_path": "/7kV1B7heWuXf5iaGoO4XijWqtiH.jpg",
+          "vote_average": 9
+        }
+      },
+      "type": "episode",
+      "hash": "s8;e8",
+      "premiere": 0
+    },
+    {
+      "id": 2670,
+      "time": 1777372557028,
+      "card_id": "1422404",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/1uKSxvt2gt4wtP1HY1ySLVFDCl9.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1422404,
+        "original_language": "ja",
+        "title": "Токийское такси",
+        "original_title": "TOKYOタクシー",
+        "names": [
+          "Токийское такси",
+          "Tokyo Taxi",
+          "TOKYOタクシー"
+        ],
+        "overview": "Кодзи Усами зарабатывает на жизнь работой в такси. Однажды он получает заказ отвезти 85-летнюю Сумирэ Такано в дом престарелых. По дороге Такано просит сделать несколько остановок, постепенно открывая для Усами своё прошлое, а сама поездка меняет жизни и пассажира, и водителя.",
+        "poster_path": "/iJHARu7sCkQy419txqTwKCgQQWQ.jpg",
+        "release_date": "2025-11-21",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 10,
+        "popularity": 2.5425,
+        "PG": 0,
+        "release_quality": "webdl",
+        "kinopoisk_id": "8055144",
+        "imdb_id": "tt35521394",
+        "imdb_rating": "7.3",
+        "status": "released",
+        "last_air_date": "2026-04-25",
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2669,
+      "time": 1777356361800,
+      "card_id": "1561758",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/8PK61ixYoSX3kXWyCMH4ats79k4.jpg",
+        "genre_ids": [
+          10749,
+          35
+        ],
+        "id": 1561758,
+        "original_language": "pl",
+        "title": "Все за одного",
+        "original_title": "Podlasie",
+        "names": [
+          "Все за одного",
+          "It Takes a Village",
+          "Podlasie - Wszyscy za jedną",
+          "Podlasie"
+        ],
+        "overview": "Когда финансовые проблемы вынуждают Халину отменить свадьбу, друзья и семья решают провернуть безумный план, чтобы привлечь деньги туристов.",
+        "poster_path": "/eMkP9MeWuG1bocdIUkvqM6yImjD.jpg",
+        "release_date": "2026-04-01",
+        "video": false,
+        "vote_average": 4.722,
+        "vote_count": 10,
+        "popularity": 3.7914,
+        "PG": 13,
+        "release_quality": "4K",
+        "kinopoisk_id": "11857507",
+        "imdb_id": "tt38681815",
+        "status": "released",
+        "last_air_date": "2026-04-04",
+        "countries": [
+          "Польша"
+        ],
+        "genres": [
+          "Мелодрама",
+          "Комедия"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2668,
+      "time": 1777311355892,
+      "card_id": "85552",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 85552,
+        "original_language": "en",
+        "name": "Эйфория",
+        "original_name": "Euphoria",
+        "names": [
+          "Эйфория",
+          "Euphoria",
+          "Ейфорія"
+        ],
+        "overview": "17-летняя Ру Беннетт возвращается домой после лечения в реабилитационной клинике. Не имея ни малейшего желания завязывать с наркотиками, она немедленно берётся за старое. На вечеринке Ру обращает внимание на недавно приехавшую в их пригород ровесницу Джулс, и это знакомство становится началом большой дружбы.",
+        "poster_path": "/yJz0VPfztciUt8cYulEOnk7wQhs.jpg",
+        "first_air_date": "2019-06-16",
+        "video": false,
+        "vote_average": 8.281,
+        "vote_count": 10441,
+        "popularity": 301.9964,
+        "PG": 18,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1178445",
+        "kp_rating": "7.5",
+        "imdb_id": "tt8772296",
+        "imdb_rating": "8.2",
+        "status": "returning series",
+        "last_air_date": "2026-04-27",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 3
+        },
+        "episode": {
+          "air_date": "2026-04-26",
+          "episode_number": 3,
+          "name": "Эпизод 3",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 59,
+          "still_path": "/pjzzBxorSBsEkvVsISvIuP8aVaa.jpg",
+          "vote_average": 7
+        }
+      },
+      "type": "episode",
+      "hash": "s3;e3",
+      "premiere": 0
+    },
+    {
       "id": 2667,
       "time": 1777270306655,
       "card_id": "124364",
@@ -2319,229 +2581,7 @@
       "type": "episode",
       "hash": "s2;e1",
       "premiere": 0
-    },
-    {
-      "id": 2622,
-      "time": 1775761663117,
-      "card_id": "1566740",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/leksHodmmIAyKNKoITMwEVTEUE4.jpg",
-        "genre_ids": [
-          10749
-        ],
-        "id": 1566740,
-        "original_language": "te",
-        "title": "Путешествие Ситы",
-        "original_title": "సీతా ప్రయాణం",
-        "names": [
-          "Путешествие Ситы",
-          "Seetha Payanam",
-          "సీతా ప్రయాణం"
-        ],
-        "overview": "Сита теряет мать в детстве, и её отец, Раджендра Прасад, воспитывает её с огромной любовью, став ей одновременно и матерью, и отцом. Они очень близки, но Сита всегда избегает темы замужества. Она едет из Визага в Хайдарабад по работе, где знакомится с Абхи. Во время поездки несколько неожиданных событий меняют её жизнь.",
-        "poster_path": "/fHTdiVZlS2SuZA2t8wFTedu0ZT6.jpg",
-        "release_date": "2026-02-14",
-        "video": false,
-        "vote_average": 4,
-        "vote_count": 1,
-        "popularity": 0.7884,
-        "PG": 0,
-        "release_quality": "4K",
-        "imdb_id": "tt28199950",
-        "status": "released",
-        "last_air_date": "2026-04-09",
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "Мелодрама"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2621,
-      "time": 1775754482179,
-      "card_id": "317556",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/9wYxqq5I4e6Tm2Gb1pLPpizQEvC.jpg",
-        "id": 317556,
-        "name": "Двадцать двадцать шесть",
-        "original_name": "Twenty Twenty Six",
-        "overview": "После успешного руководства Олимпиадой в Лондоне 2012 года и работы главой отдела ценностей на BBC Иан Флетчер получает новую должность директора по вопросам целостности в оргкомитете Чемпионата мира по футболу 2026 года. Самый масштабный турнир в истории, который охватит сразу три страны Северной Америки, ставит перед ним и всей командой в Майами бесконечные вызовы — от бюрократических ловушек до неожиданных кризисов. В типичном для серии ироничном псевдодокументальном стиле показывается, как даже самый опытный организатор рискует утонуть в хаосе амбициозных планов, где «что может пойти не так?» звучит как знаменитое проклятие.",
-        "poster_path": "/tOMHB1sHMf4ASjB909y7AQFuX3q.jpg",
-        "media_type": "tv",
-        "original_language": "en",
-        "genre_ids": [
-          35
-        ],
-        "popularity": 2.3235,
-        "first_air_date": "2026-04-08",
-        "vote_average": 0,
-        "vote_count": 0,
-        "origin_country": [
-          "GB"
-        ],
-        "trailer_id": "L4ioZpDUTfo",
-        "imdb_id": "tt37366823"
-      },
-      "type": "trailer",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2620,
-      "time": 1775752666270,
-      "card_id": "202555",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
-        "genre_ids": [
-          18,
-          10759,
-          80
-        ],
-        "id": 202555,
-        "original_language": "en",
-        "name": "Сорвиголова: Рождённый заново",
-        "original_name": "Daredevil: Born Again",
-        "names": [
-          "Сорвиголова: Рожденный заново",
-          "Сорвиголова: Рождённый Заново",
-          "Daredevil: Born Again",
-          "Сорвиголова: Рождённый заново",
-          "Daredevil: Born Again | Behind The Scenes"
-        ],
-        "overview": "Прошел год с тех пор, как Мэтт Мёрдок расстался со своим амплуа уличного мстителя. Пережив трагедию и почти потеряв веру в правое дело, он решил больше не линчевать убийц в костюме красного дьявола. Старые и новые друзья в лице Карен Пэйдж и Кирстен МакДаффи переживают за Мэтта, и последняя даже хитростью заманивает его к терапевту. Но встряхнуть Мёрдока может лишь один человек во всем Нью-Йорке, и он как раз выходит из тюрьмы. Уилсон Фиск тоже будто отошел от дел — бизнесом управляет хваткая и умная жена Ванесса. Но это не значит, что Кингпин лишен амбиций. Напротив, он не оставляет надежды сделать свой город лучше и теперь целится в мэры. Первым же делом он собирается объявить всех мстителей вне закона, и, к ужасу Мэтта, набирает сторонников. Шокированный тем, как быстро жители Адской кухни забыли о преступлениях Фиска, Мёрдок решает присматривать за своим вечным врагом. Обойдется ли он одним лишь законом в этот раз, или костюм скоро снова ему пригодится?..",
-        "poster_path": "/dCz8P4EzmcGGIaYD48HgyouWuQP.jpg",
-        "first_air_date": "2025-03-04",
-        "video": false,
-        "vote_average": 8.007,
-        "vote_count": 714,
-        "popularity": 138.3129,
-        "PG": 17,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "5060265",
-        "kp_rating": "7.3",
-        "imdb_id": "tt18923754",
-        "imdb_rating": "8.0",
-        "status": "returning series",
-        "last_air_date": "2026-04-08",
-        "seasons": {
-          "1": 9,
-          "2": 4
-        },
-        "episode": {
-          "air_date": "2026-04-07",
-          "episode_number": 4,
-          "name": "Эпизод 4",
-          "overview": "",
-          "season_number": 2,
-          "runtime": 54,
-          "still_path": "/zqnzDD8iSOomE6g1LgrPXS9Saf1.jpg",
-          "vote_average": 7.214
-        }
-      },
-      "type": "episode",
-      "hash": "s2;e4",
-      "premiere": 0
-    },
-    {
-      "id": 2619,
-      "time": 1775736373645,
-      "card_id": "1226863",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
-        "genre_ids": [
-          16,
-          12,
-          14,
-          10751,
-          35
-        ],
-        "id": 1226863,
-        "original_language": "en",
-        "title": "Супер Марио: Галактическое кино",
-        "original_title": "The Super Mario Galaxy Movie",
-        "names": [
-          "Супер Марио: Галактическое кино",
-          "The Super Mario Galaxy Movie"
-        ],
-        "overview": "Сиквел анимационного хита «Братья Супер Марио в кино» возвращает любимых героев — Марио, Луиджи, Принцессу Пич и Браузера. На этот раз братьям предстоит отправиться в новые миры, встретить неожиданных союзников и противников и вновь доказать, что даже самые маленькие герои могут изменить судьбу целого королевства.",
-        "poster_path": "/3NaiRtILh0UV8e64IzTALnqT7hr.jpg",
-        "release_date": "2026-04-01",
-        "video": false,
-        "vote_average": 7,
-        "vote_count": 255,
-        "popularity": 338.5845,
-        "PG": 6,
-        "release_quality": "webdl",
-        "kinopoisk_id": "5934685",
-        "kp_rating": "6.5",
-        "imdb_id": "tt28650488",
-        "status": "released",
-        "last_air_date": "2026-04-02",
-        "countries": [
-          "Япония",
-          "США"
-        ],
-        "genres": [
-          "Семейный",
-          "Комедия",
-          "Приключения",
-          "Фэнтези",
-          "Мультфильм"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2618,
-      "time": 1775733601710,
-      "card_id": "1185806",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/mtZCXtdDxVpPPG4JxWDGOtZ40Ow.jpg",
-        "id": 1185806,
-        "title": "Щенячий патруль: Динофильм",
-        "original_title": "PAW Patrol: The Dino Movie",
-        "overview": "Щенки терпят крушение на неизведанном тропическом острове, населённом динозаврами, после того, как их корабль попадает в таинственный шторм. Они встречают Рекса - щенка, который много лет провёл на этом острове и стал экспертом во всём, что связано с динозаврами. Когда заклятый враг патруля, мэр Хамдингер, начинает безрассудную добычу полезных ископаемых в надежде эксплуатировать остров ради его природных ресурсов, он непреднамеренно вызывает извержение огромного спящего вулкана. Щенки оказываются втянуты в серию опасных спасательных операций, масштабы которых превосходят всё, что они делали раньше, ведь им нужно остановить Хамдингера, прежде чем всё на острове вымрет.",
-        "poster_path": "/9l3xIPL8Kb6ssC9GIPOslFCXL2P.jpg",
-        "media_type": "movie",
-        "original_language": "en",
-        "genre_ids": [
-          16,
-          12,
-          10751,
-          35
-        ],
-        "popularity": 5.7985,
-        "release_date": "2026-08-05",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "trailer_id": "aHw4PuLCUIc",
-        "imdb_id": "tt29356163"
-      },
-      "type": "trailer",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 5.529731750488281
+  "duration": 6.319267272949219
 }

@@ -2,6 +2,284 @@
   "secuses": true,
   "result": [
     {
+      "id": 2672,
+      "time": 1777392357025,
+      "card_id": "1659087",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
+        "genre_ids": [
+          53,
+          80,
+          18
+        ],
+        "id": 1659087,
+        "original_language": "en",
+        "title": "180",
+        "original_title": "180",
+        "names": [
+          "180",
+          "180 / One Hundred Eighty"
+        ],
+        "overview": "Після того, як його син опиняється в тяжкому стані внаслідок інциденту з агресією на дорозі, розлючений батько під впливом емоцій обирає похмурий шлях до помсти.",
+        "poster_path": "/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
+        "release_date": "2026-04-16",
+        "video": false,
+        "vote_average": 5.615,
+        "vote_count": 65,
+        "popularity": 58.7303,
+        "PG": 16,
+        "release_quality": "4K",
+        "kinopoisk_id": "12060707",
+        "imdb_id": "tt40891145",
+        "imdb_rating": "4.6",
+        "status": "released",
+        "last_air_date": "2026-04-19",
+        "countries": [
+          "South Africa"
+        ],
+        "genres": [
+          "Трилер",
+          "Кримінал",
+          "Драма"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2671,
+      "time": 1777383357925,
+      "card_id": "56570",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "id": 56570,
+        "original_language": "en",
+        "name": "Чужоземка",
+        "original_name": "Outlander",
+        "names": [
+          "Чужестранка",
+          "Outlander",
+          "Чужоземка"
+        ],
+        "overview": "Клер, яка працювала медсестрою під час Другої світової війни, випадково переміщається в часі і потрапляє в 1743 рік. У цьому світі, повному пригод, вона знайомиться з шотландським лицарем Джеймі. У героїв зав'язується пристрасний роман, незважаючи на те, що серце Клер розривається між двома чоловіками - Джеймі і її чоловіком Френком, який залишився в іншому часі.",
+        "poster_path": "/tZuKy6RWPQKgyOtx8XWxpdzfQME.jpg",
+        "first_air_date": "2014-08-09",
+        "video": false,
+        "vote_average": 8.174,
+        "vote_count": 2810,
+        "popularity": 110.9174,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "818284",
+        "kp_rating": "8.0",
+        "imdb_id": "tt3006802",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-04-26",
+        "seasons": {
+          "1": 16,
+          "2": 13,
+          "3": 13,
+          "4": 13,
+          "5": 12,
+          "6": 8,
+          "7": 16,
+          "8": 8
+        },
+        "episode": {
+          "air_date": "2026-04-24",
+          "episode_number": 8,
+          "name": "Серія 8",
+          "overview": "",
+          "season_number": 8,
+          "runtime": 57,
+          "still_path": "/7kV1B7heWuXf5iaGoO4XijWqtiH.jpg",
+          "vote_average": 9.0
+        },
+        "genres": [
+          "Драма",
+          "Науково фантастичний"
+        ],
+        "countries": [
+          "United Kingdom",
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s8;e8",
+      "premiere": 0
+    },
+    {
+      "id": 2670,
+      "time": 1777372557028,
+      "card_id": "1422404",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/1uKSxvt2gt4wtP1HY1ySLVFDCl9.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1422404,
+        "original_language": "ja",
+        "title": "TOKYOタクシー",
+        "original_title": "TOKYOタクシー",
+        "names": [
+          "Токийское такси",
+          "Tokyo Taxi",
+          "TOKYOタクシー"
+        ],
+        "overview": "Кодзи Усами зарабатывает на жизнь работой в такси. Однажды он получает заказ отвезти 85-летнюю Сумирэ Такано в дом престарелых. По дороге Такано просит сделать несколько остановок, постепенно открывая для Усами своё прошлое, а сама поездка меняет жизни и пассажира, и водителя.",
+        "poster_path": "/iJHARu7sCkQy419txqTwKCgQQWQ.jpg",
+        "release_date": "2025-11-21",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 10,
+        "popularity": 2.5425,
+        "PG": 0,
+        "release_quality": "webdl",
+        "kinopoisk_id": "8055144",
+        "imdb_id": "tt35521394",
+        "imdb_rating": "7.3",
+        "status": "released",
+        "last_air_date": "2026-04-25",
+        "countries": [
+          "Japan"
+        ],
+        "genres": [
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2669,
+      "time": 1777356361800,
+      "card_id": "1561758",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/8PK61ixYoSX3kXWyCMH4ats79k4.jpg",
+        "genre_ids": [
+          10749,
+          35
+        ],
+        "id": 1561758,
+        "original_language": "pl",
+        "title": "Біда людей єдна",
+        "original_title": "Podlasie",
+        "names": [
+          "Біда людей єдна",
+          "Все за одного",
+          "It Takes a Village",
+          "Podlasie - Wszyscy za jedną",
+          "Podlasie"
+        ],
+        "overview": "Коли через невдалу інвестицію та шахраїв Галина опиняється на межі втрати свого будинку та ферми, її родина та мешканці всього села Бодзки вирішують об’єднатися. Вони розробляють шалений план: перетворити своє віддалене містечко на головну туристичну принаду регіону, щоб зібрати гроші та врятувати Галину від фінансового крах",
+        "poster_path": "/3C5U150EzKPqaf4J4Fd6CZQg9Xb.jpg",
+        "release_date": "2026-04-01",
+        "video": false,
+        "vote_average": 4.722,
+        "vote_count": 10,
+        "popularity": 3.7914,
+        "PG": 13,
+        "release_quality": "4K",
+        "kinopoisk_id": "11857507",
+        "imdb_id": "tt38681815",
+        "status": "released",
+        "last_air_date": "2026-04-04",
+        "countries": [
+          "Poland"
+        ],
+        "genres": [
+          "Мелодрама",
+          "Комедія"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2668,
+      "time": 1777311355892,
+      "card_id": "85552",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 85552,
+        "original_language": "en",
+        "name": "Ейфорія",
+        "original_name": "Euphoria",
+        "names": [
+          "Эйфория",
+          "Euphoria",
+          "Ейфорія"
+        ],
+        "overview": "У центрі історії — 17-річна Ру Беннетт, яка повернулася до рідного дому після лікування в реабілітаційній клініці. Не гаючи часу, вона знову береться за старі звички — наркотики й тусовки. Однак поява в місті дівчини Джулс стає для Ру знаком надії.",
+        "poster_path": "/nsZkLSw1d0le18B8F0B5VMv6QKJ.jpg",
+        "first_air_date": "2019-06-16",
+        "video": false,
+        "vote_average": 8.281,
+        "vote_count": 10441,
+        "popularity": 301.9964,
+        "PG": 18,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1178445",
+        "kp_rating": "7.5",
+        "imdb_id": "tt8772296",
+        "imdb_rating": "8.2",
+        "status": "returning series",
+        "last_air_date": "2026-04-27",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 3
+        },
+        "episode": {
+          "air_date": "2026-04-26",
+          "episode_number": 3,
+          "name": "Серія 3",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 59,
+          "still_path": "/pjzzBxorSBsEkvVsISvIuP8aVaa.jpg",
+          "vote_average": 7.8
+        },
+        "genres": [
+          "Драма"
+        ],
+        "countries": [
+          "United States of America",
+          "Israel"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e3",
+      "premiere": 0
+    },
+    {
       "id": 2667,
       "time": 1777270306655,
       "card_id": "124364",
@@ -54,9 +332,9 @@
           "name": "Серія 2",
           "overview": "",
           "season_number": 4,
-          "runtime": 54,
-          "still_path": "/4LNl4W9ARO2a843SgE3XMj1uOn9.jpg",
-          "vote_average": 4.6
+          "runtime": 55,
+          "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
+          "vote_average": 5.4
         },
         "genres": [
           "Детектив",
@@ -91,7 +369,7 @@
           "Amrum"
         ],
         "overview": "Союзні війська вже за 50 кілометрів від Берліна, отже скоро війна завершиться. 12-річний хлопчик на віддаленому німецькому острові з усіх сил намагається допомогти хворій матері прогодувати сім’ю. Незважаючи на підступне море, він полює на тюленів, ходить на риболовлю вночі та працює на сусідній фермі. Але коли нарешті настає мир, він розуміє, що все, що знав з дитинства – брехня, а ворог набагато ближче, ніж він уявляв…",
-        "poster_path": "/veKogeWV5xVrg41HrLCspiwHNDy.jpg",
+        "poster_path": "/dEzRDQPRuD0uvcBmSC2cV6XOkpc.jpg",
         "release_date": "2025-10-09",
         "video": false,
         "vote_average": 7,
@@ -303,7 +581,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
+        "backdrop_path": "/p8777bPIlyFYcjqP2hU8htoz1RG.jpg",
         "genre_ids": [
           28,
           53
@@ -538,7 +816,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.306
+          "vote_average": 7.328
         },
         "genres": [
           "Науково фантастичний",
@@ -737,7 +1015,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/gheN0HmOUZAag4N38HascquineZ.jpg",
-          "vote_average": 9.583
+          "vote_average": 9.6
         },
         "genres": [
           "Кримінал",
@@ -956,7 +1234,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/zihcg1uqGZLotlSBCzGmv125XfC.jpg",
-          "vote_average": 7.6
+          "vote_average": 7.3
         },
         "genres": [
           "Драма"
@@ -1025,7 +1303,7 @@
           "season_number": 4,
           "runtime": 54,
           "still_path": "/vW5LTVntIb4YjSlAzhmpsCfig7z.jpg",
-          "vote_average": 6.1
+          "vote_average": 6.3
         },
         "genres": [
           "Детектив",
@@ -1800,7 +2078,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/jNtElnMNH3i2L45noWugZXat8Tb.jpg",
-          "vote_average": 6.1
+          "vote_average": 6.111
         },
         "genres": [
           "Кримінал",
@@ -1905,7 +2183,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/hbz0xyNFagcXKcBAYbxDJ31wn9M.jpg",
-          "vote_average": 6.804
+          "vote_average": 6.8
         },
         "genres": [
           "Драма"
@@ -1926,7 +2204,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/fx2cEuadZK28VHKkc0F1nFR96i0.jpg",
+        "backdrop_path": "/jSxeFrFCajefwka3TTRY4k8XVEX.jpg",
         "genre_ids": [
           27,
           35
@@ -2419,7 +2697,7 @@
           "season_number": 2,
           "runtime": 53,
           "still_path": "/kEqjEw5OtCYyeR6F5xE75K3OB65.jpg",
-          "vote_average": 8.833
+          "vote_average": 8.571
         },
         "genres": [
           "Драма",
@@ -2570,7 +2848,7 @@
           "season_number": 2,
           "runtime": 59,
           "still_path": "/1K8Zw52TkvObE2OqKYTtWUkdwTc.jpg",
-          "vote_average": 8.5
+          "vote_average": 8.714
         },
         "genres": [
           "Драма",
@@ -2583,256 +2861,7 @@
       "type": "episode",
       "hash": "s2;e1",
       "premiere": 0
-    },
-    {
-      "id": 2622,
-      "time": 1775761663117,
-      "card_id": "1566740",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/d1uy470ELS3pedvffTisHmO2FSv.jpg",
-        "genre_ids": [
-          10749
-        ],
-        "id": 1566740,
-        "original_language": "te",
-        "title": "సీతా ప్రయాణం",
-        "original_title": "సీతా ప్రయాణం",
-        "names": [
-          "Путешествие Ситы",
-          "Seetha Payanam",
-          "సీతా ప్రయాణం"
-        ],
-        "overview": "Сита теряет мать в детстве, и её отец, Раджендра Прасад, воспитывает её с огромной любовью, став ей одновременно и матерью, и отцом. Они очень близки, но Сита всегда избегает темы замужества. Она едет из Визага в Хайдарабад по работе, где знакомится с Абхи. Во время поездки несколько неожиданных событий меняют её жизнь.",
-        "poster_path": "/ubYKOsmUXdz4GQgVndBAze8G5UM.jpg",
-        "release_date": "2026-02-14",
-        "video": false,
-        "vote_average": 4,
-        "vote_count": 1,
-        "popularity": 0.7884,
-        "PG": 0,
-        "release_quality": "4K",
-        "imdb_id": "tt28199950",
-        "status": "released",
-        "last_air_date": "2026-04-09",
-        "countries": [
-          "India"
-        ],
-        "genres": [
-          "Мелодрама"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2621,
-      "time": 1775754482179,
-      "card_id": "317556",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/9wYxqq5I4e6Tm2Gb1pLPpizQEvC.jpg",
-        "id": 317556,
-        "name": "Twenty Twenty Six",
-        "original_name": "Twenty Twenty Six",
-        "overview": "После успешного руководства Олимпиадой в Лондоне 2012 года и работы главой отдела ценностей на BBC Иан Флетчер получает новую должность директора по вопросам целостности в оргкомитете Чемпионата мира по футболу 2026 года. Самый масштабный турнир в истории, который охватит сразу три страны Северной Америки, ставит перед ним и всей командой в Майами бесконечные вызовы — от бюрократических ловушек до неожиданных кризисов. В типичном для серии ироничном псевдодокументальном стиле показывается, как даже самый опытный организатор рискует утонуть в хаосе амбициозных планов, где «что может пойти не так?» звучит как знаменитое проклятие.",
-        "poster_path": "/tOMHB1sHMf4ASjB909y7AQFuX3q.jpg",
-        "media_type": "tv",
-        "original_language": "en",
-        "genre_ids": [
-          35
-        ],
-        "popularity": 2.3235,
-        "first_air_date": "2026-04-08",
-        "vote_average": 0,
-        "vote_count": 0,
-        "origin_country": [
-          "GB"
-        ],
-        "trailer_id": "L4ioZpDUTfo",
-        "imdb_id": "tt37366823",
-        "genres": [
-          "Комедія"
-        ],
-        "countries": [
-          "United Kingdom"
-        ]
-      },
-      "type": "trailer",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2620,
-      "time": 1775752666270,
-      "card_id": "202555",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
-        "genre_ids": [
-          18,
-          10759,
-          80
-        ],
-        "id": 202555,
-        "original_language": "en",
-        "name": "Daredevil: Born Again",
-        "original_name": "Daredevil: Born Again",
-        "names": [
-          "Сорвиголова: Рожденный заново",
-          "Сорвиголова: Рождённый Заново",
-          "Daredevil: Born Again",
-          "Сорвиголова: Рождённый заново",
-          "Daredevil: Born Again | Behind The Scenes"
-        ],
-        "overview": "Сліпий адвокат Метт Мердок процвітає, але його альтер его не забуто. Вілсон Фіск обійняв посаду мера і лише Шибайголова знає, хто ховається за маскою добродушного та чесного політика. Давні вороги, здається, забули про минуле і намагаються не повертатися до супергеройської діяльності. Та чи довго триватиме їх мир чи вони повернуться до ворогів?",
-        "poster_path": "/AfINRYmGTuPrwRrBp9lFgbRjSx2.jpg",
-        "first_air_date": "2025-03-04",
-        "video": false,
-        "vote_average": 8.007,
-        "vote_count": 714,
-        "popularity": 138.3129,
-        "PG": 17,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "5060265",
-        "kp_rating": "7.3",
-        "imdb_id": "tt18923754",
-        "imdb_rating": "8.0",
-        "status": "returning series",
-        "last_air_date": "2026-04-08",
-        "seasons": {
-          "1": 9,
-          "2": 4
-        },
-        "episode": {
-          "air_date": "2026-04-07",
-          "episode_number": 4,
-          "name": "Зняти рукавички",
-          "overview": "",
-          "season_number": 2,
-          "runtime": 54,
-          "still_path": "/etlRB0qE3YKlVgIEjwBzQ3y4BJ0.jpg",
-          "vote_average": 8.0
-        },
-        "genres": [
-          "Драма",
-          "Екшн і Пригоди",
-          "Кримінал"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e4",
-      "premiere": 0
-    },
-    {
-      "id": 2619,
-      "time": 1775736373645,
-      "card_id": "1226863",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
-        "genre_ids": [
-          16,
-          12,
-          14,
-          10751,
-          35
-        ],
-        "id": 1226863,
-        "original_language": "en",
-        "title": "Супер Маріо Галактика в кіно",
-        "original_title": "The Super Mario Galaxy Movie",
-        "names": [
-          "Супер Маріо Галактика в кіно",
-          "Супер Марио: Галактическое кино",
-          "The Super Mario Galaxy Movie"
-        ],
-        "overview": "“Супер Маріо: Галактика в кіно“ — анімаційний фільм, заснований на всесвіті культової однойменної гри, який продовжує історію стрічки “Брати Супер Маріо в кіно“. Фільм 2023 року став світовим хітом, зібравши понад 1,3 мільярда доларів у світовому прокаті.",
-        "poster_path": "/hC8jFgDfsJVVXnXj1zV0DFsJepC.jpg",
-        "release_date": "2026-04-01",
-        "video": false,
-        "vote_average": 7,
-        "vote_count": 255,
-        "popularity": 338.5845,
-        "PG": 6,
-        "release_quality": "webdl",
-        "kinopoisk_id": "5934685",
-        "kp_rating": "6.5",
-        "imdb_id": "tt28650488",
-        "status": "released",
-        "last_air_date": "2026-04-02",
-        "countries": [
-          "Japan",
-          "United States of America"
-        ],
-        "genres": [
-          "Сімейний",
-          "Комедія",
-          "Пригоди",
-          "Фентезі",
-          "Мультфільм"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2618,
-      "time": 1775733601710,
-      "card_id": "1185806",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/rlREba6gEHwcIyxvZLrUebJjxsI.jpg",
-        "id": 1185806,
-        "title": "Щенячий патруль: Динофільм",
-        "original_title": "PAW Patrol: The Dino Movie",
-        "overview": "Після того, як їхній корабель потрапляє в загадковий шторм, цуценята з «Щенячого патруля» зазнають аварійної посадки на незвіданому тропічному острові, населеному динозаврами. Там вони знайомляться з Рексом — песиком, який уже багато років живе на острові та став справжнім експертом у всьому, що пов’язане з динозаврами. Тим часом заклятий ворог команди, мер Гамдінгер, нахабно видобуваючи природні ресурси острова, випадково спричиняє виверження величезного сплячого вулкана. Цуценята «Щенячого патруля» опиняються в центрі серії надскладних рятувальних місій динозаврських масштабів — більших, ніж будь-коли раніше. Тепер вони мають зупинити Гамдінгера, перш ніж усе життя на острові опиниться під загрозою зникнення.",
-        "poster_path": "/2y1Dtqmv9xmJJ2KpLswmT97f8YW.jpg",
-        "media_type": "movie",
-        "original_language": "en",
-        "genre_ids": [
-          16,
-          12,
-          10751,
-          35
-        ],
-        "popularity": 5.7985,
-        "release_date": "2026-08-05",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "trailer_id": "aHw4PuLCUIc",
-        "imdb_id": "tt29356163",
-        "genres": [
-          "Бойовик",
-          "Пригоди",
-          "Мультфільм",
-          "Комедія",
-          "Сімейний"
-        ],
-        "countries": [
-          "Canada",
-          "France",
-          "United States of America"
-        ]
-      },
-      "type": "trailer",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 5.529731750488281
+  "duration": 6.319267272949219
 }
