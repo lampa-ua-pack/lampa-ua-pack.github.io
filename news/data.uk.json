@@ -2,6 +2,126 @@
   "secuses": true,
   "result": [
     {
+      "id": 2674,
+      "time": 1777473355900,
+      "card_id": "76479",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "id": 76479,
+        "original_language": "en",
+        "name": "Хлопаки",
+        "original_name": "The Boys",
+        "names": [
+          "Хлопаки",
+          "Пацаны",
+          "The Boys",
+          "Хлопці / Хлопаки"
+        ],
+        "overview": "Події розгортаються в альтернативному світі, де супергерої є звичним явищем. Вони щоденно по кілька разів рятують світ, знімаються у фільмах і стають обличчями рекламних кампаній відомих брендів. Втім, є і зворотня сторона медалі: кожен день тисячі людей страждають від дій супергероїв, для яких людське життя насправді не коштує зовсім нічого. Але є невеличка групка відчайдухів, яких такий стан справ не влаштовує, вони мають мету – покарати знахабнілих надлюдей та вивести їх на чисту воду…",
+        "poster_path": "/iNKkWK11okzbenMvJY87aOHNfll.jpg",
+        "first_air_date": "2019-07-25",
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 11979,
+        "popularity": 593.6623,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "460586",
+        "kp_rating": "8.3",
+        "imdb_id": "tt1190634",
+        "imdb_rating": "8.6",
+        "status": "returning series",
+        "last_air_date": "2026-04-29",
+        "seasons": {
+          "1": 8,
+          "2": 8,
+          "3": 8,
+          "4": 8,
+          "5": 5
+        },
+        "episode": {
+          "air_date": "2026-04-29",
+          "episode_number": 5,
+          "name": "Серія 5",
+          "overview": "",
+          "season_number": 5,
+          "runtime": 68,
+          "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
+          "vote_average": 4.667
+        },
+        "genres": [
+          "Науково фантастичний",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s5;e5",
+      "premiere": 0
+    },
+    {
+      "id": 2673,
+      "time": 1777458962257,
+      "card_id": "1292695",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/xnb15logFGJRniA7Ud3NILSPPhs.jpg",
+        "genre_ids": [
+          28,
+          27,
+          35
+        ],
+        "id": 1292695,
+        "original_language": "en",
+        "title": "Вони вб'ють тебе",
+        "original_title": "They Will Kill You",
+        "names": [
+          "Вони вб'ють тебе",
+          "Они придут за тобой",
+          "They Will Kill You"
+        ],
+        "overview": "Жінка влаштовується на роботу господаркою у «висотку» в Нью-Йорку, не підозрюючи про історію загадкових зникнень у будівлі. Невдовзі вона розуміє, що громада об'єднана таємницею.",
+        "poster_path": "/nSXCFSvI2p5WLgMrOHACbVnEJSR.jpg",
+        "release_date": "2026-03-25",
+        "video": false,
+        "vote_average": 6.521,
+        "vote_count": 140,
+        "popularity": 16.7562,
+        "PG": 17,
+        "release_quality": "4K",
+        "kinopoisk_id": "5463777",
+        "kp_rating": "6.6",
+        "imdb_id": "tt31728330",
+        "imdb_rating": "6.5",
+        "status": "released",
+        "last_air_date": "2026-03-28",
+        "countries": [
+          "United States of America",
+          "South Africa"
+        ],
+        "genres": [
+          "Бойовик",
+          "Комедія",
+          "Жахи"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2672,
       "time": 1777392357025,
       "card_id": "1659087",
@@ -333,7 +453,7 @@
           "overview": "",
           "season_number": 4,
           "runtime": 55,
-          "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
+          "still_path": "/esqLUHHzxgRqHStvvvb7qDTde6X.jpg",
           "vote_average": 5.4
         },
         "genres": [
@@ -560,7 +680,7 @@
           "season_number": 2,
           "runtime": 57,
           "still_path": "/aWimIbgbIo0bxhP1sN9cgK6WfSU.jpg",
-          "vote_average": 8.25
+          "vote_average": 8.2
         },
         "genres": [
           "Драма",
@@ -615,8 +735,8 @@
           "Australia"
         ],
         "genres": [
-          "Трилер",
-          "Бойовик"
+          "Бойовик",
+          "Трилер"
         ]
       },
       "type": "uhd",
@@ -816,7 +936,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.328
+          "vote_average": 7.4
         },
         "genres": [
           "Науково фантастичний",
@@ -1302,7 +1422,7 @@
           "overview": "Новий мешканець занурює місто в хаос. Джейд і Табіта намагаються змиритися зі своїм відкриттям біля «Дерева пляшок». Бойд намагається збагнути наслідки повернення Смайлі.",
           "season_number": 4,
           "runtime": 54,
-          "still_path": "/vW5LTVntIb4YjSlAzhmpsCfig7z.jpg",
+          "still_path": "/fGBfOSNJMEQukvdpmw4zQKGQxll.jpg",
           "vote_average": 6.3
         },
         "genres": [
@@ -1495,7 +1615,7 @@
           "season_number": 2,
           "runtime": 50,
           "still_path": "/sQTZIZGSXcI5TAbgJfhez9zyNAq.jpg",
-          "vote_average": 7.528
+          "vote_average": 7.5
         },
         "genres": [
           "Драма"
@@ -1601,7 +1721,7 @@
           "season_number": 2,
           "runtime": 53,
           "still_path": "/cXRz241o7dRK9eF6l0oASJc1tuX.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.5
         },
         "genres": [
           "Драма",
@@ -1856,7 +1976,7 @@
           "overview": "",
           "season_number": 2,
           "runtime": 53,
-          "still_path": "/3Pw0G3sjFcd0qgtYqkvtIvTHxGQ.jpg",
+          "still_path": "/3LwlF3zBobR6QuEIDh2D71KsCq6.jpg",
           "vote_average": 8.1
         },
         "genres": [
@@ -2386,7 +2506,7 @@
           "season_number": 2,
           "runtime": 42,
           "still_path": "/9ckc3UUzcRYRLuMeWJL7Ra1Mm8x.jpg",
-          "vote_average": 7.925
+          "vote_average": 7.9
         },
         "genres": [
           "Драма"
@@ -2609,7 +2729,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "id": 270476,
         "name": "Відоус-Бей",
         "original_name": "Widow's Bay",
@@ -2632,9 +2752,9 @@
         "trailer_id": "VcpYPxKeGAc",
         "imdb_id": "tt33332385",
         "genres": [
-          "Комедія",
           "Драма",
-          "Детектив"
+          "Детектив",
+          "Комедія"
         ],
         "countries": [
           "United States of America"
@@ -2697,7 +2817,7 @@
           "season_number": 2,
           "runtime": 53,
           "still_path": "/kEqjEw5OtCYyeR6F5xE75K3OB65.jpg",
-          "vote_average": 8.571
+          "vote_average": 8.6
         },
         "genres": [
           "Драма",
@@ -2751,117 +2871,7 @@
       "type": "trailer",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2624,
-      "time": 1775808492409,
-      "card_id": "1401586",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/tt2lisqeBShFbGp1pDJzZyk9SRD.jpg",
-        "id": 1401586,
-        "title": "Їжак Сонік 4",
-        "original_title": "Sonic the Hedgehog 4",
-        "overview": "Сонику и его друзьям предстоит сразиться с новым ранее невиданным врагом - Метал Соником, в этом ему поможет новый союзник ежиха Эми Роуз.",
-        "poster_path": "/t8uoHBODkFlSQJRL6qc4IclUBlH.jpg",
-        "media_type": "movie",
-        "original_language": "en",
-        "genre_ids": [
-          35,
-          28,
-          10751,
-          878
-        ],
-        "popularity": 7.0416,
-        "release_date": "2027-03-11",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "trailer_id": "YShjCIA9aXk",
-        "imdb_id": "tt16744566",
-        "genres": [
-          "Комедія",
-          "Бойовик",
-          "Сімейний",
-          "Фантастика"
-        ],
-        "countries": [
-          "United States of America",
-          "Japan"
-        ]
-      },
-      "type": "trailer",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2623,
-      "time": 1775806668740,
-      "card_id": "241609",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 241609,
-        "original_language": "en",
-        "name": "Друзі та сусіди",
-        "original_name": "Your Friends & Neighbors",
-        "names": [
-          "Друзі та сусіди",
-          "Друзья и соседи",
-          "Друзья и Соседи",
-          "Your Friends & Neighbors",
-          "Your Friends and Neighbors"
-        ],
-        "overview": "Фінансовий титан раптово розлучається, втрачає роботу і, щоб уникнути банкрутства, починає грабувати багатих сусідів. Обкрадаючи людей зі свого соціального кола, він відчуває дивне піднесення — але поступово заплутується в смертоносному павутинні.",
-        "poster_path": "/xGURzoKwTw6B4rrOOiQLOEPNEE.jpg",
-        "first_air_date": "2025-04-10",
-        "video": false,
-        "vote_average": 7.5,
-        "vote_count": 183,
-        "popularity": 63.8691,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6600202",
-        "kp_rating": "7.5",
-        "imdb_id": "tt30459041",
-        "imdb_rating": "7.7",
-        "status": "returning series",
-        "last_air_date": "2026-04-04",
-        "seasons": {
-          "1": 9,
-          "2": 1
-        },
-        "episode": {
-          "air_date": "2026-04-02",
-          "episode_number": 1,
-          "name": "Поки не поїхали, ми тут",
-          "overview": "Поява чарівного сусіда-мільярдера ставить Вестмонт-Вілидж на вуха. Куп несподівано знаходить собі нового спільника.",
-          "season_number": 2,
-          "runtime": 59,
-          "still_path": "/1K8Zw52TkvObE2OqKYTtWUkdwTc.jpg",
-          "vote_average": 8.714
-        },
-        "genres": [
-          "Драма",
-          "Кримінал"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e1",
-      "premiere": 0
     }
   ],
-  "duration": 6.319267272949219
+  "duration": 7.649925231933594
 }

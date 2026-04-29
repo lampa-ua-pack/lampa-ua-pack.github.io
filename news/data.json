@@ -2,6 +2,117 @@
   "secuses": true,
   "result": [
     {
+      "id": 2674,
+      "time": 1777473355900,
+      "card_id": "76479",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "id": 76479,
+        "original_language": "en",
+        "name": "Пацаны",
+        "original_name": "The Boys",
+        "names": [
+          "Пацаны",
+          "The Boys",
+          "Хлопці / Хлопаки"
+        ],
+        "overview": "События разворачивается в 2000-ые в мире, где существуют супергерои. Именно они являются настоящими звёздами, которых все знают и обожают. Но за идеальным фасадом скрывается гораздо более мрачный мир наркотиков и секса, а большинство героев в жизни не самые приятные люди. Для контроля за супергероями ЦРУ создаёт специальный отряд, неофициально известный как «Пацаны», суровые члены которого всегда готовы поставить зазнавшегося героя на место самым жестоким способом.",
+        "poster_path": "/z7pZuGOqJKpLpb7WkD63MjFWgwL.jpg",
+        "first_air_date": "2019-07-25",
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 11979,
+        "popularity": 593.6623,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "460586",
+        "kp_rating": "8.3",
+        "imdb_id": "tt1190634",
+        "imdb_rating": "8.6",
+        "status": "returning series",
+        "last_air_date": "2026-04-29",
+        "seasons": {
+          "1": 8,
+          "2": 8,
+          "3": 8,
+          "4": 8,
+          "5": 5
+        },
+        "episode": {
+          "air_date": "2026-04-29",
+          "episode_number": 5,
+          "name": "Эпизод 5",
+          "overview": "",
+          "season_number": 5,
+          "runtime": 68,
+          "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
+          "vote_average": 4.7
+        }
+      },
+      "type": "episode",
+      "hash": "s5;e5",
+      "premiere": 0
+    },
+    {
+      "id": 2673,
+      "time": 1777458962257,
+      "card_id": "1292695",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/q05WV8DwEiyLbCgSVtg55RbUzou.jpg",
+        "genre_ids": [
+          28,
+          27,
+          35
+        ],
+        "id": 1292695,
+        "original_language": "en",
+        "title": "Они придут за тобой",
+        "original_title": "They Will Kill You",
+        "names": [
+          "Они придут за тобой",
+          "They Will Kill You"
+        ],
+        "overview": "Домработница откликается на вакансию в одном из престижных домов Нью-Йорка. Начиная работать на новых обеспеченных хозяев, она, сама того не подозревая, попадает в тайное сообщество, связанное с исчезновениями людей.",
+        "poster_path": "/xCDqSY3cxVQbZULUgpoqRMNLvFQ.jpg",
+        "release_date": "2026-03-25",
+        "video": false,
+        "vote_average": 6.521,
+        "vote_count": 140,
+        "popularity": 16.7562,
+        "PG": 17,
+        "release_quality": "4K",
+        "kinopoisk_id": "5463777",
+        "kp_rating": "6.6",
+        "imdb_id": "tt31728330",
+        "imdb_rating": "6.5",
+        "status": "released",
+        "last_air_date": "2026-03-28",
+        "countries": [
+          "США",
+          "ЮАР"
+        ],
+        "genres": [
+          "Ужасы",
+          "Боевик",
+          "Комедия"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2672,
       "time": 1777392357025,
       "card_id": "1659087",
@@ -2489,99 +2600,7 @@
       "type": "trailer",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2624,
-      "time": 1775808492409,
-      "card_id": "1401586",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/tt2lisqeBShFbGp1pDJzZyk9SRD.jpg",
-        "id": 1401586,
-        "title": "Соник 4 в Кино",
-        "original_title": "Sonic the Hedgehog 4",
-        "overview": "Сонику и его друзьям предстоит сразиться с новым ранее невиданным врагом - Метал Соником, в этом ему поможет новый союзник ежиха Эми Роуз.",
-        "poster_path": "/t8uoHBODkFlSQJRL6qc4IclUBlH.jpg",
-        "media_type": "movie",
-        "original_language": "en",
-        "genre_ids": [
-          35,
-          28,
-          10751,
-          878
-        ],
-        "popularity": 7.0416,
-        "release_date": "2027-03-11",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "trailer_id": "YShjCIA9aXk",
-        "imdb_id": "tt16744566"
-      },
-      "type": "trailer",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2623,
-      "time": 1775806668740,
-      "card_id": "241609",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 241609,
-        "original_language": "en",
-        "name": "Друзья и соседи",
-        "original_name": "Your Friends & Neighbors",
-        "names": [
-          "Друзья и соседи",
-          "Друзья и Соседи",
-          "Your Friends & Neighbors",
-          "Your Friends and Neighbors"
-        ],
-        "overview": "После внезапного развода и потери работы крупный финансист начинает грабить богатых соседей, чтобы удержаться на плаву. Кражи у людей из того же социального слоя странным образом ободряют его, но постепенно он запутывается в смертоносной паутине.",
-        "poster_path": "/wr6dsSOfht23oiym1TcAlMN7R3k.jpg",
-        "first_air_date": "2025-04-10",
-        "video": false,
-        "vote_average": 7.5,
-        "vote_count": 183,
-        "popularity": 63.8691,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6600202",
-        "kp_rating": "7.5",
-        "imdb_id": "tt30459041",
-        "imdb_rating": "7.7",
-        "status": "returning series",
-        "last_air_date": "2026-04-04",
-        "seasons": {
-          "1": 9,
-          "2": 1
-        },
-        "episode": {
-          "air_date": "2026-04-02",
-          "episode_number": 1,
-          "name": "Эпизод 1",
-          "overview": "",
-          "season_number": 2,
-          "runtime": 59,
-          "still_path": "/1K8Zw52TkvObE2OqKYTtWUkdwTc.jpg",
-          "vote_average": 10
-        }
-      },
-      "type": "episode",
-      "hash": "s2;e1",
-      "premiere": 0
     }
   ],
-  "duration": 6.319267272949219
+  "duration": 7.649925231933594
 }
