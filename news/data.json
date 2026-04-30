@@ -2,6 +2,119 @@
   "secuses": true,
   "result": [
     {
+      "id": 2676,
+      "time": 1777545355919,
+      "card_id": "79744",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
+        "genre_ids": [
+          80,
+          18,
+          35
+        ],
+        "id": 79744,
+        "original_language": "en",
+        "name": "Новичок",
+        "original_name": "The Rookie",
+        "names": [
+          "Новичок",
+          "The Rookie",
+          "Новобранец",
+          "Новобранець"
+        ],
+        "overview": "Начинать с чистого листа всегда нелегко, особенно для уроженца маленького городка Джона Нолана, который после инцидента, перевернувшего его жизнь, решил воплотить в жизнь давнюю мечту и присоединиться к полиции Лос-Анджелеса. Возрастного новичка встречают с понятным скептицизмом, однако жизненный опыт, упорство и чувство юмора дают Джону преимущество.",
+        "poster_path": "/jfxInWjSixQeeyT7oiBvdXjd7HM.jpg",
+        "first_air_date": "2018-10-16",
+        "video": false,
+        "vote_average": 8.532,
+        "vote_count": 3137,
+        "popularity": 280.3679,
+        "PG": 0,
+        "release_quality": "hdtv",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1142153",
+        "kp_rating": "8.4",
+        "imdb_id": "tt7587890",
+        "imdb_rating": "8.0",
+        "status": "returning series",
+        "last_air_date": "2026-04-29",
+        "seasons": {
+          "1": 20,
+          "2": 20,
+          "3": 14,
+          "4": 22,
+          "5": 22,
+          "6": 10,
+          "7": 18,
+          "8": 17
+        },
+        "episode": {
+          "air_date": "2026-04-27",
+          "episode_number": 17,
+          "name": "Двойник",
+          "overview": "Нолан и Харпер пытаются помочь отчаявшейся матери защитить своего ребёнка, в то время как лейтенант Грей и Гарза продолжают работать с Моникой, несмотря на свои сомнения",
+          "season_number": 8,
+          "runtime": 43,
+          "still_path": "/gBXrmvRXYllskJl0X8wG0SOLE50.jpg",
+          "vote_average": 9.4
+        }
+      },
+      "type": "episode",
+      "hash": "s8;e17",
+      "premiere": 0
+    },
+    {
+      "id": 2675,
+      "time": 1777536360618,
+      "card_id": "1290417",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 1290417,
+        "original_language": "en",
+        "title": "Хищный рывок",
+        "original_title": "Thrash",
+        "names": [
+          "Хищный рывок",
+          "Thrash"
+        ],
+        "overview": "Когда ураган категории 5 разрушает прибрежный город, штормовой прилив приносит не только разрушения и хаос, но и нечто куда более пугающее — голодных акул.",
+        "poster_path": "/1xNg6ImdaSEshc2nYNEYzEbIV6W.jpg",
+        "release_date": "2026-04-10",
+        "video": false,
+        "vote_average": 6.01,
+        "vote_count": 431,
+        "popularity": 126.432,
+        "PG": 17,
+        "release_quality": "4K",
+        "kinopoisk_id": "8883351",
+        "kp_rating": "5.3",
+        "imdb_id": "tt32362890",
+        "status": "released",
+        "last_air_date": "2026-04-12",
+        "countries": [
+          "США",
+          "Австралия"
+        ],
+        "genres": [
+          "Ужасы",
+          "Триллер"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2674,
       "time": 1777473355900,
       "card_id": "76479",
@@ -2509,98 +2622,7 @@
       "type": "trailer",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2626,
-      "time": 1775842663121,
-      "card_id": "241609",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 241609,
-        "original_language": "en",
-        "name": "Друзья и соседи",
-        "original_name": "Your Friends & Neighbors",
-        "names": [
-          "Друзья и соседи",
-          "Друзья и Соседи",
-          "Your Friends & Neighbors",
-          "Your Friends and Neighbors"
-        ],
-        "overview": "После внезапного развода и потери работы крупный финансист начинает грабить богатых соседей, чтобы удержаться на плаву. Кражи у людей из того же социального слоя странным образом ободряют его, но постепенно он запутывается в смертоносной паутине.",
-        "poster_path": "/wr6dsSOfht23oiym1TcAlMN7R3k.jpg",
-        "first_air_date": "2025-04-10",
-        "video": false,
-        "vote_average": 7.5,
-        "vote_count": 183,
-        "popularity": 63.8691,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6600202",
-        "kp_rating": "7.5",
-        "imdb_id": "tt30459041",
-        "imdb_rating": "7.7",
-        "status": "returning series",
-        "last_air_date": "2026-04-10",
-        "seasons": {
-          "1": 9,
-          "2": 2
-        },
-        "episode": {
-          "air_date": "2026-04-09",
-          "episode_number": 2,
-          "name": "Эпизод 2",
-          "overview": "",
-          "season_number": 2,
-          "runtime": 53,
-          "still_path": "/kEqjEw5OtCYyeR6F5xE75K3OB65.jpg",
-          "vote_average": 0
-        }
-      },
-      "type": "episode",
-      "hash": "s2;e2",
-      "premiere": 0
-    },
-    {
-      "id": 2625,
-      "time": 1775826472288,
-      "card_id": "1288445",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
-        "id": 1288445,
-        "title": "Мятеж",
-        "original_title": "Mutiny",
-        "overview": "На глазах Коула Рида убивают его босса — промышленника-миллиардера. Рид становится главным подозреваемым и пускается в бега. Чтобы доказать свою невиновность, он должен раскрыть международный заговор.",
-        "poster_path": "/4zWwbVV31Qss578iJdVECyhMslB.jpg",
-        "media_type": "movie",
-        "original_language": "en",
-        "genre_ids": [
-          28,
-          80,
-          53
-        ],
-        "popularity": 7.7374,
-        "release_date": "2026-08-19",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "trailer_id": "x29173yRDXw",
-        "imdb_id": "tt32338669"
-      },
-      "type": "trailer",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.649925231933594
+  "duration": 7.12640380859375
 }

@@ -2,6 +2,129 @@
   "secuses": true,
   "result": [
     {
+      "id": 2676,
+      "time": 1777545355919,
+      "card_id": "79744",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
+        "genre_ids": [
+          80,
+          18,
+          35
+        ],
+        "id": 79744,
+        "original_language": "en",
+        "name": "Новобранець",
+        "original_name": "The Rookie",
+        "names": [
+          "Новичок",
+          "The Rookie",
+          "Новобранец",
+          "Новобранець"
+        ],
+        "overview": "Починати з чистого аркуша завжди нелегко, особливо для мешканця маленького містечка Джона Нолана. Після інциденту, який перевернув його життя, він вирішив здійснити давню мрію і приєднатися до поліції Лос-Анджелеса. Старого новачка зустрічають із зрозумілим скептицизмом, проте життєвий досвід, наполегливість та почуття гумору дають Джону перевагу.",
+        "poster_path": "/rN4jJz0OquSHAzNRZGRSa018dgx.jpg",
+        "first_air_date": "2018-10-16",
+        "video": false,
+        "vote_average": 8.532,
+        "vote_count": 3137,
+        "popularity": 280.3679,
+        "PG": 0,
+        "release_quality": "hdtv",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1142153",
+        "kp_rating": "8.4",
+        "imdb_id": "tt7587890",
+        "imdb_rating": "8.0",
+        "status": "returning series",
+        "last_air_date": "2026-04-29",
+        "seasons": {
+          "1": 20,
+          "2": 20,
+          "3": 14,
+          "4": 22,
+          "5": 22,
+          "6": 10,
+          "7": 18,
+          "8": 17
+        },
+        "episode": {
+          "air_date": "2026-04-27",
+          "episode_number": 17,
+          "name": "Двійник",
+          "overview": "Нолан і Гарпер намагаються допомогти зневіреній матері захистити свою дитину, а лейтенант Грей і Ґарза продовжують співпрацювати з Монікою, попри свої сумніви.",
+          "season_number": 8,
+          "runtime": 43,
+          "still_path": "/gBXrmvRXYllskJl0X8wG0SOLE50.jpg",
+          "vote_average": 9.438
+        },
+        "genres": [
+          "Кримінал",
+          "Драма",
+          "Комедія"
+        ],
+        "countries": [
+          "United States of America",
+          "Canada"
+        ]
+      },
+      "type": "episode",
+      "hash": "s8;e17",
+      "premiere": 0
+    },
+    {
+      "id": 2675,
+      "time": 1777536360618,
+      "card_id": "1290417",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 1290417,
+        "original_language": "en",
+        "title": "Лютий напад",
+        "original_title": "Thrash",
+        "names": [
+          "Лютий напад",
+          "Хищный рывок",
+          "Thrash"
+        ],
+        "overview": "Катастрофічний ураган спустошує прибережне місто. Тепер жителям затоплених вулиць треба пережити підвищення рівня моря, що кишить кровожерливими акулами.",
+        "poster_path": "/adk8weka3O5648g3de4z3y4aE7G.jpg",
+        "release_date": "2026-04-10",
+        "video": false,
+        "vote_average": 6.01,
+        "vote_count": 431,
+        "popularity": 126.432,
+        "PG": 17,
+        "release_quality": "4K",
+        "kinopoisk_id": "8883351",
+        "kp_rating": "5.3",
+        "imdb_id": "tt32362890",
+        "status": "released",
+        "last_air_date": "2026-04-12",
+        "countries": [
+          "United States of America",
+          "Australia"
+        ],
+        "genres": [
+          "Жахи",
+          "Трилер"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2674,
       "time": 1777473355900,
       "card_id": "76479",
@@ -51,12 +174,12 @@
         "episode": {
           "air_date": "2026-04-29",
           "episode_number": 5,
-          "name": "Серія 5",
-          "overview": "",
+          "name": "Одноразові",
+          "overview": "Сьогодні о 21:00/20:00 за центральним часом спеціальний репортаж на @VoughtNews: Зрада в Тінселтауні! З'ясуйте, хто з ваших улюблених зірок зорянець!",
           "season_number": 5,
-          "runtime": 68,
+          "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 4.667
+          "vote_average": 7.563
         },
         "genres": [
           "Науково фантастичний",
@@ -77,7 +200,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/xnb15logFGJRniA7Ud3NILSPPhs.jpg",
+        "backdrop_path": "/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
         "genre_ids": [
           28,
           27,
@@ -93,7 +216,7 @@
           "They Will Kill You"
         ],
         "overview": "Жінка влаштовується на роботу господаркою у «висотку» в Нью-Йорку, не підозрюючи про історію загадкових зникнень у будівлі. Невдовзі вона розуміє, що громада об'єднана таємницею.",
-        "poster_path": "/nSXCFSvI2p5WLgMrOHACbVnEJSR.jpg",
+        "poster_path": "/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
         "release_date": "2026-03-25",
         "video": false,
         "vote_average": 6.521,
@@ -162,7 +285,8 @@
         "genres": [
           "Трилер",
           "Кримінал",
-          "Драма"
+          "Драма",
+          "Телефільм"
         ]
       },
       "type": "uhd",
@@ -385,7 +509,7 @@
           "season_number": 3,
           "runtime": 59,
           "still_path": "/pjzzBxorSBsEkvVsISvIuP8aVaa.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.7
         },
         "genres": [
           "Драма"
@@ -449,12 +573,12 @@
         "episode": {
           "air_date": "2026-04-26",
           "episode_number": 2,
-          "name": "Серія 2",
-          "overview": "",
+          "name": "Сутичка",
+          "overview": "Жахлива знахідка викликає хвилю обурення в місті, а Джейд і Табіта намагаються впоратися з цим відкриттям.",
           "season_number": 4,
           "runtime": 55,
           "still_path": "/esqLUHHzxgRqHStvvvb7qDTde6X.jpg",
-          "vote_average": 5.4
+          "vote_average": 5.929
         },
         "genres": [
           "Детектив",
@@ -566,7 +690,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
+        "backdrop_path": "/rclsLNvqaoqatO2O0S5ajlmk6yf.jpg",
         "genre_ids": [
           16,
           10765,
@@ -610,7 +734,7 @@
           "season_number": 1,
           "runtime": 28,
           "still_path": "/ls5Ctm2zIjMlEVpItcv3JU5GLRA.jpg",
-          "vote_average": 6.2
+          "vote_average": 5.667
         },
         "genres": [
           "Мультфільм",
@@ -866,7 +990,7 @@
           "season_number": 2,
           "runtime": 52,
           "still_path": "/lbuiEvKOaQEw4mG880gsdg8GKvr.jpg",
-          "vote_average": 8.7
+          "vote_average": 8.583
         },
         "genres": [
           "Драма",
@@ -936,7 +1060,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.4
+          "vote_average": 7.474
         },
         "genres": [
           "Науково фантастичний",
@@ -1011,7 +1135,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/a103TuPbdItnmw4d4yDFQngJywu.jpg",
-          "vote_average": 7.7
+          "vote_average": 7.8
         },
         "genres": [
           "Мультфільм",
@@ -1548,7 +1672,7 @@
           "season_number": 2,
           "runtime": 40,
           "still_path": "/6y16mpHEyWJmY7CREy2vmdhE0tG.jpg",
-          "vote_average": 8.0
+          "vote_average": 7.714
         },
         "genres": [
           "Науково фантастичний",
@@ -1977,7 +2101,7 @@
           "season_number": 2,
           "runtime": 53,
           "still_path": "/3LwlF3zBobR6QuEIDh2D71KsCq6.jpg",
-          "vote_average": 8.1
+          "vote_average": 8.0
         },
         "genres": [
           "Драма",
@@ -2125,7 +2249,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/4ILWEFbicFs4uDpjwNJv4oOHr9v.jpg",
-          "vote_average": 7.762
+          "vote_average": 7.867
         },
         "genres": [
           "Науково фантастичний",
@@ -2198,7 +2322,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/jNtElnMNH3i2L45noWugZXat8Tb.jpg",
-          "vote_average": 6.111
+          "vote_average": 6.1
         },
         "genres": [
           "Кримінал",
@@ -2303,7 +2427,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/hbz0xyNFagcXKcBAYbxDJ31wn9M.jpg",
-          "vote_average": 6.8
+          "vote_average": 6.938
         },
         "genres": [
           "Драма"
@@ -2324,7 +2448,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/jSxeFrFCajefwka3TTRY4k8XVEX.jpg",
+        "backdrop_path": "/waUDWpsm3oCrzU9P4XnsBAh2cso.jpg",
         "genre_ids": [
           27,
           35
@@ -2763,115 +2887,7 @@
       "type": "trailer",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2626,
-      "time": 1775842663121,
-      "card_id": "241609",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 241609,
-        "original_language": "en",
-        "name": "Друзі та сусіди",
-        "original_name": "Your Friends & Neighbors",
-        "names": [
-          "Друзі та сусіди",
-          "Друзья и соседи",
-          "Друзья и Соседи",
-          "Your Friends & Neighbors",
-          "Your Friends and Neighbors"
-        ],
-        "overview": "Фінансовий титан раптово розлучається, втрачає роботу і, щоб уникнути банкрутства, починає грабувати багатих сусідів. Обкрадаючи людей зі свого соціального кола, він відчуває дивне піднесення — але поступово заплутується в смертоносному павутинні.",
-        "poster_path": "/xGURzoKwTw6B4rrOOiQLOEPNEE.jpg",
-        "first_air_date": "2025-04-10",
-        "video": false,
-        "vote_average": 7.5,
-        "vote_count": 183,
-        "popularity": 63.8691,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6600202",
-        "kp_rating": "7.5",
-        "imdb_id": "tt30459041",
-        "imdb_rating": "7.7",
-        "status": "returning series",
-        "last_air_date": "2026-04-10",
-        "seasons": {
-          "1": 9,
-          "2": 2
-        },
-        "episode": {
-          "air_date": "2026-04-09",
-          "episode_number": 2,
-          "name": "Жіноче",
-          "overview": "Сюрприз для Торі не вдався, і в сімʼї Куперів виникає розкол. Сем тяжко переживає ізоляцію від суспільства.",
-          "season_number": 2,
-          "runtime": 53,
-          "still_path": "/kEqjEw5OtCYyeR6F5xE75K3OB65.jpg",
-          "vote_average": 8.6
-        },
-        "genres": [
-          "Драма",
-          "Кримінал"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e2",
-      "premiere": 0
-    },
-    {
-      "id": 2625,
-      "time": 1775826472288,
-      "card_id": "1288445",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/xYro90dW4z7es4JG1vo1bmZ0lUN.jpg",
-        "id": 1288445,
-        "title": "Заколот",
-        "original_title": "Mutiny",
-        "overview": "Колишній спецпризначенець і офіцер поліції Нью-Йорка Коул Рід нині працює у сфері приватної охорони. Та коли його звинувачують у вбивстві тайського мільярдера Тібу, він змушений тікати й самостійно шукати справжнього злочинця — і невдовзі виходить на слід міжнародної змови.",
-        "poster_path": "/rtWM5cgSswZq8EomxTd9cQ0NKN6.jpg",
-        "media_type": "movie",
-        "original_language": "en",
-        "genre_ids": [
-          28,
-          80,
-          53
-        ],
-        "popularity": 7.7374,
-        "release_date": "2026-08-19",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "trailer_id": "x29173yRDXw",
-        "imdb_id": "tt32338669",
-        "genres": [
-          "Бойовик",
-          "Кримінал",
-          "Трилер"
-        ],
-        "countries": [
-          "United Kingdom",
-          "United States of America"
-        ]
-      },
-      "type": "trailer",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.649925231933594
+  "duration": 7.12640380859375
 }
