@@ -2,6 +2,171 @@
   "secuses": true,
   "result": [
     {
+      "id": 2679,
+      "time": 1777648324456,
+      "card_id": "202411",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/7IY4wELVMvtUc78vPiuL8kQV2iA.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 202411,
+        "original_language": "en",
+        "name": "«Монарх»: Наследие монстров",
+        "original_name": "Monarch: Legacy of Monsters",
+        "names": [
+          "«Монарх»: Наследие монстров",
+          "Monarch: Legacy of Monsters",
+          "«Монарх»: наследие монстров"
+        ],
+        "overview": "Пережив нападение Годзиллы на Сан-Франциско, Кейт в очередной раз потрясена шокирующей тайной. Окружённая чудовищными опасностями, она отправляется в путешествие по миру, чтобы узнать правду о своей семье и таинственной организации, известной как «Монарх».",
+        "poster_path": "/f0e9oth1BMhg6dVacrnPOc7qNrI.jpg",
+        "first_air_date": "2023-11-16",
+        "video": false,
+        "vote_average": 7.721,
+        "vote_count": 1188,
+        "popularity": 114.8658,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4836083",
+        "kp_rating": "6.5",
+        "imdb_id": "tt17220216",
+        "imdb_rating": "7.0",
+        "status": "returning series",
+        "last_air_date": "2026-05-01",
+        "seasons": {
+          "1": 10,
+          "2": 10
+        },
+        "episode": {
+          "air_date": "2026-04-30",
+          "episode_number": 10,
+          "name": "Там, где наше место",
+          "overview": "Конг и титан Икс сталкиваются в грандиозном сражении, которое грозит изменить облик острова Черепа. Шоу отправляется в опасное путешествие.",
+          "season_number": 2,
+          "runtime": 53,
+          "still_path": "/2xCzo9a0UN5RTFP84farSXlSD15.jpg",
+          "vote_average": 7
+        }
+      },
+      "type": "episode",
+      "hash": "s2;e10",
+      "premiere": 0
+    },
+    {
+      "id": 2678,
+      "time": 1777630326568,
+      "card_id": "202555",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
+        "genre_ids": [
+          18,
+          10759,
+          80
+        ],
+        "id": 202555,
+        "original_language": "en",
+        "name": "Сорвиголова: Рождённый заново",
+        "original_name": "Daredevil: Born Again",
+        "names": [
+          "Сорвиголова: Рожденный заново",
+          "Сорвиголова: Рождённый Заново",
+          "Daredevil: Born Again",
+          "Сорвиголова: Рождённый заново",
+          "Daredevil: Born Again | Behind The Scenes"
+        ],
+        "overview": "Слепому адвокату Мэтту Мёрдоку снова приходится облачиться в костюм Сорвиголовы, чтобы противостоять криминальному авторитету Уилсону Фиску, который решил занять пост мэра Нью-Йорка.",
+        "poster_path": "/gJIXWIQeq8ZNnAgWbilnMLKcBV7.jpg",
+        "first_air_date": "2025-03-04",
+        "video": false,
+        "vote_average": 8.038,
+        "vote_count": 773,
+        "popularity": 129.8318,
+        "PG": 17,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "5060265",
+        "kp_rating": "7.3",
+        "imdb_id": "tt18923754",
+        "imdb_rating": "8.0",
+        "status": "returning series",
+        "last_air_date": "2026-04-29",
+        "seasons": {
+          "1": 9,
+          "2": 7
+        },
+        "episode": {
+          "air_date": "2026-04-28",
+          "episode_number": 7,
+          "name": "Тьма, полная ненависти",
+          "overview": "",
+          "season_number": 2,
+          "runtime": 48,
+          "still_path": "/wKXM5uTJPnoQsqwl6E6EvFvtfSW.jpg",
+          "vote_average": 8.583
+        }
+      },
+      "type": "episode",
+      "hash": "s2;e7",
+      "premiere": 0
+    },
+    {
+      "id": 2677,
+      "time": 1777615929573,
+      "card_id": "1314481",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 1314481,
+        "original_language": "en",
+        "title": "Дьявол носит Prada 2",
+        "original_title": "The Devil Wears Prada 2",
+        "names": [
+          "Дьявол носит Prada 2",
+          "The Devil Wears Prada 2"
+        ],
+        "overview": "Редактор модного журнала Миранда Пристли борется со своей бывшей помощницей Эмили Чарлтон, ныне руководительницей конкурирующего издания, за рекламные контракты. Пока печатные СМИ переживают кризис, Миранда готовится уйти на пенсию.",
+        "poster_path": "/z43CIDZXSXP2sY8YjiNmeoMIy2y.jpg",
+        "release_date": "2026-04-29",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 38,
+        "popularity": 89.8749,
+        "PG": 13,
+        "release_quality": "ts",
+        "kinopoisk_id": "6373982",
+        "imdb_id": "tt33612209",
+        "status": "released",
+        "last_air_date": "2026-04-30",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Комедия",
+          "Драма"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2676,
       "time": 1777545355919,
       "card_id": "79744",
@@ -2496,133 +2661,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2629,
-      "time": 1775898522377,
-      "card_id": "299167",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-        "id": 299167,
-        "name": "Ранчо Даттонов",
-        "original_name": "Dutton Ranch",
-        "overview": "Ранчо Даттон, дом Бет Даттон и Рипа Уилера, является свидетельством мира, к которому они стремились, за который боролись и за который чуть не погибли, поскольку они стали очень дорожить своей землей площадью в 7000 акров. В трудные времена и при жесткой конкуренции Бет и Рип делают все необходимое для выживания, одновременно обеспечивая Картеру возможность стать тем человеком, которым он должен быть.",
-        "poster_path": "/dfFx1bPBf2FvpxZ6FWYkFF4hWJx.jpg",
-        "media_type": "tv",
-        "original_language": "en",
-        "genre_ids": [
-          37,
-          18
-        ],
-        "popularity": 6.3378,
-        "first_air_date": "2026-05-15",
-        "vote_average": 0,
-        "vote_count": 0,
-        "origin_country": [
-          "US"
-        ],
-        "trailer_id": "2-fu2H3ZvD8",
-        "imdb_id": "tt34991493"
-      },
-      "type": "trailer",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2628,
-      "time": 1775896665551,
-      "card_id": "202411",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/ybAYY4sOjg3K4ekYfFyEhHYsftc.jpg",
-        "genre_ids": [
-          10765,
-          18,
-          10759
-        ],
-        "id": 202411,
-        "original_language": "en",
-        "name": "«Монарх»: Наследие монстров",
-        "original_name": "Monarch: Legacy of Monsters",
-        "names": [
-          "«Монарх»: Наследие монстров",
-          "Monarch: Legacy of Monsters",
-          "«Монарх»: наследие монстров"
-        ],
-        "overview": "Пережив нападение Годзиллы на Сан-Франциско, Кейт в очередной раз потрясена шокирующей тайной. Окружённая чудовищными опасностями, она отправляется в путешествие по миру, чтобы узнать правду о своей семье и таинственной организации, известной как «Монарх».",
-        "poster_path": "/f0e9oth1BMhg6dVacrnPOc7qNrI.jpg",
-        "first_air_date": "2023-11-16",
-        "video": false,
-        "vote_average": 7.697,
-        "vote_count": 1144,
-        "popularity": 121.7595,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4836083",
-        "kp_rating": "6.5",
-        "imdb_id": "tt17220216",
-        "imdb_rating": "7.0",
-        "status": "returning series",
-        "last_air_date": "2026-04-10",
-        "seasons": {
-          "1": 10,
-          "2": 7
-        },
-        "episode": {
-          "air_date": "2026-04-09",
-          "episode_number": 7,
-          "name": "Теория струн",
-          "overview": "Шоу получает невероятный радиосигнал. Кейт и Кэйко обнаруживают древнюю связь с титаном Икс. Изабель делает деловое предложение Кэнтаро.",
-          "season_number": 2,
-          "runtime": 53,
-          "still_path": "/nTHnLodxwfTrAbz7h1vMAgW0Ei8.jpg",
-          "vote_average": 7
-        }
-      },
-      "type": "episode",
-      "hash": "s2;e7",
-      "premiere": 0
-    },
-    {
-      "id": 2627,
-      "time": 1775844512329,
-      "card_id": "270476",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
-        "id": 270476,
-        "name": "Уидоус-Бэй",
-        "original_name": "Widow's Bay",
-        "overview": "Мэр города в Новой Англии решает превратить его в новый центр притяжения туристов, несмотря на предупреждения местных о том, что он проклят.",
-        "poster_path": "/7Dc2FNMcOeNO61W2rOKgJDoVJ63.jpg",
-        "media_type": "tv",
-        "original_language": "en",
-        "genre_ids": [
-          35,
-          18,
-          9648
-        ],
-        "popularity": 3.8034,
-        "first_air_date": "2026-04-28",
-        "vote_average": 0,
-        "vote_count": 0,
-        "origin_country": [
-          "US"
-        ],
-        "trailer_id": "VcpYPxKeGAc",
-        "imdb_id": "tt33332385"
-      },
-      "type": "trailer",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.12640380859375
+  "duration": 8.12225341796875
 }
