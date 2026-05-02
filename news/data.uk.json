@@ -2,6 +2,73 @@
   "secuses": true,
   "result": [
     {
+      "id": 2680,
+      "time": 1777702324472,
+      "card_id": "241609",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 241609,
+        "original_language": "en",
+        "name": "Друзі та сусіди",
+        "original_name": "Your Friends & Neighbors",
+        "names": [
+          "Друзі та сусіди",
+          "Друзья и соседи",
+          "Друзья и Соседи",
+          "Your Friends & Neighbors",
+          "Your Friends and Neighbors"
+        ],
+        "overview": "Фінансовий титан раптово розлучається, втрачає роботу і, щоб уникнути банкрутства, починає грабувати багатих сусідів. Обкрадаючи людей зі свого соціального кола, він відчуває дивне піднесення — але поступово заплутується в смертоносному павутинні.",
+        "poster_path": "/xGURzoKwTw6B4rrOOiQLOEPNEE.jpg",
+        "first_air_date": "2025-04-10",
+        "video": false,
+        "vote_average": 7.563,
+        "vote_count": 198,
+        "popularity": 38.1807,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6600202",
+        "kp_rating": "7.5",
+        "imdb_id": "tt30459041",
+        "imdb_rating": "7.7",
+        "status": "returning series",
+        "last_air_date": "2026-05-01",
+        "seasons": {
+          "1": 9,
+          "2": 5
+        },
+        "episode": {
+          "air_date": "2026-04-30",
+          "episode_number": 5,
+          "name": "На півдорозі до невидимості",
+          "overview": "Барні розбирається з перевіркою спортзалів «Міцна дупа у Ніка», яку проводить Еш. Куп і Джек летять за кордон улещувати великого інвестора. Нік влаштовує новосілля.",
+          "season_number": 2,
+          "runtime": 59,
+          "still_path": "/djqGUjMqU7AxqYAbfxnCo2Be7wO.jpg",
+          "vote_average": 7.333
+        },
+        "genres": [
+          "Драма",
+          "Кримінал"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s2;e5",
+      "premiere": 0
+    },
+    {
       "id": 2679,
       "time": 1777648324456,
       "card_id": "202411",
@@ -54,7 +121,7 @@
           "season_number": 2,
           "runtime": 53,
           "still_path": "/2xCzo9a0UN5RTFP84farSXlSD15.jpg",
-          "vote_average": 7.0
+          "vote_average": 7.75
         },
         "genres": [
           "Науково фантастичний",
@@ -124,7 +191,7 @@
           "season_number": 2,
           "runtime": 48,
           "still_path": "/wKXM5uTJPnoQsqwl6E6EvFvtfSW.jpg",
-          "vote_average": 8.577
+          "vote_average": 8.1
         },
         "genres": [
           "Драма",
@@ -146,7 +213,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
+        "backdrop_path": "/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
         "genre_ids": [
           35,
           18
@@ -362,7 +429,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.652
+          "vote_average": 7.731
         },
         "genres": [
           "Науково фантастичний",
@@ -692,7 +759,7 @@
           "season_number": 3,
           "runtime": 59,
           "still_path": "/pjzzBxorSBsEkvVsISvIuP8aVaa.jpg",
-          "vote_average": 7.7
+          "vote_average": 7.714
         },
         "genres": [
           "Драма"
@@ -761,7 +828,7 @@
           "season_number": 4,
           "runtime": 55,
           "still_path": "/esqLUHHzxgRqHStvvvb7qDTde6X.jpg",
-          "vote_average": 6.5
+          "vote_average": 6.658
         },
         "genres": [
           "Детектив",
@@ -1103,7 +1170,7 @@
           "season_number": 2,
           "runtime": 44,
           "still_path": "/uktOfZpCC4hNSBJZ9rpZf9wFZHo.jpg",
-          "vote_average": 8.5
+          "vote_average": 8.25
         },
         "genres": [
           "Науково фантастичний",
@@ -1243,7 +1310,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.474
+          "vote_average": 7.487
         },
         "genres": [
           "Науково фантастичний",
@@ -1661,7 +1728,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/zihcg1uqGZLotlSBCzGmv125XfC.jpg",
-          "vote_average": 7.3
+          "vote_average": 7.389
         },
         "genres": [
           "Драма"
@@ -1730,7 +1797,7 @@
           "season_number": 4,
           "runtime": 54,
           "still_path": "/fGBfOSNJMEQukvdpmw4zQKGQxll.jpg",
-          "vote_average": 6.3
+          "vote_average": 6.4
         },
         "genres": [
           "Детектив",
@@ -1855,7 +1922,7 @@
           "season_number": 2,
           "runtime": 40,
           "still_path": "/6y16mpHEyWJmY7CREy2vmdhE0tG.jpg",
-          "vote_average": 7.714
+          "vote_average": 8.0
         },
         "genres": [
           "Науково фантастичний",
@@ -2283,7 +2350,7 @@
           "season_number": 2,
           "runtime": 53,
           "still_path": "/3LwlF3zBobR6QuEIDh2D71KsCq6.jpg",
-          "vote_average": 8.0
+          "vote_average": 7.722
         },
         "genres": [
           "Драма",
@@ -2431,7 +2498,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/4ILWEFbicFs4uDpjwNJv4oOHr9v.jpg",
-          "vote_average": 7.867
+          "vote_average": 7.894
         },
         "genres": [
           "Науково фантастичний",
@@ -2870,55 +2937,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2630,
-      "time": 1775903863289,
-      "card_id": "1307373",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/qLp9td9ZfOe7G6wHhrepKtIH5Qe.jpg",
-        "genre_ids": [
-          53,
-          80,
-          18
-        ],
-        "id": 1307373,
-        "original_language": "en",
-        "title": "Wasteman",
-        "original_title": "Wasteman",
-        "names": [
-          "Мусорщик",
-          "Wasteman"
-        ],
-        "overview": "Надежды Тейлора на новую жизнь после условно-досрочного освобождения рушатся с появлением его сокамерника Ди. Ди берет Тейлора под свое крыло, но жестокое нападение ставит их отношения под угрозу, заставляя Тейлора выбирать между защитой Ди и собственными шансами на свободу.",
-        "poster_path": "/lKK9ImwpoTCwDZKgYpjIIJCnlf0.jpg",
-        "release_date": "2026-02-20",
-        "video": false,
-        "vote_average": 7.6,
-        "vote_count": 7,
-        "popularity": 8.91,
-        "PG": 0,
-        "release_quality": "webdl",
-        "kinopoisk_id": "9002462",
-        "imdb_id": "tt29028515",
-        "imdb_rating": "7.7",
-        "status": "released",
-        "last_air_date": "2026-04-10",
-        "countries": [
-          "United Kingdom"
-        ],
-        "genres": [
-          "Кримінал",
-          "Драма",
-          "Трилер"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 8.12225341796875
+  "duration": 7.418388366699219
 }
