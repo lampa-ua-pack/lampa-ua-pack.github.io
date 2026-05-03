@@ -190,7 +190,7 @@
           "overview": "",
           "season_number": 2,
           "runtime": 48,
-          "still_path": "/wKXM5uTJPnoQsqwl6E6EvFvtfSW.jpg",
+          "still_path": "/mjUSg9caDYA6qb4svR1cFJPMAxc.jpg",
           "vote_average": 8.1
         },
         "genres": [
@@ -311,7 +311,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/gBXrmvRXYllskJl0X8wG0SOLE50.jpg",
-          "vote_average": 9.5
+          "vote_average": 9.591
         },
         "genres": [
           "Кримінал",
@@ -429,7 +429,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.731
+          "vote_average": 7.717
         },
         "genres": [
           "Науково фантастичний",
@@ -827,8 +827,8 @@
           "overview": "Жахлива знахідка викликає хвилю обурення в місті, а Джейд і Табіта намагаються впоратися з цим відкриттям.",
           "season_number": 4,
           "runtime": 55,
-          "still_path": "/esqLUHHzxgRqHStvvvb7qDTde6X.jpg",
-          "vote_average": 6.658
+          "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
+          "vote_average": 6.5
         },
         "genres": [
           "Детектив",
@@ -1240,7 +1240,7 @@
           "season_number": 2,
           "runtime": 52,
           "still_path": "/lbuiEvKOaQEw4mG880gsdg8GKvr.jpg",
-          "vote_average": 8.583
+          "vote_average": 8.6
         },
         "genres": [
           "Драма",
@@ -1385,7 +1385,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/a103TuPbdItnmw4d4yDFQngJywu.jpg",
-          "vote_average": 7.952
+          "vote_average": 7.9
         },
         "genres": [
           "Мультфільм",
@@ -1509,7 +1509,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/gheN0HmOUZAag4N38HascquineZ.jpg",
-          "vote_average": 9.6
+          "vote_average": 9.625
         },
         "genres": [
           "Кримінал",
@@ -1603,7 +1603,7 @@
           "Non abbiam bisogno di parole"
         ],
         "overview": "Сором’язлива підлітка, яка єдина чує в сім’ї глухих, відкриває в собі талант до співу й мусить обирати між обов’язком і власним шляхом.",
-        "poster_path": "/ptWVRyHpDYDoU1vWR2jBQOFSE24.jpg",
+        "poster_path": "/gpOSpyOm25vnGmyRX8gMolkzSOn.jpg",
         "release_date": "2026-04-03",
         "video": false,
         "vote_average": 6.506,
@@ -1728,7 +1728,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/zihcg1uqGZLotlSBCzGmv125XfC.jpg",
-          "vote_average": 7.389
+          "vote_average": 7.15
         },
         "genres": [
           "Драма"
@@ -1796,8 +1796,8 @@
           "overview": "Новий мешканець занурює місто в хаос. Джейд і Табіта намагаються змиритися зі своїм відкриттям біля «Дерева пляшок». Бойд намагається збагнути наслідки повернення Смайлі.",
           "season_number": 4,
           "runtime": 54,
-          "still_path": "/fGBfOSNJMEQukvdpmw4zQKGQxll.jpg",
-          "vote_average": 6.4
+          "still_path": "/vW5LTVntIb4YjSlAzhmpsCfig7z.jpg",
+          "vote_average": 6.484
         },
         "genres": [
           "Детектив",
@@ -2350,7 +2350,7 @@
           "season_number": 2,
           "runtime": 53,
           "still_path": "/3LwlF3zBobR6QuEIDh2D71KsCq6.jpg",
-          "vote_average": 7.722
+          "vote_average": 7.7
         },
         "genres": [
           "Драма",
@@ -2425,8 +2425,8 @@
           "overview": "В ходе масштабного столкновения ничто не идет по плану.",
           "season_number": 4,
           "runtime": 54,
-          "still_path": "/vEyYNzrfpLCefYhILeUmdBcLp0M.jpg",
-          "vote_average": 8.5
+          "still_path": "/gRKy50PZtmIGH7TSxfnfUuDg3IV.jpg",
+          "vote_average": 8.6
         },
         "genres": [
           "Мультфільм",
@@ -2571,7 +2571,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/jNtElnMNH3i2L45noWugZXat8Tb.jpg",
-          "vote_average": 6.1
+          "vote_average": 6.053
         },
         "genres": [
           "Кримінал",
@@ -2676,7 +2676,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/hbz0xyNFagcXKcBAYbxDJ31wn9M.jpg",
-          "vote_average": 6.9
+          "vote_average": 6.86
         },
         "genres": [
           "Драма"
@@ -2939,5 +2939,5 @@
       "premiere": 0
     }
   ],
-  "duration": 7.418388366699219
+  "duration": 4.65032958984375
 }
