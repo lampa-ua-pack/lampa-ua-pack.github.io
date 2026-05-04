@@ -2,6 +2,54 @@
   "secuses": true,
   "result": [
     {
+      "id": 2681,
+      "time": 1777832234159,
+      "card_id": "683205",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/6OvujNBLXBNuD4lW2FJiOnaSpWy.jpg",
+        "genre_ids": [
+          12,
+          28
+        ],
+        "id": 683205,
+        "original_language": "zh",
+        "title": "寻龙诀：觅踪",
+        "original_title": "寻龙诀：觅踪",
+        "names": [
+          "Моцзинь: Охотники за легендами",
+          "The Legend Hunters",
+          "寻龙诀：觅踪",
+          "Охотники за легендой",
+          "Xun long jue mi zong"
+        ],
+        "overview": "Охотники за легендой возвращают Ху Ба-и, Ширли Ян и Ван Кайсюаня к делу, где обычная вылазка быстро становится ловушкой. Команда оказывается втянута в поиски древней гробницы, созданной людьми, которые сами знали все приёмы расхитителей могил. Под землёй их ждут не только тайники и механизмы, но и чужие расчёты: каждый шаг может открыть проход дальше, а может запереть героев в месте, откуда не выбираются даже опытные искатели сокровищ.",
+        "poster_path": "/1jxforJCqzJHeffLy0EUjsC1IDP.jpg",
+        "release_date": "2025-05-08",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 5,
+        "popularity": 3.3903,
+        "PG": 0,
+        "release_quality": "4K",
+        "kinopoisk_id": "1278192",
+        "imdb_id": "tt10551126",
+        "status": "released",
+        "last_air_date": "2026-05-02",
+        "countries": [
+          "China"
+        ],
+        "genres": [
+          "Пригоди",
+          "Бойовик"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2680,
       "time": 1777702324472,
       "card_id": "241609",
@@ -121,7 +169,7 @@
           "season_number": 2,
           "runtime": 53,
           "still_path": "/2xCzo9a0UN5RTFP84farSXlSD15.jpg",
-          "vote_average": 7.75
+          "vote_average": 8.5
         },
         "genres": [
           "Науково фантастичний",
@@ -191,7 +239,7 @@
           "season_number": 2,
           "runtime": 48,
           "still_path": "/mjUSg9caDYA6qb4svR1cFJPMAxc.jpg",
-          "vote_average": 8.1
+          "vote_average": 8.147
         },
         "genres": [
           "Драма",
@@ -334,7 +382,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
+        "backdrop_path": "/bPqv6PSsqa2tgO1qb2Gq2iQ1VXf.jpg",
         "genre_ids": [
           27,
           53
@@ -429,7 +477,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.717
+          "vote_average": 7.8
         },
         "genres": [
           "Науково фантастичний",
@@ -598,7 +646,7 @@
           "name": "Серія 8",
           "overview": "",
           "season_number": 8,
-          "runtime": 57,
+          "runtime": 56,
           "still_path": "/7kV1B7heWuXf5iaGoO4XijWqtiH.jpg",
           "vote_average": 9.0
         },
@@ -757,9 +805,9 @@
           "name": "Серія 3",
           "overview": "",
           "season_number": 3,
-          "runtime": 59,
+          "runtime": 60,
           "still_path": "/pjzzBxorSBsEkvVsISvIuP8aVaa.jpg",
-          "vote_average": 7.714
+          "vote_average": 7.2
         },
         "genres": [
           "Драма"
@@ -828,7 +876,7 @@
           "season_number": 4,
           "runtime": 55,
           "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
-          "vote_average": 6.5
+          "vote_average": 6.354
         },
         "genres": [
           "Детектив",
@@ -1075,7 +1123,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/p8777bPIlyFYcjqP2hU8htoz1RG.jpg",
+        "backdrop_path": "/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
         "genre_ids": [
           28,
           53
@@ -1170,7 +1218,7 @@
           "season_number": 2,
           "runtime": 44,
           "still_path": "/uktOfZpCC4hNSBJZ9rpZf9wFZHo.jpg",
-          "vote_average": 8.25
+          "vote_average": 8.333
         },
         "genres": [
           "Науково фантастичний",
@@ -1310,7 +1358,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.487
+          "vote_average": 7.4
         },
         "genres": [
           "Науково фантастичний",
@@ -1385,7 +1433,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/a103TuPbdItnmw4d4yDFQngJywu.jpg",
-          "vote_average": 7.9
+          "vote_average": 7.64
         },
         "genres": [
           "Мультфільм",
@@ -1728,7 +1776,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/zihcg1uqGZLotlSBCzGmv125XfC.jpg",
-          "vote_average": 7.15
+          "vote_average": 6.9
         },
         "genres": [
           "Драма"
@@ -1797,7 +1845,7 @@
           "season_number": 4,
           "runtime": 54,
           "still_path": "/vW5LTVntIb4YjSlAzhmpsCfig7z.jpg",
-          "vote_average": 6.484
+          "vote_average": 6.471
         },
         "genres": [
           "Детектив",
@@ -1922,7 +1970,7 @@
           "season_number": 2,
           "runtime": 40,
           "still_path": "/6y16mpHEyWJmY7CREy2vmdhE0tG.jpg",
-          "vote_average": 8.0
+          "vote_average": 7.778
         },
         "genres": [
           "Науково фантастичний",
@@ -2124,10 +2172,10 @@
         ],
         "id": 289219,
         "original_language": "en",
-        "name": "Зоряні війни. Дарт Мол: Король тіней",
+        "name": "Зоряні війни: Мол - Король тіней",
         "original_name": "Star Wars: Maul - Shadow Lord",
         "names": [
-          "Зоряні війни. Дарт Мол: Король тіней",
+          "Зоряні війни: Мол - Король тіней",
           "Звёздные войны. Дарт Мол: Повелитель теней",
           "Star Wars: Maul - Shadow Lord"
         ],
@@ -2155,9 +2203,9 @@
           "United States of America"
         ],
         "genres": [
+          "Екшн і Пригоди",
           "Мультфільм",
-          "Науково фантастичний",
-          "Екшн і Пригоди"
+          "Науково фантастичний"
         ]
       },
       "type": "now",
@@ -2257,7 +2305,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
+        "backdrop_path": "/bPqv6PSsqa2tgO1qb2Gq2iQ1VXf.jpg",
         "genre_ids": [
           27,
           53
@@ -2426,7 +2474,7 @@
           "season_number": 4,
           "runtime": 54,
           "still_path": "/gRKy50PZtmIGH7TSxfnfUuDg3IV.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.519
         },
         "genres": [
           "Мультфільм",
@@ -2498,7 +2546,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/4ILWEFbicFs4uDpjwNJv4oOHr9v.jpg",
-          "vote_average": 7.894
+          "vote_average": 7.84
         },
         "genres": [
           "Науково фантастичний",
@@ -2676,7 +2724,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/hbz0xyNFagcXKcBAYbxDJ31wn9M.jpg",
-          "vote_average": 6.86
+          "vote_average": 6.6
         },
         "genres": [
           "Драма"
@@ -2891,53 +2939,7 @@
       "type": "episode",
       "hash": "s2;e14",
       "premiere": 0
-    },
-    {
-      "id": 2631,
-      "time": 1775905667896,
-      "card_id": "1635276",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/7weSO3kEzMpMgdmte4AasS0tbeV.jpg",
-        "genre_ids": [
-          35
-        ],
-        "id": 1635276,
-        "original_language": "de",
-        "title": "Їсти, молитися, гавкати",
-        "original_title": "Therapie auf vier Pfoten",
-        "names": [
-          "Їсти, молитися, гавкати",
-          "Ешь, молись, лай",
-          "Eat Pray Bark",
-          "Ешь, молись, рычи",
-          "Eat Pray Bark – Therapie auf vier Pfoten"
-        ],
-        "overview": "П’ять власників собак звертаються по допомогу з неслухняними цуциками до легендарного кінолога, який живе в горах. Але схоже, що дресирувати треба зовсім не пухнастиків.",
-        "poster_path": "/rQdmyrSU0ySNkZMOq3URaDhUvdq.jpg",
-        "release_date": "2026-04-01",
-        "video": false,
-        "vote_average": 5.656,
-        "vote_count": 45,
-        "popularity": 63.6885,
-        "PG": 13,
-        "release_quality": "4K",
-        "kinopoisk_id": "11832417",
-        "imdb_id": "tt39465484",
-        "status": "released",
-        "last_air_date": "2026-04-02",
-        "countries": [
-          "Germany"
-        ],
-        "genres": [
-          "Комедія"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.65032958984375
+  "duration": 6.451210021972656
 }

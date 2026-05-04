@@ -2,6 +2,54 @@
   "secuses": true,
   "result": [
     {
+      "id": 2681,
+      "time": 1777832234159,
+      "card_id": "683205",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/6OvujNBLXBNuD4lW2FJiOnaSpWy.jpg",
+        "genre_ids": [
+          12,
+          28
+        ],
+        "id": 683205,
+        "original_language": "zh",
+        "title": "Моцзинь: Охотники за легендами",
+        "original_title": "寻龙诀：觅踪",
+        "names": [
+          "Моцзинь: Охотники за легендами",
+          "The Legend Hunters",
+          "寻龙诀：觅踪",
+          "Охотники за легендой",
+          "Xun long jue mi zong"
+        ],
+        "overview": "Охотники за легендой возвращают Ху Ба-и, Ширли Ян и Ван Кайсюаня к делу, где обычная вылазка быстро становится ловушкой. Команда оказывается втянута в поиски древней гробницы, созданной людьми, которые сами знали все приёмы расхитителей могил. Под землёй их ждут не только тайники и механизмы, но и чужие расчёты: каждый шаг может открыть проход дальше, а может запереть героев в месте, откуда не выбираются даже опытные искатели сокровищ.",
+        "poster_path": "/1jxforJCqzJHeffLy0EUjsC1IDP.jpg",
+        "release_date": "2025-05-08",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 5,
+        "popularity": 3.3903,
+        "PG": 0,
+        "release_quality": "4K",
+        "kinopoisk_id": "1278192",
+        "imdb_id": "tt10551126",
+        "status": "released",
+        "last_air_date": "2026-05-02",
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "Приключения",
+          "Боевик"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2680,
       "time": 1777702324472,
       "card_id": "241609",
@@ -2627,52 +2675,7 @@
       "type": "episode",
       "hash": "s2;e14",
       "premiere": 0
-    },
-    {
-      "id": 2631,
-      "time": 1775905667896,
-      "card_id": "1635276",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/7weSO3kEzMpMgdmte4AasS0tbeV.jpg",
-        "genre_ids": [
-          35
-        ],
-        "id": 1635276,
-        "original_language": "de",
-        "title": "Ешь, молись, лай",
-        "original_title": "Eat Pray Bark – Therapie auf vier Pfoten",
-        "names": [
-          "Ешь, молись, лай",
-          "Eat Pray Bark",
-          "Ешь, молись, рычи",
-          "Eat Pray Bark – Therapie auf vier Pfoten"
-        ],
-        "overview": "Пять владельцев собак обращаются за помощью с непослушными щенками к легендарному кинологу, живущему в горах. Но похоже, что дрессировать надо совсем не пушистиками.",
-        "poster_path": "/rQdmyrSU0ySNkZMOq3URaDhUvdq.jpg",
-        "release_date": "2026-04-01",
-        "video": false,
-        "vote_average": 5.656,
-        "vote_count": 45,
-        "popularity": 63.6885,
-        "PG": 13,
-        "release_quality": "4K",
-        "kinopoisk_id": "11832417",
-        "imdb_id": "tt39465484",
-        "status": "released",
-        "last_air_date": "2026-04-02",
-        "countries": [
-          "Германия"
-        ],
-        "genres": [
-          "Комедия"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.65032958984375
+  "duration": 6.451210021972656
 }
