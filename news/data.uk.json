@@ -2,6 +2,267 @@
   "secuses": true,
   "result": [
     {
+      "id": 2685,
+      "time": 1777995298060,
+      "card_id": "79744",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
+        "genre_ids": [
+          80,
+          18,
+          35
+        ],
+        "id": 79744,
+        "original_language": "en",
+        "name": "Новобранець",
+        "original_name": "The Rookie",
+        "names": [
+          "Новичок",
+          "The Rookie",
+          "Новобранец",
+          "Новобранець"
+        ],
+        "overview": "Починати з чистого аркуша завжди нелегко, особливо для мешканця маленького містечка Джона Нолана. Після інциденту, який перевернув його життя, він вирішив здійснити давню мрію і приєднатися до поліції Лос-Анджелеса. Старого новачка зустрічають із зрозумілим скептицизмом, проте життєвий досвід, наполегливість та почуття гумору дають Джону перевагу.",
+        "poster_path": "/rN4jJz0OquSHAzNRZGRSa018dgx.jpg",
+        "first_air_date": "2018-10-16",
+        "video": false,
+        "vote_average": 8.532,
+        "vote_count": 3147,
+        "popularity": 305.9876,
+        "PG": 0,
+        "release_quality": "hdtv",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1142153",
+        "kp_rating": "8.4",
+        "imdb_id": "tt7587890",
+        "imdb_rating": "8.0",
+        "status": "returning series",
+        "last_air_date": "2026-05-05",
+        "seasons": {
+          "1": 20,
+          "2": 20,
+          "3": 14,
+          "4": 22,
+          "5": 22,
+          "6": 10,
+          "7": 18,
+          "8": 18
+        },
+        "episode": {
+          "air_date": "2026-05-04",
+          "episode_number": 18,
+          "name": "Серія 18",
+          "overview": "",
+          "season_number": 8,
+          "runtime": 43,
+          "still_path": "/vFjXxYZPXm5qM9tRVd0579NoEBW.jpg",
+          "vote_average": 9.5
+        },
+        "genres": [
+          "Кримінал",
+          "Драма",
+          "Комедія"
+        ],
+        "countries": [
+          "United States of America",
+          "Canada"
+        ]
+      },
+      "type": "episode",
+      "hash": "s8;e18",
+      "premiere": 0
+    },
+    {
+      "id": 2684,
+      "time": 1777977299629,
+      "card_id": "85552",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 85552,
+        "original_language": "en",
+        "name": "Ейфорія",
+        "original_name": "Euphoria",
+        "names": [
+          "Эйфория",
+          "Euphoria",
+          "Ейфорія"
+        ],
+        "overview": "У центрі історії — 17-річна Ру Беннетт, яка повернулася до рідного дому після лікування в реабілітаційній клініці. Не гаючи часу, вона знову береться за старі звички — наркотики й тусовки. Однак поява в місті дівчини Джулс стає для Ру знаком надії.",
+        "poster_path": "/nsZkLSw1d0le18B8F0B5VMv6QKJ.jpg",
+        "first_air_date": "2019-06-16",
+        "video": false,
+        "vote_average": 8.282,
+        "vote_count": 10470,
+        "popularity": 306.8116,
+        "PG": 18,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1178445",
+        "kp_rating": "7.5",
+        "imdb_id": "tt8772296",
+        "imdb_rating": "8.2",
+        "status": "returning series",
+        "last_air_date": "2026-05-04",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 4
+        },
+        "episode": {
+          "air_date": "2026-05-03",
+          "episode_number": 4,
+          "name": "Серія 4",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 62,
+          "still_path": "/1DpoRaiA7weWvLSL4PsZPPHwmvI.jpg",
+          "vote_average": 8.7
+        },
+        "genres": [
+          "Драма"
+        ],
+        "countries": [
+          "United States of America",
+          "Israel"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e4",
+      "premiere": 0
+    },
+    {
+      "id": 2683,
+      "time": 1777962903655,
+      "card_id": "1007757",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/wpabGmGA3IaJNGudbzGritmR8Km.jpg",
+        "genre_ids": [
+          12,
+          16,
+          35,
+          10751,
+          14
+        ],
+        "id": 1007757,
+        "original_language": "en",
+        "title": "У чужій шкурі",
+        "original_title": "Swapped",
+        "names": [
+          "У чужій шкурі",
+          "В чужой шкуре",
+          "Swapped"
+        ],
+        "overview": "Крихітна лісова істота й велична птаха зненацька міняються тілами й мусять триматися разом, щоб пережити найдивовижнішу пригоду свого життя.",
+        "poster_path": "/lW8andsu4nCD2zcUjw58WeLhBxs.jpg",
+        "release_date": "2026-05-01",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "popularity": 5.6176,
+        "PG": 6,
+        "release_quality": "webdl",
+        "kinopoisk_id": "6739719",
+        "imdb_id": "tt29552248",
+        "status": "released",
+        "last_air_date": "2026-05-02",
+        "countries": [
+          "United States of America",
+          "Spain"
+        ],
+        "genres": [
+          "Мультфільм",
+          "Сімейний",
+          "Фентезі"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2682,
+      "time": 1777923298041,
+      "card_id": "124364",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "id": 124364,
+        "original_language": "en",
+        "name": "Ззовні",
+        "original_name": "FROM",
+        "names": [
+          "Извне",
+          "From",
+          "Ззовні",
+          "FROM"
+        ],
+        "overview": "Події серіалу відбуваються в містичному містечку, розташованому в центральній частині США. Всі, хто потрапляють туди, опиняються в пастці. Мимовільні жителі борются за збереження залишків здорового глузду та шукають вихід з кошмарної ситуації, адже щоночі їм доводиться переживати напад жахливих створінь, які виходять із заходом сонця з довколишнього лісу.",
+        "poster_path": "/rvlPBfIm6CUQTGorQvf6wK8lPDH.jpg",
+        "first_air_date": "2022-02-20",
+        "video": false,
+        "vote_average": 8.169,
+        "vote_count": 2679,
+        "popularity": 567.3258,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4476885",
+        "kp_rating": "7.6",
+        "imdb_id": "tt9813792",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-05-04",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 3
+        },
+        "episode": {
+          "air_date": "2026-05-03",
+          "episode_number": 3,
+          "name": "Весело ми йдемо",
+          "overview": "Бойд намагається врятувати Акосту від неї самої, тоді як Джулі глибше занурюється у свої нові здібності. Табіта наважується на відчайдушний крок, а Віктор приєднується до Ітана у пошуках відповідей.",
+          "season_number": 4,
+          "runtime": 48,
+          "still_path": "/i4NypsP3189cjfDVnXZiXoUOIJt.jpg",
+          "vote_average": 6.773
+        },
+        "genres": [
+          "Детектив",
+          "Драма",
+          "Науково фантастичний"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s4;e3",
+      "premiere": 0
+    },
+    {
       "id": 2681,
       "time": 1777832234159,
       "card_id": "683205",
@@ -102,7 +363,7 @@
           "season_number": 2,
           "runtime": 59,
           "still_path": "/djqGUjMqU7AxqYAbfxnCo2Be7wO.jpg",
-          "vote_average": 7.333
+          "vote_average": 8.0
         },
         "genres": [
           "Драма",
@@ -169,7 +430,7 @@
           "season_number": 2,
           "runtime": 53,
           "still_path": "/2xCzo9a0UN5RTFP84farSXlSD15.jpg",
-          "vote_average": 8.5
+          "vote_average": 8.25
         },
         "genres": [
           "Науково фантастичний",
@@ -239,7 +500,7 @@
           "season_number": 2,
           "runtime": 48,
           "still_path": "/mjUSg9caDYA6qb4svR1cFJPMAxc.jpg",
-          "vote_average": 8.147
+          "vote_average": 8.222
         },
         "genres": [
           "Драма",
@@ -359,7 +620,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/gBXrmvRXYllskJl0X8wG0SOLE50.jpg",
-          "vote_average": 9.591
+          "vote_average": 9.542
         },
         "genres": [
           "Кримінал",
@@ -477,7 +738,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.838
         },
         "genres": [
           "Науково фантастичний",
@@ -498,7 +759,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
+        "backdrop_path": "/q05WV8DwEiyLbCgSVtg55RbUzou.jpg",
         "genre_ids": [
           28,
           27,
@@ -876,7 +1137,7 @@
           "season_number": 4,
           "runtime": 55,
           "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
-          "vote_average": 6.354
+          "vote_average": 6.423
         },
         "genres": [
           "Детектив",
@@ -1102,7 +1363,7 @@
           "season_number": 2,
           "runtime": 57,
           "still_path": "/aWimIbgbIo0bxhP1sN9cgK6WfSU.jpg",
-          "vote_average": 8.2
+          "vote_average": 8.3
         },
         "genres": [
           "Драма",
@@ -1218,7 +1479,7 @@
           "season_number": 2,
           "runtime": 44,
           "still_path": "/uktOfZpCC4hNSBJZ9rpZf9wFZHo.jpg",
-          "vote_average": 8.333
+          "vote_average": 8.5
         },
         "genres": [
           "Науково фантастичний",
@@ -1358,7 +1619,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.4
+          "vote_average": 7.429
         },
         "genres": [
           "Науково фантастичний",
@@ -1433,7 +1694,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/a103TuPbdItnmw4d4yDFQngJywu.jpg",
-          "vote_average": 7.64
+          "vote_average": 7.6
         },
         "genres": [
           "Мультфільм",
@@ -1845,7 +2106,7 @@
           "season_number": 4,
           "runtime": 54,
           "still_path": "/vW5LTVntIb4YjSlAzhmpsCfig7z.jpg",
-          "vote_average": 6.471
+          "vote_average": 6.5
         },
         "genres": [
           "Детектив",
@@ -1970,7 +2231,7 @@
           "season_number": 2,
           "runtime": 40,
           "still_path": "/6y16mpHEyWJmY7CREy2vmdhE0tG.jpg",
-          "vote_average": 7.778
+          "vote_average": 7.8
         },
         "genres": [
           "Науково фантастичний",
@@ -2037,7 +2298,7 @@
           "season_number": 2,
           "runtime": 50,
           "still_path": "/sQTZIZGSXcI5TAbgJfhez9zyNAq.jpg",
-          "vote_average": 7.5
+          "vote_average": 7.553
         },
         "genres": [
           "Драма"
@@ -2473,8 +2734,8 @@
           "overview": "В ходе масштабного столкновения ничто не идет по плану.",
           "season_number": 4,
           "runtime": 54,
-          "still_path": "/gRKy50PZtmIGH7TSxfnfUuDg3IV.jpg",
-          "vote_average": 8.519
+          "still_path": "/fnzlcPTlo30Anx81oDeS4uaEEyS.jpg",
+          "vote_average": 8.5
         },
         "genres": [
           "Мультфільм",
@@ -2546,7 +2807,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/4ILWEFbicFs4uDpjwNJv4oOHr9v.jpg",
-          "vote_average": 7.84
+          "vote_average": 7.8
         },
         "genres": [
           "Науково фантастичний",
@@ -2737,209 +2998,7 @@
       "type": "episode",
       "hash": "s3;e1",
       "premiere": 0
-    },
-    {
-      "id": 2635,
-      "time": 1776074233098,
-      "card_id": "1266127",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/jSxeFrFCajefwka3TTRY4k8XVEX.jpg",
-        "genre_ids": [
-          27,
-          35
-        ],
-        "id": 1266127,
-        "original_language": "en",
-        "title": "Гра в хованки: Я йду шукати",
-        "original_title": "Ready or Not 2: Here I Come",
-        "names": [
-          "Гра в хованки: Я йду шукати",
-          "Я иду искать 2",
-          "Ready or Not 2: Here I Come",
-          "Ready or Not: Here I Come"
-        ],
-        "overview": "У новій частині напруженої горор-саги Ґрейс, яка дивом вижила після кривавого нападу родини Ле Домас, опиняється на новому рівні моторошної гри. Тепер поруч із нею — її відчужена сестра Фейт, і вижити зможе лише одна з них. Щоб урятуватися, Ґрейс має здобути Верховне місце Ради. Але за трон борються ще чотири могутні родини — і переможець отримає абсолютну владу. Починається смертельне полювання, де ставки вищі, ніж будь-коли.",
-        "poster_path": "/5FFqMx85uV8ttSf7OalLQgz53N2.jpg",
-        "release_date": "2026-03-19",
-        "video": false,
-        "vote_average": 7.169,
-        "vote_count": 124,
-        "popularity": 43.0396,
-        "PG": 17,
-        "release_quality": "webrip",
-        "kinopoisk_id": "6747282",
-        "kp_rating": "6.5",
-        "imdb_id": "tt33978029",
-        "status": "released",
-        "last_air_date": "2026-03-23",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Жахи",
-          "Комедія"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2634,
-      "time": 1776061629033,
-      "card_id": "1049471",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/avwIERZtWiWa34qShf5biDzAVaF.jpg",
-        "genre_ids": [
-          35,
-          18
-        ],
-        "id": 1049471,
-        "original_language": "en",
-        "title": "Наслідки",
-        "original_title": "Outcome",
-        "names": [
-          "Наслідки",
-          "Последствия",
-          "Outcome"
-        ],
-        "overview": "Ріф Гоук, який підкорив Голлівуд ще шестирічним хлопчиком, переживає глибоку кризу. Коли його шантажують таємничим відео, Ріф вирішує взяти справу у свої руки. Тепер він мусить побороти власних демонів і піти на все, аби врятувати свою кар'єру.",
-        "poster_path": "/cSlVfsg60jiA1pl3NWSIySj38TT.jpg",
-        "release_date": "2026-04-06",
-        "video": false,
-        "vote_average": 6,
-        "vote_count": 20,
-        "popularity": 138.5648,
-        "PG": 18,
-        "release_quality": "4K",
-        "kinopoisk_id": "5212144",
-        "imdb_id": "tt23724682",
-        "status": "released",
-        "last_air_date": "2026-04-12",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Комедія",
-          "Драма"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2633,
-      "time": 1775924561969,
-      "card_id": "224377",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/5Dyl2vj73s7S6NhIBtNbBLlZPmH.jpg",
-        "id": 224377,
-        "name": "Гаррі Поттер",
-        "original_name": "Harry Potter",
-        "overview": "В свой 11-ый день рождения Гарри узнаёт, что является самым настоящим волшебником, и его приглашают учиться в школу магии. Поступив, он с головой погружается в мир магии и волшебства, даже не представляя какие испытания ждут его впереди.",
-        "poster_path": "/SJCnXVBJZh7X7ePLt6XMp6TZAj.jpg",
-        "media_type": "tv",
-        "original_language": "en",
-        "genre_ids": [
-          10765,
-          10759,
-          10751
-        ],
-        "popularity": 9.2514,
-        "first_air_date": "2026-12-25",
-        "vote_average": 0,
-        "vote_count": 0,
-        "origin_country": [
-          "GB",
-          "US"
-        ],
-        "trailer_id": "MWtma9a-qYw",
-        "imdb_id": "tt13918446",
-        "genres": [
-          "Науково фантастичний",
-          "Екшн і Пригоди",
-          "Сімейний"
-        ],
-        "countries": [
-          "United Kingdom",
-          "United States of America"
-        ]
-      },
-      "type": "trailer",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2632,
-      "time": 1775922694845,
-      "card_id": "250307",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 250307,
-        "original_language": "en",
-        "name": "Пітт",
-        "original_name": "The Pitt",
-        "names": [
-          "Пітт",
-          "Больница Питт",
-          "The Pitt",
-          "Питт"
-        ],
-        "overview": "Співробітники травматологічного медичного центру Піттсбурга працюють цілодобово, рятуючи життя в переповненому і недофінансованому відділенні невідкладної допомоги.",
-        "poster_path": "/6HvgPcPKRnzUt352r8HHCJlodEa.jpg",
-        "first_air_date": "2025-01-09",
-        "video": false,
-        "vote_average": 8.697,
-        "vote_count": 602,
-        "popularity": 104.8027,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6589776",
-        "kp_rating": "8.7",
-        "imdb_id": "tt31938062",
-        "imdb_rating": "8.9",
-        "status": "returning series",
-        "last_air_date": "2026-04-10",
-        "seasons": {
-          "1": 15,
-          "2": 14
-        },
-        "episode": {
-          "air_date": "2026-04-09",
-          "episode_number": 14,
-          "name": "Серія 14",
-          "overview": "",
-          "season_number": 2,
-          "runtime": 42,
-          "still_path": "/9ckc3UUzcRYRLuMeWJL7Ra1Mm8x.jpg",
-          "vote_average": 7.9
-        },
-        "genres": [
-          "Драма"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e14",
-      "premiere": 0
     }
   ],
-  "duration": 6.451210021972656
+  "duration": 6.539222717285156
 }
