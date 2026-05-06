@@ -2,6 +2,210 @@
   "secuses": true,
   "result": [
     {
+      "id": 2688,
+      "time": 1778085300143,
+      "card_id": "202555",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
+        "genre_ids": [
+          18,
+          10759,
+          80
+        ],
+        "id": 202555,
+        "original_language": "en",
+        "name": "Daredevil: Born Again",
+        "original_name": "Daredevil: Born Again",
+        "names": [
+          "Сорвиголова: Рожденный заново",
+          "Сорвиголова: Рождённый Заново",
+          "Daredevil: Born Again",
+          "Сорвиголова: Рождённый заново",
+          "Daredevil: Born Again | Behind The Scenes"
+        ],
+        "overview": "Сліпий адвокат Метт Мердок процвітає, але його альтер его не забуто. Вілсон Фіск обійняв посаду мера і лише Шибайголова знає, хто ховається за маскою добродушного та чесного політика. Давні вороги, здається, забули про минуле і намагаються не повертатися до супергеройської діяльності. Та чи довго триватиме їх мир чи вони повернуться до ворогів?",
+        "poster_path": "/AfINRYmGTuPrwRrBp9lFgbRjSx2.jpg",
+        "first_air_date": "2025-03-04",
+        "video": false,
+        "vote_average": 8.035,
+        "vote_count": 789,
+        "popularity": 102.3828,
+        "PG": 17,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "5060265",
+        "kp_rating": "7.3",
+        "imdb_id": "tt18923754",
+        "imdb_rating": "8.0",
+        "status": "returning series",
+        "last_air_date": "2026-05-06",
+        "seasons": {
+          "1": 9,
+          "2": 8
+        },
+        "episode": {
+          "air_date": "2026-05-05",
+          "episode_number": 8,
+          "name": "Південний Хрест",
+          "overview": "",
+          "season_number": 2,
+          "runtime": 54,
+          "still_path": "/3hfKhjeS2paNcBojTijENVrur6v.jpg",
+          "vote_average": 7.333
+        },
+        "genres": [
+          "Драма",
+          "Екшн і Пригоди",
+          "Кримінал"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s2;e8",
+      "premiere": 0
+    },
+    {
+      "id": 2687,
+      "time": 1778067298049,
+      "card_id": "76479",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "id": 76479,
+        "original_language": "en",
+        "name": "Хлопаки",
+        "original_name": "The Boys",
+        "names": [
+          "Хлопаки",
+          "Пацаны",
+          "The Boys",
+          "Хлопці / Хлопаки"
+        ],
+        "overview": "Події розгортаються в альтернативному світі, де супергерої є звичним явищем. Вони щоденно по кілька разів рятують світ, знімаються у фільмах і стають обличчями рекламних кампаній відомих брендів. Втім, є і зворотня сторона медалі: кожен день тисячі людей страждають від дій супергероїв, для яких людське життя насправді не коштує зовсім нічого. Але є невеличка групка відчайдухів, яких такий стан справ не влаштовує, вони мають мету – покарати знахабнілих надлюдей та вивести їх на чисту воду…",
+        "poster_path": "/iNKkWK11okzbenMvJY87aOHNfll.jpg",
+        "first_air_date": "2019-07-25",
+        "video": false,
+        "vote_average": 8.438,
+        "vote_count": 12012,
+        "popularity": 652.8489,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "460586",
+        "kp_rating": "8.3",
+        "imdb_id": "tt1190634",
+        "imdb_rating": "8.6",
+        "status": "returning series",
+        "last_air_date": "2026-05-06",
+        "seasons": {
+          "1": 8,
+          "2": 8,
+          "3": 8,
+          "4": 8,
+          "5": 6
+        },
+        "episode": {
+          "air_date": "2026-05-06",
+          "episode_number": 6,
+          "name": "Серія 6",
+          "overview": "",
+          "season_number": 5,
+          "runtime": 63,
+          "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
+          "vote_average": 5.8
+        },
+        "genres": [
+          "Науково фантастичний",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s5;e6",
+      "premiere": 0
+    },
+    {
+      "id": 2686,
+      "time": 1778049302409,
+      "card_id": "289219",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/5SrsdKcN9Flvccq59sIfJbhq1Fk.jpg",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "id": 289219,
+        "original_language": "en",
+        "name": "Зоряні війни: Мол - Король тіней",
+        "original_name": "Star Wars: Maul - Shadow Lord",
+        "names": [
+          "Зоряні війни: Мол - Король тіней",
+          "Звёздные войны. Дарт Мол: Повелитель теней",
+          "Star Wars: Maul - Shadow Lord"
+        ],
+        "overview": "Після Війн клонів Мол планує відновити свій кримінальний синдикат на планеті, якої не торкнулася Імперія.",
+        "poster_path": "/rpbj8B8LCsSythA7RiIffB6ZomQ.jpg",
+        "first_air_date": "2026-04-06",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 55,
+        "popularity": 40.3443,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "7684174",
+        "kp_rating": "8.1",
+        "imdb_id": "tt36594331",
+        "imdb_rating": "8.5",
+        "status": "returning series",
+        "last_air_date": "2026-05-04",
+        "seasons": {
+          "1": 10
+        },
+        "episode": {
+          "air_date": "2026-05-04",
+          "episode_number": 10,
+          "name": "Серія 10",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 26,
+          "still_path": "/6AgKrtdQuSF8zDtBOGFJAKnAPGo.jpg",
+          "vote_average": 9.55
+        },
+        "genres": [
+          "Екшн і Пригоди",
+          "Мультфільм",
+          "Науково фантастичний"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e10",
+      "premiere": 0
+    },
+    {
       "id": 2685,
       "time": 1777995298060,
       "card_id": "79744",
@@ -60,7 +264,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/vFjXxYZPXm5qM9tRVd0579NoEBW.jpg",
-          "vote_average": 9.5
+          "vote_average": 9.667
         },
         "genres": [
           "Кримінал",
@@ -148,7 +352,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/wpabGmGA3IaJNGudbzGritmR8Km.jpg",
+        "backdrop_path": "/s2dTfKNdtbfYz4dRIY0yaUtrZ3.jpg",
         "genre_ids": [
           12,
           16,
@@ -183,7 +387,9 @@
           "Spain"
         ],
         "genres": [
+          "Пригоди",
           "Мультфільм",
+          "Драма",
           "Сімейний",
           "Фентезі"
         ]
@@ -247,7 +453,7 @@
           "season_number": 4,
           "runtime": 48,
           "still_path": "/i4NypsP3189cjfDVnXZiXoUOIJt.jpg",
-          "vote_average": 6.773
+          "vote_average": 7.0
         },
         "genres": [
           "Детектив",
@@ -363,7 +569,7 @@
           "season_number": 2,
           "runtime": 59,
           "still_path": "/djqGUjMqU7AxqYAbfxnCo2Be7wO.jpg",
-          "vote_average": 8.0
+          "vote_average": 7.75
         },
         "genres": [
           "Драма",
@@ -499,8 +705,8 @@
           "overview": "",
           "season_number": 2,
           "runtime": 48,
-          "still_path": "/mjUSg9caDYA6qb4svR1cFJPMAxc.jpg",
-          "vote_average": 8.222
+          "still_path": "/rmlntMleUjbXWgEk0beQla6qTDZ.jpg",
+          "vote_average": 8.2
         },
         "genres": [
           "Драма",
@@ -620,7 +826,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/gBXrmvRXYllskJl0X8wG0SOLE50.jpg",
-          "vote_average": 9.542
+          "vote_average": 9.5
         },
         "genres": [
           "Кримінал",
@@ -738,7 +944,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.838
+          "vote_average": 7.786
         },
         "genres": [
           "Науково фантастичний",
@@ -1137,7 +1343,7 @@
           "season_number": 4,
           "runtime": 55,
           "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
-          "vote_average": 6.423
+          "vote_average": 6.4
         },
         "genres": [
           "Детектив",
@@ -1619,7 +1825,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.429
+          "vote_average": 7.4
         },
         "genres": [
           "Науково фантастичний",
@@ -1818,7 +2024,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/gheN0HmOUZAag4N38HascquineZ.jpg",
-          "vote_average": 9.625
+          "vote_average": 9.6
         },
         "genres": [
           "Кримінал",
@@ -2659,7 +2865,7 @@
           "season_number": 2,
           "runtime": 53,
           "still_path": "/3LwlF3zBobR6QuEIDh2D71KsCq6.jpg",
-          "vote_average": 7.7
+          "vote_average": 7.95
         },
         "genres": [
           "Драма",
@@ -2734,7 +2940,7 @@
           "overview": "В ходе масштабного столкновения ничто не идет по плану.",
           "season_number": 4,
           "runtime": 54,
-          "still_path": "/fnzlcPTlo30Anx81oDeS4uaEEyS.jpg",
+          "still_path": "/vEyYNzrfpLCefYhILeUmdBcLp0M.jpg",
           "vote_average": 8.5
         },
         "genres": [
@@ -2820,185 +3026,7 @@
       "type": "episode",
       "hash": "s5;e3",
       "premiere": 0
-    },
-    {
-      "id": 2638,
-      "time": 1776243676364,
-      "card_id": "79744",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
-        "genre_ids": [
-          80,
-          18,
-          35
-        ],
-        "id": 79744,
-        "original_language": "en",
-        "name": "Новобранець",
-        "original_name": "The Rookie",
-        "names": [
-          "Новичок",
-          "The Rookie",
-          "Новобранец",
-          "Новобранець"
-        ],
-        "overview": "Починати з чистого аркуша завжди нелегко, особливо для мешканця маленького містечка Джона Нолана. Після інциденту, який перевернув його життя, він вирішив здійснити давню мрію і приєднатися до поліції Лос-Анджелеса. Старого новачка зустрічають із зрозумілим скептицизмом, проте життєвий досвід, наполегливість та почуття гумору дають Джону перевагу.",
-        "poster_path": "/rN4jJz0OquSHAzNRZGRSa018dgx.jpg",
-        "first_air_date": "2018-10-16",
-        "video": false,
-        "vote_average": 8.5,
-        "vote_count": 3094,
-        "popularity": 305.7118,
-        "PG": 0,
-        "release_quality": "hdtv",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1142153",
-        "kp_rating": "8.4",
-        "imdb_id": "tt7587890",
-        "imdb_rating": "8.0",
-        "status": "returning series",
-        "last_air_date": "2026-04-15",
-        "seasons": {
-          "1": 20,
-          "2": 20,
-          "3": 14,
-          "4": 22,
-          "5": 22,
-          "6": 10,
-          "7": 18,
-          "8": 15
-        },
-        "episode": {
-          "air_date": "2026-04-13",
-          "episode_number": 15,
-          "name": "Вижити на вулицях",
-          "overview": "Команда об'єднує зусилля після того, як Нолан і Селіна виявляють можливий випадок самогубства, який переростає у справу про змову.",
-          "season_number": 8,
-          "runtime": 43,
-          "still_path": "/jNtElnMNH3i2L45noWugZXat8Tb.jpg",
-          "vote_average": 6.053
-        },
-        "genres": [
-          "Кримінал",
-          "Драма",
-          "Комедія"
-        ],
-        "countries": [
-          "United States of America",
-          "Canada"
-        ]
-      },
-      "type": "episode",
-      "hash": "s8;e15",
-      "premiere": 0
-    },
-    {
-      "id": 2637,
-      "time": 1776191485480,
-      "card_id": "1291595",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/8ujQlfBsLwNDs1lHmGxDMYkUrRT.jpg",
-        "id": 1291595,
-        "title": "Астрал: За межами Потойбіччя",
-        "original_title": "Insidious: Out of the Further",
-        "overview": "Джемма — молода мати, яка виховує доньку в будинку, де виросла сама. Вона виявляє, що може подорожувати до Потойбіччя. Там вона має здатність повертати те, що там мешкає, у реальний світ.",
-        "poster_path": "/hMKteQXfFsxsjhWuEabiTqo41JS.jpg",
-        "media_type": "movie",
-        "original_language": "en",
-        "genre_ids": [
-          27,
-          53
-        ],
-        "popularity": 3.5769,
-        "release_date": "2026-08-19",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "trailer_id": "jxU8FU3o75A",
-        "imdb_id": "tt32393988",
-        "genres": [
-          "Жахи",
-          "Трилер"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "trailer",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2636,
-      "time": 1776160629078,
-      "card_id": "85552",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 85552,
-        "original_language": "en",
-        "name": "Ейфорія",
-        "original_name": "Euphoria",
-        "names": [
-          "Эйфория",
-          "Euphoria",
-          "Ейфорія"
-        ],
-        "overview": "У центрі історії — 17-річна Ру Беннетт, яка повернулася до рідного дому після лікування в реабілітаційній клініці. Не гаючи часу, вона знову береться за старі звички — наркотики й тусовки. Однак поява в місті дівчини Джулс стає для Ру знаком надії.",
-        "poster_path": "/nsZkLSw1d0le18B8F0B5VMv6QKJ.jpg",
-        "first_air_date": "2019-06-16",
-        "video": false,
-        "vote_average": 8.3,
-        "vote_count": 10372,
-        "popularity": 100.0287,
-        "PG": 18,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1178445",
-        "kp_rating": "7.5",
-        "imdb_id": "tt8772296",
-        "imdb_rating": "8.2",
-        "status": "returning series",
-        "last_air_date": "2026-04-13",
-        "seasons": {
-          "1": 10,
-          "2": 8,
-          "3": 1
-        },
-        "episode": {
-          "air_date": "2026-04-12",
-          "episode_number": 1,
-          "name": "Серія 1",
-          "overview": "",
-          "season_number": 3,
-          "runtime": 62,
-          "still_path": "/hbz0xyNFagcXKcBAYbxDJ31wn9M.jpg",
-          "vote_average": 6.6
-        },
-        "genres": [
-          "Драма"
-        ],
-        "countries": [
-          "United States of America",
-          "Israel"
-        ]
-      },
-      "type": "episode",
-      "hash": "s3;e1",
-      "premiere": 0
     }
   ],
-  "duration": 6.539222717285156
+  "duration": 10.205215454101562
 }

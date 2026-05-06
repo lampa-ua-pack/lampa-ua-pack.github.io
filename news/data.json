@@ -2,6 +2,185 @@
   "secuses": true,
   "result": [
     {
+      "id": 2688,
+      "time": 1778085300143,
+      "card_id": "202555",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
+        "genre_ids": [
+          18,
+          10759,
+          80
+        ],
+        "id": 202555,
+        "original_language": "en",
+        "name": "Сорвиголова: Рождённый заново",
+        "original_name": "Daredevil: Born Again",
+        "names": [
+          "Сорвиголова: Рожденный заново",
+          "Сорвиголова: Рождённый Заново",
+          "Daredevil: Born Again",
+          "Сорвиголова: Рождённый заново",
+          "Daredevil: Born Again | Behind The Scenes"
+        ],
+        "overview": "Слепому адвокату Мэтту Мёрдоку снова приходится облачиться в костюм Сорвиголовы, чтобы противостоять криминальному авторитету Уилсону Фиску, который решил занять пост мэра Нью-Йорка.",
+        "poster_path": "/gJIXWIQeq8ZNnAgWbilnMLKcBV7.jpg",
+        "first_air_date": "2025-03-04",
+        "video": false,
+        "vote_average": 8.035,
+        "vote_count": 789,
+        "popularity": 102.3828,
+        "PG": 17,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "5060265",
+        "kp_rating": "7.3",
+        "imdb_id": "tt18923754",
+        "imdb_rating": "8.0",
+        "status": "returning series",
+        "last_air_date": "2026-05-06",
+        "seasons": {
+          "1": 9,
+          "2": 8
+        },
+        "episode": {
+          "air_date": "2026-05-05",
+          "episode_number": 8,
+          "name": "Эпизод 8",
+          "overview": "",
+          "season_number": 2,
+          "runtime": 54,
+          "still_path": "/3hfKhjeS2paNcBojTijENVrur6v.jpg",
+          "vote_average": 4.8
+        }
+      },
+      "type": "episode",
+      "hash": "s2;e8",
+      "premiere": 0
+    },
+    {
+      "id": 2687,
+      "time": 1778067298049,
+      "card_id": "76479",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "id": 76479,
+        "original_language": "en",
+        "name": "Пацаны",
+        "original_name": "The Boys",
+        "names": [
+          "Пацаны",
+          "The Boys",
+          "Хлопці / Хлопаки"
+        ],
+        "overview": "События разворачивается в 2000-ые в мире, где существуют супергерои. Именно они являются настоящими звёздами, которых все знают и обожают. Но за идеальным фасадом скрывается гораздо более мрачный мир наркотиков и секса, а большинство героев в жизни не самые приятные люди. Для контроля за супергероями ЦРУ создаёт специальный отряд, неофициально известный как «Пацаны», суровые члены которого всегда готовы поставить зазнавшегося героя на место самым жестоким способом.",
+        "poster_path": "/z7pZuGOqJKpLpb7WkD63MjFWgwL.jpg",
+        "first_air_date": "2019-07-25",
+        "video": false,
+        "vote_average": 8.438,
+        "vote_count": 12012,
+        "popularity": 652.8489,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "460586",
+        "kp_rating": "8.3",
+        "imdb_id": "tt1190634",
+        "imdb_rating": "8.6",
+        "status": "returning series",
+        "last_air_date": "2026-05-06",
+        "seasons": {
+          "1": 8,
+          "2": 8,
+          "3": 8,
+          "4": 8,
+          "5": 6
+        },
+        "episode": {
+          "air_date": "2026-05-06",
+          "episode_number": 6,
+          "name": "Эпизод 6",
+          "overview": "",
+          "season_number": 5,
+          "runtime": 64,
+          "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
+          "vote_average": 1
+        }
+      },
+      "type": "episode",
+      "hash": "s5;e6",
+      "premiere": 0
+    },
+    {
+      "id": 2686,
+      "time": 1778049302409,
+      "card_id": "289219",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/5SrsdKcN9Flvccq59sIfJbhq1Fk.jpg",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "id": 289219,
+        "original_language": "en",
+        "name": "Звёздные войны. Дарт Мол: Повелитель теней",
+        "original_name": "Star Wars: Maul - Shadow Lord",
+        "names": [
+          "Звёздные войны. Дарт Мол: Повелитель теней",
+          "Star Wars: Maul - Shadow Lord"
+        ],
+        "overview": "После событий на Мандалоре и уничтожения Ордена джедаев Мол скрывается от нового режима и пытается восстановить свою преступную империю «Багровый рассвет». На планете Джаникс он находит падавана по имени Девон Изара, которая вместе со своим учителем-джедаем Эко-Дио Даки выжила после Приказа 66. Мол видит в ней идеального кандидата в ученицы, чтобы использовать её тёмную сторону для мести Палпатину и Империи, которая его предала. Девон же, разочарованная необходимостью выживать и воровать, оказывается перед сложным выбором между учением своего мастера и путём силы, который предлагает Мол. Одновременно с этим местный капитан полиции Лоусон пытается бороться с растущей криминальной угрозой, не привлекая внимания Империи, которая только усугубит положение планеты. Конфликт достигает точки кипения с прибытием на Джаникс инквизиторов, включая Маррока, что вынуждает всех героев пересмотреть свои планы.",
+        "poster_path": "/q1DZC3Pb8j51LIsagxy6E94HPPf.jpg",
+        "first_air_date": "2026-04-06",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 55,
+        "popularity": 40.3443,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "7684174",
+        "kp_rating": "8.1",
+        "imdb_id": "tt36594331",
+        "imdb_rating": "8.5",
+        "status": "returning series",
+        "last_air_date": "2026-05-04",
+        "seasons": {
+          "1": 10
+        },
+        "episode": {
+          "air_date": "2026-05-04",
+          "episode_number": 10,
+          "name": "Эпизод 10",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 26,
+          "still_path": "/6AgKrtdQuSF8zDtBOGFJAKnAPGo.jpg",
+          "vote_average": 9.5
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e10",
+      "premiere": 0
+    },
+    {
       "id": 2685,
       "time": 1777995298060,
       "card_id": "79744",
@@ -2572,162 +2751,7 @@
       "type": "episode",
       "hash": "s5;e3",
       "premiere": 0
-    },
-    {
-      "id": 2638,
-      "time": 1776243676364,
-      "card_id": "79744",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
-        "genre_ids": [
-          80,
-          18,
-          35
-        ],
-        "id": 79744,
-        "original_language": "en",
-        "name": "Новичок",
-        "original_name": "The Rookie",
-        "names": [
-          "Новичок",
-          "The Rookie",
-          "Новобранец",
-          "Новобранець"
-        ],
-        "overview": "Начинать с чистого листа всегда нелегко, особенно для уроженца маленького городка Джона Нолана, который после инцидента, перевернувшего его жизнь, решил воплотить в жизнь давнюю мечту и присоединиться к полиции Лос-Анджелеса. Возрастного новичка встречают с понятным скептицизмом, однако жизненный опыт, упорство и чувство юмора дают Джону преимущество.",
-        "poster_path": "/jfxInWjSixQeeyT7oiBvdXjd7HM.jpg",
-        "first_air_date": "2018-10-16",
-        "video": false,
-        "vote_average": 8.5,
-        "vote_count": 3094,
-        "popularity": 305.7118,
-        "PG": 0,
-        "release_quality": "hdtv",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1142153",
-        "kp_rating": "8.4",
-        "imdb_id": "tt7587890",
-        "imdb_rating": "8.0",
-        "status": "returning series",
-        "last_air_date": "2026-04-15",
-        "seasons": {
-          "1": 20,
-          "2": 20,
-          "3": 14,
-          "4": 22,
-          "5": 22,
-          "6": 10,
-          "7": 18,
-          "8": 15
-        },
-        "episode": {
-          "air_date": "2026-04-13",
-          "episode_number": 15,
-          "name": "Эпизод 15",
-          "overview": "",
-          "season_number": 8,
-          "runtime": 43,
-          "still_path": "/jNtElnMNH3i2L45noWugZXat8Tb.jpg",
-          "vote_average": 5.8
-        }
-      },
-      "type": "episode",
-      "hash": "s8;e15",
-      "premiere": 0
-    },
-    {
-      "id": 2637,
-      "time": 1776191485480,
-      "card_id": "1291595",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/8ujQlfBsLwNDs1lHmGxDMYkUrRT.jpg",
-        "id": 1291595,
-        "title": "Астрал 6: они уже здесь",
-        "original_title": "Insidious: Out of the Further",
-        "overview": "Молодая женщина обнаруживает, что может перемещаться в небытие и приносить оттуда в наш мир зловещих призраков.",
-        "poster_path": "/2hfvVae4Jjbfe4yIc2ygGfqI1Mt.jpg",
-        "media_type": "movie",
-        "original_language": "en",
-        "genre_ids": [
-          27,
-          53
-        ],
-        "popularity": 3.5769,
-        "release_date": "2026-08-19",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "trailer_id": "jxU8FU3o75A",
-        "imdb_id": "tt32393988"
-      },
-      "type": "trailer",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2636,
-      "time": 1776160629078,
-      "card_id": "85552",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/9KnIzPCv9XpWA0MqmwiKBZvV1Sj.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 85552,
-        "original_language": "en",
-        "name": "Эйфория",
-        "original_name": "Euphoria",
-        "names": [
-          "Эйфория",
-          "Euphoria",
-          "Ейфорія"
-        ],
-        "overview": "Группа старшеклассников исследует любовь и дружбу в мире наркотиков, секса, травм и социальных сетей.",
-        "poster_path": "/yJz0VPfztciUt8cYulEOnk7wQhs.jpg",
-        "first_air_date": "2019-06-16",
-        "video": false,
-        "vote_average": 8.3,
-        "vote_count": 10372,
-        "popularity": 100.0287,
-        "PG": 18,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1178445",
-        "kp_rating": "7.5",
-        "imdb_id": "tt8772296",
-        "imdb_rating": "8.2",
-        "status": "returning series",
-        "last_air_date": "2026-04-13",
-        "seasons": {
-          "1": 10,
-          "2": 8,
-          "3": 1
-        },
-        "episode": {
-          "air_date": "2026-04-12",
-          "episode_number": 1,
-          "name": "Эпизод 1",
-          "overview": "",
-          "season_number": 3,
-          "runtime": 62,
-          "still_path": "/hbz0xyNFagcXKcBAYbxDJ31wn9M.jpg",
-          "vote_average": 6.9
-        }
-      },
-      "type": "episode",
-      "hash": "s3;e1",
-      "premiere": 0
     }
   ],
-  "duration": 6.539222717285156
+  "duration": 10.205215454101562
 }
