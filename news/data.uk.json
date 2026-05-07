@@ -2,6 +2,113 @@
   "secuses": true,
   "result": [
     {
+      "id": 2690,
+      "time": 1778164498123,
+      "card_id": "1430077",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/e9UvRjJAqn2hLXDfMHU1LFMEKGv.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 1430077,
+        "original_language": "en",
+        "title": "Гокум",
+        "original_title": "Hokum",
+        "names": [
+          "Гокум",
+          "Хокум",
+          "Hokum"
+        ],
+        "overview": "Письменник романів жахів Ом Бауман приїжджає до ірландського готелю, щоб розвіяти прах своїх батьків, не підозрюючи, що в цьому місці, за чутками, мешкає відьма. З наближенням ночі він стикається з незрозумілими явищами та таємницями минулого, які поступово розкривають зловісну природу цього віддаленого куточка.",
+        "poster_path": "/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
+        "release_date": "2026-04-29",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 8,
+        "popularity": 25.7065,
+        "PG": 17,
+        "release_quality": "ts",
+        "kinopoisk_id": "10359971",
+        "imdb_id": "tt35672862",
+        "imdb_rating": "8.5",
+        "status": "released",
+        "last_air_date": "2026-05-03",
+        "countries": [
+          "United Arab Emirates",
+          "United States of America",
+          "Hong Kong",
+          "Ireland"
+        ],
+        "genres": [
+          "Жахи"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2689,
+      "time": 1778155498292,
+      "card_id": "278113",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/kuLhcTkriaiXYYdKGS9yt0AX4F4.jpg",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "id": 278113,
+        "original_language": "ko",
+        "name": "Ґолдленд",
+        "original_name": "골드랜드",
+        "names": [
+          "Ґолдленд",
+          "Золотое место",
+          "Goldeurendeu",
+          "Золотая земля / Gold Land / Голдлэнд",
+          "골드랜드",
+          "Золотая земля",
+          "Goldeu Laendeu"
+        ],
+        "overview": "Молода жінка, яка працює агенткою служби безпеки в аеропорту, випадково отримує у своє розпорядження золоті злитки контрабандистського угруповання. Опинившись у хаотичному вирі жадібності та зрад між різними сторонами, що борються за золото, вона поступово піддається бажанню забрати все собі.",
+        "poster_path": "/exAqL4Hbh2M712QlFwGDTqZeiAl.jpg",
+        "first_air_date": "2026-04-29",
+        "video": false,
+        "vote_average": 9.5,
+        "vote_count": 4,
+        "popularity": 37.2514,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "8178640",
+        "imdb_id": "tt37253311",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-05-07",
+        "seasons": {
+          "1": 4
+        },
+        "countries": [
+          "South Korea"
+        ],
+        "genres": [
+          "Драма",
+          "Кримінал",
+          "Детектив"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2688,
       "time": 1778085300143,
       "card_id": "202555",
@@ -54,8 +161,8 @@
           "overview": "",
           "season_number": 2,
           "runtime": 54,
-          "still_path": "/3hfKhjeS2paNcBojTijENVrur6v.jpg",
-          "vote_average": 7.333
+          "still_path": "/jXNkxnwgWuWy9ZyZm4g5DeNO79.jpg",
+          "vote_average": 7.8
         },
         "genres": [
           "Драма",
@@ -123,9 +230,9 @@
           "name": "Серія 6",
           "overview": "",
           "season_number": 5,
-          "runtime": 63,
+          "runtime": 65,
           "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
-          "vote_average": 5.8
+          "vote_average": 7.3
         },
         "genres": [
           "Науково фантастичний",
@@ -190,7 +297,7 @@
           "season_number": 1,
           "runtime": 26,
           "still_path": "/6AgKrtdQuSF8zDtBOGFJAKnAPGo.jpg",
-          "vote_average": 9.55
+          "vote_average": 8.9
         },
         "genres": [
           "Екшн і Пригоди",
@@ -264,7 +371,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/vFjXxYZPXm5qM9tRVd0579NoEBW.jpg",
-          "vote_average": 9.667
+          "vote_average": 9.55
         },
         "genres": [
           "Кримінал",
@@ -331,7 +438,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/1DpoRaiA7weWvLSL4PsZPPHwmvI.jpg",
-          "vote_average": 8.7
+          "vote_average": 8.6
         },
         "genres": [
           "Драма"
@@ -352,7 +459,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/s2dTfKNdtbfYz4dRIY0yaUtrZ3.jpg",
+        "backdrop_path": "/wpabGmGA3IaJNGudbzGritmR8Km.jpg",
         "genre_ids": [
           12,
           16,
@@ -389,9 +496,9 @@
         "genres": [
           "Пригоди",
           "Мультфільм",
-          "Драма",
           "Сімейний",
-          "Фентезі"
+          "Фентезі",
+          "Комедія"
         ]
       },
       "type": "now_playing",
@@ -453,7 +560,7 @@
           "season_number": 4,
           "runtime": 48,
           "still_path": "/i4NypsP3189cjfDVnXZiXoUOIJt.jpg",
-          "vote_average": 7.0
+          "vote_average": 7.1
         },
         "genres": [
           "Детектив",
@@ -636,7 +743,7 @@
           "season_number": 2,
           "runtime": 53,
           "still_path": "/2xCzo9a0UN5RTFP84farSXlSD15.jpg",
-          "vote_average": 8.25
+          "vote_average": 8.071
         },
         "genres": [
           "Науково фантастичний",
@@ -706,7 +813,7 @@
           "season_number": 2,
           "runtime": 48,
           "still_path": "/rmlntMleUjbXWgEk0beQla6qTDZ.jpg",
-          "vote_average": 8.2
+          "vote_average": 8.0
         },
         "genres": [
           "Драма",
@@ -944,7 +1051,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.786
+          "vote_average": 7.8
         },
         "genres": [
           "Науково фантастичний",
@@ -1499,7 +1606,7 @@
           "season_number": 1,
           "runtime": 28,
           "still_path": "/ls5Ctm2zIjMlEVpItcv3JU5GLRA.jpg",
-          "vote_average": 5.667
+          "vote_average": 5.714
         },
         "genres": [
           "Мультфільм",
@@ -1685,7 +1792,7 @@
           "season_number": 2,
           "runtime": 44,
           "still_path": "/uktOfZpCC4hNSBJZ9rpZf9wFZHo.jpg",
-          "vote_average": 8.5
+          "vote_average": 8.364
         },
         "genres": [
           "Науково фантастичний",
@@ -1755,7 +1862,7 @@
           "season_number": 2,
           "runtime": 52,
           "still_path": "/lbuiEvKOaQEw4mG880gsdg8GKvr.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.4
         },
         "genres": [
           "Драма",
@@ -2437,7 +2544,7 @@
           "season_number": 2,
           "runtime": 40,
           "still_path": "/6y16mpHEyWJmY7CREy2vmdhE0tG.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.7
         },
         "genres": [
           "Науково фантастичний",
@@ -2865,7 +2972,7 @@
           "season_number": 2,
           "runtime": 53,
           "still_path": "/3LwlF3zBobR6QuEIDh2D71KsCq6.jpg",
-          "vote_average": 7.95
+          "vote_average": 8.0
         },
         "genres": [
           "Драма",
@@ -2879,154 +2986,7 @@
       "type": "episode",
       "hash": "s2;e5",
       "premiere": 0
-    },
-    {
-      "id": 2640,
-      "time": 1776279687684,
-      "card_id": "95557",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
-        "genre_ids": [
-          16,
-          18,
-          10765,
-          10759
-        ],
-        "id": 95557,
-        "original_language": "en",
-        "name": "НЕПЕРЕМОЖНИЙ",
-        "original_name": "INVINCIBLE",
-        "names": [
-          "НЕПЕРЕМОЖНИЙ",
-          "Неуязвимый",
-          "Invincible",
-          "Невразливий",
-          "Непобедимый",
-          "Invisible",
-          "INVINCIBLE",
-          "НЕПОБЕДИМЫЙ",
-          "Invencible"
-        ],
-        "overview": "17-річний Марк Грейсон дізнається, що його батько наймогутніший супергерой на Землі. Тепер підлітку належить впоратися з силами, які дісталися йому у спадок.",
-        "poster_path": "/nMmOmuLQKAwQigEgnbIrSeoWlxQ.jpg",
-        "first_air_date": "2021-03-25",
-        "video": false,
-        "vote_average": 8.6,
-        "vote_count": 5511,
-        "popularity": 220.7368,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1171895",
-        "kp_rating": "8.1",
-        "imdb_id": "tt6741278",
-        "imdb_rating": "8.7",
-        "status": "returning series",
-        "last_air_date": "2026-04-15",
-        "seasons": {
-          "1": 8,
-          "2": 8,
-          "3": 8,
-          "4": 7
-        },
-        "episode": {
-          "air_date": "2026-04-15",
-          "episode_number": 7,
-          "name": "НЕ РОБИ НІЧОГО НЕОБАЧНОГО",
-          "overview": "В ходе масштабного столкновения ничто не идет по плану.",
-          "season_number": 4,
-          "runtime": 54,
-          "still_path": "/vEyYNzrfpLCefYhILeUmdBcLp0M.jpg",
-          "vote_average": 8.5
-        },
-        "genres": [
-          "Мультфільм",
-          "Драма",
-          "Науково фантастичний",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "Canada",
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s4;e7",
-      "premiere": 0
-    },
-    {
-      "id": 2639,
-      "time": 1776261676463,
-      "card_id": "76479",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-        "genre_ids": [
-          10765,
-          10759
-        ],
-        "id": 76479,
-        "original_language": "en",
-        "name": "Хлопаки",
-        "original_name": "The Boys",
-        "names": [
-          "Хлопаки",
-          "Пацаны",
-          "The Boys",
-          "Хлопці / Хлопаки"
-        ],
-        "overview": "Події розгортаються в альтернативному світі, де супергерої є звичним явищем. Вони щоденно по кілька разів рятують світ, знімаються у фільмах і стають обличчями рекламних кампаній відомих брендів. Втім, є і зворотня сторона медалі: кожен день тисячі людей страждають від дій супергероїв, для яких людське життя насправді не коштує зовсім нічого. Але є невеличка групка відчайдухів, яких такий стан справ не влаштовує, вони мають мету – покарати знахабнілих надлюдей та вивести їх на чисту воду…",
-        "poster_path": "/iNKkWK11okzbenMvJY87aOHNfll.jpg",
-        "first_air_date": "2019-07-25",
-        "video": false,
-        "vote_average": 8.4,
-        "vote_count": 11816,
-        "popularity": 802.7863,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "460586",
-        "kp_rating": "8.3",
-        "imdb_id": "tt1190634",
-        "imdb_rating": "8.6",
-        "status": "returning series",
-        "last_air_date": "2026-04-15",
-        "seasons": {
-          "1": 8,
-          "2": 8,
-          "3": 8,
-          "4": 8,
-          "5": 3
-        },
-        "episode": {
-          "air_date": "2026-04-15",
-          "episode_number": 3,
-          "name": "Усі ви, сучі діти",
-          "overview": "Вразьте її чуття спреєм для тіла «В-Бро Манговий Грім» від «Воут»! Вона ніколи не дізнається, що її вразило!",
-          "season_number": 5,
-          "runtime": 66,
-          "still_path": "/4ILWEFbicFs4uDpjwNJv4oOHr9v.jpg",
-          "vote_average": 7.8
-        },
-        "genres": [
-          "Науково фантастичний",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s5;e3",
-      "premiere": 0
     }
   ],
-  "duration": 10.205215454101562
+  "duration": 5.27923583984375
 }

@@ -2,6 +2,111 @@
   "secuses": true,
   "result": [
     {
+      "id": 2690,
+      "time": 1778164498123,
+      "card_id": "1430077",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/e9UvRjJAqn2hLXDfMHU1LFMEKGv.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 1430077,
+        "original_language": "en",
+        "title": "Хокум",
+        "original_title": "Hokum",
+        "names": [
+          "Хокум",
+          "Hokum"
+        ],
+        "overview": "Писатель романов ужасов Ом Бауман приезжает в ирландскую гостиницу, чтобы развеять прах родителей, не подозревая, что в этом месте, по слухам, обитает ведьма. С приближением ночи он сталкивается с необъяснимыми явлениями и тайнами прошлого, которые постепенно раскрывают зловещую природу этого уединённого уголка.",
+        "poster_path": "/zt5cQrDQG12EeaoebhdQV94ZgFi.jpg",
+        "release_date": "2026-04-29",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 8,
+        "popularity": 25.7065,
+        "PG": 17,
+        "release_quality": "ts",
+        "kinopoisk_id": "10359971",
+        "imdb_id": "tt35672862",
+        "imdb_rating": "8.5",
+        "status": "released",
+        "last_air_date": "2026-05-03",
+        "countries": [
+          "ОАЭ",
+          "США",
+          "Гонконг",
+          "Ирландия"
+        ],
+        "genres": [
+          "Ужасы"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2689,
+      "time": 1778155498292,
+      "card_id": "278113",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/kuLhcTkriaiXYYdKGS9yt0AX4F4.jpg",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "id": 278113,
+        "original_language": "ko",
+        "name": "Золотое место",
+        "original_name": "골드랜드",
+        "names": [
+          "Золотое место",
+          "Goldeurendeu",
+          "Золотая земля / Gold Land / Голдлэнд",
+          "골드랜드",
+          "Золотая земля",
+          "Goldeu Laendeu"
+        ],
+        "overview": "Ким Хи Чжу (Пак Бо Ён) – сотрудница службы досмотра в международном аэропорту, которая оказывается втянута в дело о нелегальной контрабанде золотых слитков на сумму 60 миллиардов вон. Она выросла в настолько неблагополучной семье, что про неё говорили: «Родилась хронической неудачницей». Съехав от родителей, она устроилась на работу в «Голдлэнд» – первое в Корее казино, созданное с целью оживления экономики шахтёрского региона, пришедшего в упадок. Там она случайно встретила мужчину, с которым у неё завязался бурный роман. Однако после того, как она оказывается замешанной в загадочном покушении на убийство, связанном с золотом неизвестного происхождения, ей приходится отчаянно бороться, чтобы сохранить и деньги, и любовь.",
+        "poster_path": "/exAqL4Hbh2M712QlFwGDTqZeiAl.jpg",
+        "first_air_date": "2026-04-29",
+        "video": false,
+        "vote_average": 9.5,
+        "vote_count": 4,
+        "popularity": 37.2514,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "8178640",
+        "imdb_id": "tt37253311",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-05-07",
+        "seasons": {
+          "1": 4
+        },
+        "countries": [
+          "Южная Корея"
+        ],
+        "genres": [
+          "Драма",
+          "Криминал",
+          "Детектив"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2688,
       "time": 1778085300143,
       "card_id": "202555",
@@ -2623,135 +2728,7 @@
       "type": "episode",
       "hash": "s2;e5",
       "premiere": 0
-    },
-    {
-      "id": 2640,
-      "time": 1776279687684,
-      "card_id": "95557",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
-        "genre_ids": [
-          16,
-          18,
-          10765,
-          10759
-        ],
-        "id": 95557,
-        "original_language": "en",
-        "name": "НЕПОБЕДИМЫЙ",
-        "original_name": "Invincible",
-        "names": [
-          "Неуязвимый",
-          "Invincible",
-          "Невразливий",
-          "Непобедимый",
-          "Invisible",
-          "INVINCIBLE",
-          "НЕПОБЕДИМЫЙ",
-          "Invencible"
-        ],
-        "overview": "Когда в 17 лет Марк Грейсон унаследует суперспособности, он присоединяется к своему отцу, став одним из величайших героев Земли. Все его мечты исполнились - пока шокурующее событие не меняет всё.",
-        "poster_path": "/fXSjDqVMl5nEIXiCt2tbEyWKAuh.jpg",
-        "first_air_date": "2021-03-25",
-        "video": false,
-        "vote_average": 8.6,
-        "vote_count": 5511,
-        "popularity": 220.7368,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1171895",
-        "kp_rating": "8.1",
-        "imdb_id": "tt6741278",
-        "imdb_rating": "8.7",
-        "status": "returning series",
-        "last_air_date": "2026-04-15",
-        "seasons": {
-          "1": 8,
-          "2": 8,
-          "3": 8,
-          "4": 7
-        },
-        "episode": {
-          "air_date": "2026-04-15",
-          "episode_number": 7,
-          "name": "Не делай ничего опрометчивого",
-          "overview": "В ходе масштабного столкновения ничто не идет по плану.",
-          "season_number": 4,
-          "runtime": null,
-          "still_path": "/vEyYNzrfpLCefYhILeUmdBcLp0M.jpg",
-          "vote_average": 10
-        }
-      },
-      "type": "episode",
-      "hash": "s4;e7",
-      "premiere": 0
-    },
-    {
-      "id": 2639,
-      "time": 1776261676463,
-      "card_id": "76479",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-        "genre_ids": [
-          10765,
-          10759
-        ],
-        "id": 76479,
-        "original_language": "en",
-        "name": "Пацаны",
-        "original_name": "The Boys",
-        "names": [
-          "Пацаны",
-          "The Boys",
-          "Хлопці / Хлопаки"
-        ],
-        "overview": "События разворачивается в 2000-ые в мире, где существуют супергерои. Именно они являются настоящими звёздами, которых все знают и обожают. Но за идеальным фасадом скрывается гораздо более мрачный мир наркотиков и секса, а большинство героев в жизни не самые приятные люди. Для контроля за супергероями ЦРУ создаёт специальный отряд, неофициально известный как «Пацаны», суровые члены которого всегда готовы поставить зазнавшегося героя на место самым жестоким способом.",
-        "poster_path": "/3NqlBDpWI83TgQ9nmeFwTVxEmtZ.jpg",
-        "first_air_date": "2019-07-25",
-        "video": false,
-        "vote_average": 8.4,
-        "vote_count": 11816,
-        "popularity": 802.7863,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "460586",
-        "kp_rating": "8.3",
-        "imdb_id": "tt1190634",
-        "imdb_rating": "8.6",
-        "status": "returning series",
-        "last_air_date": "2026-04-15",
-        "seasons": {
-          "1": 8,
-          "2": 8,
-          "3": 8,
-          "4": 8,
-          "5": 3
-        },
-        "episode": {
-          "air_date": "2026-04-15",
-          "episode_number": 3,
-          "name": "Эпизод 3",
-          "overview": "",
-          "season_number": 5,
-          "runtime": 65,
-          "still_path": "/4ILWEFbicFs4uDpjwNJv4oOHr9v.jpg",
-          "vote_average": 7.75
-        }
-      },
-      "type": "episode",
-      "hash": "s5;e3",
-      "premiere": 0
     }
   ],
-  "duration": 10.205215454101562
+  "duration": 5.27923583984375
 }
