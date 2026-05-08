@@ -2,6 +2,223 @@
   "secuses": true,
   "result": [
     {
+      "id": 2694,
+      "time": 1778247298103,
+      "card_id": "241609",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 241609,
+        "original_language": "en",
+        "name": "Друзья и соседи",
+        "original_name": "Your Friends & Neighbors",
+        "names": [
+          "Друзья и соседи",
+          "Друзья и Соседи",
+          "Your Friends & Neighbors",
+          "Your Friends and Neighbors"
+        ],
+        "overview": "После внезапного развода и потери работы крупный финансист начинает грабить богатых соседей, чтобы удержаться на плаву. Кражи у людей из того же социального слоя странным образом ободряют его, но постепенно он запутывается в смертоносной паутине.",
+        "poster_path": "/wr6dsSOfht23oiym1TcAlMN7R3k.jpg",
+        "first_air_date": "2025-04-10",
+        "video": false,
+        "vote_average": 7.615,
+        "vote_count": 204,
+        "popularity": 42.4644,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6600202",
+        "kp_rating": "7.5",
+        "imdb_id": "tt30459041",
+        "imdb_rating": "7.7",
+        "status": "returning series",
+        "last_air_date": "2026-05-08",
+        "seasons": {
+          "1": 9,
+          "2": 6
+        },
+        "episode": {
+          "air_date": "2026-05-07",
+          "episode_number": 6,
+          "name": "Эпизод 6",
+          "overview": "",
+          "season_number": 2,
+          "runtime": 42,
+          "still_path": "/htfy0mGyz1dzvX9j7dowdXVtept.jpg",
+          "vote_average": 8
+        }
+      },
+      "type": "episode",
+      "hash": "s2;e6",
+      "premiere": 0
+    },
+    {
+      "id": 2693,
+      "time": 1778245502439,
+      "card_id": "257994",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/uvmn7g7G0cVj7OVeDRrklky4NfF.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          10751
+        ],
+        "id": 257994,
+        "original_language": "en",
+        "name": "Получеловек",
+        "original_name": "Half Man",
+        "names": [
+          "Получеловек",
+          "Half Man"
+        ],
+        "overview": "Когда на свадьбе у Ниалла появляется его «брат» Рубен, с которым он давно не общался, это приводит к вспышке насилия.",
+        "poster_path": "/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg",
+        "first_air_date": "2026-04-28",
+        "video": false,
+        "vote_average": 8.167,
+        "vote_count": 12,
+        "popularity": 38.0668,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "GB"
+        ],
+        "kinopoisk_id": "7919289",
+        "imdb_id": "tt32767294",
+        "imdb_rating": "7.1",
+        "status": "returning series",
+        "last_air_date": "2026-05-08",
+        "seasons": {
+          "1": 3
+        },
+        "countries": [
+          "Великобритания"
+        ],
+        "genres": [
+          "Драма",
+          "Детектив"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2692,
+      "time": 1778232902773,
+      "card_id": "931285",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+        "genre_ids": [
+          28,
+          14,
+          12
+        ],
+        "id": 931285,
+        "original_language": "en",
+        "title": "Мортал Комбат 2",
+        "original_title": "Mortal Kombat II",
+        "names": [
+          "Мортал Комбат 2",
+          "Mortal Kombat 2",
+          "Mortal Kombat II"
+        ],
+        "overview": "Чемпионы Земного царства вместе с Джонни Кейджем вступают в схватку друг с другом, чтобы предотвратить тёмное правление Шао Кана.",
+        "poster_path": "/4WgJ5Dk0JhPdCdJkwHNVyJyQYdH.jpg",
+        "release_date": "2026-05-06",
+        "video": false,
+        "vote_average": 7.618,
+        "vote_count": 17,
+        "popularity": 63.4594,
+        "PG": 18,
+        "release_quality": "ts",
+        "kinopoisk_id": "4876869",
+        "imdb_id": "tt17490712",
+        "status": "released",
+        "last_air_date": "2026-05-08",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Боевик",
+          "Фэнтези",
+          "Приключения"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2691,
+      "time": 1778227500865,
+      "card_id": "285838",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+        "genre_ids": [
+          9648,
+          18
+        ],
+        "id": 285838,
+        "original_language": "ko",
+        "name": "Если бы желания могли убивать",
+        "original_name": "기리고",
+        "names": [
+          "Загадай свою смерть",
+          "Girigo",
+          "Желаю твоей смерти / If Wishes Could Kill / Если бы желания могли убивать",
+          "기리고",
+          "Если бы желания могли убивать",
+          "Girigo / If Wishes Could Kill"
+        ],
+        "overview": "Таинственное приложение обещает исполнить желания, а затем запускает обратный отсчет до смерти. Чтобы выжить, группе подростков нужно разорвать смертельную цепочку.",
+        "poster_path": "/8aPlFXx0wCrzBdxRsQhZM3c4XEt.jpg",
+        "first_air_date": "2026-04-24",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 53,
+        "popularity": 85.2914,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "7343988",
+        "kp_rating": "7.0",
+        "imdb_id": "tt36104233",
+        "imdb_rating": "7.2",
+        "status": "ended",
+        "last_air_date": "2026-04-26",
+        "seasons": {
+          "1": 8
+        },
+        "countries": [
+          "Южная Корея"
+        ],
+        "genres": [
+          "Детектив",
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2690,
       "time": 1778164498123,
       "card_id": "1430077",
@@ -2542,193 +2759,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2644,
-      "time": 1776407486773,
-      "card_id": "1400336",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/nubnNXuMArUhiDW1nUevGsG65x9.jpg",
-        "id": 1400336,
-        "title": "Знакомство с родителями 4",
-        "original_title": "Focker-In-Law",
-        "overview": "Молодой человек по имени Генри, сын Грега и Пэм Факеров, сталкивается с хаосом в семье, когда решает жениться на волевой женщине, которая, по-видимому, ему совершенно не подходит.",
-        "poster_path": "/sJRRWfgAKlBS1dO1XzqX44FbHws.jpg",
-        "media_type": "movie",
-        "original_language": "en",
-        "genre_ids": [
-          35,
-          10749
-        ],
-        "popularity": 3.6073,
-        "release_date": "2026-11-25",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "trailer_id": "vyISuWUWcFs",
-        "imdb_id": "tt34966140"
-      },
-      "type": "trailer",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2643,
-      "time": 1776358878378,
-      "card_id": "661568",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/cNRYvkHKoRw8AuZxf7XecRfSuvM.jpg",
-        "genre_ids": [
-          10749,
-          18,
-          35
-        ],
-        "id": 661568,
-        "original_language": "fr",
-        "title": "Мектуб, моя любовь: Песнь вторая",
-        "original_title": "Mektoub, My Love: Canto Due",
-        "names": [
-          "Мектуб, моя любовь: Песнь вторая",
-          "Mektoub, My Love: Canto Due"
-        ],
-        "overview": "Амин возвращается в родной Сет, всё еще одержимый мечтой о большом кино. И, кажется, удача на его стороне: влиятельный голливудский продюсер готов запустить его проект. Условие лишь одно — главную роль должна сыграть жена продюсера, Джесс. Перед Амином открываются блестящие перспективы, но под палящим солнцем юга Франции всё идет не по сценарию. В дело вмешиваются случайные встречи и непредсказуемые чувства, ведь у капризной судьбы свои виды на этот фильм.",
-        "poster_path": "/Ag0gzbjcdUu8t0eeFks2USP9a5V.jpg",
-        "release_date": "2025-12-03",
-        "video": false,
-        "vote_average": 7.6,
-        "vote_count": 11,
-        "popularity": 3.6212,
-        "PG": 0,
-        "release_quality": "bdrip",
-        "kinopoisk_id": "5080908",
-        "imdb_id": "tt21811188",
-        "imdb_rating": "7.1",
-        "status": "released",
-        "last_air_date": "2026-04-15",
-        "countries": [
-          "Франция"
-        ],
-        "genres": [
-          "Мелодрама",
-          "Драма",
-          "Комедия"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2642,
-      "time": 1776355282350,
-      "card_id": "1290417",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
-        "genre_ids": [
-          27,
-          53
-        ],
-        "id": 1290417,
-        "original_language": "en",
-        "title": "Хищный рывок",
-        "original_title": "Thrash",
-        "names": [
-          "Хищный рывок",
-          "Thrash"
-        ],
-        "overview": "Когда ураган категории 5 разрушает прибрежный город, штормовой прилив приносит не только разрушения и хаос, но и нечто куда более пугающее — голодных акул.",
-        "poster_path": "/1xNg6ImdaSEshc2nYNEYzEbIV6W.jpg",
-        "release_date": "2026-04-10",
-        "video": false,
-        "vote_average": 5.916,
-        "vote_count": 249,
-        "popularity": 253.4786,
-        "PG": 17,
-        "release_quality": "webdl",
-        "kinopoisk_id": "8883351",
-        "imdb_id": "tt32362890",
-        "status": "released",
-        "last_air_date": "2026-04-12",
-        "countries": [
-          "США",
-          "Австралия"
-        ],
-        "genres": [
-          "Ужасы",
-          "Триллер"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2641,
-      "time": 1776333679061,
-      "card_id": "202555",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
-        "genre_ids": [
-          18,
-          10759,
-          80
-        ],
-        "id": 202555,
-        "original_language": "en",
-        "name": "Сорвиголова: Рождённый заново",
-        "original_name": "Daredevil: Born Again",
-        "names": [
-          "Сорвиголова: Рожденный заново",
-          "Сорвиголова: Рождённый Заново",
-          "Daredevil: Born Again",
-          "Сорвиголова: Рождённый заново",
-          "Daredevil: Born Again | Behind The Scenes"
-        ],
-        "overview": "Слепому адвокату Мэтту Мёрдоку снова приходится облачиться в костюм Сорвиголовы, чтобы противостоять криминальному авторитету Уилсону Фиску, который решил занять пост мэра Нью-Йорка.",
-        "poster_path": "/gJIXWIQeq8ZNnAgWbilnMLKcBV7.jpg",
-        "first_air_date": "2025-03-04",
-        "video": false,
-        "vote_average": 8,
-        "vote_count": 745,
-        "popularity": 117.6074,
-        "PG": 17,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "5060265",
-        "kp_rating": "7.3",
-        "imdb_id": "tt18923754",
-        "imdb_rating": "8.0",
-        "status": "returning series",
-        "last_air_date": "2026-04-15",
-        "seasons": {
-          "1": 9,
-          "2": 5
-        },
-        "episode": {
-          "air_date": "2026-04-14",
-          "episode_number": 5,
-          "name": "Эпизод 5",
-          "overview": "",
-          "season_number": 2,
-          "runtime": 53,
-          "still_path": "/3LwlF3zBobR6QuEIDh2D71KsCq6.jpg",
-          "vote_average": 9.7
-        }
-      },
-      "type": "episode",
-      "hash": "s2;e5",
-      "premiere": 0
     }
   ],
-  "duration": 5.27923583984375
+  "duration": 5.70196533203125
 }

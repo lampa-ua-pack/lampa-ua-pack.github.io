@@ -2,6 +2,234 @@
   "secuses": true,
   "result": [
     {
+      "id": 2694,
+      "time": 1778247298103,
+      "card_id": "241609",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 241609,
+        "original_language": "en",
+        "name": "Друзі та сусіди",
+        "original_name": "Your Friends & Neighbors",
+        "names": [
+          "Друзі та сусіди",
+          "Друзья и соседи",
+          "Друзья и Соседи",
+          "Your Friends & Neighbors",
+          "Your Friends and Neighbors"
+        ],
+        "overview": "Фінансовий титан раптово розлучається, втрачає роботу і, щоб уникнути банкрутства, починає грабувати багатих сусідів. Обкрадаючи людей зі свого соціального кола, він відчуває дивне піднесення — але поступово заплутується в смертоносному павутинні.",
+        "poster_path": "/xGURzoKwTw6B4rrOOiQLOEPNEE.jpg",
+        "first_air_date": "2025-04-10",
+        "video": false,
+        "vote_average": 7.615,
+        "vote_count": 204,
+        "popularity": 42.4644,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6600202",
+        "kp_rating": "7.5",
+        "imdb_id": "tt30459041",
+        "imdb_rating": "7.7",
+        "status": "returning series",
+        "last_air_date": "2026-05-08",
+        "seasons": {
+          "1": 9,
+          "2": 6
+        },
+        "episode": {
+          "air_date": "2026-05-07",
+          "episode_number": 6,
+          "name": "Серія 6",
+          "overview": "",
+          "season_number": 2,
+          "runtime": 42,
+          "still_path": "/htfy0mGyz1dzvX9j7dowdXVtept.jpg",
+          "vote_average": 8.0
+        },
+        "genres": [
+          "Драма",
+          "Кримінал"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s2;e6",
+      "premiere": 0
+    },
+    {
+      "id": 2693,
+      "time": 1778245502439,
+      "card_id": "257994",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/uvmn7g7G0cVj7OVeDRrklky4NfF.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          10751
+        ],
+        "id": 257994,
+        "original_language": "en",
+        "name": "Напівлюдина",
+        "original_name": "Half Man",
+        "names": [
+          "Напівлюдина",
+          "Получеловек",
+          "Half Man"
+        ],
+        "overview": "Рубен з’являється на весіллі свого відчуженого брата Найлла, стаючи каталізатором переосмислення останніх 40 років їхніх стосунків.",
+        "poster_path": "/x4n2SKlmDHzrzb1JmwNMGAugyxg.jpg",
+        "first_air_date": "2026-04-28",
+        "video": false,
+        "vote_average": 8.167,
+        "vote_count": 12,
+        "popularity": 38.0668,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "GB"
+        ],
+        "kinopoisk_id": "7919289",
+        "imdb_id": "tt32767294",
+        "imdb_rating": "7.1",
+        "status": "returning series",
+        "last_air_date": "2026-05-08",
+        "seasons": {
+          "1": 3
+        },
+        "countries": [
+          "United Kingdom"
+        ],
+        "genres": [
+          "Драма",
+          "Детектив"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2692,
+      "time": 1778232902773,
+      "card_id": "931285",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+        "genre_ids": [
+          28,
+          14,
+          12
+        ],
+        "id": 931285,
+        "original_language": "en",
+        "title": "Мортал Комбат ІІ",
+        "original_title": "Mortal Kombat II",
+        "names": [
+          "Мортал Комбат ІІ",
+          "Мортал Комбат 2",
+          "Mortal Kombat 2",
+          "Mortal Kombat II"
+        ],
+        "overview": "Від студії New Line Cinema — новий вибуховий розділ культової франшизи, створеної за мотивами легендарної відеогри Mortal Kombat II. Цього разу у фанатському бойовому строю — вже з самим Джонні Кейджем — чемпіони зіштовхуються один з одним у безжальному, кривавому протистоянні без правил. Їхня мета — зупинити темне правління Шао Кана, що загрожує самому існуванню Земного царства та його захисників.",
+        "poster_path": "/4ppObTbqkmi7HunEOjqDmpE26NT.jpg",
+        "release_date": "2026-05-06",
+        "video": false,
+        "vote_average": 7.618,
+        "vote_count": 17,
+        "popularity": 63.4594,
+        "PG": 18,
+        "release_quality": "ts",
+        "kinopoisk_id": "4876869",
+        "imdb_id": "tt17490712",
+        "status": "released",
+        "last_air_date": "2026-05-08",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Бойовик",
+          "Фентезі",
+          "Пригоди"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2691,
+      "time": 1778227500865,
+      "card_id": "285838",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+        "genre_ids": [
+          9648,
+          18
+        ],
+        "id": 285838,
+        "original_language": "ko",
+        "name": "Якби бажання вбивали",
+        "original_name": "기리고",
+        "names": [
+          "Якби бажання вбивали",
+          "Загадай свою смерть",
+          "Girigo",
+          "Желаю твоей смерти / If Wishes Could Kill / Если бы желания могли убивать",
+          "기리고",
+          "Если бы желания могли убивать",
+          "Girigo / If Wishes Could Kill"
+        ],
+        "overview": "Таємничий застосунок обіцяє здійснення бажань, а потім запускає відлік до смерті. Потрапивши в цю пастку, група підлітків мусить розірвати смертельний ланцюг, щоб вижити.",
+        "poster_path": "/oKSt05GBc2ZZ5G2BxTqLikNml1V.jpg",
+        "first_air_date": "2026-04-24",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 53,
+        "popularity": 85.2914,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "7343988",
+        "kp_rating": "7.0",
+        "imdb_id": "tt36104233",
+        "imdb_rating": "7.2",
+        "status": "ended",
+        "last_air_date": "2026-04-26",
+        "seasons": {
+          "1": 8
+        },
+        "countries": [
+          "South Korea"
+        ],
+        "genres": [
+          "Детектив",
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2690,
       "time": 1778164498123,
       "card_id": "1430077",
@@ -161,7 +389,7 @@
           "overview": "",
           "season_number": 2,
           "runtime": 54,
-          "still_path": "/jXNkxnwgWuWy9ZyZm4g5DeNO79.jpg",
+          "still_path": "/3hfKhjeS2paNcBojTijENVrur6v.jpg",
           "vote_average": 7.8
         },
         "genres": [
@@ -232,7 +460,7 @@
           "season_number": 5,
           "runtime": 65,
           "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
-          "vote_average": 7.3
+          "vote_average": 7.69
         },
         "genres": [
           "Науково фантастичний",
@@ -297,7 +525,7 @@
           "season_number": 1,
           "runtime": 26,
           "still_path": "/6AgKrtdQuSF8zDtBOGFJAKnAPGo.jpg",
-          "vote_average": 8.9
+          "vote_average": 8.885
         },
         "genres": [
           "Екшн і Пригоди",
@@ -371,7 +599,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/vFjXxYZPXm5qM9tRVd0579NoEBW.jpg",
-          "vote_average": 9.55
+          "vote_average": 9.6
         },
         "genres": [
           "Кримінал",
@@ -497,8 +725,7 @@
           "Пригоди",
           "Мультфільм",
           "Сімейний",
-          "Фентезі",
-          "Комедія"
+          "Фентезі"
         ]
       },
       "type": "now_playing",
@@ -1051,7 +1278,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.743
         },
         "genres": [
           "Науково фантастичний",
@@ -1932,7 +2159,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.4
+          "vote_average": 7.442
         },
         "genres": [
           "Науково фантастичний",
@@ -2785,208 +3012,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2644,
-      "time": 1776407486773,
-      "card_id": "1400336",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/nubnNXuMArUhiDW1nUevGsG65x9.jpg",
-        "id": 1400336,
-        "title": "Знайомство з Факерами 3",
-        "original_title": "Focker-In-Law",
-        "overview": "Молодий чоловік на ім’я Генрі, син Ґреґа та Пем Факерів, стикається з сімейним хаосом, коли вирішує одружитися з вольовою жінкою, яка, здається, зовсім йому не підходить.",
-        "poster_path": "/ry3zJCAztwTabEKpNAUpvjAvgy6.jpg",
-        "media_type": "movie",
-        "original_language": "en",
-        "genre_ids": [
-          35,
-          10749
-        ],
-        "popularity": 3.6073,
-        "release_date": "2026-11-25",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "trailer_id": "vyISuWUWcFs",
-        "imdb_id": "tt34966140",
-        "genres": [
-          "Комедія",
-          "Мелодрама"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "trailer",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2643,
-      "time": 1776358878378,
-      "card_id": "661568",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/cNRYvkHKoRw8AuZxf7XecRfSuvM.jpg",
-        "genre_ids": [
-          10749,
-          18,
-          35
-        ],
-        "id": 661568,
-        "original_language": "fr",
-        "title": "Mektoub, My Love: Canto Due",
-        "original_title": "Mektoub, My Love: Canto Due",
-        "names": [
-          "Мектуб, моя любовь: Песнь вторая",
-          "Mektoub, My Love: Canto Due"
-        ],
-        "overview": "Амин возвращается в родной Сет, всё еще одержимый мечтой о большом кино. И, кажется, удача на его стороне: влиятельный голливудский продюсер готов запустить его проект. Условие лишь одно — главную роль должна сыграть жена продюсера, Джесс. Перед Амином открываются блестящие перспективы, но под палящим солнцем юга Франции всё идет не по сценарию. В дело вмешиваются случайные встречи и непредсказуемые чувства, ведь у капризной судьбы свои виды на этот фильм.",
-        "poster_path": "/Ag0gzbjcdUu8t0eeFks2USP9a5V.jpg",
-        "release_date": "2025-12-03",
-        "video": false,
-        "vote_average": 7.6,
-        "vote_count": 11,
-        "popularity": 3.6212,
-        "PG": 0,
-        "release_quality": "bdrip",
-        "kinopoisk_id": "5080908",
-        "imdb_id": "tt21811188",
-        "imdb_rating": "7.1",
-        "status": "released",
-        "last_air_date": "2026-04-15",
-        "countries": [
-          "France"
-        ],
-        "genres": [
-          "Мелодрама",
-          "Драма",
-          "Комедія"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2642,
-      "time": 1776355282350,
-      "card_id": "1290417",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/bPqv6PSsqa2tgO1qb2Gq2iQ1VXf.jpg",
-        "genre_ids": [
-          27,
-          53
-        ],
-        "id": 1290417,
-        "original_language": "en",
-        "title": "Лютий напад",
-        "original_title": "Thrash",
-        "names": [
-          "Лютий напад",
-          "Хищный рывок",
-          "Thrash"
-        ],
-        "overview": "Катастрофічний ураган спустошує прибережне місто. Тепер жителям затоплених вулиць треба пережити підвищення рівня моря, що кишить кровожерливими акулами.",
-        "poster_path": "/adk8weka3O5648g3de4z3y4aE7G.jpg",
-        "release_date": "2026-04-10",
-        "video": false,
-        "vote_average": 5.916,
-        "vote_count": 249,
-        "popularity": 253.4786,
-        "PG": 17,
-        "release_quality": "webdl",
-        "kinopoisk_id": "8883351",
-        "imdb_id": "tt32362890",
-        "status": "released",
-        "last_air_date": "2026-04-12",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Жахи",
-          "Трилер"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2641,
-      "time": 1776333679061,
-      "card_id": "202555",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
-        "genre_ids": [
-          18,
-          10759,
-          80
-        ],
-        "id": 202555,
-        "original_language": "en",
-        "name": "Daredevil: Born Again",
-        "original_name": "Daredevil: Born Again",
-        "names": [
-          "Сорвиголова: Рожденный заново",
-          "Сорвиголова: Рождённый Заново",
-          "Daredevil: Born Again",
-          "Сорвиголова: Рождённый заново",
-          "Daredevil: Born Again | Behind The Scenes"
-        ],
-        "overview": "Сліпий адвокат Метт Мердок процвітає, але його альтер его не забуто. Вілсон Фіск обійняв посаду мера і лише Шибайголова знає, хто ховається за маскою добродушного та чесного політика. Давні вороги, здається, забули про минуле і намагаються не повертатися до супергеройської діяльності. Та чи довго триватиме їх мир чи вони повернуться до ворогів?",
-        "poster_path": "/AfINRYmGTuPrwRrBp9lFgbRjSx2.jpg",
-        "first_air_date": "2025-03-04",
-        "video": false,
-        "vote_average": 8,
-        "vote_count": 745,
-        "popularity": 117.6074,
-        "PG": 17,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "5060265",
-        "kp_rating": "7.3",
-        "imdb_id": "tt18923754",
-        "imdb_rating": "8.0",
-        "status": "returning series",
-        "last_air_date": "2026-04-15",
-        "seasons": {
-          "1": 9,
-          "2": 5
-        },
-        "episode": {
-          "air_date": "2026-04-14",
-          "episode_number": 5,
-          "name": "Грандіозний дизайн",
-          "overview": "",
-          "season_number": 2,
-          "runtime": 53,
-          "still_path": "/3LwlF3zBobR6QuEIDh2D71KsCq6.jpg",
-          "vote_average": 8.0
-        },
-        "genres": [
-          "Драма",
-          "Екшн і Пригоди",
-          "Кримінал"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e5",
-      "premiere": 0
     }
   ],
-  "duration": 5.27923583984375
+  "duration": 5.70196533203125
 }
