@@ -2,6 +2,193 @@
   "secuses": true,
   "result": [
     {
+      "id": 2697,
+      "time": 1778319300785,
+      "card_id": "127865",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/fIXTetAsXkPO6UUUw85IU4oactf.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 127865,
+        "original_language": "da",
+        "name": "Каштановий чоловічок",
+        "original_name": "Kastanjemanden",
+        "names": [
+          "Каштановый человечек",
+          "The Chestnut Man",
+          "Каштановий чоловічок",
+          "Kastanjemanden"
+        ],
+        "overview": "На місці жорстокого вбивства знаходять фігурку з каштанів. На основі цієї зачіпки двоє детективів вистежують убивцю і розслідують зникнення доньки політичної діячки.",
+        "poster_path": "/lq6sKBXVeF0DR4DcgOZYi2bggFq.jpg",
+        "first_air_date": "2021-09-29",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 661,
+        "popularity": 44.2019,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "DK"
+        ],
+        "kinopoisk_id": "1434190",
+        "kp_rating": "7.5",
+        "imdb_id": "tt10834220",
+        "imdb_rating": "7.6",
+        "status": "returning series",
+        "last_air_date": "2026-05-07",
+        "seasons": {
+          "1": 6,
+          "2": 6
+        },
+        "episode": {
+          "air_date": "2026-05-07",
+          "episode_number": 6,
+          "name": "Епізод 6",
+          "overview": "Коли складаються всі клаптики головоломки про каштанового чоловічка й стають зрозумілими мотиви злочинця, Тулін і Гесс намагаються врятувати життя невинних.",
+          "season_number": 2,
+          "runtime": 48,
+          "still_path": "/4Q11reQ3Z72OL6wyZoKGjv4rj5C.jpg",
+          "vote_average": 7.0
+        },
+        "genres": [
+          "Драма",
+          "Кримінал"
+        ],
+        "countries": [
+          "Denmark"
+        ]
+      },
+      "type": "episode",
+      "hash": "s2;e6",
+      "premiere": 0
+    },
+    {
+      "id": 2696,
+      "time": 1778268904521,
+      "card_id": "1325734",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/b8H1a89qmNxF8rqFGrG93Q9qn52.jpg",
+        "genre_ids": [
+          10749,
+          35,
+          18
+        ],
+        "id": 1325734,
+        "original_language": "en",
+        "title": "Любить не любить",
+        "original_title": "The Drama",
+        "names": [
+          "Любить не любить",
+          "Вот это драма!",
+          "The Drama"
+        ],
+        "overview": "Щасливо заручена пара проходить випробування, коли несподіваний поворот подій вносить хаос у їхній тиждень весілля.",
+        "poster_path": "/83Pp6gr6zqqM7rlgEfTb8924YU0.jpg",
+        "release_date": "2026-03-26",
+        "video": false,
+        "vote_average": 7.026,
+        "vote_count": 585,
+        "popularity": 29.6682,
+        "PG": 18,
+        "release_quality": "4K",
+        "kinopoisk_id": "6530127",
+        "kp_rating": "7.1",
+        "imdb_id": "tt33071426",
+        "status": "released",
+        "last_air_date": "2026-04-05",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Мелодрама",
+          "Комедія",
+          "Драма"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2695,
+      "time": 1778265298094,
+      "card_id": "56570",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "id": 56570,
+        "original_language": "en",
+        "name": "Чужоземка",
+        "original_name": "Outlander",
+        "names": [
+          "Чужестранка",
+          "Outlander",
+          "Чужоземка"
+        ],
+        "overview": "Клер, яка працювала медсестрою під час Другої світової війни, випадково переміщається в часі і потрапляє в 1743 рік. У цьому світі, повному пригод, вона знайомиться з шотландським лицарем Джеймі. У героїв зав'язується пристрасний роман, незважаючи на те, що серце Клер розривається між двома чоловіками - Джеймі і її чоловіком Френком, який залишився в іншому часі.",
+        "poster_path": "/tZuKy6RWPQKgyOtx8XWxpdzfQME.jpg",
+        "first_air_date": "2014-08-09",
+        "video": false,
+        "vote_average": 8.177,
+        "vote_count": 2819,
+        "popularity": 111.9164,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "818284",
+        "kp_rating": "8.0",
+        "imdb_id": "tt3006802",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-05-08",
+        "seasons": {
+          "1": 16,
+          "2": 13,
+          "3": 13,
+          "4": 13,
+          "5": 12,
+          "6": 8,
+          "7": 16,
+          "8": 9
+        },
+        "episode": {
+          "air_date": "2026-05-08",
+          "episode_number": 9,
+          "name": "Серія 9",
+          "overview": "",
+          "season_number": 8,
+          "runtime": 55,
+          "still_path": "/g2Xq2bMO0t2lApPY8V8CXyGzZEt.jpg",
+          "vote_average": 0.0
+        },
+        "genres": [
+          "Драма",
+          "Науково фантастичний"
+        ],
+        "countries": [
+          "United Kingdom",
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s8;e9",
+      "premiere": 0
+    },
+    {
       "id": 2694,
       "time": 1778247298103,
       "card_id": "241609",
@@ -49,12 +236,12 @@
         "episode": {
           "air_date": "2026-05-07",
           "episode_number": 6,
-          "name": "Серія 6",
-          "overview": "",
+          "name": "Для всього іншого був боулінг",
+          "overview": "Куп і його сімʼя дають собі раду зі стресом на похороні й поминках.",
           "season_number": 2,
           "runtime": 42,
           "still_path": "/htfy0mGyz1dzvX9j7dowdXVtept.jpg",
-          "vote_average": 8.0
+          "vote_average": 7.5
         },
         "genres": [
           "Драма",
@@ -390,7 +577,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/3hfKhjeS2paNcBojTijENVrur6v.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.5
         },
         "genres": [
           "Драма",
@@ -460,7 +647,7 @@
           "season_number": 5,
           "runtime": 65,
           "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
-          "vote_average": 7.69
+          "vote_average": 7.729
         },
         "genres": [
           "Науково фантастичний",
@@ -525,7 +712,7 @@
           "season_number": 1,
           "runtime": 26,
           "still_path": "/6AgKrtdQuSF8zDtBOGFJAKnAPGo.jpg",
-          "vote_average": 8.885
+          "vote_average": 8.9
         },
         "genres": [
           "Екшн і Пригоди",
@@ -599,7 +786,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/vFjXxYZPXm5qM9tRVd0579NoEBW.jpg",
-          "vote_average": 9.6
+          "vote_average": 8.9
         },
         "genres": [
           "Кримінал",
@@ -787,7 +974,7 @@
           "season_number": 4,
           "runtime": 48,
           "still_path": "/i4NypsP3189cjfDVnXZiXoUOIJt.jpg",
-          "vote_average": 7.1
+          "vote_average": 7.556
         },
         "genres": [
           "Детектив",
@@ -903,7 +1090,7 @@
           "season_number": 2,
           "runtime": 59,
           "still_path": "/djqGUjMqU7AxqYAbfxnCo2Be7wO.jpg",
-          "vote_average": 7.75
+          "vote_average": 7.8
         },
         "genres": [
           "Драма",
@@ -970,7 +1157,7 @@
           "season_number": 2,
           "runtime": 53,
           "still_path": "/2xCzo9a0UN5RTFP84farSXlSD15.jpg",
-          "vote_average": 8.071
+          "vote_average": 8.313
         },
         "genres": [
           "Науково фантастичний",
@@ -1039,7 +1226,7 @@
           "overview": "",
           "season_number": 2,
           "runtime": 48,
-          "still_path": "/rmlntMleUjbXWgEk0beQla6qTDZ.jpg",
+          "still_path": "/hrUbvxYeKsDnNVTktO29BJ5JlJq.jpg",
           "vote_average": 8.0
         },
         "genres": [
@@ -1160,7 +1347,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/gBXrmvRXYllskJl0X8wG0SOLE50.jpg",
-          "vote_average": 9.5
+          "vote_average": 9.577
         },
         "genres": [
           "Кримінал",
@@ -1183,7 +1370,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/bPqv6PSsqa2tgO1qb2Gq2iQ1VXf.jpg",
+        "backdrop_path": "/hniERZojXCEc7Fp3yljZUigOAhm.jpg",
         "genre_ids": [
           27,
           53
@@ -2089,7 +2276,7 @@
           "season_number": 2,
           "runtime": 52,
           "still_path": "/lbuiEvKOaQEw4mG880gsdg8GKvr.jpg",
-          "vote_average": 8.4
+          "vote_average": 8.283
         },
         "genres": [
           "Драма",
@@ -2577,7 +2764,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/zihcg1uqGZLotlSBCzGmv125XfC.jpg",
-          "vote_average": 6.9
+          "vote_average": 7.077
         },
         "genres": [
           "Драма"
@@ -2850,169 +3037,7 @@
       "type": "episode",
       "hash": "s2;e15",
       "premiere": 0
-    },
-    {
-      "id": 2647,
-      "time": 1776425486769,
-      "card_id": "1384216",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/joVtII9prX3MC4a2LfoKsiMWET3.jpg",
-        "id": 1384216,
-        "title": "Сузір’я великого пса",
-        "original_title": "The Dog Stars",
-        "overview": "Главный герой Хиг — гражданский пилот, живущий в постапокалиптическом Колорадо на заброшенной авиабазе вместе со своей собакой Джаспером и ворчливым, но верным рейнджером, соратником Бэнгли. Их уединенную жизнь нарушает неожиданное радиосообщение, которое пробуждает в Хиге надежду на существование других выживших. В поисках источника сигнала Хиг отправляется в опасное путешествие на своем старом самолете «Сессна». Его путь пролегает через опустошенные города, дикие леса и враждебные территории.",
-        "poster_path": "/fdQFSZhsxZxADdUhnITr1JIT3Jt.jpg",
-        "media_type": "movie",
-        "original_language": "en",
-        "genre_ids": [
-          12,
-          878,
-          53
-        ],
-        "popularity": 4.1709,
-        "release_date": "2026-08-26",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "trailer_id": "cmzVY1goqwQ",
-        "imdb_id": "tt21285562",
-        "genres": [
-          "Пригоди",
-          "Фантастика",
-          "Трилер"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "trailer",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2646,
-      "time": 1776423677696,
-      "card_id": "241609",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 241609,
-        "original_language": "en",
-        "name": "Друзі та сусіди",
-        "original_name": "Your Friends & Neighbors",
-        "names": [
-          "Друзі та сусіди",
-          "Друзья и соседи",
-          "Друзья и Соседи",
-          "Your Friends & Neighbors",
-          "Your Friends and Neighbors"
-        ],
-        "overview": "Фінансовий титан раптово розлучається, втрачає роботу і, щоб уникнути банкрутства, починає грабувати багатих сусідів. Обкрадаючи людей зі свого соціального кола, він відчуває дивне піднесення — але поступово заплутується в смертоносному павутинні.",
-        "poster_path": "/xGURzoKwTw6B4rrOOiQLOEPNEE.jpg",
-        "first_air_date": "2025-04-10",
-        "video": false,
-        "vote_average": 7.5,
-        "vote_count": 188,
-        "popularity": 60.418,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6600202",
-        "kp_rating": "7.5",
-        "imdb_id": "tt30459041",
-        "imdb_rating": "7.7",
-        "status": "returning series",
-        "last_air_date": "2026-04-17",
-        "seasons": {
-          "1": 9,
-          "2": 3
-        },
-        "episode": {
-          "air_date": "2026-04-16",
-          "episode_number": 3,
-          "name": "Ми не повинні були так постаріти",
-          "overview": "Еш пропонує Купові угоду, від якої той не може відмовитись. Мел свариться з сусідами через їхнього нового собаку. Сем іде на побачення.",
-          "season_number": 2,
-          "runtime": 53,
-          "still_path": "/cXRz241o7dRK9eF6l0oASJc1tuX.jpg",
-          "vote_average": 8.5
-        },
-        "genres": [
-          "Драма",
-          "Кримінал"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e3",
-      "premiere": 0
-    },
-    {
-      "id": 2645,
-      "time": 1776421877766,
-      "card_id": "289219",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/5SrsdKcN9Flvccq59sIfJbhq1Fk.jpg",
-        "genre_ids": [
-          16,
-          10765,
-          10759
-        ],
-        "id": 289219,
-        "original_language": "en",
-        "name": "Зоряні війни: Мол - Король тіней",
-        "original_name": "Star Wars: Maul - Shadow Lord",
-        "names": [
-          "Зоряні війни: Мол - Король тіней",
-          "Звёздные войны. Дарт Мол: Повелитель теней",
-          "Star Wars: Maul - Shadow Lord"
-        ],
-        "overview": "Після Війн клонів Мол планує відновити свій кримінальний синдикат на планеті, якої не торкнулася Імперія.",
-        "poster_path": "/rpbj8B8LCsSythA7RiIffB6ZomQ.jpg",
-        "first_air_date": "2026-04-06",
-        "video": false,
-        "vote_average": 7.414,
-        "vote_count": 35,
-        "popularity": 64.6209,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7684174",
-        "imdb_id": "tt36594331",
-        "imdb_rating": "8.5",
-        "status": "returning series",
-        "last_air_date": "2026-04-14",
-        "seasons": {
-          "1": 4
-        },
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Екшн і Пригоди",
-          "Мультфільм",
-          "Науково фантастичний"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 5.70196533203125
+  "duration": 7.0320892333984375
 }

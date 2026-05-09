@@ -2,6 +2,177 @@
   "secuses": true,
   "result": [
     {
+      "id": 2697,
+      "time": 1778319300785,
+      "card_id": "127865",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/fIXTetAsXkPO6UUUw85IU4oactf.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 127865,
+        "original_language": "da",
+        "name": "Каштановый человечек",
+        "original_name": "Kastanjemanden",
+        "names": [
+          "Каштановый человечек",
+          "The Chestnut Man",
+          "Каштановий чоловічок",
+          "Kastanjemanden"
+        ],
+        "overview": "Небольшой датский городок потрясает серия жестоких убийств молодых девушек, рядом с телами которых находят фигурки из спичек и каштанов. За расследование берутся 2 детектива, которые находят на поделках отпечатки пальцев девочки, считавшейся давно погибшей.",
+        "poster_path": "/pZcURiQ0nFSJavFhlvIcDqZSlla.jpg",
+        "first_air_date": "2021-09-29",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 661,
+        "popularity": 44.2019,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "DK"
+        ],
+        "kinopoisk_id": "1434190",
+        "kp_rating": "7.5",
+        "imdb_id": "tt10834220",
+        "imdb_rating": "7.6",
+        "status": "returning series",
+        "last_air_date": "2026-05-07",
+        "seasons": {
+          "1": 6,
+          "2": 6
+        },
+        "episode": {
+          "air_date": "2026-05-07",
+          "episode_number": 6,
+          "name": "Эпизод 6",
+          "overview": "",
+          "season_number": 2,
+          "runtime": 48,
+          "still_path": "/4Q11reQ3Z72OL6wyZoKGjv4rj5C.jpg",
+          "vote_average": 7
+        }
+      },
+      "type": "episode",
+      "hash": "s2;e6",
+      "premiere": 0
+    },
+    {
+      "id": 2696,
+      "time": 1778268904521,
+      "card_id": "1325734",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
+        "genre_ids": [
+          10749,
+          35,
+          18
+        ],
+        "id": 1325734,
+        "original_language": "en",
+        "title": "Вот это драма!",
+        "original_title": "The Drama",
+        "names": [
+          "Вот это драма!",
+          "The Drama"
+        ],
+        "overview": "Чарли и Эмма влюблены друг в друга и вот-вот поженятся. Место свадьбы выбрано, приглашения разосланы, до долгожданной церемонии остаются считанные дни. Но одно, казалось бы, невинное откровение переворачивает всё — Чарли узнаёт об Эмме то, что предпочёл бы не знать. Теперь на пути к «долго и счастливо» их отношениям предстоит пройти через неожиданную драму.",
+        "poster_path": "/mayjUmmXGM1n5E5AJnOfylig10W.jpg",
+        "release_date": "2026-03-26",
+        "video": false,
+        "vote_average": 7.026,
+        "vote_count": 585,
+        "popularity": 29.6682,
+        "PG": 18,
+        "release_quality": "4K",
+        "kinopoisk_id": "6530127",
+        "kp_rating": "7.1",
+        "imdb_id": "tt33071426",
+        "status": "released",
+        "last_air_date": "2026-04-05",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Мелодрама",
+          "Комедия",
+          "Драма"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2695,
+      "time": 1778265298094,
+      "card_id": "56570",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "id": 56570,
+        "original_language": "en",
+        "name": "Чужестранка",
+        "original_name": "Outlander",
+        "names": [
+          "Чужестранка",
+          "Outlander",
+          "Чужоземка"
+        ],
+        "overview": "Клэр, работавшая медсестрой во время Второй мировой войны, случайно перемещается во времени и попадает в 1743 год. В этом мире, полном приключений, она знакомится с шотландским рыцарем Джейми. У героев завязывается страстный роман, несмотря на то, что сердце Клэр разрывается между двумя мужчинами — Джейми и ее мужем Фрэнком, который остался в другом времени.",
+        "poster_path": "/5HdUN4MvDegqDNLAjJDTjFRWfVR.jpg",
+        "first_air_date": "2014-08-09",
+        "video": false,
+        "vote_average": 8.177,
+        "vote_count": 2819,
+        "popularity": 111.9164,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "818284",
+        "kp_rating": "8.0",
+        "imdb_id": "tt3006802",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-05-08",
+        "seasons": {
+          "1": 16,
+          "2": 13,
+          "3": 13,
+          "4": 13,
+          "5": 12,
+          "6": 8,
+          "7": 16,
+          "8": 9
+        },
+        "episode": {
+          "air_date": "2026-05-08",
+          "episode_number": 9,
+          "name": "Эпизод 9",
+          "overview": "",
+          "season_number": 8,
+          "runtime": 55,
+          "still_path": "/g2Xq2bMO0t2lApPY8V8CXyGzZEt.jpg",
+          "vote_average": 0
+        }
+      },
+      "type": "episode",
+      "hash": "s8;e9",
+      "premiere": 0
+    },
+    {
       "id": 2694,
       "time": 1778247298103,
       "card_id": "241609",
@@ -2614,152 +2785,7 @@
       "type": "episode",
       "hash": "s2;e15",
       "premiere": 0
-    },
-    {
-      "id": 2647,
-      "time": 1776425486769,
-      "card_id": "1384216",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/srbk1HHT6eKjguGVOJVSHFA691R.jpg",
-        "id": 1384216,
-        "title": "Созвездие Пса",
-        "original_title": "The Dog Stars",
-        "overview": "Главный герой Хиг — гражданский пилот, живущий в постапокалиптическом Колорадо на заброшенной авиабазе вместе со своей собакой Джаспером и ворчливым, но верным рейнджером, соратником Бэнгли. Их уединенную жизнь нарушает неожиданное радиосообщение, которое пробуждает в Хиге надежду на существование других выживших. В поисках источника сигнала Хиг отправляется в опасное путешествие на своем старом самолете «Сессна». Его путь пролегает через опустошенные города, дикие леса и враждебные территории.",
-        "poster_path": "/ePWFnyCQQr4fvBOD1lgKtcvfnCd.jpg",
-        "media_type": "movie",
-        "original_language": "en",
-        "genre_ids": [
-          12,
-          878,
-          53
-        ],
-        "popularity": 4.1709,
-        "release_date": "2026-08-26",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "trailer_id": "cmzVY1goqwQ",
-        "imdb_id": "tt21285562"
-      },
-      "type": "trailer",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2646,
-      "time": 1776423677696,
-      "card_id": "241609",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 241609,
-        "original_language": "en",
-        "name": "Друзья и соседи",
-        "original_name": "Your Friends & Neighbors",
-        "names": [
-          "Друзья и соседи",
-          "Друзья и Соседи",
-          "Your Friends & Neighbors",
-          "Your Friends and Neighbors"
-        ],
-        "overview": "После внезапного развода и потери работы крупный финансист начинает грабить богатых соседей, чтобы удержаться на плаву. Кражи у людей из того же социального слоя странным образом ободряют его, но постепенно он запутывается в смертоносной паутине.",
-        "poster_path": "/wr6dsSOfht23oiym1TcAlMN7R3k.jpg",
-        "first_air_date": "2025-04-10",
-        "video": false,
-        "vote_average": 7.5,
-        "vote_count": 188,
-        "popularity": 60.418,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6600202",
-        "kp_rating": "7.5",
-        "imdb_id": "tt30459041",
-        "imdb_rating": "7.7",
-        "status": "returning series",
-        "last_air_date": "2026-04-17",
-        "seasons": {
-          "1": 9,
-          "2": 3
-        },
-        "episode": {
-          "air_date": "2026-04-16",
-          "episode_number": 3,
-          "name": "Эпизод 3",
-          "overview": "",
-          "season_number": 2,
-          "runtime": 53,
-          "still_path": "/cXRz241o7dRK9eF6l0oASJc1tuX.jpg",
-          "vote_average": 10
-        }
-      },
-      "type": "episode",
-      "hash": "s2;e3",
-      "premiere": 0
-    },
-    {
-      "id": 2645,
-      "time": 1776421877766,
-      "card_id": "289219",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/5SrsdKcN9Flvccq59sIfJbhq1Fk.jpg",
-        "genre_ids": [
-          16,
-          10765,
-          10759
-        ],
-        "id": 289219,
-        "original_language": "en",
-        "name": "Звёздные войны. Дарт Мол: Повелитель теней",
-        "original_name": "Star Wars: Maul - Shadow Lord",
-        "names": [
-          "Звёздные войны. Дарт Мол: Повелитель теней",
-          "Star Wars: Maul - Shadow Lord"
-        ],
-        "overview": "После событий на Мандалоре и уничтожения Ордена джедаев Мол скрывается от нового режима и пытается восстановить свою преступную империю «Багровый рассвет». На планете Джаникс он находит падавана по имени Девон Изара, которая вместе со своим учителем-джедаем Эко-Дио Даки выжила после Приказа 66. Мол видит в ней идеального кандидата в ученицы, чтобы использовать её тёмную сторону для мести Палпатину и Империи, которая его предала. Девон же, разочарованная необходимостью выживать и воровать, оказывается перед сложным выбором между учением своего мастера и путём силы, который предлагает Мол. Одновременно с этим местный капитан полиции Лоусон пытается бороться с растущей криминальной угрозой, не привлекая внимания Империи, которая только усугубит положение планеты. Конфликт достигает точки кипения с прибытием на Джаникс инквизиторов, включая Маррока, что вынуждает всех героев пересмотреть свои планы.",
-        "poster_path": "/q1DZC3Pb8j51LIsagxy6E94HPPf.jpg",
-        "first_air_date": "2026-04-06",
-        "video": false,
-        "vote_average": 7.414,
-        "vote_count": 35,
-        "popularity": 64.6209,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7684174",
-        "imdb_id": "tt36594331",
-        "imdb_rating": "8.5",
-        "status": "returning series",
-        "last_air_date": "2026-04-14",
-        "seasons": {
-          "1": 4
-        },
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Мультфильм",
-          "НФ и Фэнтези",
-          "Боевик и Приключения"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 5.70196533203125
+  "duration": 7.0320892333984375
 }
