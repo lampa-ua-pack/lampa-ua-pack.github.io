@@ -2,6 +2,105 @@
   "secuses": true,
   "result": [
     {
+      "id": 2699,
+      "time": 1778409298114,
+      "card_id": "262388",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/uDxlriNvtxdizceQKQllwhC0lYG.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 262388,
+        "original_language": "en",
+        "name": "Пропавшая без вести",
+        "original_name": "M.I.A.",
+        "names": [
+          "Пропавшая без вести",
+          "M.I.A."
+        ],
+        "overview": "Этте Джонз не сидится на месте, она мечтает о жизни в сверкающем субтропическом королевстве Майами. Но когда семейный бизнес по торговле наркотиками терпит крах, Этте приходится отправиться в опасное путешествие по неоновому подполью Майами, которое покажет, кто она такая и на что в итоге способна.",
+        "poster_path": "/uvocuo6mgQTtNa7O6a3MQoTfuh4.jpg",
+        "first_air_date": "2026-05-07",
+        "video": false,
+        "vote_average": 9,
+        "vote_count": 4,
+        "popularity": 28.5416,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "11297614",
+        "imdb_id": "tt33253070",
+        "status": "returning series",
+        "last_air_date": "2026-05-08",
+        "seasons": {
+          "1": 9
+        },
+        "episode": {
+          "air_date": "2026-05-07",
+          "episode_number": 9,
+          "name": "Эпизод 9",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 40,
+          "still_path": "/wZng5iAHnuzOnNRMLfVPPF6ILJt.jpg",
+          "vote_average": 7.75
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e9",
+      "premiere": 0
+    },
+    {
+      "id": 2698,
+      "time": 1778400298127,
+      "card_id": "1330021",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "id": 1330021,
+        "original_language": "en",
+        "title": "Необычайно умные создания",
+        "original_title": "Remarkably Bright Creatures",
+        "names": [
+          "Необычайно умные создания",
+          "Remarkably Bright Creatures"
+        ],
+        "overview": "В этой трогательной драме по мотивам бестселлера вдова сближается с умным осьминогом и потерянным молодым мужчиной, работая по ночам в океанариуме.",
+        "poster_path": "/3odwuuWv6v7RQpI4GtJdxDVlice.jpg",
+        "release_date": "2026-05-07",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 18,
+        "popularity": 71.6378,
+        "PG": 13,
+        "release_quality": "4K",
+        "kinopoisk_id": "12245586",
+        "imdb_id": "tt33100314",
+        "status": "released",
+        "last_air_date": "2026-05-08",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Драма",
+          "Детектив"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2697,
       "time": 1778319300785,
       "card_id": "127865",
@@ -2669,123 +2768,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2649,
-      "time": 1776495678937,
-      "card_id": "202411",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/7IY4wELVMvtUc78vPiuL8kQV2iA.jpg",
-        "genre_ids": [
-          10765,
-          18,
-          10759
-        ],
-        "id": 202411,
-        "original_language": "en",
-        "name": "«Монарх»: Наследие монстров",
-        "original_name": "Monarch: Legacy of Monsters",
-        "names": [
-          "«Монарх»: Наследие монстров",
-          "Monarch: Legacy of Monsters",
-          "«Монарх»: наследие монстров"
-        ],
-        "overview": "Пережив нападение Годзиллы на Сан-Франциско, Кейт в очередной раз потрясена шокирующей тайной. Окружённая чудовищными опасностями, она отправляется в путешествие по миру, чтобы узнать правду о своей семье и таинственной организации, известной как «Монарх».",
-        "poster_path": "/f0e9oth1BMhg6dVacrnPOc7qNrI.jpg",
-        "first_air_date": "2023-11-16",
-        "video": false,
-        "vote_average": 7.701,
-        "vote_count": 1149,
-        "popularity": 112.5906,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4836083",
-        "kp_rating": "6.5",
-        "imdb_id": "tt17220216",
-        "imdb_rating": "7.0",
-        "status": "returning series",
-        "last_air_date": "2026-04-17",
-        "seasons": {
-          "1": 10,
-          "2": 8
-        },
-        "episode": {
-          "air_date": "2026-04-16",
-          "episode_number": 8,
-          "name": "Каждый своей дорогой",
-          "overview": "Титан Икс выходит на берег Австралии, куда Шоу заманивает Годзиллу, чтобы стравить их. Изабель использует это сражение как отвлекающий маневр для своей секретной операции.",
-          "season_number": 2,
-          "runtime": 40,
-          "still_path": "/6y16mpHEyWJmY7CREy2vmdhE0tG.jpg",
-          "vote_average": 7.667
-        }
-      },
-      "type": "episode",
-      "hash": "s2;e8",
-      "premiere": 0
-    },
-    {
-      "id": 2648,
-      "time": 1776441678699,
-      "card_id": "250307",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 250307,
-        "original_language": "en",
-        "name": "Больница Питт",
-        "original_name": "The Pitt",
-        "names": [
-          "Больница Питт",
-          "The Pitt",
-          "Питт"
-        ],
-        "overview": "Повседневная жизнь медицинских работников в Питтсбургской больнице, когда онисталкиваются с личными кризисами, политикой на рабочем месте и эмоциональными нагрузками, связанными с лечением тяжелобольных пациентов, демонстрирует стойкость, необходимую для их благородного призвания.",
-        "poster_path": "/qNABFhduyxg5gvzFuuSPFRh2uls.jpg",
-        "first_air_date": "2025-01-09",
-        "video": false,
-        "vote_average": 8.7,
-        "vote_count": 623,
-        "popularity": 104.1087,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6589776",
-        "kp_rating": "8.7",
-        "imdb_id": "tt31938062",
-        "imdb_rating": "8.9",
-        "status": "returning series",
-        "last_air_date": "2026-04-17",
-        "seasons": {
-          "1": 15,
-          "2": 15
-        },
-        "episode": {
-          "air_date": "2026-04-16",
-          "episode_number": 15,
-          "name": "Пятнадцатый час: с 21:00 до 22:00",
-          "overview": "",
-          "season_number": 2,
-          "runtime": 50,
-          "still_path": "/sQTZIZGSXcI5TAbgJfhez9zyNAq.jpg",
-          "vote_average": 7.667
-        }
-      },
-      "type": "episode",
-      "hash": "s2;e15",
-      "premiere": 0
     }
   ],
-  "duration": 7.0320892333984375
+  "duration": 6.139549255371094
 }
