@@ -2,6 +2,76 @@
   "secuses": true,
   "result": [
     {
+      "id": 2700,
+      "time": 1778481298133,
+      "card_id": "124364",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "id": 124364,
+        "original_language": "en",
+        "name": "Ззовні",
+        "original_name": "FROM",
+        "names": [
+          "Извне",
+          "From",
+          "Ззовні",
+          "FROM"
+        ],
+        "overview": "Події серіалу відбуваються в містичному містечку, розташованому в центральній частині США. Всі, хто потрапляють туди, опиняються в пастці. Мимовільні жителі борются за збереження залишків здорового глузду та шукають вихід з кошмарної ситуації, адже щоночі їм доводиться переживати напад жахливих створінь, які виходять із заходом сонця з довколишнього лісу.",
+        "poster_path": "/rvlPBfIm6CUQTGorQvf6wK8lPDH.jpg",
+        "first_air_date": "2022-02-20",
+        "video": false,
+        "vote_average": 8.179,
+        "vote_count": 2715,
+        "popularity": 618.8381,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4476885",
+        "kp_rating": "7.6",
+        "imdb_id": "tt9813792",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-05-10",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 4
+        },
+        "episode": {
+          "air_date": "2026-05-10",
+          "episode_number": 4,
+          "name": "Про міфи та монстрів",
+          "overview": "Зловісне відкриття приводить Бойда та його довірене коло у стан підвищеної готовності. Джулі шукає спосіб використати свої нові здібності, а Сара знову страждає від голосів у своїй голові.",
+          "season_number": 4,
+          "runtime": 52,
+          "still_path": "/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg",
+          "vote_average": 6.1
+        },
+        "genres": [
+          "Детектив",
+          "Драма",
+          "Науково фантастичний"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s4;e4",
+      "premiere": 0
+    },
+    {
       "id": 2699,
       "time": 1778409298114,
       "card_id": "262388",
@@ -69,7 +139,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+        "backdrop_path": "/1yw8C3xPzrliGpQp0qHID7F1zOT.jpg",
         "genre_ids": [
           18,
           9648
@@ -197,7 +267,7 @@
           "The Drama"
         ],
         "overview": "Щасливо заручена пара проходить випробування, коли несподіваний поворот подій вносить хаос у їхній тиждень весілля.",
-        "poster_path": "/83Pp6gr6zqqM7rlgEfTb8924YU0.jpg",
+        "poster_path": "/gU4ybmH7uj6NCjgWsHJyW8TGOZk.jpg",
         "release_date": "2026-03-26",
         "video": false,
         "vote_average": 7.026,
@@ -280,7 +350,7 @@
           "season_number": 8,
           "runtime": 55,
           "still_path": "/g2Xq2bMO0t2lApPY8V8CXyGzZEt.jpg",
-          "vote_average": 10.0
+          "vote_average": 9.0
         },
         "genres": [
           "Драма",
@@ -423,7 +493,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+        "backdrop_path": "/qjv21Iu0nHQ0crJpy6KKiW8LX1Y.jpg",
         "genre_ids": [
           28,
           14,
@@ -684,7 +754,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/jXNkxnwgWuWy9ZyZm4g5DeNO79.jpg",
-          "vote_average": 7.7
+          "vote_average": 7.8
         },
         "genres": [
           "Драма",
@@ -754,7 +824,7 @@
           "season_number": 5,
           "runtime": 65,
           "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
-          "vote_average": 7.4
+          "vote_average": 7.386
         },
         "genres": [
           "Науково фантастичний",
@@ -893,7 +963,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/vFjXxYZPXm5qM9tRVd0579NoEBW.jpg",
-          "vote_average": 8.9
+          "vote_average": 8.969
         },
         "genres": [
           "Кримінал",
@@ -981,7 +1051,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/wpabGmGA3IaJNGudbzGritmR8Km.jpg",
+        "backdrop_path": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
         "genre_ids": [
           12,
           16,
@@ -1081,7 +1151,7 @@
           "season_number": 4,
           "runtime": 48,
           "still_path": "/i4NypsP3189cjfDVnXZiXoUOIJt.jpg",
-          "vote_average": 7.556
+          "vote_average": 7.3
         },
         "genres": [
           "Детектив",
@@ -1264,7 +1334,7 @@
           "season_number": 2,
           "runtime": 53,
           "still_path": "/2xCzo9a0UN5RTFP84farSXlSD15.jpg",
-          "vote_average": 8.313
+          "vote_average": 8.167
         },
         "genres": [
           "Науково фантастичний",
@@ -1333,7 +1403,7 @@
           "overview": "",
           "season_number": 2,
           "runtime": 48,
-          "still_path": "/hrUbvxYeKsDnNVTktO29BJ5JlJq.jpg",
+          "still_path": "/rmlntMleUjbXWgEk0beQla6qTDZ.jpg",
           "vote_average": 8.0
         },
         "genres": [
@@ -1454,7 +1524,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/gBXrmvRXYllskJl0X8wG0SOLE50.jpg",
-          "vote_average": 9.464
+          "vote_average": 9.5
         },
         "genres": [
           "Кримінал",
@@ -1572,7 +1642,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.388
+          "vote_average": 7.393
         },
         "genres": [
           "Науково фантастичний",
@@ -1971,7 +2041,7 @@
           "season_number": 4,
           "runtime": 55,
           "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
-          "vote_average": 6.4
+          "vote_average": 6.5
         },
         "genres": [
           "Детектив",
@@ -2313,7 +2383,7 @@
           "season_number": 2,
           "runtime": 44,
           "still_path": "/uktOfZpCC4hNSBJZ9rpZf9wFZHo.jpg",
-          "vote_average": 8.364
+          "vote_average": 8.167
         },
         "genres": [
           "Науково фантастичний",
@@ -2382,7 +2452,7 @@
           "overview": "",
           "season_number": 2,
           "runtime": 52,
-          "still_path": "/eoZzrbYkAWYxUmnPSS6m30rM4bT.jpg",
+          "still_path": "/lbuiEvKOaQEw4mG880gsdg8GKvr.jpg",
           "vote_average": 8.4
         },
         "genres": [
@@ -2453,7 +2523,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.326
+          "vote_average": 7.3
         },
         "genres": [
           "Науково фантастичний",
@@ -2652,7 +2722,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/gheN0HmOUZAag4N38HascquineZ.jpg",
-          "vote_average": 9.5
+          "vote_average": 9.543
         },
         "genres": [
           "Кримінал",
@@ -2870,8 +2940,8 @@
           "overview": "",
           "season_number": 3,
           "runtime": 60,
-          "still_path": "/zihcg1uqGZLotlSBCzGmv125XfC.jpg",
-          "vote_average": 7.077
+          "still_path": "/hnRxdmQRxz3dhAuwOHkGpAauhaq.jpg",
+          "vote_average": 7.1
         },
         "genres": [
           "Драма"
@@ -2954,64 +3024,7 @@
       "type": "episode",
       "hash": "s4;e1",
       "premiere": 0
-    },
-    {
-      "id": 2650,
-      "time": 1776586939415,
-      "card_id": "241609",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 241609,
-        "original_language": "en",
-        "name": "Друзі та сусіди",
-        "original_name": "Your Friends & Neighbors",
-        "names": [
-          "Друзі та сусіди",
-          "Друзья и соседи",
-          "Друзья и Соседи",
-          "Your Friends & Neighbors",
-          "Your Friends and Neighbors"
-        ],
-        "overview": "Фінансовий титан раптово розлучається, втрачає роботу і, щоб уникнути банкрутства, починає грабувати багатих сусідів. Обкрадаючи людей зі свого соціального кола, він відчуває дивне піднесення — але поступово заплутується в смертоносному павутинні.",
-        "poster_path": "/xGURzoKwTw6B4rrOOiQLOEPNEE.jpg",
-        "first_air_date": "2025-04-10",
-        "video": false,
-        "vote_average": 7.6,
-        "vote_count": 189,
-        "popularity": 43.2497,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6600202",
-        "kp_rating": "7.5",
-        "imdb_id": "tt30459041",
-        "imdb_rating": "7.7",
-        "status": "returning series",
-        "last_air_date": "2026-04-17",
-        "seasons": {
-          "1": 9,
-          "2": 3
-        },
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Драма",
-          "Кримінал"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.139549255371094
+  "duration": 4.611297607421875
 }
