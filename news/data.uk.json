@@ -2,6 +2,71 @@
   "secuses": true,
   "result": [
     {
+      "id": 2701,
+      "time": 1778529548132,
+      "card_id": "85552",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 85552,
+        "original_language": "en",
+        "name": "Ейфорія",
+        "original_name": "Euphoria",
+        "names": [
+          "Эйфория",
+          "Euphoria",
+          "Ейфорія"
+        ],
+        "overview": "У центрі історії — 17-річна Ру Беннетт, яка повернулася до рідного дому після лікування в реабілітаційній клініці. Не гаючи часу, вона знову береться за старі звички — наркотики й тусовки. Однак поява в місті дівчини Джулс стає для Ру знаком надії.",
+        "poster_path": "/nsZkLSw1d0le18B8F0B5VMv6QKJ.jpg",
+        "first_air_date": "2019-06-16",
+        "video": false,
+        "vote_average": 8.28,
+        "vote_count": 10498,
+        "popularity": 309.1307,
+        "PG": 18,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1178445",
+        "kp_rating": "7.5",
+        "imdb_id": "tt8772296",
+        "imdb_rating": "8.2",
+        "status": "returning series",
+        "last_air_date": "2026-05-11",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 5
+        },
+        "episode": {
+          "air_date": "2026-05-10",
+          "episode_number": 5,
+          "name": "Серія 5",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 61,
+          "still_path": "/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg",
+          "vote_average": 7.1
+        },
+        "genres": [
+          "Драма"
+        ],
+        "countries": [
+          "United States of America",
+          "Israel"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e5",
+      "premiere": 0
+    },
+    {
       "id": 2700,
       "time": 1778481298133,
       "card_id": "124364",
@@ -56,7 +121,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg",
-          "vote_average": 6.1
+          "vote_average": 6.45
         },
         "genres": [
           "Детектив",
@@ -139,7 +204,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/1yw8C3xPzrliGpQp0qHID7F1zOT.jpg",
+        "backdrop_path": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
         "genre_ids": [
           18,
           9648
@@ -153,8 +218,8 @@
           "Необычайно умные создания",
           "Remarkably Bright Creatures"
         ],
-        "overview": "У душевній драмі на основі бестселера вдова працює в нічну зміну в океанаріумі маленького містечка, де знаходить спільну мову з розумним восьминогом і зневіреним хлопцем.",
-        "poster_path": "/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
+        "overview": "Події відбуваються у маленькому містечку, де Това, літня жінка, яка втратила сина, працює нічною прибиральницею в місцевому акваріумі. Вона знаходить спільну мову з мешканцем акваріума — старим та надзвичайно спостережливим восьминогом Марцеллусом. В цей же час в місто приїжджає Камерон — молодий чоловік, який шукає свого батька й влаштовується працівником в акваріум. Його зустріч із Товою та Марцеллусом запускає ланцюг подій, що веде до несподіваних відкриттів про минуле й нових можливостей для майбутнього.",
+        "poster_path": "/x0IqFdGeAYPK10WyjpXCTfOEBIh.jpg",
         "release_date": "2026-05-07",
         "video": false,
         "vote_average": 8.2,
@@ -668,7 +733,7 @@
           "Goldeu Laendeu"
         ],
         "overview": "Молода жінка, яка працює агенткою служби безпеки в аеропорту, випадково отримує у своє розпорядження золоті злитки контрабандистського угруповання. Опинившись у хаотичному вирі жадібності та зрад між різними сторонами, що борються за золото, вона поступово піддається бажанню забрати все собі.",
-        "poster_path": "/exAqL4Hbh2M712QlFwGDTqZeiAl.jpg",
+        "poster_path": "/7N6Aa8Kn71JHG9aztcIaRIzdkLc.jpg",
         "first_air_date": "2026-04-29",
         "video": false,
         "vote_average": 9.5,
@@ -753,7 +818,7 @@
           "overview": "",
           "season_number": 2,
           "runtime": 54,
-          "still_path": "/jXNkxnwgWuWy9ZyZm4g5DeNO79.jpg",
+          "still_path": "/dpwUQPQFWmQU2Ym3tgCKGExVCWV.jpg",
           "vote_average": 7.8
         },
         "genres": [
@@ -824,7 +889,7 @@
           "season_number": 5,
           "runtime": 65,
           "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
-          "vote_average": 7.386
+          "vote_average": 7.375
         },
         "genres": [
           "Науково фантастичний",
@@ -963,7 +1028,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/vFjXxYZPXm5qM9tRVd0579NoEBW.jpg",
-          "vote_average": 8.969
+          "vote_average": 9.0
         },
         "genres": [
           "Кримінал",
@@ -1030,7 +1095,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/1DpoRaiA7weWvLSL4PsZPPHwmvI.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.2
         },
         "genres": [
           "Драма"
@@ -1150,8 +1215,8 @@
           "overview": "Бойд намагається врятувати Акосту від неї самої, тоді як Джулі глибше занурюється у свої нові здібності. Табіта наважується на відчайдушний крок, а Віктор приєднується до Ітана у пошуках відповідей.",
           "season_number": 4,
           "runtime": 48,
-          "still_path": "/i4NypsP3189cjfDVnXZiXoUOIJt.jpg",
-          "vote_average": 7.3
+          "still_path": "/8qi8LymsHa9waxLFfMbZQGTFRRD.jpg",
+          "vote_average": 7.4
         },
         "genres": [
           "Детектив",
@@ -1334,7 +1399,7 @@
           "season_number": 2,
           "runtime": 53,
           "still_path": "/2xCzo9a0UN5RTFP84farSXlSD15.jpg",
-          "vote_average": 8.167
+          "vote_average": 7.8
         },
         "genres": [
           "Науково фантастичний",
@@ -1642,7 +1707,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.393
+          "vote_average": 7.4
         },
         "genres": [
           "Науково фантастичний",
@@ -1663,7 +1728,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/q05WV8DwEiyLbCgSVtg55RbUzou.jpg",
+        "backdrop_path": "/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
         "genre_ids": [
           28,
           27,
@@ -2041,7 +2106,7 @@
           "season_number": 4,
           "runtime": 55,
           "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
-          "vote_average": 6.5
+          "vote_average": 6.586
         },
         "genres": [
           "Детектив",
@@ -2197,7 +2262,7 @@
           "season_number": 1,
           "runtime": 28,
           "still_path": "/ls5Ctm2zIjMlEVpItcv3JU5GLRA.jpg",
-          "vote_average": 5.714
+          "vote_average": 5.7
         },
         "genres": [
           "Мультфільм",
@@ -2622,7 +2687,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
+        "backdrop_path": "/wMrV8SLne1jHLeYS0lLrA1Tf86P.jpg",
         "genre_ids": [
           27,
           9648
@@ -2722,7 +2787,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/gheN0HmOUZAag4N38HascquineZ.jpg",
-          "vote_average": 9.543
+          "vote_average": 9.5
         },
         "genres": [
           "Кримінал",
@@ -2954,77 +3019,7 @@
       "type": "episode",
       "hash": "s3;e2",
       "premiere": 0
-    },
-    {
-      "id": 2651,
-      "time": 1776628336401,
-      "card_id": "124364",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
-        "genre_ids": [
-          9648,
-          18,
-          10765
-        ],
-        "id": 124364,
-        "original_language": "en",
-        "name": "Ззовні",
-        "original_name": "FROM",
-        "names": [
-          "Извне",
-          "From",
-          "Ззовні",
-          "FROM"
-        ],
-        "overview": "Події серіалу відбуваються в містичному містечку, розташованому в центральній частині США. Всі, хто потрапляють туди, опиняються в пастці. Мимовільні жителі борются за збереження залишків здорового глузду та шукають вихід з кошмарної ситуації, адже щоночі їм доводиться переживати напад жахливих створінь, які виходять із заходом сонця з довколишнього лісу.",
-        "poster_path": "/rvlPBfIm6CUQTGorQvf6wK8lPDH.jpg",
-        "first_air_date": "2022-02-20",
-        "video": false,
-        "vote_average": 8.165,
-        "vote_count": 2542,
-        "popularity": 179.1681,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4476885",
-        "kp_rating": "7.6",
-        "imdb_id": "tt9813792",
-        "imdb_rating": "7.8",
-        "status": "returning series",
-        "last_air_date": "2026-04-19",
-        "seasons": {
-          "1": 10,
-          "2": 10,
-          "3": 10,
-          "4": 1
-        },
-        "episode": {
-          "air_date": "2026-04-19",
-          "episode_number": 1,
-          "name": "Прибуття",
-          "overview": "Новий мешканець занурює місто в хаос. Джейд і Табіта намагаються змиритися зі своїм відкриттям біля «Дерева пляшок». Бойд намагається збагнути наслідки повернення Смайлі.",
-          "season_number": 4,
-          "runtime": 54,
-          "still_path": "/vW5LTVntIb4YjSlAzhmpsCfig7z.jpg",
-          "vote_average": 6.528
-        },
-        "genres": [
-          "Детектив",
-          "Драма",
-          "Науково фантастичний"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s4;e1",
-      "premiere": 0
     }
   ],
-  "duration": 4.611297607421875
+  "duration": 6.06494140625
 }
