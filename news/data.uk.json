@@ -2,6 +2,126 @@
   "secuses": true,
   "result": [
     {
+      "id": 2703,
+      "time": 1778691548128,
+      "card_id": "76479",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "id": 76479,
+        "original_language": "en",
+        "name": "Хлопаки",
+        "original_name": "The Boys",
+        "names": [
+          "Хлопаки",
+          "Пацаны",
+          "The Boys",
+          "Хлопці / Хлопаки"
+        ],
+        "overview": "Події розгортаються в альтернативному світі, де супергерої є звичним явищем. Вони щоденно по кілька разів рятують світ, знімаються у фільмах і стають обличчями рекламних кампаній відомих брендів. Втім, є і зворотня сторона медалі: кожен день тисячі людей страждають від дій супергероїв, для яких людське життя насправді не коштує зовсім нічого. Але є невеличка групка відчайдухів, яких такий стан справ не влаштовує, вони мають мету – покарати знахабнілих надлюдей та вивести їх на чисту воду…",
+        "poster_path": "/iNKkWK11okzbenMvJY87aOHNfll.jpg",
+        "first_air_date": "2019-07-25",
+        "video": false,
+        "vote_average": 8.449,
+        "vote_count": 12207,
+        "popularity": 585.9876,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "460586",
+        "kp_rating": "8.3",
+        "imdb_id": "tt1190634",
+        "imdb_rating": "8.6",
+        "status": "returning series",
+        "last_air_date": "2026-05-13",
+        "seasons": {
+          "1": 8,
+          "2": 8,
+          "3": 8,
+          "4": 8,
+          "5": 7
+        },
+        "episode": {
+          "air_date": "2026-05-13",
+          "episode_number": 7,
+          "name": "Французик, жінка та чоловік на ім'я Материнське Молоко",
+          "overview": "ПОПЕРЕДЖЕННЯ: ОБЕРЕЖНО ПІД ЧАС ВИХОДУ НА ЗВУКОВУ СЦЕНУ. ВИКОНАВЦІ МОЖУТЬ ВИКОРИСТОВУВАТИ НАДЗДІБНОСТІ.",
+          "season_number": 5,
+          "runtime": 70,
+          "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
+          "vote_average": 8.875
+        },
+        "genres": [
+          "Науково фантастичний",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s5;e7",
+      "premiere": 0
+    },
+    {
+      "id": 2702,
+      "time": 1778614153238,
+      "card_id": "262388",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/wqjhAWmqHrIIn4PdchGCuEgPksw.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 262388,
+        "original_language": "en",
+        "name": "M.I.A.",
+        "original_name": "M.I.A.",
+        "names": [
+          "Пропавшая без вести",
+          "M.I.A."
+        ],
+        "overview": "Етта Тайґер Джонс мріє про життя в сяючому субтропічному королівстві Маямі. Однак коли сімейний наркобізнес руйнується через трагедію, Етта вирушає в небезпечну подорож неоновим підпіллям Маямі, яка визначить, ким вона є і на що зрештою здатна.",
+        "poster_path": "/uvocuo6mgQTtNa7O6a3MQoTfuh4.jpg",
+        "first_air_date": "2026-05-07",
+        "video": false,
+        "vote_average": 9,
+        "vote_count": 4,
+        "popularity": 28.5416,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "11297614",
+        "imdb_id": "tt33253070",
+        "status": "returning series",
+        "last_air_date": "2026-05-11",
+        "seasons": {
+          "1": 9
+        },
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Кримінал",
+          "Драма"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2701,
       "time": 1778529548132,
       "card_id": "85552",
@@ -52,7 +172,7 @@
           "season_number": 3,
           "runtime": 61,
           "still_path": "/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg",
-          "vote_average": 7.1
+          "vote_average": 6.583
         },
         "genres": [
           "Драма"
@@ -121,7 +241,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg",
-          "vote_average": 6.45
+          "vote_average": 6.542
         },
         "genres": [
           "Детектив",
@@ -295,7 +415,7 @@
           "season_number": 2,
           "runtime": 48,
           "still_path": "/4Q11reQ3Z72OL6wyZoKGjv4rj5C.jpg",
-          "vote_average": 7.0
+          "vote_average": 7.5
         },
         "genres": [
           "Драма",
@@ -558,7 +678,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/qjv21Iu0nHQ0crJpy6KKiW8LX1Y.jpg",
+        "backdrop_path": "/tAeiebNAyYC23FjUEkgyUm9SnEo.jpg",
         "genre_ids": [
           28,
           14,
@@ -819,7 +939,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/dpwUQPQFWmQU2Ym3tgCKGExVCWV.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.5
         },
         "genres": [
           "Драма",
@@ -889,7 +1009,7 @@
           "season_number": 5,
           "runtime": 65,
           "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
-          "vote_average": 7.375
+          "vote_average": 7.365
         },
         "genres": [
           "Науково фантастичний",
@@ -1028,7 +1148,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/vFjXxYZPXm5qM9tRVd0579NoEBW.jpg",
-          "vote_average": 9.0
+          "vote_average": 9.028
         },
         "genres": [
           "Кримінал",
@@ -1095,7 +1215,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/1DpoRaiA7weWvLSL4PsZPPHwmvI.jpg",
-          "vote_average": 8.2
+          "vote_average": 8.143
         },
         "genres": [
           "Драма"
@@ -1151,9 +1271,10 @@
           "Spain"
         ],
         "genres": [
-          "Пригоди",
           "Мультфільм",
           "Сімейний",
+          "Пригоди",
+          "Драма",
           "Фентезі"
         ]
       },
@@ -1468,8 +1589,8 @@
           "overview": "",
           "season_number": 2,
           "runtime": 48,
-          "still_path": "/rmlntMleUjbXWgEk0beQla6qTDZ.jpg",
-          "vote_average": 8.0
+          "still_path": "/hrUbvxYeKsDnNVTktO29BJ5JlJq.jpg",
+          "vote_average": 8.1
         },
         "genres": [
           "Драма",
@@ -2128,7 +2249,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/agiw674fCB712joCGQFCPzd3nSp.jpg",
+        "backdrop_path": "/oiiQVnnEY4M2pz6iZkq59ls9fP.jpg",
         "genre_ids": [
           18
         ],
@@ -2518,7 +2639,7 @@
           "season_number": 2,
           "runtime": 52,
           "still_path": "/lbuiEvKOaQEw4mG880gsdg8GKvr.jpg",
-          "vote_average": 8.4
+          "vote_average": 8.42
         },
         "genres": [
           "Драма",
@@ -2905,121 +3026,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2653,
-      "time": 1776761537421,
-      "card_id": "1305781",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
-        "genre_ids": [
-          28,
-          18,
-          36
-        ],
-        "id": 1305781,
-        "original_language": "zh",
-        "title": "镖人：风起大漠",
-        "original_title": "镖人：风起大漠",
-        "names": [
-          "Клинки хранителей",
-          "Biao ren: feng qi da mo",
-          "镖人：风起大漠"
-        ],
-        "overview": "Дао Ма, «второй самый разыскиваемый беглец», получает от своего благодетеля, главы клана Мо, поручение выполнить таинственную миссию — сопроводить «самого разыскиваемого беглеца» в Чанъань.",
-        "poster_path": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
-        "release_date": "2026-02-17",
-        "video": false,
-        "vote_average": 7.2,
-        "vote_count": 35,
-        "popularity": 19.1685,
-        "PG": 17,
-        "release_quality": "ts",
-        "kinopoisk_id": "6359255",
-        "imdb_id": "tt32649961",
-        "imdb_rating": "7.3",
-        "status": "released",
-        "last_air_date": "2026-04-20",
-        "countries": [
-          "China"
-        ],
-        "genres": [
-          "Бойовик",
-          "Драма",
-          "Історичний"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2652,
-      "time": 1776682336824,
-      "card_id": "85552",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 85552,
-        "original_language": "en",
-        "name": "Ейфорія",
-        "original_name": "Euphoria",
-        "names": [
-          "Эйфория",
-          "Euphoria",
-          "Ейфорія"
-        ],
-        "overview": "У центрі історії — 17-річна Ру Беннетт, яка повернулася до рідного дому після лікування в реабілітаційній клініці. Не гаючи часу, вона знову береться за старі звички — наркотики й тусовки. Однак поява в місті дівчини Джулс стає для Ру знаком надії.",
-        "poster_path": "/nsZkLSw1d0le18B8F0B5VMv6QKJ.jpg",
-        "first_air_date": "2019-06-16",
-        "video": false,
-        "vote_average": 8.3,
-        "vote_count": 10394,
-        "popularity": 435.1801,
-        "PG": 18,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1178445",
-        "kp_rating": "7.5",
-        "imdb_id": "tt8772296",
-        "imdb_rating": "8.2",
-        "status": "returning series",
-        "last_air_date": "2026-04-20",
-        "seasons": {
-          "1": 10,
-          "2": 8,
-          "3": 2
-        },
-        "episode": {
-          "air_date": "2026-04-19",
-          "episode_number": 2,
-          "name": "Серія 2",
-          "overview": "",
-          "season_number": 3,
-          "runtime": 60,
-          "still_path": "/hnRxdmQRxz3dhAuwOHkGpAauhaq.jpg",
-          "vote_average": 7.1
-        },
-        "genres": [
-          "Драма"
-        ],
-        "countries": [
-          "United States of America",
-          "Israel"
-        ]
-      },
-      "type": "episode",
-      "hash": "s3;e2",
-      "premiere": 0
     }
   ],
-  "duration": 6.06494140625
+  "duration": 6.0277099609375
 }
