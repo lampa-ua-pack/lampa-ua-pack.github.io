@@ -2,6 +2,147 @@
   "secuses": true,
   "result": [
     {
+      "id": 2706,
+      "time": 1778772550132,
+      "card_id": "855435",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/r7AKQ0OB69JOPskeTWL3U206ehY.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 855435,
+        "original_language": "en",
+        "title": "Обличчя смерті",
+        "original_title": "Faces of Death",
+        "names": [
+          "Обличчя смерті",
+          "Лики смерти",
+          "Faces of Death"
+        ],
+        "overview": "Жінка, яка працює модератором контенту на веб-сайті, натикається на серію жорстоких відеороликів, які відтворюють сцени смерті з фільму.",
+        "poster_path": "/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg",
+        "release_date": "2026-04-10",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 10,
+        "popularity": 2.5134,
+        "PG": 17,
+        "release_quality": "4K",
+        "kinopoisk_id": "5282562",
+        "kp_rating": "5.7",
+        "imdb_id": "tt14619456",
+        "status": "released",
+        "last_air_date": "2026-05-13",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Жахи"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2705,
+      "time": 1778754548242,
+      "card_id": "1439930",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
+        "genre_ids": [
+          28,
+          18,
+          80
+        ],
+        "id": 1439930,
+        "original_language": "en",
+        "title": "Каратель: Останнє вбивство",
+        "original_title": "A Marvel Television Special Presentation - The Punisher: One Last Kill",
+        "names": [
+          "Каратель: Останнє вбивство",
+          "Каратель: Последнее убийство",
+          "The Punisher: One Last Kill",
+          "A Marvel Television Special Presentation - The Punisher: One Last Kill"
+        ],
+        "overview": "Поки Френк Касл шукає сенсу життя за межами помсти, несподівана сила знову втягує його в боротьбу.",
+        "poster_path": "/9OFAsyrlp2Tb3ZMOybJR5dhRmer.jpg",
+        "release_date": "2026-05-12",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 11,
+        "popularity": 34.1264,
+        "PG": 17,
+        "release_quality": "4K",
+        "kinopoisk_id": "7378359",
+        "imdb_id": "tt36042156",
+        "status": "released",
+        "last_air_date": "2026-05-14",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Бойовик",
+          "Драма",
+          "Кримінал"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2704,
+      "time": 1778700548349,
+      "card_id": "1400357",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/mWRjVb2Lj9pjOlNcDP7lNvrvSo8.jpg",
+        "genre_ids": [
+          80,
+          35
+        ],
+        "id": 1400357,
+        "original_language": "en",
+        "title": "Крістофери",
+        "original_title": "The Christophers",
+        "names": [
+          "Крістофери",
+          "Кристоферы",
+          "The Christophers"
+        ],
+        "overview": "Діти колись відомого художника наймають фальсифікатора, щоб завершити кілька незакінчених, давно покинутих полотен, аби отримати спадок після його смерті.",
+        "poster_path": "/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
+        "release_date": "2026-04-10",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 3,
+        "popularity": 2.361,
+        "PG": 17,
+        "release_quality": "4K",
+        "kinopoisk_id": "6739486",
+        "imdb_id": "tt34966562",
+        "status": "released",
+        "last_air_date": "2026-05-13",
+        "countries": [
+          "United Kingdom",
+          "United States of America"
+        ],
+        "genres": [
+          "Кримінал",
+          "Комедія"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2703,
       "time": 1778691548128,
       "card_id": "76479",
@@ -54,9 +195,9 @@
           "name": "Французик, жінка та чоловік на ім'я Материнське Молоко",
           "overview": "ПОПЕРЕДЖЕННЯ: ОБЕРЕЖНО ПІД ЧАС ВИХОДУ НА ЗВУКОВУ СЦЕНУ. ВИКОНАВЦІ МОЖУТЬ ВИКОРИСТОВУВАТИ НАДЗДІБНОСТІ.",
           "season_number": 5,
-          "runtime": 70,
+          "runtime": 71,
           "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
-          "vote_average": 8.875
+          "vote_average": 8.333
         },
         "genres": [
           "Науково фантастичний",
@@ -172,7 +313,7 @@
           "season_number": 3,
           "runtime": 61,
           "still_path": "/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg",
-          "vote_average": 6.583
+          "vote_average": 6.6
         },
         "genres": [
           "Драма"
@@ -241,7 +382,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg",
-          "vote_average": 6.542
+          "vote_average": 6.8
         },
         "genres": [
           "Детектив",
@@ -303,7 +444,7 @@
           "season_number": 1,
           "runtime": 40,
           "still_path": "/wZng5iAHnuzOnNRMLfVPPF6ILJt.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.833
         },
         "genres": [
           "Кримінал",
@@ -324,7 +465,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+        "backdrop_path": "/cm3TmfEcLhs2FaDEUUSWgpK3VRC.jpg",
         "genre_ids": [
           18,
           9648
@@ -678,7 +819,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/tAeiebNAyYC23FjUEkgyUm9SnEo.jpg",
+        "backdrop_path": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
         "genre_ids": [
           28,
           14,
@@ -939,7 +1080,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/dpwUQPQFWmQU2Ym3tgCKGExVCWV.jpg",
-          "vote_average": 7.5
+          "vote_average": 7.6
         },
         "genres": [
           "Драма",
@@ -1009,7 +1150,7 @@
           "season_number": 5,
           "runtime": 65,
           "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
-          "vote_average": 7.365
+          "vote_average": 7.388
         },
         "genres": [
           "Науково фантастичний",
@@ -1215,7 +1356,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/1DpoRaiA7weWvLSL4PsZPPHwmvI.jpg",
-          "vote_average": 8.143
+          "vote_average": 8.1
         },
         "genres": [
           "Драма"
@@ -1590,7 +1731,7 @@
           "season_number": 2,
           "runtime": 48,
           "still_path": "/hrUbvxYeKsDnNVTktO29BJ5JlJq.jpg",
-          "vote_average": 8.1
+          "vote_average": 8.056
         },
         "genres": [
           "Драма",
@@ -1828,7 +1969,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.4
+          "vote_average": 7.375
         },
         "genres": [
           "Науково фантастичний",
@@ -2227,7 +2368,7 @@
           "season_number": 4,
           "runtime": 55,
           "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
-          "vote_average": 6.586
+          "vote_average": 6.6
         },
         "genres": [
           "Детектив",
@@ -2569,7 +2710,7 @@
           "season_number": 2,
           "runtime": 44,
           "still_path": "/uktOfZpCC4hNSBJZ9rpZf9wFZHo.jpg",
-          "vote_average": 8.167
+          "vote_average": 8.154
         },
         "genres": [
           "Науково фантастичний",
@@ -2639,7 +2780,7 @@
           "season_number": 2,
           "runtime": 52,
           "still_path": "/lbuiEvKOaQEw4mG880gsdg8GKvr.jpg",
-          "vote_average": 8.42
+          "vote_average": 8.404
         },
         "genres": [
           "Драма",
@@ -2709,7 +2850,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.3
+          "vote_average": 7.292
         },
         "genres": [
           "Науково фантастичний",
@@ -2784,7 +2925,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/a103TuPbdItnmw4d4yDFQngJywu.jpg",
-          "vote_average": 7.6
+          "vote_average": 7.654
         },
         "genres": [
           "Мультфільм",
@@ -2848,185 +2989,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2656,
-      "time": 1776790337348,
-      "card_id": "79744",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
-        "genre_ids": [
-          80,
-          18,
-          35
-        ],
-        "id": 79744,
-        "original_language": "en",
-        "name": "Новобранець",
-        "original_name": "The Rookie",
-        "names": [
-          "Новичок",
-          "The Rookie",
-          "Новобранец",
-          "Новобранець"
-        ],
-        "overview": "Починати з чистого аркуша завжди нелегко, особливо для мешканця маленького містечка Джона Нолана. Після інциденту, який перевернув його життя, він вирішив здійснити давню мрію і приєднатися до поліції Лос-Анджелеса. Старого новачка зустрічають із зрозумілим скептицизмом, проте життєвий досвід, наполегливість та почуття гумору дають Джону перевагу.",
-        "poster_path": "/rN4jJz0OquSHAzNRZGRSa018dgx.jpg",
-        "first_air_date": "2018-10-16",
-        "video": false,
-        "vote_average": 8.539,
-        "vote_count": 3105,
-        "popularity": 275.7799,
-        "PG": 0,
-        "release_quality": "hdtv",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1142153",
-        "kp_rating": "8.4",
-        "imdb_id": "tt7587890",
-        "imdb_rating": "8.0",
-        "status": "returning series",
-        "last_air_date": "2026-04-21",
-        "seasons": {
-          "1": 20,
-          "2": 20,
-          "3": 14,
-          "4": 22,
-          "5": 22,
-          "6": 10,
-          "7": 18,
-          "8": 16
-        },
-        "episode": {
-          "air_date": "2026-04-20",
-          "episode_number": 16,
-          "name": "Час вийшов",
-          "overview": "Нолан опиняється у скрутному становищі, коли йому доводиться захищати людину, якій він не довіряє. Тим часом Люсі та Селіна йдуть по багатообіцяючій зачіпці, а Лопес відчуває суперечливі почуття щодо нової посади Веслі.",
-          "season_number": 8,
-          "runtime": 43,
-          "still_path": "/gheN0HmOUZAag4N38HascquineZ.jpg",
-          "vote_average": 9.5
-        },
-        "genres": [
-          "Кримінал",
-          "Драма",
-          "Комедія"
-        ],
-        "countries": [
-          "United States of America",
-          "Canada"
-        ]
-      },
-      "type": "episode",
-      "hash": "s8;e16",
-      "premiere": 0
-    },
-    {
-      "id": 2655,
-      "time": 1776784942480,
-      "card_id": "85552",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 85552,
-        "original_language": "en",
-        "name": "Ейфорія",
-        "original_name": "Euphoria",
-        "names": [
-          "Эйфория",
-          "Euphoria",
-          "Ейфорія"
-        ],
-        "overview": "У центрі історії — 17-річна Ру Беннетт, яка повернулася до рідного дому після лікування в реабілітаційній клініці. Не гаючи часу, вона знову береться за старі звички — наркотики й тусовки. Однак поява в місті дівчини Джулс стає для Ру знаком надії.",
-        "poster_path": "/nsZkLSw1d0le18B8F0B5VMv6QKJ.jpg",
-        "first_air_date": "2019-06-16",
-        "video": false,
-        "vote_average": 8.3,
-        "vote_count": 10394,
-        "popularity": 435.1801,
-        "PG": 18,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1178445",
-        "kp_rating": "7.5",
-        "imdb_id": "tt8772296",
-        "imdb_rating": "8.2",
-        "status": "returning series",
-        "last_air_date": "2026-04-20",
-        "seasons": {
-          "1": 10,
-          "2": 8,
-          "3": 2
-        },
-        "countries": [
-          "United States of America",
-          "Israel"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2654,
-      "time": 1776763339382,
-      "card_id": "1620551",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/Ary1sG0AHn4V1DFrwV7g72Fomq0.jpg",
-        "genre_ids": [
-          10402,
-          18,
-          35
-        ],
-        "id": 1620551,
-        "original_language": "it",
-        "title": "Відчуй мій голос",
-        "original_title": "Non abbiam bisogno di parole",
-        "names": [
-          "Відчуй мій голос",
-          "Почувствуй мой голос",
-          "Non abbiam bisogno di parole"
-        ],
-        "overview": "Сором’язлива підлітка, яка єдина чує в сім’ї глухих, відкриває в собі талант до співу й мусить обирати між обов’язком і власним шляхом.",
-        "poster_path": "/gpOSpyOm25vnGmyRX8gMolkzSOn.jpg",
-        "release_date": "2026-04-03",
-        "video": false,
-        "vote_average": 6.506,
-        "vote_count": 80,
-        "popularity": 16.6224,
-        "PG": 17,
-        "release_quality": "4K",
-        "kinopoisk_id": "11883620",
-        "imdb_id": "tt38589464",
-        "status": "released",
-        "last_air_date": "2026-04-05",
-        "countries": [
-          "Italy"
-        ],
-        "genres": [
-          "Музика",
-          "Драма",
-          "Комедія"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.0277099609375
+  "duration": 4.7325592041015625
 }

@@ -2,6 +2,144 @@
   "secuses": true,
   "result": [
     {
+      "id": 2706,
+      "time": 1778772550132,
+      "card_id": "855435",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/qdyeQg2gWj1L8cDlwU3tI4s0Hub.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 855435,
+        "original_language": "en",
+        "title": "Лики смерти",
+        "original_title": "Faces of Death",
+        "names": [
+          "Лики смерти",
+          "Faces of Death"
+        ],
+        "overview": "Марго работает модератором популярного видеохостинга. Ей приходится просматривать контент разной степени жестокости и мерзости, и однажды её внимание привлекает серия постановочных видео, где, как ей кажется, показаны настоящие убийства. Начальство не хочет ничего предпринимать, поэтому Марго берётся за расследование сама и выясняет, что ролики повторяют сцены из культового хоррора «Лики смерти».",
+        "poster_path": "/5KDjg1jZPCYDvDeevV9U5o6YdVf.jpg",
+        "release_date": "2026-04-10",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 10,
+        "popularity": 2.5134,
+        "PG": 17,
+        "release_quality": "4K",
+        "kinopoisk_id": "5282562",
+        "kp_rating": "5.7",
+        "imdb_id": "tt14619456",
+        "status": "released",
+        "last_air_date": "2026-05-13",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Ужасы"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2705,
+      "time": 1778754548242,
+      "card_id": "1439930",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
+        "genre_ids": [
+          28,
+          18,
+          80
+        ],
+        "id": 1439930,
+        "original_language": "en",
+        "title": "Каратель: Последнее убийство",
+        "original_title": "A Marvel Television Special Presentation - The Punisher: One Last Kill",
+        "names": [
+          "Каратель: Последнее убийство",
+          "The Punisher: One Last Kill",
+          "A Marvel Television Special Presentation - The Punisher: One Last Kill"
+        ],
+        "overview": "Пока Фрэнк Касл ищет смысл жизни за пределами мести, неожиданная сила вновь втягивает его в борьбу.",
+        "poster_path": "/nLFfNeftCJRK1PXebnSymYX3Vhf.jpg",
+        "release_date": "2026-05-12",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 11,
+        "popularity": 34.1264,
+        "PG": 17,
+        "release_quality": "4K",
+        "kinopoisk_id": "7378359",
+        "imdb_id": "tt36042156",
+        "status": "released",
+        "last_air_date": "2026-05-14",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Боевик",
+          "Драма",
+          "Криминал"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2704,
+      "time": 1778700548349,
+      "card_id": "1400357",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/mWRjVb2Lj9pjOlNcDP7lNvrvSo8.jpg",
+        "genre_ids": [
+          80,
+          35
+        ],
+        "id": 1400357,
+        "original_language": "en",
+        "title": "Кристоферы",
+        "original_title": "The Christophers",
+        "names": [
+          "Кристоферы",
+          "The Christophers"
+        ],
+        "overview": "Барнаби и его сестра Салли — дети некогда знаменитого пожилого художника Джулиана Склара. В тайне от отца они решают нанять молодую художницу Лори Батлер, чтобы та дописала незаконченные картины Джулиана, которые после его смерти перейдут детям по наследству и позволят им заработать.",
+        "poster_path": "/uLRr3sVVqzcexegoCMrhb2AsVZn.jpg",
+        "release_date": "2026-04-10",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 3,
+        "popularity": 2.361,
+        "PG": 17,
+        "release_quality": "4K",
+        "kinopoisk_id": "6739486",
+        "imdb_id": "tt34966562",
+        "status": "released",
+        "last_air_date": "2026-05-13",
+        "countries": [
+          "Великобритания",
+          "США"
+        ],
+        "genres": [
+          "Криминал",
+          "Комедия"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2703,
       "time": 1778691548128,
       "card_id": "76479",
@@ -2607,175 +2745,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2656,
-      "time": 1776790337348,
-      "card_id": "79744",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
-        "genre_ids": [
-          80,
-          18,
-          35
-        ],
-        "id": 79744,
-        "original_language": "en",
-        "name": "Новичок",
-        "original_name": "The Rookie",
-        "names": [
-          "Новичок",
-          "The Rookie",
-          "Новобранец",
-          "Новобранець"
-        ],
-        "overview": "Начинать с чистого листа всегда нелегко, особенно для уроженца маленького городка Джона Нолана, который после инцидента, перевернувшего его жизнь, решил воплотить в жизнь давнюю мечту и присоединиться к полиции Лос-Анджелеса. Возрастного новичка встречают с понятным скептицизмом, однако жизненный опыт, упорство и чувство юмора дают Джону преимущество.",
-        "poster_path": "/jfxInWjSixQeeyT7oiBvdXjd7HM.jpg",
-        "first_air_date": "2018-10-16",
-        "video": false,
-        "vote_average": 8.539,
-        "vote_count": 3105,
-        "popularity": 275.7799,
-        "PG": 0,
-        "release_quality": "hdtv",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1142153",
-        "kp_rating": "8.4",
-        "imdb_id": "tt7587890",
-        "imdb_rating": "8.0",
-        "status": "returning series",
-        "last_air_date": "2026-04-21",
-        "seasons": {
-          "1": 20,
-          "2": 20,
-          "3": 14,
-          "4": 22,
-          "5": 22,
-          "6": 10,
-          "7": 18,
-          "8": 16
-        },
-        "episode": {
-          "air_date": "2026-04-20",
-          "episode_number": 16,
-          "name": "Эпизод 16",
-          "overview": "",
-          "season_number": 8,
-          "runtime": 43,
-          "still_path": "/gheN0HmOUZAag4N38HascquineZ.jpg",
-          "vote_average": 9.25
-        }
-      },
-      "type": "episode",
-      "hash": "s8;e16",
-      "premiere": 0
-    },
-    {
-      "id": 2655,
-      "time": 1776784942480,
-      "card_id": "85552",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/GN2KFXiHPVV6sIw4v2P2pqCJty.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 85552,
-        "original_language": "en",
-        "name": "Эйфория",
-        "original_name": "Euphoria",
-        "names": [
-          "Эйфория",
-          "Euphoria",
-          "Ейфорія"
-        ],
-        "overview": "17-летняя Ру Беннетт возвращается домой после лечения в реабилитационной клинике. Не имея ни малейшего желания завязывать с наркотиками, она немедленно берётся за старое. На вечеринке Ру обращает внимание на недавно приехавшую в их пригород ровесницу Джулс, и это знакомство становится началом большой дружбы.",
-        "poster_path": "/yJz0VPfztciUt8cYulEOnk7wQhs.jpg",
-        "first_air_date": "2019-06-16",
-        "video": false,
-        "vote_average": 8.3,
-        "vote_count": 10394,
-        "popularity": 435.1801,
-        "PG": 18,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1178445",
-        "kp_rating": "7.5",
-        "imdb_id": "tt8772296",
-        "imdb_rating": "8.2",
-        "status": "returning series",
-        "last_air_date": "2026-04-20",
-        "seasons": {
-          "1": 10,
-          "2": 8,
-          "3": 2
-        },
-        "countries": [
-          "США",
-          "Израиль"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2654,
-      "time": 1776763339382,
-      "card_id": "1620551",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/Ary1sG0AHn4V1DFrwV7g72Fomq0.jpg",
-        "genre_ids": [
-          10402,
-          18,
-          35
-        ],
-        "id": 1620551,
-        "original_language": "it",
-        "title": "Почувствуй мой голос",
-        "original_title": "Non abbiam bisogno di parole",
-        "names": [
-          "Почувствуй мой голос",
-          "Non abbiam bisogno di parole"
-        ],
-        "overview": "Элетта, единственный слышащий член семьи глухих, находит свой голос и учится верить в себя через свою страсть к пению.",
-        "poster_path": "/ptWVRyHpDYDoU1vWR2jBQOFSE24.jpg",
-        "release_date": "2026-04-03",
-        "video": false,
-        "vote_average": 6.506,
-        "vote_count": 80,
-        "popularity": 16.6224,
-        "PG": 17,
-        "release_quality": "4K",
-        "kinopoisk_id": "11883620",
-        "imdb_id": "tt38589464",
-        "status": "released",
-        "last_air_date": "2026-04-05",
-        "countries": [
-          "Италия"
-        ],
-        "genres": [
-          "Музыка",
-          "Драма",
-          "Комедия"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.0277099609375
+  "duration": 4.7325592041015625
 }
