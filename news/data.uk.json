@@ -2,6 +2,145 @@
   "secuses": true,
   "result": [
     {
+      "id": 2708,
+      "time": 1778853549130,
+      "card_id": "56570",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "id": 56570,
+        "original_language": "en",
+        "name": "Чужоземка",
+        "original_name": "Outlander",
+        "names": [
+          "Чужестранка",
+          "Outlander",
+          "Чужоземка"
+        ],
+        "overview": "Клер, яка працювала медсестрою під час Другої світової війни, випадково переміщається в часі і потрапляє в 1743 рік. У цьому світі, повному пригод, вона знайомиться з шотландським лицарем Джеймі. У героїв зав'язується пристрасний роман, незважаючи на те, що серце Клер розривається між двома чоловіками - Джеймі і її чоловіком Френком, який залишився в іншому часі.",
+        "poster_path": "/tZuKy6RWPQKgyOtx8XWxpdzfQME.jpg",
+        "first_air_date": "2014-08-09",
+        "video": false,
+        "vote_average": 8.18,
+        "vote_count": 2831,
+        "popularity": 107.6433,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "818284",
+        "kp_rating": "8.0",
+        "imdb_id": "tt3006802",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-05-15",
+        "seasons": {
+          "1": 16,
+          "2": 13,
+          "3": 13,
+          "4": 13,
+          "5": 12,
+          "6": 8,
+          "7": 16,
+          "8": 10
+        },
+        "episode": {
+          "air_date": "2026-05-15",
+          "episode_number": 10,
+          "name": "Серія 10",
+          "overview": "",
+          "season_number": 8,
+          "runtime": 72,
+          "still_path": "/xxfVUTzLKwoeXusluq0rbpeFzPC.jpg",
+          "vote_average": 0.0
+        },
+        "genres": [
+          "Драма",
+          "Науково фантастичний"
+        ],
+        "countries": [
+          "United Kingdom",
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s8;e10",
+      "premiere": 0
+    },
+    {
+      "id": 2707,
+      "time": 1778835548264,
+      "card_id": "241609",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 241609,
+        "original_language": "en",
+        "name": "Друзі та сусіди",
+        "original_name": "Your Friends & Neighbors",
+        "names": [
+          "Друзі та сусіди",
+          "Друзья и соседи",
+          "Друзья и Соседи",
+          "Your Friends & Neighbors",
+          "Your Friends and Neighbors"
+        ],
+        "overview": "Фінансовий титан раптово розлучається, втрачає роботу і, щоб уникнути банкрутства, починає грабувати багатих сусідів. Обкрадаючи людей зі свого соціального кола, він відчуває дивне піднесення — але поступово заплутується в смертоносному павутинні.",
+        "poster_path": "/xGURzoKwTw6B4rrOOiQLOEPNEE.jpg",
+        "first_air_date": "2025-04-10",
+        "video": false,
+        "vote_average": 7.604,
+        "vote_count": 211,
+        "popularity": 39.1492,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6600202",
+        "kp_rating": "7.5",
+        "imdb_id": "tt30459041",
+        "imdb_rating": "7.7",
+        "status": "returning series",
+        "last_air_date": "2026-05-15",
+        "seasons": {
+          "1": 9,
+          "2": 7
+        },
+        "episode": {
+          "air_date": "2026-05-14",
+          "episode_number": 7,
+          "name": "На схід",
+          "overview": "Куп і Сем проводять шалений вікенд у маєтку Еша в Гемптонзі. Мел перебирає міру в боях із сусідами.",
+          "season_number": 2,
+          "runtime": 57,
+          "still_path": "/oMOWpYQbjiNgGf5gPFZHyVFVmCV.jpg",
+          "vote_average": 7.75
+        },
+        "genres": [
+          "Драма",
+          "Кримінал"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s2;e7",
+      "premiere": 0
+    },
+    {
       "id": 2706,
       "time": 1778772550132,
       "card_id": "855435",
@@ -197,7 +336,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
-          "vote_average": 8.333
+          "vote_average": 7.909
         },
         "genres": [
           "Науково фантастичний",
@@ -313,7 +452,7 @@
           "season_number": 3,
           "runtime": 61,
           "still_path": "/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg",
-          "vote_average": 6.6
+          "vote_average": 5.929
         },
         "genres": [
           "Драма"
@@ -382,7 +521,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg",
-          "vote_average": 6.8
+          "vote_average": 7.2
         },
         "genres": [
           "Детектив",
@@ -465,7 +604,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/cm3TmfEcLhs2FaDEUUSWgpK3VRC.jpg",
+        "backdrop_path": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
         "genre_ids": [
           18,
           9648
@@ -674,7 +813,7 @@
           "name": "Серія 9",
           "overview": "",
           "season_number": 8,
-          "runtime": 55,
+          "runtime": 54,
           "still_path": "/g2Xq2bMO0t2lApPY8V8CXyGzZEt.jpg",
           "vote_average": 9.0
         },
@@ -744,7 +883,7 @@
           "season_number": 2,
           "runtime": 42,
           "still_path": "/htfy0mGyz1dzvX9j7dowdXVtept.jpg",
-          "vote_average": 7.5
+          "vote_average": 7.417
         },
         "genres": [
           "Драма",
@@ -765,7 +904,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/uvmn7g7G0cVj7OVeDRrklky4NfF.jpg",
+        "backdrop_path": "/loZCtN8s1yjSBD75rbHsRisWfUc.jpg",
         "genre_ids": [
           18,
           9648,
@@ -954,10 +1093,10 @@
         "status": "released",
         "last_air_date": "2026-05-03",
         "countries": [
-          "United Arab Emirates",
           "United States of America",
-          "Hong Kong",
-          "Ireland"
+          "Ireland",
+          "United Arab Emirates",
+          "Hong Kong"
         ],
         "genres": [
           "Жахи"
@@ -1149,8 +1288,8 @@
           "overview": "Уже в наявності, ЕКСКЛЮЗИВНО у @VMCtheaters, придбайте нове #ВідерцеДляПопкорнуЗГлибиною лише за $32.99!",
           "season_number": 5,
           "runtime": 65,
-          "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
-          "vote_average": 7.388
+          "still_path": "/4TA0dxVoNmiS98rLFBx6CDCov7p.jpg",
+          "vote_average": 7.4
         },
         "genres": [
           "Науково фантастичний",
@@ -1220,7 +1359,8 @@
         "genres": [
           "Екшн і Пригоди",
           "Мультфільм",
-          "Науково фантастичний"
+          "Науково фантастичний",
+          "Кримінал"
         ],
         "countries": [
           "United States of America"
@@ -1356,7 +1496,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/1DpoRaiA7weWvLSL4PsZPPHwmvI.jpg",
-          "vote_average": 8.1
+          "vote_average": 8.25
         },
         "genres": [
           "Драма"
@@ -1415,7 +1555,6 @@
           "Мультфільм",
           "Сімейний",
           "Пригоди",
-          "Драма",
           "Фентезі"
         ]
       },
@@ -2299,7 +2438,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/pjzzBxorSBsEkvVsISvIuP8aVaa.jpg",
-          "vote_average": 7.2
+          "vote_average": 7.182
         },
         "genres": [
           "Драма"
@@ -2863,133 +3002,7 @@
       "type": "episode",
       "hash": "s5;e4",
       "premiere": 0
-    },
-    {
-      "id": 2658,
-      "time": 1776873387537,
-      "card_id": "95557",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
-        "genre_ids": [
-          16,
-          18,
-          10765,
-          10759
-        ],
-        "id": 95557,
-        "original_language": "en",
-        "name": "НЕПЕРЕМОЖНИЙ",
-        "original_name": "INVINCIBLE",
-        "names": [
-          "НЕПЕРЕМОЖНИЙ",
-          "Неуязвимый",
-          "Invincible",
-          "Невразливий",
-          "Непобедимый",
-          "Invisible",
-          "INVINCIBLE",
-          "НЕПОБЕДИМЫЙ",
-          "Invencible"
-        ],
-        "overview": "17-річний Марк Грейсон дізнається, що його батько наймогутніший супергерой на Землі. Тепер підлітку належить впоратися з силами, які дісталися йому у спадок.",
-        "poster_path": "/nMmOmuLQKAwQigEgnbIrSeoWlxQ.jpg",
-        "first_air_date": "2021-03-25",
-        "video": false,
-        "vote_average": 8.63,
-        "vote_count": 5579,
-        "popularity": 221.882,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1171895",
-        "kp_rating": "8.1",
-        "imdb_id": "tt6741278",
-        "imdb_rating": "8.7",
-        "status": "returning series",
-        "last_air_date": "2026-04-22",
-        "seasons": {
-          "1": 8,
-          "2": 8,
-          "3": 8,
-          "4": 8
-        },
-        "episode": {
-          "air_date": "2026-04-22",
-          "episode_number": 8,
-          "name": "НЕ ЗАЛИШАЙ МЕНЕ ТУТ САМОГО",
-          "overview": "Марк сталкивается со своими самыми мрачными страхами, и его жизнь меняется навсегда.",
-          "season_number": 4,
-          "runtime": 52,
-          "still_path": "/a103TuPbdItnmw4d4yDFQngJywu.jpg",
-          "vote_average": 7.654
-        },
-        "genres": [
-          "Мультфільм",
-          "Драма",
-          "Науково фантастичний",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "Canada",
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s4;e8",
-      "premiere": 0
-    },
-    {
-      "id": 2657,
-      "time": 1776793941648,
-      "card_id": "1304313",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/wMrV8SLne1jHLeYS0lLrA1Tf86P.jpg",
-        "genre_ids": [
-          27,
-          9648
-        ],
-        "id": 1304313,
-        "original_language": "en",
-        "title": "Мумія Лі Кроніна",
-        "original_title": "Lee Cronin's The Mummy",
-        "names": [
-          "Мумія Лі Кроніна",
-          "Мумия",
-          "The Mummy",
-          "Lee Cronin's The Mummy"
-        ],
-        "overview": "Молода донька журналіста безслідно зникає в пустелі. Родина переживає трагедію, що розбиває їхнє життя на уламки. Вісім років потому стається неможливе — дівчина повертається додому. Однак те, що мало б стати дивом і радісним возз’єднанням, перетворюється на справжній кошмар.",
-        "poster_path": "/diyeuAjOPdM5TPDSHXS1WZQfaG6.jpg",
-        "release_date": "2026-04-15",
-        "video": false,
-        "vote_average": 6.887,
-        "vote_count": 97,
-        "popularity": 168.596,
-        "PG": 18,
-        "release_quality": "ts",
-        "kinopoisk_id": "6785084",
-        "imdb_id": "tt32612507",
-        "status": "released",
-        "last_air_date": "2026-04-21",
-        "countries": [
-          "United States of America",
-          "Ireland"
-        ],
-        "genres": [
-          "Жахи",
-          "Детектив"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.7325592041015625
+  "duration": 8.141502380371094
 }
