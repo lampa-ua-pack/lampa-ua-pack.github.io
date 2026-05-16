@@ -2,6 +2,52 @@
   "secuses": true,
   "result": [
     {
+      "id": 2709,
+      "time": 1778934552267,
+      "card_id": "1341137",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/r19pit61EI91tnOv7U4SxHhRPlN.jpg",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 1341137,
+        "original_language": "en",
+        "title": "Велике пробудження",
+        "original_title": "A Great Awakening",
+        "names": [
+          "Велике пробудження",
+          "Великое пробуждение",
+          "A Great Awakening"
+        ],
+        "overview": "Одна з найвизначніших подій в історії Америки розповідає про історію несподіваної дружби між преподобним Джорджем Вайтфілдом і Бенджаміном Франкліном.",
+        "poster_path": "/dXeeDRLGpTX1U97lWBAwQeeplsW.jpg",
+        "release_date": "2026-04-03",
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 5,
+        "popularity": 7.6117,
+        "PG": 13,
+        "release_quality": "4K",
+        "kinopoisk_id": "11888719",
+        "imdb_id": "tt33305882",
+        "status": "released",
+        "last_air_date": "2026-05-07",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Драма",
+          "Історичний"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2708,
       "time": 1778853549130,
       "card_id": "56570",
@@ -58,7 +104,7 @@
           "season_number": 8,
           "runtime": 72,
           "still_path": "/xxfVUTzLKwoeXusluq0rbpeFzPC.jpg",
-          "vote_average": 0.0
+          "vote_average": 10.0
         },
         "genres": [
           "Драма",
@@ -126,7 +172,7 @@
           "season_number": 2,
           "runtime": 57,
           "still_path": "/oMOWpYQbjiNgGf5gPFZHyVFVmCV.jpg",
-          "vote_average": 7.75
+          "vote_average": 7.4
         },
         "genres": [
           "Драма",
@@ -147,7 +193,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/r7AKQ0OB69JOPskeTWL3U206ehY.jpg",
+        "backdrop_path": "/qdyeQg2gWj1L8cDlwU3tI4s0Hub.jpg",
         "genre_ids": [
           27
         ],
@@ -201,7 +247,7 @@
         "id": 1439930,
         "original_language": "en",
         "title": "Каратель: Останнє вбивство",
-        "original_title": "A Marvel Television Special Presentation - The Punisher: One Last Kill",
+        "original_title": "The Punisher: One Last Kill",
         "names": [
           "Каратель: Останнє вбивство",
           "Каратель: Последнее убийство",
@@ -336,7 +382,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
-          "vote_average": 7.909
+          "vote_average": 8.041
         },
         "genres": [
           "Науково фантастичний",
@@ -583,7 +629,7 @@
           "season_number": 1,
           "runtime": 40,
           "still_path": "/wZng5iAHnuzOnNRMLfVPPF6ILJt.jpg",
-          "vote_average": 7.833
+          "vote_average": 8.4
         },
         "genres": [
           "Кримінал",
@@ -1800,7 +1846,7 @@
           "season_number": 2,
           "runtime": 53,
           "still_path": "/2xCzo9a0UN5RTFP84farSXlSD15.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.818
         },
         "genres": [
           "Науково фантастичний",
@@ -2507,7 +2553,7 @@
           "season_number": 4,
           "runtime": 55,
           "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
-          "vote_average": 6.6
+          "vote_average": 6.633
         },
         "genres": [
           "Детектив",
@@ -2754,7 +2800,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
+        "backdrop_path": "/p8777bPIlyFYcjqP2hU8htoz1RG.jpg",
         "genre_ids": [
           28,
           53
@@ -2933,76 +2979,7 @@
       "type": "episode",
       "hash": "s2;e6",
       "premiere": 0
-    },
-    {
-      "id": 2659,
-      "time": 1776927388487,
-      "card_id": "76479",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-        "genre_ids": [
-          10765,
-          10759
-        ],
-        "id": 76479,
-        "original_language": "en",
-        "name": "Хлопаки",
-        "original_name": "The Boys",
-        "names": [
-          "Хлопаки",
-          "Пацаны",
-          "The Boys",
-          "Хлопці / Хлопаки"
-        ],
-        "overview": "Події розгортаються в альтернативному світі, де супергерої є звичним явищем. Вони щоденно по кілька разів рятують світ, знімаються у фільмах і стають обличчями рекламних кампаній відомих брендів. Втім, є і зворотня сторона медалі: кожен день тисячі людей страждають від дій супергероїв, для яких людське життя насправді не коштує зовсім нічого. Але є невеличка групка відчайдухів, яких такий стан справ не влаштовує, вони мають мету – покарати знахабнілих надлюдей та вивести їх на чисту воду…",
-        "poster_path": "/iNKkWK11okzbenMvJY87aOHNfll.jpg",
-        "first_air_date": "2019-07-25",
-        "video": false,
-        "vote_average": 8.4,
-        "vote_count": 11923,
-        "popularity": 596.6609,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "460586",
-        "kp_rating": "8.3",
-        "imdb_id": "tt1190634",
-        "imdb_rating": "8.6",
-        "status": "returning series",
-        "last_air_date": "2026-04-22",
-        "seasons": {
-          "1": 8,
-          "2": 8,
-          "3": 8,
-          "4": 8,
-          "5": 4
-        },
-        "episode": {
-          "air_date": "2026-04-22",
-          "episode_number": 4,
-          "name": "Король пекла",
-          "overview": "У ЦЬОМУ ДОМІ МИ ВІРИМО В ПАТРІОТА!",
-          "season_number": 5,
-          "runtime": 66,
-          "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.292
-        },
-        "genres": [
-          "Науково фантастичний",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s5;e4",
-      "premiere": 0
     }
   ],
-  "duration": 8.141502380371094
+  "duration": 5.845710754394531
 }

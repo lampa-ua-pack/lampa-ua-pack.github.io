@@ -2,6 +2,51 @@
   "secuses": true,
   "result": [
     {
+      "id": 2709,
+      "time": 1778934552267,
+      "card_id": "1341137",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/r19pit61EI91tnOv7U4SxHhRPlN.jpg",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 1341137,
+        "original_language": "en",
+        "title": "Великое пробуждение",
+        "original_title": "A Great Awakening",
+        "names": [
+          "Великое пробуждение",
+          "A Great Awakening"
+        ],
+        "overview": "На фоне становления новой нации разворачивается вдохновляющая история необычной дружбы двух выдающихся личностей - харизматичного проповедника Джорджа Уайтфилда и прагматичного мыслителя Бенджамина Франклина. Их союз, полный противоречий и взаимного уважения, меняет не только их судьбы, но и ход истории. Это драматическое повествование о вере, идеях и силе человеческих отношений в эпоху великих перемен.",
+        "poster_path": "/dXeeDRLGpTX1U97lWBAwQeeplsW.jpg",
+        "release_date": "2026-04-03",
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 5,
+        "popularity": 7.6117,
+        "PG": 13,
+        "release_quality": "4K",
+        "kinopoisk_id": "11888719",
+        "imdb_id": "tt33305882",
+        "status": "released",
+        "last_air_date": "2026-05-07",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Драма",
+          "История"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2708,
       "time": 1778853549130,
       "card_id": "56570",
@@ -2693,68 +2738,7 @@
       "type": "episode",
       "hash": "s2;e6",
       "premiere": 0
-    },
-    {
-      "id": 2659,
-      "time": 1776927388487,
-      "card_id": "76479",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-        "genre_ids": [
-          10765,
-          10759
-        ],
-        "id": 76479,
-        "original_language": "en",
-        "name": "Пацаны",
-        "original_name": "The Boys",
-        "names": [
-          "Пацаны",
-          "The Boys",
-          "Хлопці / Хлопаки"
-        ],
-        "overview": "События разворачивается в 2000-ые в мире, где существуют супергерои. Именно они являются настоящими звёздами, которых все знают и обожают. Но за идеальным фасадом скрывается гораздо более мрачный мир наркотиков и секса, а большинство героев в жизни не самые приятные люди. Для контроля за супергероями ЦРУ создаёт специальный отряд, неофициально известный как «Пацаны», суровые члены которого всегда готовы поставить зазнавшегося героя на место самым жестоким способом.",
-        "poster_path": "/3NqlBDpWI83TgQ9nmeFwTVxEmtZ.jpg",
-        "first_air_date": "2019-07-25",
-        "video": false,
-        "vote_average": 8.4,
-        "vote_count": 11923,
-        "popularity": 596.6609,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "460586",
-        "kp_rating": "8.3",
-        "imdb_id": "tt1190634",
-        "imdb_rating": "8.6",
-        "status": "returning series",
-        "last_air_date": "2026-04-22",
-        "seasons": {
-          "1": 8,
-          "2": 8,
-          "3": 8,
-          "4": 8,
-          "5": 4
-        },
-        "episode": {
-          "air_date": "2026-04-22",
-          "episode_number": 4,
-          "name": "Царь ада",
-          "overview": "В ЭТОМ ДОМЕ МЫ ВЕРИМ В ХОУМЛЕНДЕРА!",
-          "season_number": 5,
-          "runtime": 65,
-          "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.3
-        }
-      },
-      "type": "episode",
-      "hash": "s5;e4",
-      "premiere": 0
     }
   ],
-  "duration": 8.141502380371094
+  "duration": 5.845710754394531
 }
