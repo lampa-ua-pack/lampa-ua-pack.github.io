@@ -2,6 +2,57 @@
   "secuses": true,
   "result": [
     {
+      "id": 2710,
+      "time": 1779010153264,
+      "card_id": "273240",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/cdD0InWMH4e6AxceQs93fQRYsfO.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 273240,
+        "original_language": "en",
+        "name": "Поза кампусом",
+        "original_name": "Off Campus",
+        "names": [
+          "Поза кампусом",
+          "Вне кампуса",
+          "Off Campus"
+        ],
+        "overview": "Ханна Веллс погоджується допомогти капітану хокейної команди Гаррету Ґрему завоювати дівчину, в яку він закоханий. Але їхня домовленість поступово переростає у справжній зв’язок, поки вони намагаються впоратися зі своїм минулим. Тим часом їхні друзі — Лоґан, Дін, Такер і Еллі — переживають студентське життя, дружбу та кохання.",
+        "poster_path": "/3xzbOA2BqjtsYDQiUvXO9A5ZmYg.jpg",
+        "first_air_date": "2026-05-13",
+        "video": false,
+        "vote_average": 10,
+        "vote_count": 2,
+        "popularity": 15.7958,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "11804709",
+        "kp_rating": "8.5",
+        "imdb_id": "tt33546863",
+        "status": "returning series",
+        "last_air_date": "2026-05-13",
+        "seasons": {
+          "1": 8
+        },
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Драма"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2709,
       "time": 1778934552267,
       "card_id": "1341137",
@@ -102,9 +153,9 @@
           "name": "Серія 10",
           "overview": "",
           "season_number": 8,
-          "runtime": 72,
+          "runtime": 71,
           "still_path": "/xxfVUTzLKwoeXusluq0rbpeFzPC.jpg",
-          "vote_average": 10.0
+          "vote_average": 8.5
         },
         "genres": [
           "Драма",
@@ -238,7 +289,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
+        "backdrop_path": "/cccXiN28CPjcMVhji5LnogF4Njp.jpg",
         "genre_ids": [
           28,
           18,
@@ -382,7 +433,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
-          "vote_average": 8.041
+          "vote_average": 8.092
         },
         "genres": [
           "Науково фантастичний",
@@ -498,7 +549,7 @@
           "season_number": 3,
           "runtime": 61,
           "still_path": "/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg",
-          "vote_average": 5.929
+          "vote_average": 5.9
         },
         "genres": [
           "Драма"
@@ -741,7 +792,7 @@
           "season_number": 2,
           "runtime": 48,
           "still_path": "/4Q11reQ3Z72OL6wyZoKGjv4rj5C.jpg",
-          "vote_average": 7.5
+          "vote_average": 7.667
         },
         "genres": [
           "Драма",
@@ -762,7 +813,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/b8H1a89qmNxF8rqFGrG93Q9qn52.jpg",
+        "backdrop_path": "/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
         "genre_ids": [
           10749,
           35,
@@ -1335,7 +1386,7 @@
           "season_number": 5,
           "runtime": 65,
           "still_path": "/4TA0dxVoNmiS98rLFBx6CDCov7p.jpg",
-          "vote_average": 7.4
+          "vote_average": 7.453
         },
         "genres": [
           "Науково фантастичний",
@@ -1405,8 +1456,7 @@
         "genres": [
           "Екшн і Пригоди",
           "Мультфільм",
-          "Науково фантастичний",
-          "Кримінал"
+          "Науково фантастичний"
         ],
         "countries": [
           "United States of America"
@@ -1915,8 +1965,8 @@
           "overview": "",
           "season_number": 2,
           "runtime": 48,
-          "still_path": "/hrUbvxYeKsDnNVTktO29BJ5JlJq.jpg",
-          "vote_average": 8.056
+          "still_path": "/lnr7LmTmGsWMgHUnP0tDfdFapNP.jpg",
+          "vote_average": 8.1
         },
         "genres": [
           "Драма",
@@ -1938,7 +1988,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
+        "backdrop_path": "/2cr7imTLVSSrzgL3bFKAMCMdgKw.jpg",
         "genre_ids": [
           35,
           18
@@ -2154,7 +2204,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.375
+          "vote_average": 7.402
         },
         "genres": [
           "Науково фантастичний",
@@ -2910,76 +2960,7 @@
       "type": "episode",
       "hash": "s2;e9",
       "premiere": 0
-    },
-    {
-      "id": 2660,
-      "time": 1776945390050,
-      "card_id": "202555",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
-        "genre_ids": [
-          18,
-          10759,
-          80
-        ],
-        "id": 202555,
-        "original_language": "en",
-        "name": "Daredevil: Born Again",
-        "original_name": "Daredevil: Born Again",
-        "names": [
-          "Сорвиголова: Рожденный заново",
-          "Сорвиголова: Рождённый Заново",
-          "Daredevil: Born Again",
-          "Сорвиголова: Рождённый заново",
-          "Daredevil: Born Again | Behind The Scenes"
-        ],
-        "overview": "Сліпий адвокат Метт Мердок процвітає, але його альтер его не забуто. Вілсон Фіск обійняв посаду мера і лише Шибайголова знає, хто ховається за маскою добродушного та чесного політика. Давні вороги, здається, забули про минуле і намагаються не повертатися до супергеройської діяльності. Та чи довго триватиме їх мир чи вони повернуться до ворогів?",
-        "poster_path": "/AfINRYmGTuPrwRrBp9lFgbRjSx2.jpg",
-        "first_air_date": "2025-03-04",
-        "video": false,
-        "vote_average": 8.03,
-        "vote_count": 752,
-        "popularity": 101.2019,
-        "PG": 17,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "5060265",
-        "kp_rating": "7.3",
-        "imdb_id": "tt18923754",
-        "imdb_rating": "8.0",
-        "status": "returning series",
-        "last_air_date": "2026-04-22",
-        "seasons": {
-          "1": 9,
-          "2": 6
-        },
-        "episode": {
-          "air_date": "2026-04-21",
-          "episode_number": 6,
-          "name": "Реквієм",
-          "overview": "",
-          "season_number": 2,
-          "runtime": 52,
-          "still_path": "/lbuiEvKOaQEw4mG880gsdg8GKvr.jpg",
-          "vote_average": 8.404
-        },
-        "genres": [
-          "Драма",
-          "Екшн і Пригоди",
-          "Кримінал"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e6",
-      "premiere": 0
     }
   ],
-  "duration": 5.845710754394531
+  "duration": 6.0381317138671875
 }
