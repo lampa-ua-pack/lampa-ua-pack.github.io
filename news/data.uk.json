@@ -2,13 +2,140 @@
   "secuses": true,
   "result": [
     {
+      "id": 2715,
+      "time": 1779186431635,
+      "card_id": "308014",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/ntPgSYKwPg9xKO4VvLJYfInSyZa.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 308014,
+        "original_language": "es",
+        "name": "Берлін і Пані з горностаєм",
+        "original_name": "Berlín y la dama del armiño",
+        "names": [
+          "Берлін і Пані з горностаєм",
+          "Берлин и Дама с горностаем",
+          "Berlín y la dama del armiño",
+          "Berlin and the Lady with an Ermine",
+          "Берлин и дама с горностаем"
+        ],
+        "overview": "Берлін прагне організувати нове пограбування. Він кличе свою команду до Севільї та перетворює жадібного герцога на жертву власного плану з викрадення шедевра да Вінчі.",
+        "poster_path": "/uv1KXCXzuQsYtIRx0ZPxm3y0AYY.jpg",
+        "first_air_date": "2026-05-15",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 21,
+        "popularity": 177.3909,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "ES"
+        ],
+        "kinopoisk_id": "12394283",
+        "imdb_id": "tt42178219",
+        "status": "ended",
+        "last_air_date": "2026-05-18",
+        "seasons": {
+          "1": 8
+        },
+        "episode": {
+          "air_date": "2026-05-15",
+          "episode_number": 8,
+          "name": "Щастя належить тому, хто кохає",
+          "overview": "Відпочинок у Пенісколі змушує Берліна радикально змінити плани. Чи вдасться команді скоїти найбільше пограбування в історії?",
+          "season_number": 1,
+          "runtime": 82,
+          "still_path": "/tJ2zB1JvroPpSZQWhjykGjcWu2s.jpg",
+          "vote_average": 7.5
+        },
+        "genres": [
+          "Драма",
+          "Кримінал"
+        ],
+        "countries": [
+          "Spain"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e8",
+      "premiere": 0
+    },
+    {
+      "id": 2714,
+      "time": 1779132430543,
+      "card_id": "299167",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "id": 299167,
+        "original_language": "en",
+        "name": "Ранчо Даттонів",
+        "original_name": "Dutton Ranch",
+        "names": [
+          "Ранчо Даттонів",
+          "Ранчо Даттонов",
+          "Dutton Ranch",
+          "The Dutton Ranch"
+        ],
+        "overview": "Бет Даттон і Ріп Вілер борються за виживання на своєму улюбленому ранчо площею 7000 акрів в умовах важких часів і жорсткої конкуренції, водночас намагаючись допомогти юному Картеру стати тим чоловіком, яким він має бути.",
+        "poster_path": "/dtKW23O5tfxq7EXUsfeLgBx7gy1.jpg",
+        "first_air_date": "2026-05-15",
+        "video": false,
+        "vote_average": 9.2,
+        "vote_count": 22,
+        "popularity": 74.9897,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "7275308",
+        "imdb_id": "tt34991493",
+        "status": "returning series",
+        "last_air_date": "2026-05-18",
+        "seasons": {
+          "1": 2
+        },
+        "episode": {
+          "air_date": "2026-05-15",
+          "episode_number": 2,
+          "name": "Серія 2",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 47,
+          "still_path": "/zXO11LCZeFBjBhnSAK9zlzEsJxu.jpg",
+          "vote_average": 9.5
+        },
+        "genres": [
+          "Вестерн",
+          "Драма"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e2",
+      "premiere": 0
+    },
+    {
       "id": 2713,
       "time": 1779114429558,
       "card_id": "273240",
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/cdD0InWMH4e6AxceQs93fQRYsfO.jpg",
+        "backdrop_path": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "genre_ids": [
           18
         ],
@@ -113,7 +240,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/1lvXuZV4A8yoidLbntLtpQnzZaH.jpg",
-          "vote_average": 7.0
+          "vote_average": 6.8
         },
         "genres": [
           "Драма"
@@ -181,8 +308,8 @@
           "overview": "Бойд і Джейд вирушають на відчайдушний та небезпечний пошук відповідей, а вилазка за їжею набуває моторошного повороту.",
           "season_number": 4,
           "runtime": 52,
-          "still_path": "/zLwVMCUi1XKotihIfDuVMCXXm3P.jpg",
-          "vote_average": 5.6
+          "still_path": "/tCvMSBNefJ637Me2174PKwrX53i.jpg",
+          "vote_average": 6.0
         },
         "genres": [
           "Детектив",
@@ -204,7 +331,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/cdD0InWMH4e6AxceQs93fQRYsfO.jpg",
+        "backdrop_path": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
         "genre_ids": [
           18
         ],
@@ -629,7 +756,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
-          "vote_average": 8.083
+          "vote_average": 8.0
         },
         "genres": [
           "Науково фантастичний",
@@ -814,7 +941,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg",
-          "vote_average": 6.9
+          "vote_average": 6.913
         },
         "genres": [
           "Детектив",
@@ -1511,7 +1638,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/dpwUQPQFWmQU2Ym3tgCKGExVCWV.jpg",
-          "vote_average": 7.6
+          "vote_average": 7.796
         },
         "genres": [
           "Драма",
@@ -1581,7 +1708,7 @@
           "season_number": 5,
           "runtime": 65,
           "still_path": "/4TA0dxVoNmiS98rLFBx6CDCov7p.jpg",
-          "vote_average": 7.466
+          "vote_average": 7.4
         },
         "genres": [
           "Науково фантастичний",
@@ -1908,7 +2035,7 @@
           "season_number": 4,
           "runtime": 48,
           "still_path": "/8qi8LymsHa9waxLFfMbZQGTFRRD.jpg",
-          "vote_average": 7.077
+          "vote_average": 7.185
         },
         "genres": [
           "Детектив",
@@ -2161,7 +2288,7 @@
           "season_number": 2,
           "runtime": 48,
           "still_path": "/rmlntMleUjbXWgEk0beQla6qTDZ.jpg",
-          "vote_average": 8.1
+          "vote_average": 8.19
         },
         "genres": [
           "Драма",
@@ -2183,7 +2310,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/2cr7imTLVSSrzgL3bFKAMCMdgKw.jpg",
+        "backdrop_path": "/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
         "genre_ids": [
           35,
           18
@@ -2399,7 +2526,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.402
+          "vote_average": 7.3
         },
         "genres": [
           "Науково фантастичний",
@@ -2798,7 +2925,7 @@
           "season_number": 4,
           "runtime": 55,
           "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
-          "vote_average": 6.697
+          "vote_average": 6.794
         },
         "genres": [
           "Детектив",
@@ -2857,120 +2984,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2665,
-      "time": 1777183911742,
-      "card_id": "936075",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
-        "genre_ids": [
-          10402,
-          18
-        ],
-        "id": 936075,
-        "original_language": "en",
-        "title": "Майкл",
-        "original_title": "Michael",
-        "names": [
-          "Майкл",
-          "Michael"
-        ],
-        "overview": "«Майкл» — це кінематографічне зображення життя і спадщини одного з найвпливовіших артистів історії. Фільм розповідає історію Майкла Джексона поза межами музики — шлях від відкриття його виняткового таланту як фронтмена The Jackson Five до становлення візіонера, чия творча амбіція підживлювала невтомне прагнення стати найбільшим артистом світу. Стрічка висвітлює як життя Джексона поза сценою, так і його найзнаковіші виступи з початку сольної кар’єри, даруючи глядачам місце в першому ряду, щоб побачити Майкла таким, яким його ще не бачили. Саме тут починається його історія.",
-        "poster_path": "/pRKvnxCC2xvmchsz5VwnU64NrJf.jpg",
-        "release_date": "2026-04-22",
-        "video": false,
-        "vote_average": 7.2,
-        "vote_count": 63,
-        "popularity": 79.8068,
-        "PG": 13,
-        "release_quality": "ts",
-        "kinopoisk_id": "5437614",
-        "imdb_id": "tt11378946",
-        "status": "released",
-        "last_air_date": "2026-04-24",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Музика",
-          "Драма"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2664,
-      "time": 1777126308627,
-      "card_id": "224263",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
-        "genre_ids": [
-          16,
-          10765,
-          9648,
-          10759
-        ],
-        "id": 224263,
-        "original_language": "en",
-        "name": "Дивні дива: Оповідки з 85-го",
-        "original_name": "Stranger Things: Tales from '85",
-        "names": [
-          "Дивні дива: Оповідки з 85-го",
-          "Очень странные дела: Истории из 85-го",
-          "Stranger Things: Tales from '85",
-          "Очень странные дела: Байки из 85-го"
-        ],
-        "overview": "Зима. Гокінс. 1985 рік. Знову ласкаво просимо до сповненого таємниць містечка, де улюблені герої стикаються з новими загадками... й абсолютно новими видами дивних істот.",
-        "poster_path": "/jWqt3rqGes24guxUpFAQO3X5lW.jpg",
-        "first_air_date": "2026-04-23",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "popularity": 6.9805,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6531561",
-        "imdb_id": "tt27486290",
-        "status": "in production",
-        "last_air_date": "2026-04-24",
-        "seasons": {
-          "1": 10
-        },
-        "episode": {
-          "air_date": "2026-04-23",
-          "episode_number": 10,
-          "name": "Глава 10. Відлік пішов",
-          "overview": "Час спливає, група об’єднується й відважно бореться за життя. Друзі мають допомагати друзям, адже від цього залежить майбутнє Гокінса.",
-          "season_number": 1,
-          "runtime": 28,
-          "still_path": "/ls5Ctm2zIjMlEVpItcv3JU5GLRA.jpg",
-          "vote_average": 5.7
-        },
-        "genres": [
-          "Мультфільм",
-          "Науково фантастичний",
-          "Детектив",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "United States of America",
-          "Australia"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e10",
-      "premiere": 0
     }
   ],
-  "duration": 5.353248596191406
+  "duration": 6.699310302734375
 }

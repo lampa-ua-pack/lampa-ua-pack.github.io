@@ -2,6 +2,117 @@
   "secuses": true,
   "result": [
     {
+      "id": 2715,
+      "time": 1779186431635,
+      "card_id": "308014",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/ntPgSYKwPg9xKO4VvLJYfInSyZa.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 308014,
+        "original_language": "es",
+        "name": "Берлин и Дама с горностаем",
+        "original_name": "Berlín y la dama del armiño",
+        "names": [
+          "Берлин и Дама с горностаем",
+          "Berlín y la dama del armiño",
+          "Berlin and the Lady with an Ermine",
+          "Берлин и дама с горностаем"
+        ],
+        "overview": "Готовясь к новому делу, Берлин призывает банду в Севилью и делает зазнавшегося герцога жертвой его собственного плана: украсть шедевр Леонардо да Винчи.",
+        "poster_path": "/2D05OU4TJromu7Bo192YZSTpPkr.jpg",
+        "first_air_date": "2026-05-15",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 21,
+        "popularity": 177.3909,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "ES"
+        ],
+        "kinopoisk_id": "12394283",
+        "imdb_id": "tt42178219",
+        "status": "ended",
+        "last_air_date": "2026-05-18",
+        "seasons": {
+          "1": 8
+        },
+        "episode": {
+          "air_date": "2026-05-15",
+          "episode_number": 8,
+          "name": "Счастье принадлежит тому, кто любит",
+          "overview": "После вечеринки в Пеньисколе Берлин кардинально меняет планы. Сможет ли он с командой провернуть величайшее ограбление в истории?",
+          "season_number": 1,
+          "runtime": 82,
+          "still_path": "/tJ2zB1JvroPpSZQWhjykGjcWu2s.jpg",
+          "vote_average": 7.5
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e8",
+      "premiere": 0
+    },
+    {
+      "id": 2714,
+      "time": 1779132430543,
+      "card_id": "299167",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "id": 299167,
+        "original_language": "en",
+        "name": "Ранчо Даттонов",
+        "original_name": "Dutton Ranch",
+        "names": [
+          "Ранчо Даттонов",
+          "Dutton Ranch",
+          "The Dutton Ranch"
+        ],
+        "overview": "Ранчо Даттонов - дом Бет и Рипа, стало символом той жизни, о которой они мечтали, за которую отчаянно боролись и ради которой едва не пожертвовали всем. Они всей душой привязались к своей земле площадью 7000 акров, превратив её в место, которое готовы защищать любой ценой. Даже в самые тяжёлые времена Бет и Рип делают всё возможное, чтобы выстоять, сохранить своё ранчо и обеспечить достойное будущее себе и своему приёмному сыну Картеру.",
+        "poster_path": "/mmxsx98NnY56CvataUqM1ktt14O.jpg",
+        "first_air_date": "2026-05-15",
+        "video": false,
+        "vote_average": 9.2,
+        "vote_count": 22,
+        "popularity": 74.9897,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "7275308",
+        "imdb_id": "tt34991493",
+        "status": "returning series",
+        "last_air_date": "2026-05-18",
+        "seasons": {
+          "1": 2
+        },
+        "episode": {
+          "air_date": "2026-05-15",
+          "episode_number": 2,
+          "name": "Эпизод 2",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 47,
+          "still_path": "/zXO11LCZeFBjBhnSAK9zlzEsJxu.jpg",
+          "vote_average": 9.4
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e2",
+      "premiere": 0
+    },
+    {
       "id": 2713,
       "time": 1779114429558,
       "card_id": "273240",
@@ -2634,109 +2745,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2665,
-      "time": 1777183911742,
-      "card_id": "936075",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
-        "genre_ids": [
-          10402,
-          18
-        ],
-        "id": 936075,
-        "original_language": "en",
-        "title": "Майкл",
-        "original_title": "Michael",
-        "names": [
-          "Майкл",
-          "Michael"
-        ],
-        "overview": "Захватывающий и честный портрет гениального, но противоречивого человека, ставшего королём поп-музыки. Триумфы и трагедии его жизни — от личных испытаний и внутренней борьбы до раскрытия творческого гения, воплощённого в самых легендарных выступлениях артиста. Зрителям предстоит увидеть, как никогда прежде, внутренний мир одного из самых влиятельных и новаторских музыкантов в истории.",
-        "poster_path": "/9CD2Ck1FxsTK9pKaNsTmcB8wT9v.jpg",
-        "release_date": "2026-04-22",
-        "video": false,
-        "vote_average": 7.2,
-        "vote_count": 63,
-        "popularity": 79.8068,
-        "PG": 13,
-        "release_quality": "ts",
-        "kinopoisk_id": "5437614",
-        "imdb_id": "tt11378946",
-        "status": "released",
-        "last_air_date": "2026-04-24",
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Музыка",
-          "Драма"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2664,
-      "time": 1777126308627,
-      "card_id": "224263",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
-        "genre_ids": [
-          16,
-          10765,
-          9648,
-          10759
-        ],
-        "id": 224263,
-        "original_language": "en",
-        "name": "Очень странные дела: Байки из 85-го",
-        "original_name": "Stranger Things: Tales from '85",
-        "names": [
-          "Очень странные дела: Истории из 85-го",
-          "Stranger Things: Tales from '85",
-          "Очень странные дела: Байки из 85-го"
-        ],
-        "overview": "Добро пожаловать в Хоукинс! В этом захватывающем мультсериале героям предстоит столкнуться с новыми монстрами и потусторонней загадкой зимой 1985 года.",
-        "poster_path": "/tSIlVfTEonQU1Bw89nDtnZCI2yh.jpg",
-        "first_air_date": "2026-04-23",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "popularity": 6.9805,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6531561",
-        "imdb_id": "tt27486290",
-        "status": "in production",
-        "last_air_date": "2026-04-24",
-        "seasons": {
-          "1": 10
-        },
-        "episode": {
-          "air_date": "2026-04-23",
-          "episode_number": 10,
-          "name": "Глава десятая: обратный отсчет",
-          "overview": "Время на исходе: герои объединяют силы для отчаянной борьбы за выживание. Друзья должны помочь друг другу, ведь от этого зависит будущее Хокинса.",
-          "season_number": 1,
-          "runtime": 28,
-          "still_path": "/ls5Ctm2zIjMlEVpItcv3JU5GLRA.jpg",
-          "vote_average": 6.2
-        }
-      },
-      "type": "episode",
-      "hash": "s1;e10",
-      "premiere": 0
     }
   ],
-  "duration": 5.353248596191406
+  "duration": 6.699310302734375
 }
