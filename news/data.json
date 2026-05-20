@@ -2,6 +2,67 @@
   "secuses": true,
   "result": [
     {
+      "id": 2716,
+      "time": 1779294429580,
+      "card_id": "76479",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "id": 76479,
+        "original_language": "en",
+        "name": "Пацаны",
+        "original_name": "The Boys",
+        "names": [
+          "Пацаны",
+          "The Boys",
+          "Хлопці / Хлопаки"
+        ],
+        "overview": "2000-ые, мир, где существуют супергерои. Они являются настоящими звёздами, которых все знают и обожают. Но за идеальным фасадом скрывается гораздо более мрачный мир - большинство героев в жизни не самые приятные люди. Для контроля за супергероями ЦРУ создаёт специальный отряд, неофициально известный как \"Пацаны\" - суровые члены которого всегда готовы поставить зазнавшегося героя на место самым жестоким способом.",
+        "poster_path": "/8QGxRzHbzs4ihjy4afaUdlsROBD.jpg",
+        "first_air_date": "2019-07-25",
+        "video": false,
+        "vote_average": 8.459,
+        "vote_count": 12360,
+        "popularity": 634.2452,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "460586",
+        "kp_rating": "8.3",
+        "imdb_id": "tt1190634",
+        "imdb_rating": "8.6",
+        "status": "returning series",
+        "last_air_date": "2026-05-20",
+        "seasons": {
+          "1": 8,
+          "2": 8,
+          "3": 8,
+          "4": 8,
+          "5": 8
+        },
+        "episode": {
+          "air_date": "2026-05-20",
+          "episode_number": 8,
+          "name": "Эпизод 8",
+          "overview": "",
+          "season_number": 5,
+          "runtime": 67,
+          "still_path": "/mT4DLPaS25esfuu9YlgUjsL9IJg.jpg",
+          "vote_average": 6.4
+        }
+      },
+      "type": "episode",
+      "hash": "s5;e8",
+      "premiere": 0
+    },
+    {
       "id": 2715,
       "time": 1779186431635,
       "card_id": "308014",
@@ -2700,52 +2761,7 @@
       "type": "episode",
       "hash": "s4;e2",
       "premiere": 0
-    },
-    {
-      "id": 2666,
-      "time": 1777223506629,
-      "card_id": "1269644",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/agiw674fCB712joCGQFCPzd3nSp.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 1269644,
-        "original_language": "de",
-        "title": "Амрум",
-        "original_title": "Amrum",
-        "names": [
-          "Амрум",
-          "Amrum"
-        ],
-        "overview": "Остров Амрум, весна 1945 года. В последние дни войны 12-летний Наннинг, сын убеждённой нацистки и офицера СС, охотится на тюленей в коварном море, рыбачит по ночам и работает на соседней ферме, чтобы помочь матери прокормить семью. Несмотря на тяготы, жизнь на прекрасном, продуваемом всеми ветрами острове кажется ему раем. Но когда наконец наступает мир, и власти нацистов приходит конец, он обнаруживает, что враг находится гораздо ближе, чем он мог себе представить.",
-        "poster_path": "/veKogeWV5xVrg41HrLCspiwHNDy.jpg",
-        "release_date": "2025-10-09",
-        "video": false,
-        "vote_average": 7,
-        "vote_count": 52,
-        "popularity": 2.0555,
-        "PG": 12,
-        "release_quality": "bdrip",
-        "kinopoisk_id": "7605812",
-        "imdb_id": "tt22507216",
-        "imdb_rating": "7.2",
-        "status": "released",
-        "last_air_date": "2026-04-26",
-        "countries": [
-          "Германия",
-          "Бельгия"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.699310302734375
+  "duration": 3.774169921875
 }

@@ -2,6 +2,75 @@
   "secuses": true,
   "result": [
     {
+      "id": 2716,
+      "time": 1779294429580,
+      "card_id": "76479",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "id": 76479,
+        "original_language": "en",
+        "name": "Хлопаки",
+        "original_name": "The Boys",
+        "names": [
+          "Хлопаки",
+          "Пацаны",
+          "The Boys",
+          "Хлопці / Хлопаки"
+        ],
+        "overview": "Події розгортаються в альтернативному світі, де супергерої є звичним явищем. Вони щоденно по кілька разів рятують світ, знімаються у фільмах і стають обличчями рекламних кампаній відомих брендів. Втім, є і зворотня сторона медалі: кожен день тисячі людей страждають від дій супергероїв, для яких людське життя насправді не коштує зовсім нічого. Але є невеличка групка відчайдухів, яких такий стан справ не влаштовує, вони мають мету – покарати знахабнілих надлюдей та вивести їх на чисту воду…",
+        "poster_path": "/iNKkWK11okzbenMvJY87aOHNfll.jpg",
+        "first_air_date": "2019-07-25",
+        "video": false,
+        "vote_average": 8.459,
+        "vote_count": 12360,
+        "popularity": 634.2452,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "460586",
+        "kp_rating": "8.3",
+        "imdb_id": "tt1190634",
+        "imdb_rating": "8.6",
+        "status": "returning series",
+        "last_air_date": "2026-05-20",
+        "seasons": {
+          "1": 8,
+          "2": 8,
+          "3": 8,
+          "4": 8,
+          "5": 8
+        },
+        "episode": {
+          "air_date": "2026-05-20",
+          "episode_number": 8,
+          "name": "Серія 8",
+          "overview": "",
+          "season_number": 5,
+          "runtime": 67,
+          "still_path": "/mT4DLPaS25esfuu9YlgUjsL9IJg.jpg",
+          "vote_average": 6.06
+        },
+        "genres": [
+          "Науково фантастичний",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s5;e8",
+      "premiere": 0
+    },
+    {
       "id": 2715,
       "time": 1779186431635,
       "card_id": "308014",
@@ -240,7 +309,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/1lvXuZV4A8yoidLbntLtpQnzZaH.jpg",
-          "vote_average": 6.8
+          "vote_average": 6.929
         },
         "genres": [
           "Драма"
@@ -309,7 +378,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/tCvMSBNefJ637Me2174PKwrX53i.jpg",
-          "vote_average": 6.0
+          "vote_average": 5.8
         },
         "genres": [
           "Детектив",
@@ -546,7 +615,7 @@
           "season_number": 2,
           "runtime": 57,
           "still_path": "/oMOWpYQbjiNgGf5gPFZHyVFVmCV.jpg",
-          "vote_average": 7.583
+          "vote_average": 7.857
         },
         "genres": [
           "Драма",
@@ -612,7 +681,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/cccXiN28CPjcMVhji5LnogF4Njp.jpg",
+        "backdrop_path": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
         "genre_ids": [
           28,
           18,
@@ -756,7 +825,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
-          "vote_average": 8.0
+          "vote_average": 8.1
         },
         "genres": [
           "Науково фантастичний",
@@ -941,7 +1010,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg",
-          "vote_average": 6.913
+          "vote_average": 6.7
         },
         "genres": [
           "Детектив",
@@ -1115,7 +1184,7 @@
           "season_number": 2,
           "runtime": 48,
           "still_path": "/4Q11reQ3Z72OL6wyZoKGjv4rj5C.jpg",
-          "vote_average": 7.667
+          "vote_average": 7.7
         },
         "genres": [
           "Драма",
@@ -1324,7 +1393,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/mTRxKRDBH9HSV81eOGDhYbG5BHR.jpg",
+        "backdrop_path": "/uvmn7g7G0cVj7OVeDRrklky4NfF.jpg",
         "genre_ids": [
           18,
           9648,
@@ -1552,7 +1621,7 @@
           "Goldeu Laendeu"
         ],
         "overview": "Молода жінка, яка працює агенткою служби безпеки в аеропорту, випадково отримує у своє розпорядження золоті злитки контрабандистського угруповання. Опинившись у хаотичному вирі жадібності та зрад між різними сторонами, що борються за золото, вона поступово піддається бажанню забрати все собі.",
-        "poster_path": "/7N6Aa8Kn71JHG9aztcIaRIzdkLc.jpg",
+        "poster_path": "/exAqL4Hbh2M712QlFwGDTqZeiAl.jpg",
         "first_air_date": "2026-04-29",
         "video": false,
         "vote_average": 9.5,
@@ -1638,7 +1707,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/dpwUQPQFWmQU2Ym3tgCKGExVCWV.jpg",
-          "vote_average": 7.796
+          "vote_average": 7.8
         },
         "genres": [
           "Драма",
@@ -1707,7 +1776,7 @@
           "overview": "Уже в наявності, ЕКСКЛЮЗИВНО у @VMCtheaters, придбайте нове #ВідерцеДляПопкорнуЗГлибиною лише за $32.99!",
           "season_number": 5,
           "runtime": 65,
-          "still_path": "/4TA0dxVoNmiS98rLFBx6CDCov7p.jpg",
+          "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
           "vote_average": 7.4
         },
         "genres": [
@@ -2035,7 +2104,7 @@
           "season_number": 4,
           "runtime": 48,
           "still_path": "/8qi8LymsHa9waxLFfMbZQGTFRRD.jpg",
-          "vote_average": 7.185
+          "vote_average": 6.9
         },
         "genres": [
           "Детектив",
@@ -2288,7 +2357,7 @@
           "season_number": 2,
           "runtime": 48,
           "still_path": "/rmlntMleUjbXWgEk0beQla6qTDZ.jpg",
-          "vote_average": 8.19
+          "vote_average": 8.2
         },
         "genres": [
           "Драма",
@@ -2925,7 +2994,7 @@
           "season_number": 4,
           "runtime": 55,
           "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
-          "vote_average": 6.794
+          "vote_average": 6.7
         },
         "genres": [
           "Детектив",
@@ -2939,52 +3008,7 @@
       "type": "episode",
       "hash": "s4;e2",
       "premiere": 0
-    },
-    {
-      "id": 2666,
-      "time": 1777223506629,
-      "card_id": "1269644",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/oiiQVnnEY4M2pz6iZkq59ls9fP.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 1269644,
-        "original_language": "de",
-        "title": "Амрум",
-        "original_title": "Amrum",
-        "names": [
-          "Амрум",
-          "Amrum"
-        ],
-        "overview": "Союзні війська вже за 50 кілометрів від Берліна, отже скоро війна завершиться. 12-річний хлопчик на віддаленому німецькому острові з усіх сил намагається допомогти хворій матері прогодувати сім’ю. Незважаючи на підступне море, він полює на тюленів, ходить на риболовлю вночі та працює на сусідній фермі. Але коли нарешті настає мир, він розуміє, що все, що знав з дитинства – брехня, а ворог набагато ближче, ніж він уявляв…",
-        "poster_path": "/dEzRDQPRuD0uvcBmSC2cV6XOkpc.jpg",
-        "release_date": "2025-10-09",
-        "video": false,
-        "vote_average": 7,
-        "vote_count": 52,
-        "popularity": 2.0555,
-        "PG": 12,
-        "release_quality": "bdrip",
-        "kinopoisk_id": "7605812",
-        "imdb_id": "tt22507216",
-        "imdb_rating": "7.2",
-        "status": "released",
-        "last_air_date": "2026-04-26",
-        "countries": [
-          "Germany",
-          "Belgium"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.699310302734375
+  "duration": 3.774169921875
 }
