@@ -2,6 +2,231 @@
   "secuses": true,
   "result": [
     {
+      "id": 2720,
+      "time": 1779464892359,
+      "card_id": "299167",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "id": 299167,
+        "original_language": "en",
+        "name": "Ранчо Даттонів",
+        "original_name": "Dutton Ranch",
+        "names": [
+          "Ранчо Даттонів",
+          "Ранчо Даттонов",
+          "Dutton Ranch",
+          "The Dutton Ranch"
+        ],
+        "overview": "Бет Даттон і Ріп Вілер борються за виживання на своєму улюбленому ранчо площею 7000 акрів в умовах важких часів і жорсткої конкуренції, водночас намагаючись допомогти юному Картеру стати тим чоловіком, яким він має бути.",
+        "poster_path": "/dtKW23O5tfxq7EXUsfeLgBx7gy1.jpg",
+        "first_air_date": "2026-05-15",
+        "video": false,
+        "vote_average": 9.4,
+        "vote_count": 89,
+        "popularity": 143.9946,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "7275308",
+        "kp_rating": "8.8",
+        "imdb_id": "tt34991493",
+        "status": "returning series",
+        "last_air_date": "2026-05-22",
+        "seasons": {
+          "1": 3
+        },
+        "episode": {
+          "air_date": "2026-05-22",
+          "episode_number": 3,
+          "name": "Серія 3",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 49,
+          "still_path": "/l37OpzNN1MzdGSG8ibn33A7KQt4.jpg",
+          "vote_average": 7.5
+        },
+        "genres": [
+          "Вестерн",
+          "Драма"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e3",
+      "premiere": 0
+    },
+    {
+      "id": 2719,
+      "time": 1779446892384,
+      "card_id": "241609",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 241609,
+        "original_language": "en",
+        "name": "Друзі та сусіди",
+        "original_name": "Your Friends & Neighbors",
+        "names": [
+          "Друзі та сусіди",
+          "Друзья и соседи",
+          "Друзья и Соседи",
+          "Your Friends & Neighbors",
+          "Your Friends and Neighbors"
+        ],
+        "overview": "Фінансовий титан раптово розлучається, втрачає роботу і, щоб уникнути банкрутства, починає грабувати багатих сусідів. Обкрадаючи людей зі свого соціального кола, він відчуває дивне піднесення — але поступово заплутується в смертоносному павутинні.",
+        "poster_path": "/xGURzoKwTw6B4rrOOiQLOEPNEE.jpg",
+        "first_air_date": "2025-04-10",
+        "video": false,
+        "vote_average": 7.623,
+        "vote_count": 219,
+        "popularity": 40.6913,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6600202",
+        "kp_rating": "7.5",
+        "imdb_id": "tt30459041",
+        "imdb_rating": "7.7",
+        "status": "returning series",
+        "last_air_date": "2026-05-22",
+        "seasons": {
+          "1": 9,
+          "2": 8
+        },
+        "episode": {
+          "air_date": "2026-05-21",
+          "episode_number": 8,
+          "name": "Без себе я розгублений",
+          "overview": "Мел і Торі стикаються з наслідками своїх дій. Сем намагається порвати з Ешем. Куп потрапляє між молотом і ковадлом.",
+          "season_number": 2,
+          "runtime": 57,
+          "still_path": "/r18w0RYSIqdEzaOyCaYFpIW8gNE.jpg",
+          "vote_average": 7.5
+        },
+        "genres": [
+          "Драма",
+          "Кримінал"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s2;e8",
+      "premiere": 0
+    },
+    {
+      "id": 2718,
+      "time": 1779436092369,
+      "card_id": "1667906",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/uoxuDza5meDgHFSBUlCfpvoIEQ7.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1667906,
+        "original_language": "en",
+        "title": "Mah e kochoolooye man",
+        "original_title": "Mah e kochoolooye man",
+        "names": [
+          "Моя маленькая луна",
+          "My Little Moon",
+          "Mah e kochoolooye man"
+        ],
+        "overview": "В разгар иранских протестов под лозунгом «Женщина, жизнь, свобода» подростки из Ирана и США знакомятся в сети. На фоне усиления напряжённости их виртуальная дружба становится для них спасательным кругом, даря надежду и силы не утонуть в океане страха и социальных потрясений.",
+        "poster_path": "/QTfTP87tnzcasyIcAZQufYE44c.jpg",
+        "release_date": "2026-04-17",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "popularity": 0.1526,
+        "PG": 0,
+        "release_quality": "webdl",
+        "kinopoisk_id": "12005305",
+        "imdb_id": "tt26685977",
+        "imdb_rating": "7.8",
+        "status": "released",
+        "last_air_date": "2026-05-21",
+        "countries": [
+          "United States of America",
+          "Iran"
+        ],
+        "genres": [
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2717,
+      "time": 1779393429794,
+      "card_id": "1380291",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/69KkxROnZoJdQAulnY5B7Gx6D7Z.jpg",
+        "genre_ids": [
+          28,
+          53,
+          18
+        ],
+        "id": 1380291,
+        "original_language": "en",
+        "title": "Джек Раян: Війна привидів",
+        "original_title": "Tom Clancy's Jack Ryan: Ghost War",
+        "names": [
+          "Джек Раян: Війна привидів",
+          "Джек Райан: Призрачная война",
+          "Tom Clancy's Jack Ryan: Ghost War",
+          "Jack Ryan: Ghost War"
+        ],
+        "overview": "Історія про Джека Раяна, який знову об’єднується з оперативниками ЦРУ, щоб пройти крізь небезпечну мережу зрад і протистояти ворогу, що знає кожен їхній крок, водночас стикаючись із минулим, яке вони вважали давно похованим.",
+        "poster_path": "/tQpJxOFx6zslf6x8CCKbsMmRDNb.jpg",
+        "release_date": "2026-05-20",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 3,
+        "popularity": 11.3652,
+        "PG": 17,
+        "release_quality": "4K",
+        "kinopoisk_id": "6458125",
+        "imdb_id": "tt34378301",
+        "status": "released",
+        "last_air_date": "2026-05-21",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Бойовик",
+          "Трилер"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2716,
       "time": 1779294429580,
       "card_id": "76479",
@@ -55,8 +280,8 @@
           "overview": "Великодня неділя. 14:00. Прямий ефір на @VoughtNews. Станьте свідками перезавантаження всесвіту Патріотом.",
           "season_number": 5,
           "runtime": 67,
-          "still_path": "/ezEbcxPgVMPRFYxRsWkokdLRUFK.jpg",
-          "vote_average": 6.3
+          "still_path": "/mT4DLPaS25esfuu9YlgUjsL9IJg.jpg",
+          "vote_average": 6.219
         },
         "genres": [
           "Науково фантастичний",
@@ -380,7 +605,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/zLwVMCUi1XKotihIfDuVMCXXm3P.jpg",
-          "vote_average": 6.464
+          "vote_average": 6.594
         },
         "genres": [
           "Детектив",
@@ -549,7 +774,7 @@
           "season_number": 8,
           "runtime": 71,
           "still_path": "/xxfVUTzLKwoeXusluq0rbpeFzPC.jpg",
-          "vote_average": 9.0
+          "vote_average": 8.8
         },
         "genres": [
           "Драма",
@@ -617,7 +842,7 @@
           "season_number": 2,
           "runtime": 57,
           "still_path": "/oMOWpYQbjiNgGf5gPFZHyVFVmCV.jpg",
-          "vote_average": 7.857
+          "vote_average": 8.1
         },
         "genres": [
           "Драма",
@@ -826,8 +1051,8 @@
           "overview": "ПОПЕРЕДЖЕННЯ: ОБЕРЕЖНО ПІД ЧАС ВИХОДУ НА ЗВУКОВУ СЦЕНУ. ВИКОНАВЦІ МОЖУТЬ ВИКОРИСТОВУВАТИ НАДЗДІБНОСТІ.",
           "season_number": 5,
           "runtime": 71,
-          "still_path": "/m7RKphwoonRHsSniQAJhAEnTmca.jpg",
-          "vote_average": 7.47
+          "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
+          "vote_average": 7.236
         },
         "genres": [
           "Науково фантастичний",
@@ -943,7 +1168,7 @@
           "season_number": 3,
           "runtime": 61,
           "still_path": "/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg",
-          "vote_average": 5.938
+          "vote_average": 5.9
         },
         "genres": [
           "Драма"
@@ -1304,9 +1529,9 @@
           "name": "Серія 9",
           "overview": "",
           "season_number": 8,
-          "runtime": 54,
+          "runtime": 53,
           "still_path": "/g2Xq2bMO0t2lApPY8V8CXyGzZEt.jpg",
-          "vote_average": 9.0
+          "vote_average": 8.8
         },
         "genres": [
           "Драма",
@@ -1374,7 +1599,7 @@
           "season_number": 2,
           "runtime": 42,
           "still_path": "/htfy0mGyz1dzvX9j7dowdXVtept.jpg",
-          "vote_average": 7.417
+          "vote_average": 7.4
         },
         "genres": [
           "Драма",
@@ -1778,8 +2003,8 @@
           "overview": "Уже в наявності, ЕКСКЛЮЗИВНО у @VMCtheaters, придбайте нове #ВідерцеДляПопкорнуЗГлибиною лише за $32.99!",
           "season_number": 5,
           "runtime": 65,
-          "still_path": "/4TA0dxVoNmiS98rLFBx6CDCov7p.jpg",
-          "vote_average": 6.912
+          "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
+          "vote_average": 6.8
         },
         "genres": [
           "Науково фантастичний",
@@ -1985,7 +2210,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/1DpoRaiA7weWvLSL4PsZPPHwmvI.jpg",
-          "vote_average": 8.111
+          "vote_average": 8.1
         },
         "genres": [
           "Драма"
@@ -2041,9 +2266,9 @@
           "Spain"
         ],
         "genres": [
+          "Пригоди",
           "Мультфільм",
           "Сімейний",
-          "Пригоди",
           "Фентезі"
         ]
       },
@@ -2597,7 +2822,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/ngEIeKHD81vIZSOlJbL7n1ifFg1.jpg",
-          "vote_average": 7.028
+          "vote_average": 6.9
         },
         "genres": [
           "Науково фантастичний",
@@ -2782,235 +3007,7 @@
       "type": "episode",
       "hash": "s8;e8",
       "premiere": 0
-    },
-    {
-      "id": 2670,
-      "time": 1777372557028,
-      "card_id": "1422404",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/ay6qigYQARIOoxZUj0i9YtVlhou.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 1422404,
-        "original_language": "ja",
-        "title": "TOKYOタクシー",
-        "original_title": "TOKYOタクシー",
-        "names": [
-          "Токийское такси",
-          "Tokyo Taxi",
-          "TOKYOタクシー"
-        ],
-        "overview": "Кодзи Усами зарабатывает на жизнь работой в такси. Однажды он получает заказ отвезти 85-летнюю Сумирэ Такано в дом престарелых. По дороге Такано просит сделать несколько остановок, постепенно открывая для Усами своё прошлое, а сама поездка меняет жизни и пассажира, и водителя.",
-        "poster_path": "/iJHARu7sCkQy419txqTwKCgQQWQ.jpg",
-        "release_date": "2025-11-21",
-        "video": false,
-        "vote_average": 7.8,
-        "vote_count": 10,
-        "popularity": 2.5425,
-        "PG": 0,
-        "release_quality": "webdl",
-        "kinopoisk_id": "8055144",
-        "imdb_id": "tt35521394",
-        "imdb_rating": "7.3",
-        "status": "released",
-        "last_air_date": "2026-04-25",
-        "countries": [
-          "Japan"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2669,
-      "time": 1777356361800,
-      "card_id": "1561758",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/8PK61ixYoSX3kXWyCMH4ats79k4.jpg",
-        "genre_ids": [
-          10749,
-          35
-        ],
-        "id": 1561758,
-        "original_language": "pl",
-        "title": "Біда людей єдна",
-        "original_title": "Podlasie",
-        "names": [
-          "Біда людей єдна",
-          "Все за одного",
-          "It Takes a Village",
-          "Podlasie - Wszyscy za jedną",
-          "Podlasie"
-        ],
-        "overview": "Коли через невдалу інвестицію та шахраїв Галина опиняється на межі втрати свого будинку та ферми, її родина та мешканці всього села Бодзки вирішують об’єднатися. Вони розробляють шалений план: перетворити своє віддалене містечко на головну туристичну принаду регіону, щоб зібрати гроші та врятувати Галину від фінансового крах",
-        "poster_path": "/3C5U150EzKPqaf4J4Fd6CZQg9Xb.jpg",
-        "release_date": "2026-04-01",
-        "video": false,
-        "vote_average": 4.722,
-        "vote_count": 10,
-        "popularity": 3.7914,
-        "PG": 13,
-        "release_quality": "4K",
-        "kinopoisk_id": "11857507",
-        "imdb_id": "tt38681815",
-        "status": "released",
-        "last_air_date": "2026-04-04",
-        "countries": [
-          "Poland"
-        ],
-        "genres": [
-          "Мелодрама",
-          "Комедія"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2668,
-      "time": 1777311355892,
-      "card_id": "85552",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 85552,
-        "original_language": "en",
-        "name": "Ейфорія",
-        "original_name": "Euphoria",
-        "names": [
-          "Эйфория",
-          "Euphoria",
-          "Ейфорія"
-        ],
-        "overview": "У центрі історії — 17-річна Ру Беннетт, яка повернулася до рідного дому після лікування в реабілітаційній клініці. Не гаючи часу, вона знову береться за старі звички — наркотики й тусовки. Однак поява в місті дівчини Джулс стає для Ру знаком надії.",
-        "poster_path": "/nsZkLSw1d0le18B8F0B5VMv6QKJ.jpg",
-        "first_air_date": "2019-06-16",
-        "video": false,
-        "vote_average": 8.281,
-        "vote_count": 10441,
-        "popularity": 301.9964,
-        "PG": 18,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1178445",
-        "kp_rating": "7.5",
-        "imdb_id": "tt8772296",
-        "imdb_rating": "8.2",
-        "status": "returning series",
-        "last_air_date": "2026-04-27",
-        "seasons": {
-          "1": 10,
-          "2": 8,
-          "3": 3
-        },
-        "episode": {
-          "air_date": "2026-04-26",
-          "episode_number": 3,
-          "name": "Серія 3",
-          "overview": "",
-          "season_number": 3,
-          "runtime": 60,
-          "still_path": "/pjzzBxorSBsEkvVsISvIuP8aVaa.jpg",
-          "vote_average": 7.25
-        },
-        "genres": [
-          "Драма"
-        ],
-        "countries": [
-          "United States of America",
-          "Israel"
-        ]
-      },
-      "type": "episode",
-      "hash": "s3;e3",
-      "premiere": 0
-    },
-    {
-      "id": 2667,
-      "time": 1777270306655,
-      "card_id": "124364",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
-        "genre_ids": [
-          9648,
-          18,
-          10765
-        ],
-        "id": 124364,
-        "original_language": "en",
-        "name": "Ззовні",
-        "original_name": "FROM",
-        "names": [
-          "Извне",
-          "From",
-          "Ззовні",
-          "FROM"
-        ],
-        "overview": "Події серіалу відбуваються в містичному містечку, розташованому в центральній частині США. Всі, хто потрапляють туди, опиняються в пастці. Мимовільні жителі борются за збереження залишків здорового глузду та шукають вихід з кошмарної ситуації, адже щоночі їм доводиться переживати напад жахливих створінь, які виходять із заходом сонця з довколишнього лісу.",
-        "poster_path": "/rvlPBfIm6CUQTGorQvf6wK8lPDH.jpg",
-        "first_air_date": "2022-02-20",
-        "video": false,
-        "vote_average": 8.171,
-        "vote_count": 2627,
-        "popularity": 644.1358,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4476885",
-        "kp_rating": "7.6",
-        "imdb_id": "tt9813792",
-        "imdb_rating": "7.8",
-        "status": "returning series",
-        "last_air_date": "2026-04-26",
-        "seasons": {
-          "1": 10,
-          "2": 10,
-          "3": 10,
-          "4": 2
-        },
-        "episode": {
-          "air_date": "2026-04-26",
-          "episode_number": 2,
-          "name": "Сутичка",
-          "overview": "Жахлива знахідка викликає хвилю обурення в місті, а Джейд і Табіта намагаються впоратися з цим відкриттям.",
-          "season_number": 4,
-          "runtime": 55,
-          "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
-          "vote_average": 6.7
-        },
-        "genres": [
-          "Детектив",
-          "Драма",
-          "Науково фантастичний"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s4;e2",
-      "premiere": 0
     }
   ],
-  "duration": 4.806007385253906
+  "duration": 4.4417724609375
 }
