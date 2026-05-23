@@ -2,6 +2,106 @@
   "secuses": true,
   "result": [
     {
+      "id": 2722,
+      "time": 1779531502420,
+      "card_id": "299167",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "id": 299167,
+        "original_language": "en",
+        "name": "Ранчо Даттонов",
+        "original_name": "Dutton Ranch",
+        "names": [
+          "Ранчо Даттонов",
+          "Dutton Ranch",
+          "The Dutton Ranch"
+        ],
+        "overview": "Ранчо Даттонов - дом Бет и Рипа, стало символом той жизни, о которой они мечтали, за которую отчаянно боролись и ради которой едва не пожертвовали всем. Они всей душой привязались к своей земле площадью 7000 акров, превратив её в место, которое готовы защищать любой ценой. Даже в самые тяжёлые времена Бет и Рип делают всё возможное, чтобы выстоять, сохранить своё ранчо и обеспечить достойное будущее себе и своему приёмному сыну Картеру.",
+        "poster_path": "/mmxsx98NnY56CvataUqM1ktt14O.jpg",
+        "first_air_date": "2026-05-15",
+        "video": false,
+        "vote_average": 9.4,
+        "vote_count": 89,
+        "popularity": 143.9946,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "7275308",
+        "kp_rating": "8.8",
+        "imdb_id": "tt34991493",
+        "status": "returning series",
+        "last_air_date": "2026-05-22",
+        "seasons": {
+          "1": 3
+        },
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Вестерн",
+          "Драма"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2721,
+      "time": 1779527902850,
+      "card_id": "1257868",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/vzAcTHSYy9cMwuZ73OrxwbqX5bB.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 1257868,
+        "original_language": "en",
+        "title": "Отпуск на двоих",
+        "original_title": "Couples Weekend",
+        "names": [
+          "Отпуск на двоих",
+          "Couples Weekend",
+          "Парный уикенд",
+          "Отпуск на двоих / Парный уикенд"
+        ],
+        "overview": "Митч и Дебс - друзья детства, которые теперь приезжают на отдых в уединенный дом в лесу со своими вторыми половинками. Но отношения в обеих парах трещат по швам. Падение дерева у дома становится спусковым крючком для откровений: воспоминания, странный напиток, расшатанные браки. Герои становятся свидетелями и участниками неловких сцен, неожиданных признаний и затянувшихся взаимных претензий. Постепенно раскрываются давно спрятанные обиды, тайные желания и секреты. За тонким юмором и легким абсурдом идет честный разговор о том, какую ложь можно принимать, чтобы продолжать жить - и как трудно бывает выбраться из этой ловушки.",
+        "poster_path": "/oJZhbslpCsuad90FVvvTgCHYpss.jpg",
+        "release_date": "2026-05-08",
+        "video": false,
+        "vote_average": 5.944,
+        "vote_count": 9,
+        "popularity": 4.7659,
+        "PG": 17,
+        "release_quality": "4K",
+        "kinopoisk_id": "5146668",
+        "imdb_id": "tt12477096",
+        "status": "released",
+        "last_air_date": "2026-05-10",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Драма",
+          "Комедия"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2720,
       "time": 1779464892359,
       "card_id": "299167",
@@ -2645,119 +2745,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2672,
-      "time": 1777392357025,
-      "card_id": "1659087",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
-        "genre_ids": [
-          53,
-          80,
-          18
-        ],
-        "id": 1659087,
-        "original_language": "en",
-        "title": "180",
-        "original_title": "180",
-        "names": [
-          "180",
-          "180 / One Hundred Eighty"
-        ],
-        "overview": "Случайная разборка на дороге приводит к тому, что ехавший с отцом мальчик оказывается в критическом состоянии. Отца обуревают эмоции, он впадает в ярость и жаждет мести.",
-        "poster_path": "/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
-        "release_date": "2026-04-16",
-        "video": false,
-        "vote_average": 5.615,
-        "vote_count": 65,
-        "popularity": 58.7303,
-        "PG": 16,
-        "release_quality": "4K",
-        "kinopoisk_id": "12060707",
-        "imdb_id": "tt40891145",
-        "imdb_rating": "4.6",
-        "status": "released",
-        "last_air_date": "2026-04-19",
-        "countries": [
-          "ЮАР"
-        ],
-        "genres": [
-          "Триллер",
-          "Криминал",
-          "Драма"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2671,
-      "time": 1777383357925,
-      "card_id": "56570",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
-        "genre_ids": [
-          18,
-          10765
-        ],
-        "id": 56570,
-        "original_language": "en",
-        "name": "Чужестранка",
-        "original_name": "Outlander",
-        "names": [
-          "Чужестранка",
-          "Outlander",
-          "Чужоземка"
-        ],
-        "overview": "Клэр, работавшая медсестрой во время Второй мировой войны, случайно перемещается во времени и попадает в 1743 год. В этом мире, полном приключений, она знакомится с шотландским рыцарем Джейми. У героев завязывается страстный роман, несмотря на то, что сердце Клэр разрывается между двумя мужчинами — Джейми и ее мужем Фрэнком, который остался в другом времени.",
-        "poster_path": "/5HdUN4MvDegqDNLAjJDTjFRWfVR.jpg",
-        "first_air_date": "2014-08-09",
-        "video": false,
-        "vote_average": 8.174,
-        "vote_count": 2810,
-        "popularity": 110.9174,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "818284",
-        "kp_rating": "8.0",
-        "imdb_id": "tt3006802",
-        "imdb_rating": "8.3",
-        "status": "returning series",
-        "last_air_date": "2026-04-26",
-        "seasons": {
-          "1": 16,
-          "2": 13,
-          "3": 13,
-          "4": 13,
-          "5": 12,
-          "6": 8,
-          "7": 16,
-          "8": 8
-        },
-        "episode": {
-          "air_date": "2026-04-24",
-          "episode_number": 8,
-          "name": "Эпизод 8",
-          "overview": "",
-          "season_number": 8,
-          "runtime": 57,
-          "still_path": "/7kV1B7heWuXf5iaGoO4XijWqtiH.jpg",
-          "vote_average": 9
-        }
-      },
-      "type": "episode",
-      "hash": "s8;e8",
-      "premiere": 0
     }
   ],
-  "duration": 4.4417724609375
+  "duration": 10.423789978027344
 }
