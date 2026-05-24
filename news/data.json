@@ -2,6 +2,146 @@
   "secuses": true,
   "result": [
     {
+      "id": 2725,
+      "time": 1779614636220,
+      "card_id": "1368881",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/bOy625BjpCskOWnx3tD09MsKVCb.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1368881,
+        "original_language": "en",
+        "title": "Дамы вперед",
+        "original_title": "Ladies First",
+        "names": [
+          "Дамы вперёд",
+          "Ladies First",
+          "Дамы вперед",
+          "Сначала дамы"
+        ],
+        "overview": "Высокомерный и харизматичный ловелас, у которого есть и власть, и деньги, предпочитает мимолетные романы. Но вдруг он оказывается в параллельном мире, где правят женщины.",
+        "poster_path": "/71SkmUTM7mtjicnPivm7aXIPKJ3.jpg",
+        "release_date": "2026-05-21",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 20,
+        "popularity": 76.2,
+        "PG": 16,
+        "release_quality": "4K",
+        "kinopoisk_id": "12024538",
+        "imdb_id": "tt34611082",
+        "status": "released",
+        "last_air_date": "2026-05-24",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Комедия"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2724,
+      "time": 1779612836247,
+      "card_id": "1340206",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/sT5Inhc0aaReSZoufWgfJTQUbKp.jpg",
+        "genre_ids": [
+          80,
+          53
+        ],
+        "id": 1340206,
+        "original_language": "en",
+        "title": "Настройщик",
+        "original_title": "Tuner",
+        "names": [
+          "Настройщик",
+          "Tuner"
+        ],
+        "overview": "Жизнь талантливого настройщика фортепиано переворачивается с ног на голову, когда он обнаруживает, что его отточенные навыки настройки фортепиано можно с тем же успехом применять для взлома сейфов.",
+        "poster_path": "/wLdcMUsKepVXXxFVZYTEc5JGc21.jpg",
+        "release_date": "2026-05-21",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 2,
+        "popularity": 12.5492,
+        "PG": 17,
+        "release_quality": "ts",
+        "kinopoisk_id": "7518867",
+        "imdb_id": "tt33296751",
+        "imdb_rating": "7.3",
+        "status": "released",
+        "last_air_date": "2026-05-23",
+        "countries": [
+          "Канада",
+          "США"
+        ],
+        "genres": [
+          "Криминал",
+          "Триллер"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2723,
+      "time": 1779609241235,
+      "card_id": "1228710",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/4VrLojD6Gl1HQkcDHAoHQjSDPh9.jpg",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "id": 1228710,
+        "original_language": "en",
+        "title": "Мандалорец и Грогу",
+        "original_title": "Star Wars: The Mandalorian and Grogu",
+        "names": [
+          "Мандалорец и Грогу",
+          "The Mandalorian & Grogu",
+          "Star Wars: The Mandalorian and Grogu"
+        ],
+        "overview": "Империя пала, но её военачальники всё ещё держат под своим контролем части галактики. Зарождающаяся Новая Республика пытается защитить идеалы, за которые сражались повстанцы, и нанимает для задания мандалорца Дина Джарина, известного охотника за головами, и его юного ученика Грогу.",
+        "poster_path": "/yWPrjlrV9R0eXwBrCvbM95oiepd.jpg",
+        "release_date": "2026-05-20",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 39,
+        "popularity": 73.0823,
+        "PG": 16,
+        "release_quality": "ts",
+        "kinopoisk_id": "5437088",
+        "imdb_id": "tt30825738",
+        "status": "released",
+        "last_air_date": "2026-05-22",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Боевик",
+          "Приключения",
+          "Фантастика"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2722,
       "time": 1779531502420,
       "card_id": "299167",
@@ -2587,165 +2727,7 @@
       "type": "episode",
       "hash": "s8;e17",
       "premiere": 0
-    },
-    {
-      "id": 2675,
-      "time": 1777536360618,
-      "card_id": "1290417",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
-        "genre_ids": [
-          27,
-          53
-        ],
-        "id": 1290417,
-        "original_language": "en",
-        "title": "Хищный рывок",
-        "original_title": "Thrash",
-        "names": [
-          "Хищный рывок",
-          "Thrash"
-        ],
-        "overview": "Когда ураган категории 5 разрушает прибрежный город, штормовой прилив приносит не только разрушения и хаос, но и нечто куда более пугающее — голодных акул.",
-        "poster_path": "/1xNg6ImdaSEshc2nYNEYzEbIV6W.jpg",
-        "release_date": "2026-04-10",
-        "video": false,
-        "vote_average": 6.01,
-        "vote_count": 431,
-        "popularity": 126.432,
-        "PG": 17,
-        "release_quality": "4K",
-        "kinopoisk_id": "8883351",
-        "kp_rating": "5.3",
-        "imdb_id": "tt32362890",
-        "status": "released",
-        "last_air_date": "2026-04-12",
-        "countries": [
-          "США",
-          "Австралия"
-        ],
-        "genres": [
-          "Ужасы",
-          "Триллер"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2674,
-      "time": 1777473355900,
-      "card_id": "76479",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-        "genre_ids": [
-          10765,
-          10759
-        ],
-        "id": 76479,
-        "original_language": "en",
-        "name": "Пацаны",
-        "original_name": "The Boys",
-        "names": [
-          "Пацаны",
-          "The Boys",
-          "Хлопці / Хлопаки"
-        ],
-        "overview": "События разворачивается в 2000-ые в мире, где существуют супергерои. Именно они являются настоящими звёздами, которых все знают и обожают. Но за идеальным фасадом скрывается гораздо более мрачный мир наркотиков и секса, а большинство героев в жизни не самые приятные люди. Для контроля за супергероями ЦРУ создаёт специальный отряд, неофициально известный как «Пацаны», суровые члены которого всегда готовы поставить зазнавшегося героя на место самым жестоким способом.",
-        "poster_path": "/z7pZuGOqJKpLpb7WkD63MjFWgwL.jpg",
-        "first_air_date": "2019-07-25",
-        "video": false,
-        "vote_average": 8.4,
-        "vote_count": 11979,
-        "popularity": 593.6623,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "460586",
-        "kp_rating": "8.3",
-        "imdb_id": "tt1190634",
-        "imdb_rating": "8.6",
-        "status": "returning series",
-        "last_air_date": "2026-04-29",
-        "seasons": {
-          "1": 8,
-          "2": 8,
-          "3": 8,
-          "4": 8,
-          "5": 5
-        },
-        "episode": {
-          "air_date": "2026-04-29",
-          "episode_number": 5,
-          "name": "Эпизод 5",
-          "overview": "",
-          "season_number": 5,
-          "runtime": 68,
-          "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 4.7
-        }
-      },
-      "type": "episode",
-      "hash": "s5;e5",
-      "premiere": 0
-    },
-    {
-      "id": 2673,
-      "time": 1777458962257,
-      "card_id": "1292695",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/q05WV8DwEiyLbCgSVtg55RbUzou.jpg",
-        "genre_ids": [
-          28,
-          27,
-          35
-        ],
-        "id": 1292695,
-        "original_language": "en",
-        "title": "Они придут за тобой",
-        "original_title": "They Will Kill You",
-        "names": [
-          "Они придут за тобой",
-          "They Will Kill You"
-        ],
-        "overview": "Домработница откликается на вакансию в одном из престижных домов Нью-Йорка. Начиная работать на новых обеспеченных хозяев, она, сама того не подозревая, попадает в тайное сообщество, связанное с исчезновениями людей.",
-        "poster_path": "/xCDqSY3cxVQbZULUgpoqRMNLvFQ.jpg",
-        "release_date": "2026-03-25",
-        "video": false,
-        "vote_average": 6.521,
-        "vote_count": 140,
-        "popularity": 16.7562,
-        "PG": 17,
-        "release_quality": "4K",
-        "kinopoisk_id": "5463777",
-        "kp_rating": "6.6",
-        "imdb_id": "tt31728330",
-        "imdb_rating": "6.5",
-        "status": "released",
-        "last_air_date": "2026-03-28",
-        "countries": [
-          "США",
-          "ЮАР"
-        ],
-        "genres": [
-          "Ужасы",
-          "Боевик",
-          "Комедия"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 10.423789978027344
+  "duration": 7.265693664550781
 }

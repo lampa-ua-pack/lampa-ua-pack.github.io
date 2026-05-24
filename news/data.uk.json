@@ -2,6 +2,148 @@
   "secuses": true,
   "result": [
     {
+      "id": 2725,
+      "time": 1779614636220,
+      "card_id": "1368881",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/bOy625BjpCskOWnx3tD09MsKVCb.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1368881,
+        "original_language": "en",
+        "title": "Спочатку дами",
+        "original_title": "Ladies First",
+        "names": [
+          "Спочатку дами",
+          "Дамы вперёд",
+          "Ladies First",
+          "Дамы вперед",
+          "Сначала дамы"
+        ],
+        "overview": "Сповнене інтрижок заможне життя пихатого, але харизматичного дамського угодника стає з ніг на голову, коли він прокидається в паралельному світі, яким керують жінки.",
+        "poster_path": "/oZFIHKc8ULhpTpEdNtQpikuVoKK.jpg",
+        "release_date": "2026-05-21",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 20,
+        "popularity": 76.2,
+        "PG": 16,
+        "release_quality": "4K",
+        "kinopoisk_id": "12024538",
+        "imdb_id": "tt34611082",
+        "status": "released",
+        "last_air_date": "2026-05-24",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Комедія"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2724,
+      "time": 1779612836247,
+      "card_id": "1340206",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/sT5Inhc0aaReSZoufWgfJTQUbKp.jpg",
+        "genre_ids": [
+          80,
+          53
+        ],
+        "id": 1340206,
+        "original_language": "en",
+        "title": "Tuner",
+        "original_title": "Tuner",
+        "names": [
+          "Настройщик",
+          "Tuner"
+        ],
+        "overview": "Жизнь талантливого настройщика фортепиано переворачивается с ног на голову, когда он обнаруживает, что его отточенные навыки настройки фортепиано можно с тем же успехом применять для взлома сейфов.",
+        "poster_path": "/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
+        "release_date": "2026-05-21",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 2,
+        "popularity": 12.5492,
+        "PG": 17,
+        "release_quality": "ts",
+        "kinopoisk_id": "7518867",
+        "imdb_id": "tt33296751",
+        "imdb_rating": "7.3",
+        "status": "released",
+        "last_air_date": "2026-05-23",
+        "countries": [
+          "Canada",
+          "United States of America"
+        ],
+        "genres": [
+          "Кримінал",
+          "Трилер"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2723,
+      "time": 1779609241235,
+      "card_id": "1228710",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/7OedxK0BvSKJ0ZWCPRYADViTBx6.jpg",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "id": 1228710,
+        "original_language": "en",
+        "title": "Мандалорець і Ґроґу",
+        "original_title": "Star Wars: The Mandalorian and Grogu",
+        "names": [
+          "Мандалорець і Ґроґу",
+          "Мандалорец и Грогу",
+          "The Mandalorian & Grogu",
+          "Star Wars: The Mandalorian and Grogu"
+        ],
+        "overview": "Жорстока Імперія пала, проте її воєначальники все ще розкидані по галактиці. Молода Нова Республіка намагається захистити все те, за що боролося Повстання, тому звертається по допомогу до легендарного мандалорського мисливця за головами Діна Джаріна та його юного учня Ґроґу. Разом вони вирушають у свою найризикованішу місію, що приведе їх до нових союзників, небезпечних ворогів і випробувань, що змінять їхні долі.",
+        "poster_path": "/ipezVNLljduGrftH9kjfUaUqIt1.jpg",
+        "release_date": "2026-05-20",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 39,
+        "popularity": 73.0823,
+        "PG": 16,
+        "release_quality": "ts",
+        "kinopoisk_id": "5437088",
+        "imdb_id": "tt30825738",
+        "status": "released",
+        "last_air_date": "2026-05-22",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Бойовик",
+          "Пригоди",
+          "Фантастика"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2722,
       "time": 1779531502420,
       "card_id": "299167",
@@ -153,7 +295,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/l37OpzNN1MzdGSG8ibn33A7KQt4.jpg",
-          "vote_average": 8.3
+          "vote_average": 8.8
         },
         "genres": [
           "Вестерн",
@@ -382,8 +524,8 @@
           "overview": "Великодня неділя. 14:00. Прямий ефір на @VoughtNews. Станьте свідками перезавантаження всесвіту Патріотом.",
           "season_number": 5,
           "runtime": 67,
-          "still_path": "/37rtA30vY8kOTvR5O48Er19m7Ir.jpg",
-          "vote_average": 6.221
+          "still_path": "/mT4DLPaS25esfuu9YlgUjsL9IJg.jpg",
+          "vote_average": 6.279
         },
         "genres": [
           "Науково фантастичний",
@@ -447,7 +589,7 @@
           "season_number": 1,
           "runtime": 82,
           "still_path": "/tJ2zB1JvroPpSZQWhjykGjcWu2s.jpg",
-          "vote_average": 7.5
+          "vote_average": 8.333
         },
         "genres": [
           "Драма",
@@ -511,7 +653,7 @@
           "overview": "",
           "season_number": 1,
           "runtime": 47,
-          "still_path": "/zXO11LCZeFBjBhnSAK9zlzEsJxu.jpg",
+          "still_path": "/sKkVo26hfshCSd6B02FER0qixz3.jpg",
           "vote_average": 9.6
         },
         "genres": [
@@ -874,7 +1016,7 @@
           "name": "Серія 10",
           "overview": "",
           "season_number": 8,
-          "runtime": 71,
+          "runtime": 72,
           "still_path": "/xxfVUTzLKwoeXusluq0rbpeFzPC.jpg",
           "vote_average": 8.8
         },
@@ -1153,8 +1295,8 @@
           "overview": "ПОПЕРЕДЖЕННЯ: ОБЕРЕЖНО ПІД ЧАС ВИХОДУ НА ЗВУКОВУ СЦЕНУ. ВИКОНАВЦІ МОЖУТЬ ВИКОРИСТОВУВАТИ НАДЗДІБНОСТІ.",
           "season_number": 5,
           "runtime": 71,
-          "still_path": "/egwutLDfRnfVi49RiBzMTkZdYYR.jpg",
-          "vote_average": 7.118
+          "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
+          "vote_average": 7.1
         },
         "genres": [
           "Науково фантастичний",
@@ -1631,7 +1773,7 @@
           "name": "Серія 9",
           "overview": "",
           "season_number": 8,
-          "runtime": 53,
+          "runtime": 54,
           "still_path": "/g2Xq2bMO0t2lApPY8V8CXyGzZEt.jpg",
           "vote_average": 8.8
         },
@@ -1950,7 +2092,7 @@
           "Goldeu Laendeu"
         ],
         "overview": "Молода жінка, яка працює агенткою служби безпеки в аеропорту, випадково отримує у своє розпорядження золоті злитки контрабандистського угруповання. Опинившись у хаотичному вирі жадібності та зрад між різними сторонами, що борються за золото, вона поступово піддається бажанню забрати все собі.",
-        "poster_path": "/exAqL4Hbh2M712QlFwGDTqZeiAl.jpg",
+        "poster_path": "/7N6Aa8Kn71JHG9aztcIaRIzdkLc.jpg",
         "first_air_date": "2026-04-29",
         "video": false,
         "vote_average": 9.5,
@@ -2105,8 +2247,8 @@
           "overview": "Уже в наявності, ЕКСКЛЮЗИВНО у @VMCtheaters, придбайте нове #ВідерцеДляПопкорнуЗГлибиною лише за $32.99!",
           "season_number": 5,
           "runtime": 65,
-          "still_path": "/4TA0dxVoNmiS98rLFBx6CDCov7p.jpg",
-          "vote_average": 6.783
+          "still_path": "/8uDnSaN2ZBKQp01LNmHzkCAJgOs.jpg",
+          "vote_average": 6.8
         },
         "genres": [
           "Науково фантастичний",
@@ -2171,7 +2313,7 @@
           "season_number": 1,
           "runtime": 26,
           "still_path": "/6AgKrtdQuSF8zDtBOGFJAKnAPGo.jpg",
-          "vote_average": 8.9
+          "vote_average": 9.029
         },
         "genres": [
           "Екшн і Пригоди",
@@ -2821,174 +2963,7 @@
       "type": "episode",
       "hash": "s8;e17",
       "premiere": 0
-    },
-    {
-      "id": 2675,
-      "time": 1777536360618,
-      "card_id": "1290417",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/hniERZojXCEc7Fp3yljZUigOAhm.jpg",
-        "genre_ids": [
-          27,
-          53
-        ],
-        "id": 1290417,
-        "original_language": "en",
-        "title": "Лютий напад",
-        "original_title": "Thrash",
-        "names": [
-          "Лютий напад",
-          "Хищный рывок",
-          "Thrash"
-        ],
-        "overview": "Катастрофічний ураган спустошує прибережне місто. Тепер жителям затоплених вулиць треба пережити підвищення рівня моря, що кишить кровожерливими акулами.",
-        "poster_path": "/adk8weka3O5648g3de4z3y4aE7G.jpg",
-        "release_date": "2026-04-10",
-        "video": false,
-        "vote_average": 6.01,
-        "vote_count": 431,
-        "popularity": 126.432,
-        "PG": 17,
-        "release_quality": "4K",
-        "kinopoisk_id": "8883351",
-        "kp_rating": "5.3",
-        "imdb_id": "tt32362890",
-        "status": "released",
-        "last_air_date": "2026-04-12",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Жахи",
-          "Трилер"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2674,
-      "time": 1777473355900,
-      "card_id": "76479",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-        "genre_ids": [
-          10765,
-          10759
-        ],
-        "id": 76479,
-        "original_language": "en",
-        "name": "Хлопаки",
-        "original_name": "The Boys",
-        "names": [
-          "Хлопаки",
-          "Пацаны",
-          "The Boys",
-          "Хлопці / Хлопаки"
-        ],
-        "overview": "Події розгортаються в альтернативному світі, де супергерої є звичним явищем. Вони щоденно по кілька разів рятують світ, знімаються у фільмах і стають обличчями рекламних кампаній відомих брендів. Втім, є і зворотня сторона медалі: кожен день тисячі людей страждають від дій супергероїв, для яких людське життя насправді не коштує зовсім нічого. Але є невеличка групка відчайдухів, яких такий стан справ не влаштовує, вони мають мету – покарати знахабнілих надлюдей та вивести їх на чисту воду…",
-        "poster_path": "/iNKkWK11okzbenMvJY87aOHNfll.jpg",
-        "first_air_date": "2019-07-25",
-        "video": false,
-        "vote_average": 8.4,
-        "vote_count": 11979,
-        "popularity": 593.6623,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "460586",
-        "kp_rating": "8.3",
-        "imdb_id": "tt1190634",
-        "imdb_rating": "8.6",
-        "status": "returning series",
-        "last_air_date": "2026-04-29",
-        "seasons": {
-          "1": 8,
-          "2": 8,
-          "3": 8,
-          "4": 8,
-          "5": 5
-        },
-        "episode": {
-          "air_date": "2026-04-29",
-          "episode_number": 5,
-          "name": "Одноразові",
-          "overview": "Сьогодні о 21:00/20:00 за центральним часом спеціальний репортаж на @VoughtNews: Зрада в Тінселтауні! З'ясуйте, хто з ваших улюблених зірок зорянець!",
-          "season_number": 5,
-          "runtime": 69,
-          "still_path": "/7q9BH3QaHLkr7SegfRgqy5Uf63E.jpg",
-          "vote_average": 6.882
-        },
-        "genres": [
-          "Науково фантастичний",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s5;e5",
-      "premiere": 0
-    },
-    {
-      "id": 2673,
-      "time": 1777458962257,
-      "card_id": "1292695",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
-        "genre_ids": [
-          28,
-          27,
-          35
-        ],
-        "id": 1292695,
-        "original_language": "en",
-        "title": "Вони вб'ють тебе",
-        "original_title": "They Will Kill You",
-        "names": [
-          "Вони вб'ють тебе",
-          "Они придут за тобой",
-          "They Will Kill You"
-        ],
-        "overview": "Жінка влаштовується на роботу господаркою у «висотку» в Нью-Йорку, не підозрюючи про історію загадкових зникнень у будівлі. Невдовзі вона розуміє, що громада об'єднана таємницею.",
-        "poster_path": "/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
-        "release_date": "2026-03-25",
-        "video": false,
-        "vote_average": 6.521,
-        "vote_count": 140,
-        "popularity": 16.7562,
-        "PG": 17,
-        "release_quality": "4K",
-        "kinopoisk_id": "5463777",
-        "kp_rating": "6.6",
-        "imdb_id": "tt31728330",
-        "imdb_rating": "6.5",
-        "status": "released",
-        "last_air_date": "2026-03-28",
-        "countries": [
-          "United States of America",
-          "South Africa"
-        ],
-        "genres": [
-          "Бойовик",
-          "Комедія",
-          "Жахи"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 10.423789978027344
+  "duration": 7.265693664550781
 }
