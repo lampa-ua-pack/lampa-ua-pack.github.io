@@ -2,6 +2,121 @@
   "secuses": true,
   "result": [
     {
+      "id": 2727,
+      "time": 1779716595400,
+      "card_id": "85552",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 85552,
+        "original_language": "en",
+        "name": "Ейфорія",
+        "original_name": "Euphoria",
+        "names": [
+          "Эйфория",
+          "Euphoria",
+          "Ейфорія"
+        ],
+        "overview": "У центрі історії — 17-річна Ру Беннетт, яка повернулася до рідного дому після лікування в реабілітаційній клініці. Не гаючи часу, вона знову береться за старі звички — наркотики й тусовки. Однак поява в місті дівчини Джулс стає для Ру знаком надії.",
+        "poster_path": "/nsZkLSw1d0le18B8F0B5VMv6QKJ.jpg",
+        "first_air_date": "2019-06-16",
+        "video": false,
+        "vote_average": 8.289,
+        "vote_count": 10659,
+        "popularity": 222.5807,
+        "PG": 18,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1178445",
+        "kp_rating": "7.5",
+        "imdb_id": "tt8772296",
+        "imdb_rating": "8.2",
+        "status": "returning series",
+        "last_air_date": "2026-05-25",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 7
+        },
+        "episode": {
+          "air_date": "2026-05-24",
+          "episode_number": 7,
+          "name": "Серія 7",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 78,
+          "still_path": "/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg",
+          "vote_average": 7.8
+        },
+        "genres": [
+          "Драма"
+        ],
+        "countries": [
+          "United States of America",
+          "Israel"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e7",
+      "premiere": 0
+    },
+    {
+      "id": 2726,
+      "time": 1779705794840,
+      "card_id": "1375646",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
+        "genre_ids": [
+          28,
+          53,
+          27
+        ],
+        "id": 1375646,
+        "original_language": "ko",
+        "title": "Колонія",
+        "original_title": "군체",
+        "names": [
+          "Колонія",
+          "Колония",
+          "Gunche",
+          "군체"
+        ],
+        "overview": "Професорка біотехнології приїжджає на наукову конференцію — і стає мимовільною свідкою катастрофи: невідомий вірус наздоганяє всіх і кожного. Люди починають еволюціонувати в непередбачувані форми, об’єднуючись у нову структуру — «колонію», яка ставить під загрозу життя небагатьох уцілілих.",
+        "poster_path": "/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
+        "release_date": "2026-05-21",
+        "video": false,
+        "vote_average": 5.875,
+        "vote_count": 4,
+        "popularity": 44.8133,
+        "PG": 18,
+        "release_quality": "ts",
+        "kinopoisk_id": "6705911",
+        "imdb_id": "tt34385135",
+        "imdb_rating": "8.8",
+        "status": "released",
+        "last_air_date": "2026-05-25",
+        "countries": [
+          "South Korea"
+        ],
+        "genres": [
+          "Бойовик",
+          "Трилер",
+          "Жахи"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2725,
       "time": 1779614636220,
       "card_id": "1368881",
@@ -429,7 +544,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/69KkxROnZoJdQAulnY5B7Gx6D7Z.jpg",
+        "backdrop_path": "/dd31qJxOarrHyGZwYsCzOjobQzP.jpg",
         "genre_ids": [
           28,
           53,
@@ -525,7 +640,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/mT4DLPaS25esfuu9YlgUjsL9IJg.jpg",
-          "vote_average": 6.279
+          "vote_average": 6.34
         },
         "genres": [
           "Науково фантастичний",
@@ -801,7 +916,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
+        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
         "genre_ids": [
           9648,
           18,
@@ -848,8 +963,8 @@
           "overview": "Бойд і Джейд вирушають на відчайдушний та небезпечний пошук відповідей, а вилазка за їжею набуває моторошного повороту.",
           "season_number": 4,
           "runtime": 52,
-          "still_path": "/zLwVMCUi1XKotihIfDuVMCXXm3P.jpg",
-          "vote_average": 6.676
+          "still_path": "/wrOtPyoXtLyTlcQupc1GYPGAuSJ.jpg",
+          "vote_average": 6.8
         },
         "genres": [
           "Детектив",
@@ -1086,7 +1201,7 @@
           "season_number": 2,
           "runtime": 57,
           "still_path": "/oMOWpYQbjiNgGf5gPFZHyVFVmCV.jpg",
-          "vote_average": 8.1
+          "vote_average": 7.944
         },
         "genres": [
           "Драма",
@@ -1107,7 +1222,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/qdyeQg2gWj1L8cDlwU3tI4s0Hub.jpg",
+        "backdrop_path": "/hWuHG6e6vM7YbNVW5Z0JcfhmxQq.jpg",
         "genre_ids": [
           27
         ],
@@ -1433,7 +1548,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
+        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
         "genre_ids": [
           9648,
           18,
@@ -1480,8 +1595,8 @@
           "overview": "Зловісне відкриття приводить Бойда та його довірене коло у стан підвищеної готовності. Джулі шукає спосіб використати свої нові здібності, а Сара знову страждає від голосів у своїй голові.",
           "season_number": 4,
           "runtime": 52,
-          "still_path": "/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg",
-          "vote_average": 6.926
+          "still_path": "/2FBTPVhOlhIRyn5EWuXspIyIPHT.jpg",
+          "vote_average": 7.0
         },
         "genres": [
           "Детектив",
@@ -1864,7 +1979,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/uvmn7g7G0cVj7OVeDRrklky4NfF.jpg",
+        "backdrop_path": "/mTRxKRDBH9HSV81eOGDhYbG5BHR.jpg",
         "genre_ids": [
           18,
           9648,
@@ -2178,7 +2293,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/dpwUQPQFWmQU2Ym3tgCKGExVCWV.jpg",
-          "vote_average": 7.983
+          "vote_average": 7.984
         },
         "genres": [
           "Драма",
@@ -2387,7 +2502,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/vFjXxYZPXm5qM9tRVd0579NoEBW.jpg",
-          "vote_average": 9.026
+          "vote_average": 9.0
         },
         "genres": [
           "Кримінал",
@@ -2527,7 +2642,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
+        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
         "genre_ids": [
           9648,
           18,
@@ -2842,128 +2957,7 @@
       "type": "episode",
       "hash": "s2;e7",
       "premiere": 0
-    },
-    {
-      "id": 2677,
-      "time": 1777615929573,
-      "card_id": "1314481",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
-        "genre_ids": [
-          35,
-          18
-        ],
-        "id": 1314481,
-        "original_language": "en",
-        "title": "Диявол носить Прада 2",
-        "original_title": "The Devil Wears Prada 2",
-        "names": [
-          "Диявол носить Прада 2",
-          "Дьявол носит Prada 2",
-          "The Devil Wears Prada 2"
-        ],
-        "overview": "Майже через двадцять років Меріл Стріп, Енн Гетевей, Емілі Блант і Стенлі Туччі повертаються на модні вулиці Нью-Йорка та до бездоганно стильних кабінетів видання «Подіум» у довгоочікуваному сиквелі культового фільму 2006 року, що став визначальним для цілого покоління.",
-        "poster_path": "/xrRCThaRSIzUxDTo0q9tTXjdh9v.jpg",
-        "release_date": "2026-04-29",
-        "video": false,
-        "vote_average": 6.7,
-        "vote_count": 38,
-        "popularity": 89.8749,
-        "PG": 13,
-        "release_quality": "ts",
-        "kinopoisk_id": "6373982",
-        "imdb_id": "tt33612209",
-        "status": "released",
-        "last_air_date": "2026-04-30",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Комедія",
-          "Драма"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2676,
-      "time": 1777545355919,
-      "card_id": "79744",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
-        "genre_ids": [
-          80,
-          18,
-          35
-        ],
-        "id": 79744,
-        "original_language": "en",
-        "name": "Новобранець",
-        "original_name": "The Rookie",
-        "names": [
-          "Новичок",
-          "The Rookie",
-          "Новобранец",
-          "Новобранець"
-        ],
-        "overview": "Починати з чистого аркуша завжди нелегко, особливо для мешканця маленького містечка Джона Нолана. Після інциденту, який перевернув його життя, він вирішив здійснити давню мрію і приєднатися до поліції Лос-Анджелеса. Старого новачка зустрічають із зрозумілим скептицизмом, проте життєвий досвід, наполегливість та почуття гумору дають Джону перевагу.",
-        "poster_path": "/rN4jJz0OquSHAzNRZGRSa018dgx.jpg",
-        "first_air_date": "2018-10-16",
-        "video": false,
-        "vote_average": 8.532,
-        "vote_count": 3137,
-        "popularity": 280.3679,
-        "PG": 0,
-        "release_quality": "hdtv",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1142153",
-        "kp_rating": "8.4",
-        "imdb_id": "tt7587890",
-        "imdb_rating": "8.0",
-        "status": "returning series",
-        "last_air_date": "2026-04-29",
-        "seasons": {
-          "1": 20,
-          "2": 20,
-          "3": 14,
-          "4": 22,
-          "5": 22,
-          "6": 10,
-          "7": 18,
-          "8": 17
-        },
-        "episode": {
-          "air_date": "2026-04-27",
-          "episode_number": 17,
-          "name": "Дзвінок смерті",
-          "overview": "Нолан і Гарпер намагаються допомогти зневіреній матері захистити свою дитину, а лейтенант Грей і Ґарза продовжують співпрацювати з Монікою, попри свої сумніви.",
-          "season_number": 8,
-          "runtime": 43,
-          "still_path": "/gBXrmvRXYllskJl0X8wG0SOLE50.jpg",
-          "vote_average": 9.469
-        },
-        "genres": [
-          "Кримінал",
-          "Драма",
-          "Комедія"
-        ],
-        "countries": [
-          "United States of America",
-          "Canada"
-        ]
-      },
-      "type": "episode",
-      "hash": "s8;e17",
-      "premiere": 0
     }
   ],
-  "duration": 7.265693664550781
+  "duration": 6.114418029785156
 }
