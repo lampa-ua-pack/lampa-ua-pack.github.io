@@ -2,6 +2,125 @@
   "secuses": true,
   "result": [
     {
+      "id": 2729,
+      "time": 1779788596680,
+      "card_id": "60625",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/Ao5pBFuWY32cVuh6iYjEjZMEscN.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "id": 60625,
+        "original_language": "en",
+        "name": "Рик и Морти",
+        "original_name": "Rick and Morty",
+        "names": [
+          "Рик и Морти",
+          "Rick and Morty",
+          "Рік та Морті"
+        ],
+        "overview": "Морти - самый обычный мальчик, который ничем не отличается от своих сверстников. А вот его дедуля Рик занимается необычными научными исследованиями и зачастую полностью неадекватен. Он может в любое время дня и ночи схватить внука и отправиться вместе с ним в безумные приключения с помощью построенной из разного хлама летающей тарелки, которая способна перемещаться сквозь межпространственный тоннель. Каждый раз эта парочка оказывается в самых неожиданных местах и самых нелепых ситуациях.",
+        "poster_path": "/3kniCPsO7ziszMiNvXxe0T1ciym.jpg",
+        "first_air_date": "2013-12-02",
+        "video": false,
+        "vote_average": 8.7,
+        "vote_count": 10843,
+        "popularity": 79.584,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "685246",
+        "kp_rating": "8.9",
+        "imdb_id": "tt2861424",
+        "imdb_rating": "9.0",
+        "status": "returning series",
+        "last_air_date": "2026-05-25",
+        "seasons": {
+          "1": 11,
+          "2": 10,
+          "3": 10,
+          "4": 11,
+          "5": 14,
+          "6": 10,
+          "7": 10,
+          "8": 10,
+          "9": 1
+        },
+        "episode": {
+          "air_date": "2026-05-24",
+          "episode_number": 1,
+          "name": "Эпизод 1",
+          "overview": "",
+          "season_number": 9,
+          "runtime": 23,
+          "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
+          "vote_average": 7.938
+        }
+      },
+      "type": "episode",
+      "hash": "s9;e1",
+      "premiere": 0
+    },
+    {
+      "id": 2728,
+      "time": 1779783201038,
+      "card_id": "224941",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/iftYIh1OjJb99EOTHIrDcx59zWb.jpg",
+        "genre_ids": [
+          10765,
+          9648
+        ],
+        "id": 224941,
+        "original_language": "en",
+        "name": "Бороуз",
+        "original_name": "The Boroughs",
+        "names": [
+          "Бороуз",
+          "The Boroughs",
+          "Городок"
+        ],
+        "overview": "В идеальном жилом комплексе для пенсионеров действует потусторонняя сила, которая угрожает отнять самое ценное — оставшееся время. Ей противостоит героическая команда.",
+        "poster_path": "/826WiB3FY5dsfCC1gwUpJXGkwkm.jpg",
+        "first_air_date": "2026-05-21",
+        "video": false,
+        "vote_average": 6.333,
+        "vote_count": 6,
+        "popularity": 8.6351,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "7385223",
+        "imdb_id": "tt27557289",
+        "status": "returning series",
+        "last_air_date": "2026-05-22",
+        "seasons": {
+          "1": 12
+        },
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "НФ и Фэнтези",
+          "Детектив"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2727,
       "time": 1779716595400,
       "card_id": "85552",
@@ -2603,127 +2722,7 @@
       "type": "episode",
       "hash": "s2;e5",
       "premiere": 0
-    },
-    {
-      "id": 2679,
-      "time": 1777648324456,
-      "card_id": "202411",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/7IY4wELVMvtUc78vPiuL8kQV2iA.jpg",
-        "genre_ids": [
-          10765,
-          18,
-          10759
-        ],
-        "id": 202411,
-        "original_language": "en",
-        "name": "«Монарх»: Наследие монстров",
-        "original_name": "Monarch: Legacy of Monsters",
-        "names": [
-          "«Монарх»: Наследие монстров",
-          "Monarch: Legacy of Monsters",
-          "«Монарх»: наследие монстров"
-        ],
-        "overview": "Пережив нападение Годзиллы на Сан-Франциско, Кейт в очередной раз потрясена шокирующей тайной. Окружённая чудовищными опасностями, она отправляется в путешествие по миру, чтобы узнать правду о своей семье и таинственной организации, известной как «Монарх».",
-        "poster_path": "/f0e9oth1BMhg6dVacrnPOc7qNrI.jpg",
-        "first_air_date": "2023-11-16",
-        "video": false,
-        "vote_average": 7.721,
-        "vote_count": 1188,
-        "popularity": 114.8658,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4836083",
-        "kp_rating": "6.5",
-        "imdb_id": "tt17220216",
-        "imdb_rating": "7.0",
-        "status": "returning series",
-        "last_air_date": "2026-05-01",
-        "seasons": {
-          "1": 10,
-          "2": 10
-        },
-        "episode": {
-          "air_date": "2026-04-30",
-          "episode_number": 10,
-          "name": "Там, где наше место",
-          "overview": "Конг и титан Икс сталкиваются в грандиозном сражении, которое грозит изменить облик острова Черепа. Шоу отправляется в опасное путешествие.",
-          "season_number": 2,
-          "runtime": 53,
-          "still_path": "/2xCzo9a0UN5RTFP84farSXlSD15.jpg",
-          "vote_average": 7
-        }
-      },
-      "type": "episode",
-      "hash": "s2;e10",
-      "premiere": 0
-    },
-    {
-      "id": 2678,
-      "time": 1777630326568,
-      "card_id": "202555",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
-        "genre_ids": [
-          18,
-          10759,
-          80
-        ],
-        "id": 202555,
-        "original_language": "en",
-        "name": "Сорвиголова: Рождённый заново",
-        "original_name": "Daredevil: Born Again",
-        "names": [
-          "Сорвиголова: Рожденный заново",
-          "Сорвиголова: Рождённый Заново",
-          "Daredevil: Born Again",
-          "Сорвиголова: Рождённый заново",
-          "Daredevil: Born Again | Behind The Scenes"
-        ],
-        "overview": "Слепому адвокату Мэтту Мёрдоку снова приходится облачиться в костюм Сорвиголовы, чтобы противостоять криминальному авторитету Уилсону Фиску, который решил занять пост мэра Нью-Йорка.",
-        "poster_path": "/gJIXWIQeq8ZNnAgWbilnMLKcBV7.jpg",
-        "first_air_date": "2025-03-04",
-        "video": false,
-        "vote_average": 8.038,
-        "vote_count": 773,
-        "popularity": 129.8318,
-        "PG": 17,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "5060265",
-        "kp_rating": "7.3",
-        "imdb_id": "tt18923754",
-        "imdb_rating": "8.0",
-        "status": "returning series",
-        "last_air_date": "2026-04-29",
-        "seasons": {
-          "1": 9,
-          "2": 7
-        },
-        "episode": {
-          "air_date": "2026-04-28",
-          "episode_number": 7,
-          "name": "Тьма, полная ненависти",
-          "overview": "",
-          "season_number": 2,
-          "runtime": 48,
-          "still_path": "/wKXM5uTJPnoQsqwl6E6EvFvtfSW.jpg",
-          "vote_average": 8.583
-        }
-      },
-      "type": "episode",
-      "hash": "s2;e7",
-      "premiere": 0
     }
   ],
-  "duration": 6.114418029785156
+  "duration": 8.996871948242188
 }

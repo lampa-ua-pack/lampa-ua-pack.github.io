@@ -2,13 +2,141 @@
   "secuses": true,
   "result": [
     {
+      "id": 2729,
+      "time": 1779788596680,
+      "card_id": "60625",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/zJZfxi8X3XPHAhxXseRugtnNVtt.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "id": 60625,
+        "original_language": "en",
+        "name": "Рік та Морті",
+        "original_name": "Rick and Morty",
+        "names": [
+          "Рик и Морти",
+          "Rick and Morty",
+          "Рік та Морті"
+        ],
+        "overview": "Гумористично-фантастичний мультсеріал про пригоди дідуся-винахідника Ріка та його онука-школяра Морті, яких іноді супроводжують інші члени родини: батько-невдаха Джеррі, донька-школярка Саммер та закомплексована мати Бет.",
+        "poster_path": "/tnXwqcZ98EVKuMzRtcvPRJukwI3.jpg",
+        "first_air_date": "2013-12-02",
+        "video": false,
+        "vote_average": 8.7,
+        "vote_count": 10843,
+        "popularity": 79.584,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "685246",
+        "kp_rating": "8.9",
+        "imdb_id": "tt2861424",
+        "imdb_rating": "9.0",
+        "status": "returning series",
+        "last_air_date": "2026-05-25",
+        "seasons": {
+          "1": 11,
+          "2": 10,
+          "3": 10,
+          "4": 11,
+          "5": 14,
+          "6": 10,
+          "7": 10,
+          "8": 10,
+          "9": 1
+        },
+        "episode": {
+          "air_date": "2026-05-24",
+          "episode_number": 1,
+          "name": "Серія 1",
+          "overview": "",
+          "season_number": 9,
+          "runtime": 23,
+          "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
+          "vote_average": 8.167
+        },
+        "genres": [
+          "Мультфільм",
+          "Комедія",
+          "Науково фантастичний",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s9;e1",
+      "premiere": 0
+    },
+    {
+      "id": 2728,
+      "time": 1779783201038,
+      "card_id": "224941",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/iftYIh1OjJb99EOTHIrDcx59zWb.jpg",
+        "genre_ids": [
+          10765,
+          9648
+        ],
+        "id": 224941,
+        "original_language": "en",
+        "name": "Бороуз",
+        "original_name": "The Boroughs",
+        "names": [
+          "Бороуз",
+          "The Boroughs",
+          "Городок"
+        ],
+        "overview": "У, здавалося б, ідеальному містечку для літніх людей незвичайні герої мають зупинити потойбічну загрозу, що намагається викрасти єдине, чого в них і так уже немає — час.",
+        "poster_path": "/80n6EKv6NTPlDphscZZYubHnLD1.jpg",
+        "first_air_date": "2026-05-21",
+        "video": false,
+        "vote_average": 6.333,
+        "vote_count": 6,
+        "popularity": 8.6351,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "7385223",
+        "imdb_id": "tt27557289",
+        "status": "returning series",
+        "last_air_date": "2026-05-22",
+        "seasons": {
+          "1": 12
+        },
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Науково фантастичний",
+          "Детектив"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2727,
       "time": 1779716595400,
       "card_id": "85552",
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+        "backdrop_path": "/GN2KFXiHPVV6sIw4v2P2pqCJty.jpg",
         "genre_ids": [
           18
         ],
@@ -52,7 +180,7 @@
           "season_number": 3,
           "runtime": 78,
           "still_path": "/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg",
-          "vote_average": 7.8
+          "vote_average": 8.4
         },
         "genres": [
           "Драма"
@@ -155,7 +283,8 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія"
+          "Комедія",
+          "Фентезі"
         ]
       },
       "type": "uhd",
@@ -225,7 +354,7 @@
         "id": 1228710,
         "original_language": "en",
         "title": "Мандалорець і Ґроґу",
-        "original_title": "Star Wars: The Mandalorian and Grogu",
+        "original_title": "The Mandalorian and Grogu",
         "names": [
           "Мандалорець і Ґроґу",
           "Мандалорец и Грогу",
@@ -477,7 +606,7 @@
           "season_number": 2,
           "runtime": 57,
           "still_path": "/r18w0RYSIqdEzaOyCaYFpIW8gNE.jpg",
-          "vote_average": 7.5
+          "vote_average": 7.8
         },
         "genres": [
           "Драма",
@@ -640,7 +769,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/mT4DLPaS25esfuu9YlgUjsL9IJg.jpg",
-          "vote_average": 6.34
+          "vote_average": 6.4
         },
         "genres": [
           "Науково фантастичний",
@@ -769,7 +898,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/sKkVo26hfshCSd6B02FER0qixz3.jpg",
-          "vote_average": 9.6
+          "vote_average": 9.45
         },
         "genres": [
           "Вестерн",
@@ -851,7 +980,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+        "backdrop_path": "/GN2KFXiHPVV6sIw4v2P2pqCJty.jpg",
         "genre_ids": [
           18
         ],
@@ -964,7 +1093,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/wrOtPyoXtLyTlcQupc1GYPGAuSJ.jpg",
-          "vote_average": 6.8
+          "vote_average": 6.952
         },
         "genres": [
           "Детектив",
@@ -1483,7 +1612,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+        "backdrop_path": "/GN2KFXiHPVV6sIw4v2P2pqCJty.jpg",
         "genre_ids": [
           18
         ],
@@ -1527,7 +1656,7 @@
           "season_number": 3,
           "runtime": 61,
           "still_path": "/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg",
-          "vote_average": 5.9
+          "vote_average": 5.944
         },
         "genres": [
           "Драма"
@@ -1979,7 +2108,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/mTRxKRDBH9HSV81eOGDhYbG5BHR.jpg",
+        "backdrop_path": "/loZCtN8s1yjSBD75rbHsRisWfUc.jpg",
         "genre_ids": [
           18,
           9648,
@@ -2293,7 +2422,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/dpwUQPQFWmQU2Ym3tgCKGExVCWV.jpg",
-          "vote_average": 7.984
+          "vote_average": 8.016
         },
         "genres": [
           "Драма",
@@ -2362,7 +2491,7 @@
           "overview": "Уже в наявності, ЕКСКЛЮЗИВНО у @VMCtheaters, придбайте нове #ВідерцеДляПопкорнуЗГлибиною лише за $32.99!",
           "season_number": 5,
           "runtime": 65,
-          "still_path": "/8uDnSaN2ZBKQp01LNmHzkCAJgOs.jpg",
+          "still_path": "/4TA0dxVoNmiS98rLFBx6CDCov7p.jpg",
           "vote_average": 6.8
         },
         "genres": [
@@ -2428,7 +2557,7 @@
           "season_number": 1,
           "runtime": 26,
           "still_path": "/6AgKrtdQuSF8zDtBOGFJAKnAPGo.jpg",
-          "vote_average": 9.029
+          "vote_average": 8.974
         },
         "genres": [
           "Екшн і Пригоди",
@@ -2525,7 +2654,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+        "backdrop_path": "/GN2KFXiHPVV6sIw4v2P2pqCJty.jpg",
         "genre_ids": [
           18
         ],
@@ -2569,7 +2698,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/1DpoRaiA7weWvLSL4PsZPPHwmvI.jpg",
-          "vote_average": 8.1
+          "vote_average": 7.8
         },
         "genres": [
           "Драма"
@@ -2690,7 +2819,7 @@
           "season_number": 4,
           "runtime": 48,
           "still_path": "/8qi8LymsHa9waxLFfMbZQGTFRRD.jpg",
-          "vote_average": 6.9
+          "vote_average": 6.871
         },
         "genres": [
           "Детектив",
@@ -2819,145 +2948,7 @@
       "type": "episode",
       "hash": "s2;e5",
       "premiere": 0
-    },
-    {
-      "id": 2679,
-      "time": 1777648324456,
-      "card_id": "202411",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/7IY4wELVMvtUc78vPiuL8kQV2iA.jpg",
-        "genre_ids": [
-          10765,
-          18,
-          10759
-        ],
-        "id": 202411,
-        "original_language": "en",
-        "name": "Монарх: Спадок монстрів",
-        "original_name": "Monarch: Legacy of Monsters",
-        "names": [
-          "Монарх: Спадок монстрів",
-          "«Монарх»: Наследие монстров",
-          "Monarch: Legacy of Monsters",
-          "«Монарх»: наследие монстров"
-        ],
-        "overview": "Кейт вижила після нападу Ґодзілли на Сан-Франциско, але її знову нажахала незбагненна таємниця. Попри небезпеку, вона вирушає у мандри, шукати істину про свою сімʼю – і загадкову організацію під назвою «Монарх».",
-        "poster_path": "/zSYWjLr0pqWC3Io5QWnJn0BV9MP.jpg",
-        "first_air_date": "2023-11-16",
-        "video": false,
-        "vote_average": 7.721,
-        "vote_count": 1188,
-        "popularity": 114.8658,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4836083",
-        "kp_rating": "6.5",
-        "imdb_id": "tt17220216",
-        "imdb_rating": "7.0",
-        "status": "returning series",
-        "last_air_date": "2026-05-01",
-        "seasons": {
-          "1": 10,
-          "2": 10
-        },
-        "episode": {
-          "air_date": "2026-04-30",
-          "episode_number": 10,
-          "name": "Там, де нам і місце",
-          "overview": "Між Конґом і титаном зав’язується грандіозна битва, яка може знищити Острів черепа. Шоу вирушає в небезпечну подорож.",
-          "season_number": 2,
-          "runtime": 53,
-          "still_path": "/2xCzo9a0UN5RTFP84farSXlSD15.jpg",
-          "vote_average": 7.818
-        },
-        "genres": [
-          "Науково фантастичний",
-          "Драма",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "Japan",
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e10",
-      "premiere": 0
-    },
-    {
-      "id": 2678,
-      "time": 1777630326568,
-      "card_id": "202555",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
-        "genre_ids": [
-          18,
-          10759,
-          80
-        ],
-        "id": 202555,
-        "original_language": "en",
-        "name": "Daredevil: Born Again",
-        "original_name": "Daredevil: Born Again",
-        "names": [
-          "Сорвиголова: Рожденный заново",
-          "Сорвиголова: Рождённый Заново",
-          "Daredevil: Born Again",
-          "Сорвиголова: Рождённый заново",
-          "Daredevil: Born Again | Behind The Scenes"
-        ],
-        "overview": "Сліпий адвокат Метт Мердок процвітає, але його альтер его не забуто. Вілсон Фіск обійняв посаду мера і лише Шибайголова знає, хто ховається за маскою добродушного та чесного політика. Давні вороги, здається, забули про минуле і намагаються не повертатися до супергеройської діяльності. Та чи довго триватиме їх мир чи вони повернуться до ворогів?",
-        "poster_path": "/AfINRYmGTuPrwRrBp9lFgbRjSx2.jpg",
-        "first_air_date": "2025-03-04",
-        "video": false,
-        "vote_average": 8.038,
-        "vote_count": 773,
-        "popularity": 129.8318,
-        "PG": 17,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "5060265",
-        "kp_rating": "7.3",
-        "imdb_id": "tt18923754",
-        "imdb_rating": "8.0",
-        "status": "returning series",
-        "last_air_date": "2026-04-29",
-        "seasons": {
-          "1": 9,
-          "2": 7
-        },
-        "episode": {
-          "air_date": "2026-04-28",
-          "episode_number": 7,
-          "name": "Ненависна темрява",
-          "overview": "",
-          "season_number": 2,
-          "runtime": 48,
-          "still_path": "/rmlntMleUjbXWgEk0beQla6qTDZ.jpg",
-          "vote_average": 8.3
-        },
-        "genres": [
-          "Драма",
-          "Екшн і Пригоди",
-          "Кримінал"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e7",
-      "premiere": 0
     }
   ],
-  "duration": 6.114418029785156
+  "duration": 8.996871948242188
 }
