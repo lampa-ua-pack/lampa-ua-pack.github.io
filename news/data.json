@@ -2,6 +2,56 @@
   "secuses": true,
   "result": [
     {
+      "id": 2730,
+      "time": 1779876796250,
+      "card_id": "295532",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/vXtuye0TbQ97E3q4B1qPrTxiOvq.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 295532,
+        "original_language": "en",
+        "name": "Дорогая Англия",
+        "original_name": "Dear England",
+        "names": [
+          "Дорогая Англия",
+          "Dear England"
+        ],
+        "overview": "Гарет Саутгейт возглавляет сборную Англии по футболу в момент глубокого кризиса. Команда, обремененная серией болезненных поражений и мировым антирекордом по пенальти, нуждается в перезагрузке. Тренеру предстоит изменить психологию игроков и вернуть нации утраченную футбольную гордость и славу.",
+        "poster_path": "/4ezcTug28FnaNixpkAYeoC7SPvi.jpg",
+        "first_air_date": "2026-05-24",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "popularity": 3.3828,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "GB"
+        ],
+        "kinopoisk_id": "12539569",
+        "imdb_id": "tt31433766",
+        "imdb_rating": "8.0",
+        "status": "returning series",
+        "last_air_date": "2026-05-25",
+        "seasons": {
+          "1": 2
+        },
+        "countries": [
+          "Великобритания"
+        ],
+        "genres": [
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2729,
       "time": 1779788596680,
       "card_id": "60625",
@@ -2663,66 +2713,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2680,
-      "time": 1777702324472,
-      "card_id": "241609",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 241609,
-        "original_language": "en",
-        "name": "Друзья и соседи",
-        "original_name": "Your Friends & Neighbors",
-        "names": [
-          "Друзья и соседи",
-          "Друзья и Соседи",
-          "Your Friends & Neighbors",
-          "Your Friends and Neighbors"
-        ],
-        "overview": "После внезапного развода и потери работы крупный финансист начинает грабить богатых соседей, чтобы удержаться на плаву. Кражи у людей из того же социального слоя странным образом ободряют его, но постепенно он запутывается в смертоносной паутине.",
-        "poster_path": "/wr6dsSOfht23oiym1TcAlMN7R3k.jpg",
-        "first_air_date": "2025-04-10",
-        "video": false,
-        "vote_average": 7.563,
-        "vote_count": 198,
-        "popularity": 38.1807,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6600202",
-        "kp_rating": "7.5",
-        "imdb_id": "tt30459041",
-        "imdb_rating": "7.7",
-        "status": "returning series",
-        "last_air_date": "2026-05-01",
-        "seasons": {
-          "1": 9,
-          "2": 5
-        },
-        "episode": {
-          "air_date": "2026-04-30",
-          "episode_number": 5,
-          "name": "Почти невидимка",
-          "overview": "Барни разбирается с аудитом спортзалов Ника, устроенным Эшем. Куп и Джек за рубежом очаровывают крупного инвестора. Ник устраивает новоселье.",
-          "season_number": 2,
-          "runtime": 59,
-          "still_path": "/djqGUjMqU7AxqYAbfxnCo2Be7wO.jpg",
-          "vote_average": 7.5
-        }
-      },
-      "type": "episode",
-      "hash": "s2;e5",
-      "premiere": 0
     }
   ],
-  "duration": 8.996871948242188
+  "duration": 5.0364532470703125
 }
