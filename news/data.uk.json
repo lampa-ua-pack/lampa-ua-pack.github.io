@@ -2,6 +2,191 @@
   "secuses": true,
   "result": [
     {
+      "id": 2733,
+      "time": 1779980382137,
+      "card_id": "270476",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          35
+        ],
+        "id": 270476,
+        "original_language": "en",
+        "name": "Відоус-Бей",
+        "original_name": "Widow's Bay",
+        "names": [
+          "Відоус-Бей",
+          "Бухта вдов",
+          "Widow's Bay",
+          "Уидоус-Бэй",
+          "Widows Bay"
+        ],
+        "overview": "Мер містечка в Новій Англії має намір перетворити його на туристичну принаду, попри застереження місцевих про те, що це місце прокляте.",
+        "poster_path": "/r9LY3JmgL8CcUKDOEKQZHsOaIcP.jpg",
+        "first_air_date": "2026-04-28",
+        "video": false,
+        "vote_average": 8.351,
+        "vote_count": 74,
+        "popularity": 50.795,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6555657",
+        "kp_rating": "7.8",
+        "imdb_id": "tt33332385",
+        "status": "returning series",
+        "last_air_date": "2026-05-27",
+        "seasons": {
+          "1": 7
+        },
+        "episode": {
+          "air_date": "2026-05-26",
+          "episode_number": 7,
+          "name": "Морська хвороба",
+          "overview": "Вирушайте в море з мером Лофтісом і шанованою місцевою особою Віком! Вони там у справах — краще просто насолоджуватися подорожжю.",
+          "season_number": 1,
+          "runtime": 42,
+          "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
+          "vote_average": 6.0
+        },
+        "genres": [
+          "Драма",
+          "Детектив",
+          "Комедія"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e7",
+      "premiere": 0
+    },
+    {
+      "id": 2732,
+      "time": 1779956983259,
+      "card_id": "220102",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
+        "genre_ids": [
+          10759,
+          80,
+          9648
+        ],
+        "id": 220102,
+        "original_language": "en",
+        "name": "Павук-Нуар",
+        "original_name": "Spider-Noir",
+        "names": [
+          "Павук-Нуар",
+          "Паук-Нуар",
+          "Spider-Noir"
+        ],
+        "overview": "Постарілий приватний детектив і невдаха в Нью-Йорку 1930-х років змушений зіштовхнутися зі своїм минулим, коли він був єдиним у місті супергероєм.",
+        "poster_path": "/1H8R4CQVu3gXpiemZxyADaaxAkF.jpg",
+        "first_air_date": "2026-05-25",
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 2,
+        "popularity": 34.0962,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "5698586",
+        "imdb_id": "tt30460310",
+        "status": "returning series",
+        "last_air_date": "2026-05-27",
+        "seasons": {
+          "1": 8
+        },
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Кримінал",
+          "Детектив",
+          "Драма"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2731,
+      "time": 1779908381135,
+      "card_id": "220102",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
+        "genre_ids": [
+          10759,
+          80,
+          9648
+        ],
+        "id": 220102,
+        "original_language": "en",
+        "name": "Павук-Нуар",
+        "original_name": "Spider-Noir",
+        "names": [
+          "Павук-Нуар",
+          "Паук-Нуар",
+          "Spider-Noir"
+        ],
+        "overview": "Постарілий приватний детектив і невдаха в Нью-Йорку 1930-х років змушений зіштовхнутися зі своїм минулим, коли він був єдиним у місті супергероєм.",
+        "poster_path": "/1H8R4CQVu3gXpiemZxyADaaxAkF.jpg",
+        "first_air_date": "2026-05-25",
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 2,
+        "popularity": 34.0962,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "5698586",
+        "imdb_id": "tt30460310",
+        "status": "returning series",
+        "last_air_date": "2026-05-27",
+        "seasons": {
+          "1": 8
+        },
+        "episode": {
+          "air_date": "2026-05-25",
+          "episode_number": 8,
+          "name": "Серія 8",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 48,
+          "still_path": "/62nhkhbQJjuxei1bI7Xu8mFtkAb.jpg",
+          "vote_average": 7.8
+        },
+        "genres": [
+          "Кримінал",
+          "Детектив",
+          "Драма"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e8",
+      "premiere": 0
+    },
+    {
       "id": 2730,
       "time": 1779876796250,
       "card_id": "295532",
@@ -111,7 +296,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 8.682
+          "vote_average": 8.708
         },
         "genres": [
           "Мультфільм",
@@ -230,7 +415,7 @@
           "season_number": 3,
           "runtime": 78,
           "still_path": "/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg",
-          "vote_average": 8.6
+          "vote_average": 7.3
         },
         "genres": [
           "Драма"
@@ -656,7 +841,7 @@
           "season_number": 2,
           "runtime": 57,
           "still_path": "/r18w0RYSIqdEzaOyCaYFpIW8gNE.jpg",
-          "vote_average": 7.8
+          "vote_average": 8.167
         },
         "genres": [
           "Драма",
@@ -819,7 +1004,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/mT4DLPaS25esfuu9YlgUjsL9IJg.jpg",
-          "vote_average": 6.34
+          "vote_average": 6.206
         },
         "genres": [
           "Науково фантастичний",
@@ -883,7 +1068,7 @@
           "season_number": 1,
           "runtime": 82,
           "still_path": "/tJ2zB1JvroPpSZQWhjykGjcWu2s.jpg",
-          "vote_average": 8.333
+          "vote_average": 8.25
         },
         "genres": [
           "Драма",
@@ -1074,7 +1259,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/1lvXuZV4A8yoidLbntLtpQnzZaH.jpg",
-          "vote_average": 6.9
+          "vote_average": 7.25
         },
         "genres": [
           "Драма"
@@ -1590,7 +1775,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
-          "vote_average": 7.078
+          "vote_average": 6.875
         },
         "genres": [
           "Науково фантастичний",
@@ -1706,7 +1891,7 @@
           "season_number": 3,
           "runtime": 61,
           "still_path": "/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg",
-          "vote_average": 5.944
+          "vote_average": 5.9
         },
         "genres": [
           "Драма"
@@ -2472,7 +2657,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/dpwUQPQFWmQU2Ym3tgCKGExVCWV.jpg",
-          "vote_average": 8.016
+          "vote_average": 7.9
         },
         "genres": [
           "Драма",
@@ -2542,7 +2727,7 @@
           "season_number": 5,
           "runtime": 65,
           "still_path": "/4TA0dxVoNmiS98rLFBx6CDCov7p.jpg",
-          "vote_average": 6.8
+          "vote_average": 6.658
         },
         "genres": [
           "Науково фантастичний",
@@ -2761,177 +2946,7 @@
       "type": "episode",
       "hash": "s3;e4",
       "premiere": 0
-    },
-    {
-      "id": 2683,
-      "time": 1777962903655,
-      "card_id": "1007757",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
-        "genre_ids": [
-          12,
-          16,
-          35,
-          10751,
-          14
-        ],
-        "id": 1007757,
-        "original_language": "en",
-        "title": "У чужій шкурі",
-        "original_title": "Swapped",
-        "names": [
-          "У чужій шкурі",
-          "В чужой шкуре",
-          "Swapped"
-        ],
-        "overview": "Крихітна лісова істота й велична птаха зненацька міняються тілами й мусять триматися разом, щоб пережити найдивовижнішу пригоду свого життя.",
-        "poster_path": "/lW8andsu4nCD2zcUjw58WeLhBxs.jpg",
-        "release_date": "2026-05-01",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "popularity": 5.6176,
-        "PG": 6,
-        "release_quality": "webdl",
-        "kinopoisk_id": "6739719",
-        "imdb_id": "tt29552248",
-        "status": "released",
-        "last_air_date": "2026-05-02",
-        "countries": [
-          "United States of America",
-          "Spain"
-        ],
-        "genres": [
-          "Пригоди",
-          "Мультфільм",
-          "Сімейний",
-          "Фентезі"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2682,
-      "time": 1777923298041,
-      "card_id": "124364",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
-        "genre_ids": [
-          9648,
-          18,
-          10765
-        ],
-        "id": 124364,
-        "original_language": "en",
-        "name": "Ззовні",
-        "original_name": "FROM",
-        "names": [
-          "Извне",
-          "From",
-          "Ззовні",
-          "FROM"
-        ],
-        "overview": "Події серіалу відбуваються в містичному містечку, розташованому в центральній частині США. Всі, хто потрапляють туди, опиняються в пастці. Мимовільні жителі борются за збереження залишків здорового глузду та шукають вихід з кошмарної ситуації, адже щоночі їм доводиться переживати напад жахливих створінь, які виходять із заходом сонця з довколишнього лісу.",
-        "poster_path": "/rvlPBfIm6CUQTGorQvf6wK8lPDH.jpg",
-        "first_air_date": "2022-02-20",
-        "video": false,
-        "vote_average": 8.169,
-        "vote_count": 2679,
-        "popularity": 567.3258,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4476885",
-        "kp_rating": "7.6",
-        "imdb_id": "tt9813792",
-        "imdb_rating": "7.8",
-        "status": "returning series",
-        "last_air_date": "2026-05-04",
-        "seasons": {
-          "1": 10,
-          "2": 10,
-          "3": 10,
-          "4": 3
-        },
-        "episode": {
-          "air_date": "2026-05-03",
-          "episode_number": 3,
-          "name": "Весело ми йдемо",
-          "overview": "Бойд намагається врятувати Акосту від неї самої, тоді як Джулі глибше занурюється у свої нові здібності. Табіта наважується на відчайдушний крок, а Віктор приєднується до Ітана у пошуках відповідей.",
-          "season_number": 4,
-          "runtime": 48,
-          "still_path": "/8qi8LymsHa9waxLFfMbZQGTFRRD.jpg",
-          "vote_average": 6.871
-        },
-        "genres": [
-          "Детектив",
-          "Драма",
-          "Науково фантастичний"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s4;e3",
-      "premiere": 0
-    },
-    {
-      "id": 2681,
-      "time": 1777832234159,
-      "card_id": "683205",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/6OvujNBLXBNuD4lW2FJiOnaSpWy.jpg",
-        "genre_ids": [
-          12,
-          28
-        ],
-        "id": 683205,
-        "original_language": "zh",
-        "title": "寻龙诀：觅踪",
-        "original_title": "寻龙诀：觅踪",
-        "names": [
-          "Моцзинь: Охотники за легендами",
-          "The Legend Hunters",
-          "寻龙诀：觅踪",
-          "Охотники за легендой",
-          "Xun long jue mi zong"
-        ],
-        "overview": "Охотники за легендой возвращают Ху Ба-и, Ширли Ян и Ван Кайсюаня к делу, где обычная вылазка быстро становится ловушкой. Команда оказывается втянута в поиски древней гробницы, созданной людьми, которые сами знали все приёмы расхитителей могил. Под землёй их ждут не только тайники и механизмы, но и чужие расчёты: каждый шаг может открыть проход дальше, а может запереть героев в месте, откуда не выбираются даже опытные искатели сокровищ.",
-        "poster_path": "/1jxforJCqzJHeffLy0EUjsC1IDP.jpg",
-        "release_date": "2025-05-08",
-        "video": false,
-        "vote_average": 7,
-        "vote_count": 5,
-        "popularity": 3.3903,
-        "PG": 0,
-        "release_quality": "4K",
-        "kinopoisk_id": "1278192",
-        "imdb_id": "tt10551126",
-        "status": "released",
-        "last_air_date": "2026-05-02",
-        "countries": [
-          "China"
-        ],
-        "genres": [
-          "Пригоди",
-          "Бойовик"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 5.0364532470703125
+  "duration": 6.533668518066406
 }

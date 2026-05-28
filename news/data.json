@@ -2,6 +2,172 @@
   "secuses": true,
   "result": [
     {
+      "id": 2733,
+      "time": 1779980382137,
+      "card_id": "270476",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          35
+        ],
+        "id": 270476,
+        "original_language": "en",
+        "name": "Уидоус-Бэй",
+        "original_name": "Widow's Bay",
+        "names": [
+          "Бухта вдов",
+          "Widow's Bay",
+          "Уидоус-Бэй",
+          "Widows Bay"
+        ],
+        "overview": "Мэр города в Новой Англии решает превратить его в новый центр притяжения туристов, несмотря на предупреждения местных о том, что он проклят.",
+        "poster_path": "/7Dc2FNMcOeNO61W2rOKgJDoVJ63.jpg",
+        "first_air_date": "2026-04-28",
+        "video": false,
+        "vote_average": 8.351,
+        "vote_count": 74,
+        "popularity": 50.795,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6555657",
+        "kp_rating": "7.8",
+        "imdb_id": "tt33332385",
+        "status": "returning series",
+        "last_air_date": "2026-05-27",
+        "seasons": {
+          "1": 7
+        },
+        "episode": {
+          "air_date": "2026-05-26",
+          "episode_number": 7,
+          "name": "Морская болезнь",
+          "overview": "Отправляйтесь в море с мэром Лофтисом и уважаемым местным жителем Уиком! Они заняты делом, так что лучше просто наслаждайтесь путешествием.",
+          "season_number": 1,
+          "runtime": 42,
+          "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
+          "vote_average": 6
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e7",
+      "premiere": 0
+    },
+    {
+      "id": 2732,
+      "time": 1779956983259,
+      "card_id": "220102",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/19yUwtpsnI2o9DIvA3A2jrKJcOd.jpg",
+        "genre_ids": [
+          10759,
+          80,
+          9648
+        ],
+        "id": 220102,
+        "original_language": "en",
+        "name": "Паук-Нуар",
+        "original_name": "Spider-Noir",
+        "names": [
+          "Паук-Нуар",
+          "Spider-Noir"
+        ],
+        "overview": "Нью-Йорк, 1930-ые. Частный детектив Бен Райлли, который переживает не лучшие времена, сталкивается со своим прошлым. Бену, единственному супергерою в городе, приходится бороться с внутренними демонами и снова стать Человеком-пауком, чтобы спасти мегаполис и себя.",
+        "poster_path": "/6LxPDhFwWFmUOiJKieYjuMNpfel.jpg",
+        "first_air_date": "2026-05-25",
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 2,
+        "popularity": 34.0962,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "5698586",
+        "imdb_id": "tt30460310",
+        "status": "returning series",
+        "last_air_date": "2026-05-27",
+        "seasons": {
+          "1": 8
+        },
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Криминал",
+          "Детектив",
+          "Драма"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2731,
+      "time": 1779908381135,
+      "card_id": "220102",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/19yUwtpsnI2o9DIvA3A2jrKJcOd.jpg",
+        "genre_ids": [
+          10759,
+          80,
+          9648
+        ],
+        "id": 220102,
+        "original_language": "en",
+        "name": "Паук-Нуар",
+        "original_name": "Spider-Noir",
+        "names": [
+          "Паук-Нуар",
+          "Spider-Noir"
+        ],
+        "overview": "Нью-Йорк, 1930-ые. Частный детектив Бен Райлли, который переживает не лучшие времена, сталкивается со своим прошлым. Бену, единственному супергерою в городе, приходится бороться с внутренними демонами и снова стать Человеком-пауком, чтобы спасти мегаполис и себя.",
+        "poster_path": "/6LxPDhFwWFmUOiJKieYjuMNpfel.jpg",
+        "first_air_date": "2026-05-25",
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 2,
+        "popularity": 34.0962,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "5698586",
+        "imdb_id": "tt30460310",
+        "status": "returning series",
+        "last_air_date": "2026-05-27",
+        "seasons": {
+          "1": 8
+        },
+        "episode": {
+          "air_date": "2026-05-25",
+          "episode_number": 8,
+          "name": "Эпизод 8",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 48,
+          "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
+          "vote_average": 9
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e8",
+      "premiere": 0
+    },
+    {
       "id": 2730,
       "time": 1779876796250,
       "card_id": "295532",
@@ -2553,167 +2719,7 @@
       "type": "episode",
       "hash": "s3;e4",
       "premiere": 0
-    },
-    {
-      "id": 2683,
-      "time": 1777962903655,
-      "card_id": "1007757",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/r4Tfw8CPeeI4EIHI3wH9qNkycZd.jpg",
-        "genre_ids": [
-          12,
-          16,
-          35,
-          10751,
-          14
-        ],
-        "id": 1007757,
-        "original_language": "en",
-        "title": "В чужой шкуре",
-        "original_title": "Swapped",
-        "names": [
-          "В чужой шкуре",
-          "Swapped"
-        ],
-        "overview": "Крошечное лесное существо и величественная птица внезапно поменялись телами, и теперь им предстоит вместе пережить самое безумное приключение в своей жизни.",
-        "poster_path": "/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
-        "release_date": "2026-05-01",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "popularity": 5.6176,
-        "PG": 6,
-        "release_quality": "webdl",
-        "kinopoisk_id": "6739719",
-        "imdb_id": "tt29552248",
-        "status": "released",
-        "last_air_date": "2026-05-02",
-        "countries": [
-          "США",
-          "Испания"
-        ],
-        "genres": [
-          "Мультфильм",
-          "Семейный",
-          "Фэнтези"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2682,
-      "time": 1777923298041,
-      "card_id": "124364",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
-        "genre_ids": [
-          9648,
-          18,
-          10765
-        ],
-        "id": 124364,
-        "original_language": "en",
-        "name": "Извне",
-        "original_name": "FROM",
-        "names": [
-          "Извне",
-          "From",
-          "Ззовні",
-          "FROM"
-        ],
-        "overview": "Затерянный в лесу американский городок пленяет каждого, кому не посчастливилось проехать его по пути — покинуть это место оказывается буквально невозможно. Днем невольные жители пытаются выстроить подобие нормального быта и найти способ выбраться, а по ночам спасаются от пугающих обитателей леса, которые приходят навестить горожан, как только заходит солнце.",
-        "poster_path": "/dFJ8exnjJoEfTlHoR58L4OlTSEu.jpg",
-        "first_air_date": "2022-02-20",
-        "video": false,
-        "vote_average": 8.169,
-        "vote_count": 2679,
-        "popularity": 567.3258,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4476885",
-        "kp_rating": "7.6",
-        "imdb_id": "tt9813792",
-        "imdb_rating": "7.8",
-        "status": "returning series",
-        "last_air_date": "2026-05-04",
-        "seasons": {
-          "1": 10,
-          "2": 10,
-          "3": 10,
-          "4": 3
-        },
-        "episode": {
-          "air_date": "2026-05-03",
-          "episode_number": 3,
-          "name": "Эпизод 3",
-          "overview": "",
-          "season_number": 4,
-          "runtime": 48,
-          "still_path": "/i4NypsP3189cjfDVnXZiXoUOIJt.jpg",
-          "vote_average": 6.7
-        }
-      },
-      "type": "episode",
-      "hash": "s4;e3",
-      "premiere": 0
-    },
-    {
-      "id": 2681,
-      "time": 1777832234159,
-      "card_id": "683205",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/6OvujNBLXBNuD4lW2FJiOnaSpWy.jpg",
-        "genre_ids": [
-          12,
-          28
-        ],
-        "id": 683205,
-        "original_language": "zh",
-        "title": "Моцзинь: Охотники за легендами",
-        "original_title": "寻龙诀：觅踪",
-        "names": [
-          "Моцзинь: Охотники за легендами",
-          "The Legend Hunters",
-          "寻龙诀：觅踪",
-          "Охотники за легендой",
-          "Xun long jue mi zong"
-        ],
-        "overview": "Охотники за легендой возвращают Ху Ба-и, Ширли Ян и Ван Кайсюаня к делу, где обычная вылазка быстро становится ловушкой. Команда оказывается втянута в поиски древней гробницы, созданной людьми, которые сами знали все приёмы расхитителей могил. Под землёй их ждут не только тайники и механизмы, но и чужие расчёты: каждый шаг может открыть проход дальше, а может запереть героев в месте, откуда не выбираются даже опытные искатели сокровищ.",
-        "poster_path": "/1jxforJCqzJHeffLy0EUjsC1IDP.jpg",
-        "release_date": "2025-05-08",
-        "video": false,
-        "vote_average": 7,
-        "vote_count": 5,
-        "popularity": 3.3903,
-        "PG": 0,
-        "release_quality": "4K",
-        "kinopoisk_id": "1278192",
-        "imdb_id": "tt10551126",
-        "status": "released",
-        "last_air_date": "2026-05-02",
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "Приключения",
-          "Боевик"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 5.0364532470703125
+  "duration": 6.533668518066406
 }
