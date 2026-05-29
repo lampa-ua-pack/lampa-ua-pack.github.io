@@ -2,6 +2,220 @@
   "secuses": true,
   "result": [
     {
+      "id": 2737,
+      "time": 1780052381174,
+      "card_id": "241609",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 241609,
+        "original_language": "en",
+        "name": "Друзі та сусіди",
+        "original_name": "Your Friends & Neighbors",
+        "names": [
+          "Друзі та сусіди",
+          "Друзья и соседи",
+          "Друзья и Соседи",
+          "Your Friends & Neighbors",
+          "Your Friends and Neighbors"
+        ],
+        "overview": "Фінансовий титан раптово розлучається, втрачає роботу і, щоб уникнути банкрутства, починає грабувати багатих сусідів. Обкрадаючи людей зі свого соціального кола, він відчуває дивне піднесення — але поступово заплутується в смертоносному павутинні.",
+        "poster_path": "/xGURzoKwTw6B4rrOOiQLOEPNEE.jpg",
+        "first_air_date": "2025-04-10",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 227,
+        "popularity": 41.2129,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6600202",
+        "kp_rating": "7.5",
+        "imdb_id": "tt30459041",
+        "imdb_rating": "7.7",
+        "status": "returning series",
+        "last_air_date": "2026-05-29",
+        "seasons": {
+          "1": 9,
+          "2": 9
+        },
+        "episode": {
+          "air_date": "2026-05-28",
+          "episode_number": 9,
+          "name": "Пропаганда від боягузів",
+          "overview": "Союзи проходять перевірку на міцність, коли Куп, Барні й Нік вечеряють в особняку Еша.",
+          "season_number": 2,
+          "runtime": 54,
+          "still_path": "/4aoLyPug8KtZWLo5oTitpGox7GQ.jpg",
+          "vote_average": 0.0
+        },
+        "genres": [
+          "Драма",
+          "Кримінал"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s2;e9",
+      "premiere": 0
+    },
+    {
+      "id": 2736,
+      "time": 1780050581312,
+      "card_id": "316992",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/xVN8rq2VM9cvFmM0grv1AFnhO6d.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 316992,
+        "original_language": "en",
+        "name": "World War II with Tom Hanks",
+        "original_name": "World War II with Tom Hanks",
+        "names": [
+          "Вторая мировая война с Томом Хэнксом",
+          "World War II with Tom Hanks"
+        ],
+        "overview": "В сериале рассматривается Вторая мировая война, начиная с вторжения Германии в Польшу и заканчивая атомной эрой, анализируются ключевые сражения, лидеры военного времени, такие как Черчилль и Рузвельт, и человеческие жертвы тотальной войны.",
+        "poster_path": "/2ONhd2hXjZHm3ZouH4UsUWm7fPX.jpg",
+        "first_air_date": "2026-05-25",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "popularity": 3.565,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "12555473",
+        "imdb_id": "tt40385200",
+        "imdb_rating": "8.8",
+        "status": "returning series",
+        "last_air_date": "2026-05-26",
+        "seasons": {
+          "1": 3
+        },
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Документальний"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2735,
+      "time": 1780043382326,
+      "card_id": "1242332",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "id": 1242332,
+        "original_language": "en",
+        "title": "Нормал",
+        "original_title": "Normal",
+        "names": [
+          "Нормал",
+          "Normal"
+        ],
+        "overview": "Улісс тимчасово стає шерифом у маленькому містечку Нормал у Міннесоті, де попередній шериф загинув за дивних обставин, пов'язаних із лосем. Спокій швидко закінчується: відбується напад на банк, у який втручається як місцева влада, так і японська якудза. Уллісу доводиться об'єднатися з двома грабіжниками, які виявляють несподівану людяність під час хаосу. Протистояння з корумпованим мером перетворюється на нескінченний потік брутальної та винахідливої бойні.",
+        "poster_path": "/j4gJiC0T0Lku0sX3hEUuZpvCXqV.jpg",
+        "release_date": "2026-04-16",
+        "video": false,
+        "vote_average": 6.49,
+        "vote_count": 97,
+        "popularity": 85.9686,
+        "PG": 18,
+        "release_quality": "4K",
+        "kinopoisk_id": "5580708",
+        "kp_rating": "6.5",
+        "imdb_id": "tt31195136",
+        "imdb_rating": "6.9",
+        "status": "released",
+        "last_air_date": "2026-05-21",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Бойовик",
+          "Кримінал",
+          "Трилер"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2734,
+      "time": 1780037986990,
+      "card_id": "1339713",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 1339713,
+        "original_language": "en",
+        "title": "Одержимість",
+        "original_title": "Obsession",
+        "names": [
+          "Одержимість",
+          "Обсессия",
+          "Obsession - Du sollst mich lieben",
+          "Obsession"
+        ],
+        "overview": "Коли безнадійний романтик загадує бажання, щоб його давня симпатія закохалася в нього, це запускає зловісне закляття.",
+        "poster_path": "/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
+        "release_date": "2026-04-16",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 246,
+        "popularity": 299.6354,
+        "PG": 18,
+        "release_quality": "ts",
+        "kinopoisk_id": "10355286",
+        "kp_rating": "7.5",
+        "imdb_id": "tt37287335",
+        "imdb_rating": "8.2",
+        "status": "released",
+        "last_air_date": "2026-05-16",
+        "countries": [
+          "United States of America",
+          "United Kingdom"
+        ],
+        "genres": [
+          "Жахи"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2733,
       "time": 1779980382137,
       "card_id": "270476",
@@ -169,9 +383,9 @@
           "name": "Серія 8",
           "overview": "",
           "season_number": 1,
-          "runtime": 48,
+          "runtime": 46,
           "still_path": "/62nhkhbQJjuxei1bI7Xu8mFtkAb.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.5
         },
         "genres": [
           "Кримінал",
@@ -296,7 +510,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 8.708
+          "vote_average": 8.7
         },
         "genres": [
           "Мультфільм",
@@ -580,7 +794,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/7OedxK0BvSKJ0ZWCPRYADViTBx6.jpg",
+        "backdrop_path": "/4VrLojD6Gl1HQkcDHAoHQjSDPh9.jpg",
         "genre_ids": [
           28,
           12,
@@ -629,7 +843,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
         "genre_ids": [
           37,
           18
@@ -731,7 +945,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
         "genre_ids": [
           37,
           18
@@ -1004,7 +1218,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/mT4DLPaS25esfuu9YlgUjsL9IJg.jpg",
-          "vote_average": 6.206
+          "vote_average": 6.142
         },
         "genres": [
           "Науково фантастичний",
@@ -1091,7 +1305,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
         "genre_ids": [
           37,
           18
@@ -1328,7 +1542,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/wrOtPyoXtLyTlcQupc1GYPGAuSJ.jpg",
-          "vote_average": 6.952
+          "vote_average": 7.0
         },
         "genres": [
           "Детектив",
@@ -1775,7 +1989,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
-          "vote_average": 6.875
+          "vote_average": 6.779
         },
         "genres": [
           "Науково фантастичний",
@@ -2571,7 +2785,7 @@
           "Goldeu Laendeu"
         ],
         "overview": "Молода жінка, яка працює агенткою служби безпеки в аеропорту, випадково отримує у своє розпорядження золоті злитки контрабандистського угруповання. Опинившись у хаотичному вирі жадібності та зрад між різними сторонами, що борються за золото, вона поступово піддається бажанню забрати все собі.",
-        "poster_path": "/7N6Aa8Kn71JHG9aztcIaRIzdkLc.jpg",
+        "poster_path": "/exAqL4Hbh2M712QlFwGDTqZeiAl.jpg",
         "first_air_date": "2026-04-29",
         "video": false,
         "vote_average": 9.5,
@@ -2671,282 +2885,7 @@
       "type": "episode",
       "hash": "s2;e8",
       "premiere": 0
-    },
-    {
-      "id": 2687,
-      "time": 1778067298049,
-      "card_id": "76479",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-        "genre_ids": [
-          10765,
-          10759
-        ],
-        "id": 76479,
-        "original_language": "en",
-        "name": "Хлопаки",
-        "original_name": "The Boys",
-        "names": [
-          "Хлопаки",
-          "Пацаны",
-          "The Boys",
-          "Хлопці / Хлопаки"
-        ],
-        "overview": "Події розгортаються в альтернативному світі, де супергерої є звичним явищем. Вони щоденно по кілька разів рятують світ, знімаються у фільмах і стають обличчями рекламних кампаній відомих брендів. Втім, є і зворотня сторона медалі: кожен день тисячі людей страждають від дій супергероїв, для яких людське життя насправді не коштує зовсім нічого. Але є невеличка групка відчайдухів, яких такий стан справ не влаштовує, вони мають мету – покарати знахабнілих надлюдей та вивести їх на чисту воду…",
-        "poster_path": "/iNKkWK11okzbenMvJY87aOHNfll.jpg",
-        "first_air_date": "2019-07-25",
-        "video": false,
-        "vote_average": 8.438,
-        "vote_count": 12012,
-        "popularity": 652.8489,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "460586",
-        "kp_rating": "8.3",
-        "imdb_id": "tt1190634",
-        "imdb_rating": "8.6",
-        "status": "returning series",
-        "last_air_date": "2026-05-06",
-        "seasons": {
-          "1": 8,
-          "2": 8,
-          "3": 8,
-          "4": 8,
-          "5": 6
-        },
-        "episode": {
-          "air_date": "2026-05-06",
-          "episode_number": 6,
-          "name": "Попри падіння неба",
-          "overview": "Уже в наявності, ЕКСКЛЮЗИВНО у @VMCtheaters, придбайте нове #ВідерцеДляПопкорнуЗГлибиною лише за $32.99!",
-          "season_number": 5,
-          "runtime": 65,
-          "still_path": "/4TA0dxVoNmiS98rLFBx6CDCov7p.jpg",
-          "vote_average": 6.658
-        },
-        "genres": [
-          "Науково фантастичний",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s5;e6",
-      "premiere": 0
-    },
-    {
-      "id": 2686,
-      "time": 1778049302409,
-      "card_id": "289219",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/5SrsdKcN9Flvccq59sIfJbhq1Fk.jpg",
-        "genre_ids": [
-          16,
-          10765,
-          10759
-        ],
-        "id": 289219,
-        "original_language": "en",
-        "name": "Зоряні війни: Мол - Король тіней",
-        "original_name": "Star Wars: Maul - Shadow Lord",
-        "names": [
-          "Зоряні війни: Мол - Король тіней",
-          "Звёздные войны. Дарт Мол: Повелитель теней",
-          "Star Wars: Maul - Shadow Lord"
-        ],
-        "overview": "Після Війн клонів Мол планує відновити свій кримінальний синдикат на планеті, якої не торкнулася Імперія.",
-        "poster_path": "/rpbj8B8LCsSythA7RiIffB6ZomQ.jpg",
-        "first_air_date": "2026-04-06",
-        "video": false,
-        "vote_average": 7.8,
-        "vote_count": 55,
-        "popularity": 40.3443,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7684174",
-        "kp_rating": "8.1",
-        "imdb_id": "tt36594331",
-        "imdb_rating": "8.5",
-        "status": "returning series",
-        "last_air_date": "2026-05-04",
-        "seasons": {
-          "1": 10
-        },
-        "episode": {
-          "air_date": "2026-05-04",
-          "episode_number": 10,
-          "name": "Серія 10",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 26,
-          "still_path": "/6AgKrtdQuSF8zDtBOGFJAKnAPGo.jpg",
-          "vote_average": 8.974
-        },
-        "genres": [
-          "Екшн і Пригоди",
-          "Мультфільм",
-          "Науково фантастичний"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e10",
-      "premiere": 0
-    },
-    {
-      "id": 2685,
-      "time": 1777995298060,
-      "card_id": "79744",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
-        "genre_ids": [
-          80,
-          18,
-          35
-        ],
-        "id": 79744,
-        "original_language": "en",
-        "name": "Новобранець",
-        "original_name": "The Rookie",
-        "names": [
-          "Новичок",
-          "The Rookie",
-          "Новобранец",
-          "Новобранець"
-        ],
-        "overview": "Починати з чистого аркуша завжди нелегко, особливо для мешканця маленького містечка Джона Нолана. Після інциденту, який перевернув його життя, він вирішив здійснити давню мрію і приєднатися до поліції Лос-Анджелеса. Старого новачка зустрічають із зрозумілим скептицизмом, проте життєвий досвід, наполегливість та почуття гумору дають Джону перевагу.",
-        "poster_path": "/rN4jJz0OquSHAzNRZGRSa018dgx.jpg",
-        "first_air_date": "2018-10-16",
-        "video": false,
-        "vote_average": 8.532,
-        "vote_count": 3147,
-        "popularity": 305.9876,
-        "PG": 0,
-        "release_quality": "hdtv",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1142153",
-        "kp_rating": "8.4",
-        "imdb_id": "tt7587890",
-        "imdb_rating": "8.0",
-        "status": "returning series",
-        "last_air_date": "2026-05-05",
-        "seasons": {
-          "1": 20,
-          "2": 20,
-          "3": 14,
-          "4": 22,
-          "5": 22,
-          "6": 10,
-          "7": 18,
-          "8": 18
-        },
-        "episode": {
-          "air_date": "2026-05-04",
-          "episode_number": 18,
-          "name": "Бандит",
-          "overview": "Команда розпочинає ризиковану операцію з ліквідації відомого злочинця. Тим часом лідерські якості Люсі проходять випробування, Веслі перевіряє межі своїх дружніх стосунків, а Нолан намагається знайти баланс між обов’язками та сім’єю.",
-          "season_number": 8,
-          "runtime": 43,
-          "still_path": "/vFjXxYZPXm5qM9tRVd0579NoEBW.jpg",
-          "vote_average": 9.0
-        },
-        "genres": [
-          "Кримінал",
-          "Драма",
-          "Комедія"
-        ],
-        "countries": [
-          "United States of America",
-          "Canada"
-        ]
-      },
-      "type": "episode",
-      "hash": "s8;e18",
-      "premiere": 0
-    },
-    {
-      "id": 2684,
-      "time": 1777977299629,
-      "card_id": "85552",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 85552,
-        "original_language": "en",
-        "name": "Ейфорія",
-        "original_name": "Euphoria",
-        "names": [
-          "Эйфория",
-          "Euphoria",
-          "Ейфорія"
-        ],
-        "overview": "У центрі історії — 17-річна Ру Беннетт, яка повернулася до рідного дому після лікування в реабілітаційній клініці. Не гаючи часу, вона знову береться за старі звички — наркотики й тусовки. Однак поява в місті дівчини Джулс стає для Ру знаком надії.",
-        "poster_path": "/nsZkLSw1d0le18B8F0B5VMv6QKJ.jpg",
-        "first_air_date": "2019-06-16",
-        "video": false,
-        "vote_average": 8.282,
-        "vote_count": 10470,
-        "popularity": 306.8116,
-        "PG": 18,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1178445",
-        "kp_rating": "7.5",
-        "imdb_id": "tt8772296",
-        "imdb_rating": "8.2",
-        "status": "returning series",
-        "last_air_date": "2026-05-04",
-        "seasons": {
-          "1": 10,
-          "2": 8,
-          "3": 4
-        },
-        "episode": {
-          "air_date": "2026-05-03",
-          "episode_number": 4,
-          "name": "Серія 4",
-          "overview": "",
-          "season_number": 3,
-          "runtime": 62,
-          "still_path": "/1DpoRaiA7weWvLSL4PsZPPHwmvI.jpg",
-          "vote_average": 7.8
-        },
-        "genres": [
-          "Драма"
-        ],
-        "countries": [
-          "United States of America",
-          "Israel"
-        ]
-      },
-      "type": "episode",
-      "hash": "s3;e4",
-      "premiere": 0
     }
   ],
-  "duration": 6.533668518066406
+  "duration": 5.3305206298828125
 }

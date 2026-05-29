@@ -2,6 +2,211 @@
   "secuses": true,
   "result": [
     {
+      "id": 2737,
+      "time": 1780052381174,
+      "card_id": "241609",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 241609,
+        "original_language": "en",
+        "name": "Друзья и соседи",
+        "original_name": "Your Friends & Neighbors",
+        "names": [
+          "Друзья и соседи",
+          "Друзья и Соседи",
+          "Your Friends & Neighbors",
+          "Your Friends and Neighbors"
+        ],
+        "overview": "После внезапного развода и потери работы крупный финансист начинает грабить богатых соседей, чтобы удержаться на плаву. Кражи у людей из того же социального слоя странным образом ободряют его, но постепенно он запутывается в смертоносной паутине.",
+        "poster_path": "/wr6dsSOfht23oiym1TcAlMN7R3k.jpg",
+        "first_air_date": "2025-04-10",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 227,
+        "popularity": 41.2129,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6600202",
+        "kp_rating": "7.5",
+        "imdb_id": "tt30459041",
+        "imdb_rating": "7.7",
+        "status": "returning series",
+        "last_air_date": "2026-05-29",
+        "seasons": {
+          "1": 9,
+          "2": 9
+        },
+        "episode": {
+          "air_date": "2026-05-28",
+          "episode_number": 9,
+          "name": "Пропаганда малодушных",
+          "overview": "Союзы испытываются на прочность, когда Куп, Барни и Ник посещают ужин в особняке Эша.",
+          "season_number": 2,
+          "runtime": 54,
+          "still_path": "/4aoLyPug8KtZWLo5oTitpGox7GQ.jpg",
+          "vote_average": 0
+        }
+      },
+      "type": "episode",
+      "hash": "s2;e9",
+      "premiere": 0
+    },
+    {
+      "id": 2736,
+      "time": 1780050581312,
+      "card_id": "316992",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/xD2ycK1qGTwTBOejSMtTw7A5nUv.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 316992,
+        "original_language": "en",
+        "name": "Вторая мировая война с Томом Хэнксом",
+        "original_name": "World War II with Tom Hanks",
+        "names": [
+          "Вторая мировая война с Томом Хэнксом",
+          "World War II with Tom Hanks"
+        ],
+        "overview": "В сериале рассматривается Вторая мировая война, начиная с вторжения Германии в Польшу и заканчивая атомной эрой, анализируются ключевые сражения, лидеры военного времени, такие как Черчилль и Рузвельт, и человеческие жертвы тотальной войны.",
+        "poster_path": "/j0DG5uQrgwAubL4ALHMnU65iCOT.jpg",
+        "first_air_date": "2026-05-25",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "popularity": 3.565,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "12555473",
+        "imdb_id": "tt40385200",
+        "imdb_rating": "8.8",
+        "status": "returning series",
+        "last_air_date": "2026-05-26",
+        "seasons": {
+          "1": 3
+        },
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Документальный"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2735,
+      "time": 1780043382326,
+      "card_id": "1242332",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "id": 1242332,
+        "original_language": "en",
+        "title": "Нормал",
+        "original_title": "Normal",
+        "names": [
+          "Нормал",
+          "Normal"
+        ],
+        "overview": "Улисс приезжает в небольшой городок Нормал, чтобы временно занять должность шерифа. Город кажется безопасным, почти сонным и дружелюбным. Но после ограбления банка Улисс обнаруживает преступный заговор, в который вовлечён весь город. Теперь ему предстоит решить, готов ли он пойти до конца и разрушить кажущуюся идиллию.",
+        "poster_path": "/1GXYen1mBGlNeIVes6sJHvgLeLC.jpg",
+        "release_date": "2026-04-16",
+        "video": false,
+        "vote_average": 6.49,
+        "vote_count": 97,
+        "popularity": 85.9686,
+        "PG": 18,
+        "release_quality": "4K",
+        "kinopoisk_id": "5580708",
+        "kp_rating": "6.5",
+        "imdb_id": "tt31195136",
+        "imdb_rating": "6.9",
+        "status": "released",
+        "last_air_date": "2026-05-21",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Боевик",
+          "Криминал",
+          "Триллер"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2734,
+      "time": 1780037986990,
+      "card_id": "1339713",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/1pKFDggvtk23zcn1vUcPiKyuHxM.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 1339713,
+        "original_language": "en",
+        "title": "Обсессия",
+        "original_title": "Obsession",
+        "names": [
+          "Обсессия",
+          "Obsession - Du sollst mich lieben",
+          "Obsession"
+        ],
+        "overview": "Безнадёжный романтик Беар давно и безответно влюблён в красавицу Ники. Однажды в магазине эзотерики он находит странную безделушку - волшебную палочку. Если её сломать, исполнится твоё заветное желание. Беар загадывает, чтобы Ники любила его больше всех на свете. И девушка правда в него влюбляется. Однако его счастью быстро приходит конец. Парень замечает, что Ники буквально им одержима, а её знаки внимания становятся всё более пугающими. Оказывается, желание парня исполнилось, но совсем не так, как он мечтал.",
+        "poster_path": "/c3Vz4RgYsWmxsm7eANSXwGA6gAR.jpg",
+        "release_date": "2026-04-16",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 246,
+        "popularity": 299.6354,
+        "PG": 18,
+        "release_quality": "ts",
+        "kinopoisk_id": "10355286",
+        "kp_rating": "7.5",
+        "imdb_id": "tt37287335",
+        "imdb_rating": "8.2",
+        "status": "released",
+        "last_air_date": "2026-05-16",
+        "countries": [
+          "США",
+          "Великобритания"
+        ],
+        "genres": [
+          "Ужасы"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2733,
       "time": 1779980382137,
       "card_id": "270476",
@@ -2477,249 +2682,7 @@
       "type": "episode",
       "hash": "s2;e8",
       "premiere": 0
-    },
-    {
-      "id": 2687,
-      "time": 1778067298049,
-      "card_id": "76479",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-        "genre_ids": [
-          10765,
-          10759
-        ],
-        "id": 76479,
-        "original_language": "en",
-        "name": "Пацаны",
-        "original_name": "The Boys",
-        "names": [
-          "Пацаны",
-          "The Boys",
-          "Хлопці / Хлопаки"
-        ],
-        "overview": "События разворачивается в 2000-ые в мире, где существуют супергерои. Именно они являются настоящими звёздами, которых все знают и обожают. Но за идеальным фасадом скрывается гораздо более мрачный мир наркотиков и секса, а большинство героев в жизни не самые приятные люди. Для контроля за супергероями ЦРУ создаёт специальный отряд, неофициально известный как «Пацаны», суровые члены которого всегда готовы поставить зазнавшегося героя на место самым жестоким способом.",
-        "poster_path": "/z7pZuGOqJKpLpb7WkD63MjFWgwL.jpg",
-        "first_air_date": "2019-07-25",
-        "video": false,
-        "vote_average": 8.438,
-        "vote_count": 12012,
-        "popularity": 652.8489,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "460586",
-        "kp_rating": "8.3",
-        "imdb_id": "tt1190634",
-        "imdb_rating": "8.6",
-        "status": "returning series",
-        "last_air_date": "2026-05-06",
-        "seasons": {
-          "1": 8,
-          "2": 8,
-          "3": 8,
-          "4": 8,
-          "5": 6
-        },
-        "episode": {
-          "air_date": "2026-05-06",
-          "episode_number": 6,
-          "name": "Эпизод 6",
-          "overview": "",
-          "season_number": 5,
-          "runtime": 64,
-          "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
-          "vote_average": 1
-        }
-      },
-      "type": "episode",
-      "hash": "s5;e6",
-      "premiere": 0
-    },
-    {
-      "id": 2686,
-      "time": 1778049302409,
-      "card_id": "289219",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/5SrsdKcN9Flvccq59sIfJbhq1Fk.jpg",
-        "genre_ids": [
-          16,
-          10765,
-          10759
-        ],
-        "id": 289219,
-        "original_language": "en",
-        "name": "Звёздные войны. Дарт Мол: Повелитель теней",
-        "original_name": "Star Wars: Maul - Shadow Lord",
-        "names": [
-          "Звёздные войны. Дарт Мол: Повелитель теней",
-          "Star Wars: Maul - Shadow Lord"
-        ],
-        "overview": "После событий на Мандалоре и уничтожения Ордена джедаев Мол скрывается от нового режима и пытается восстановить свою преступную империю «Багровый рассвет». На планете Джаникс он находит падавана по имени Девон Изара, которая вместе со своим учителем-джедаем Эко-Дио Даки выжила после Приказа 66. Мол видит в ней идеального кандидата в ученицы, чтобы использовать её тёмную сторону для мести Палпатину и Империи, которая его предала. Девон же, разочарованная необходимостью выживать и воровать, оказывается перед сложным выбором между учением своего мастера и путём силы, который предлагает Мол. Одновременно с этим местный капитан полиции Лоусон пытается бороться с растущей криминальной угрозой, не привлекая внимания Империи, которая только усугубит положение планеты. Конфликт достигает точки кипения с прибытием на Джаникс инквизиторов, включая Маррока, что вынуждает всех героев пересмотреть свои планы.",
-        "poster_path": "/q1DZC3Pb8j51LIsagxy6E94HPPf.jpg",
-        "first_air_date": "2026-04-06",
-        "video": false,
-        "vote_average": 7.8,
-        "vote_count": 55,
-        "popularity": 40.3443,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7684174",
-        "kp_rating": "8.1",
-        "imdb_id": "tt36594331",
-        "imdb_rating": "8.5",
-        "status": "returning series",
-        "last_air_date": "2026-05-04",
-        "seasons": {
-          "1": 10
-        },
-        "episode": {
-          "air_date": "2026-05-04",
-          "episode_number": 10,
-          "name": "Эпизод 10",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 26,
-          "still_path": "/6AgKrtdQuSF8zDtBOGFJAKnAPGo.jpg",
-          "vote_average": 9.5
-        }
-      },
-      "type": "episode",
-      "hash": "s1;e10",
-      "premiere": 0
-    },
-    {
-      "id": 2685,
-      "time": 1777995298060,
-      "card_id": "79744",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
-        "genre_ids": [
-          80,
-          18,
-          35
-        ],
-        "id": 79744,
-        "original_language": "en",
-        "name": "Новичок",
-        "original_name": "The Rookie",
-        "names": [
-          "Новичок",
-          "The Rookie",
-          "Новобранец",
-          "Новобранець"
-        ],
-        "overview": "Начинать с чистого листа всегда нелегко, особенно для уроженца маленького городка Джона Нолана, который после инцидента, перевернувшего его жизнь, решил воплотить в жизнь давнюю мечту и присоединиться к полиции Лос-Анджелеса. Возрастного новичка встречают с понятным скептицизмом, однако жизненный опыт, упорство и чувство юмора дают Джону преимущество.",
-        "poster_path": "/jfxInWjSixQeeyT7oiBvdXjd7HM.jpg",
-        "first_air_date": "2018-10-16",
-        "video": false,
-        "vote_average": 8.532,
-        "vote_count": 3147,
-        "popularity": 305.9876,
-        "PG": 0,
-        "release_quality": "hdtv",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1142153",
-        "kp_rating": "8.4",
-        "imdb_id": "tt7587890",
-        "imdb_rating": "8.0",
-        "status": "returning series",
-        "last_air_date": "2026-05-05",
-        "seasons": {
-          "1": 20,
-          "2": 20,
-          "3": 14,
-          "4": 22,
-          "5": 22,
-          "6": 10,
-          "7": 18,
-          "8": 18
-        },
-        "episode": {
-          "air_date": "2026-05-04",
-          "episode_number": 18,
-          "name": "Бандит",
-          "overview": "",
-          "season_number": 8,
-          "runtime": 43,
-          "still_path": "/vFjXxYZPXm5qM9tRVd0579NoEBW.jpg",
-          "vote_average": 9.333
-        }
-      },
-      "type": "episode",
-      "hash": "s8;e18",
-      "premiere": 0
-    },
-    {
-      "id": 2684,
-      "time": 1777977299629,
-      "card_id": "85552",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 85552,
-        "original_language": "en",
-        "name": "Эйфория",
-        "original_name": "Euphoria",
-        "names": [
-          "Эйфория",
-          "Euphoria",
-          "Ейфорія"
-        ],
-        "overview": "17-летняя Ру Беннетт возвращается домой после лечения в реабилитационной клинике. Не имея ни малейшего желания завязывать с наркотиками, она немедленно берётся за старое. На вечеринке Ру обращает внимание на недавно приехавшую в их пригород ровесницу Джулс, и это знакомство становится началом большой дружбы.",
-        "poster_path": "/yJz0VPfztciUt8cYulEOnk7wQhs.jpg",
-        "first_air_date": "2019-06-16",
-        "video": false,
-        "vote_average": 8.282,
-        "vote_count": 10470,
-        "popularity": 306.8116,
-        "PG": 18,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1178445",
-        "kp_rating": "7.5",
-        "imdb_id": "tt8772296",
-        "imdb_rating": "8.2",
-        "status": "returning series",
-        "last_air_date": "2026-05-04",
-        "seasons": {
-          "1": 10,
-          "2": 8,
-          "3": 4
-        },
-        "episode": {
-          "air_date": "2026-05-03",
-          "episode_number": 4,
-          "name": "Эпизод 4",
-          "overview": "",
-          "season_number": 3,
-          "runtime": 62,
-          "still_path": "/1DpoRaiA7weWvLSL4PsZPPHwmvI.jpg",
-          "vote_average": 8.7
-        }
-      },
-      "type": "episode",
-      "hash": "s3;e4",
-      "premiere": 0
     }
   ],
-  "duration": 6.533668518066406
+  "duration": 5.3305206298828125
 }
