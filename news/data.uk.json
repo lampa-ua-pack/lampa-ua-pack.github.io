@@ -2,6 +2,70 @@
   "secuses": true,
   "result": [
     {
+      "id": 2738,
+      "time": 1780124381171,
+      "card_id": "299167",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "id": 299167,
+        "original_language": "en",
+        "name": "Ранчо Даттонів",
+        "original_name": "Dutton Ranch",
+        "names": [
+          "Ранчо Даттонів",
+          "Ранчо Даттонов",
+          "Dutton Ranch",
+          "The Dutton Ranch"
+        ],
+        "overview": "Бет Даттон і Ріп Вілер борються за виживання на своєму улюбленому ранчо площею 7000 акрів в умовах важких часів і жорсткої конкуренції, водночас намагаючись допомогти юному Картеру стати тим чоловіком, яким він має бути.",
+        "poster_path": "/dtKW23O5tfxq7EXUsfeLgBx7gy1.jpg",
+        "first_air_date": "2026-05-15",
+        "video": false,
+        "vote_average": 9.409,
+        "vote_count": 138,
+        "popularity": 148.9369,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "7275308",
+        "kp_rating": "8.7",
+        "imdb_id": "tt34991493",
+        "status": "returning series",
+        "last_air_date": "2026-05-29",
+        "seasons": {
+          "1": 4
+        },
+        "episode": {
+          "air_date": "2026-05-29",
+          "episode_number": 4,
+          "name": "Серія 4",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 47,
+          "still_path": "/svtH6VqB7uZhdVF19qluzoDSSVR.jpg",
+          "vote_average": 8.667
+        },
+        "genres": [
+          "Вестерн",
+          "Драма"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e4",
+      "premiere": 0
+    },
+    {
       "id": 2737,
       "time": 1780052381174,
       "card_id": "241609",
@@ -54,7 +118,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/4aoLyPug8KtZWLo5oTitpGox7GQ.jpg",
-          "vote_average": 0.0
+          "vote_average": 8.375
         },
         "genres": [
           "Драма",
@@ -385,7 +449,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/62nhkhbQJjuxei1bI7Xu8mFtkAb.jpg",
-          "vote_average": 7.5
+          "vote_average": 7.9
         },
         "genres": [
           "Кримінал",
@@ -986,9 +1050,9 @@
           "name": "Серія 3",
           "overview": "",
           "season_number": 1,
-          "runtime": 49,
+          "runtime": 47,
           "still_path": "/l37OpzNN1MzdGSG8ibn33A7KQt4.jpg",
-          "vote_average": 8.8
+          "vote_average": 9.0
         },
         "genres": [
           "Вестерн",
@@ -1218,7 +1282,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/mT4DLPaS25esfuu9YlgUjsL9IJg.jpg",
-          "vote_average": 6.142
+          "vote_average": 6.127
         },
         "genres": [
           "Науково фантастичний",
@@ -1280,9 +1344,9 @@
           "name": "Щастя належить тому, хто кохає",
           "overview": "Відпочинок у Пенісколі змушує Берліна радикально змінити плани. Чи вдасться команді скоїти найбільше пограбування в історії?",
           "season_number": 1,
-          "runtime": 82,
+          "runtime": 81,
           "still_path": "/tJ2zB1JvroPpSZQWhjykGjcWu2s.jpg",
-          "vote_average": 8.25
+          "vote_average": 8.2
         },
         "genres": [
           "Драма",
@@ -1347,7 +1411,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/sKkVo26hfshCSd6B02FER0qixz3.jpg",
-          "vote_average": 9.45
+          "vote_average": 9.4
         },
         "genres": [
           "Вестерн",
@@ -1473,7 +1537,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/1lvXuZV4A8yoidLbntLtpQnzZaH.jpg",
-          "vote_average": 7.25
+          "vote_average": 7.2
         },
         "genres": [
           "Драма"
@@ -1542,7 +1606,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/wrOtPyoXtLyTlcQupc1GYPGAuSJ.jpg",
-          "vote_average": 7.0
+          "vote_average": 6.696
         },
         "genres": [
           "Детектив",
@@ -1989,7 +2053,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
-          "vote_average": 6.779
+          "vote_average": 6.8
         },
         "genres": [
           "Науково фантастичний",
@@ -2174,7 +2238,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/2FBTPVhOlhIRyn5EWuXspIyIPHT.jpg",
-          "vote_average": 7.0
+          "vote_average": 6.8
         },
         "genres": [
           "Детектив",
@@ -2257,7 +2321,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+        "backdrop_path": "/1yw8C3xPzrliGpQp0qHID7F1zOT.jpg",
         "genre_ids": [
           18,
           9648
@@ -2816,76 +2880,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2688,
-      "time": 1778085300143,
-      "card_id": "202555",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
-        "genre_ids": [
-          18,
-          10759,
-          80
-        ],
-        "id": 202555,
-        "original_language": "en",
-        "name": "Daredevil: Born Again",
-        "original_name": "Daredevil: Born Again",
-        "names": [
-          "Сорвиголова: Рожденный заново",
-          "Сорвиголова: Рождённый Заново",
-          "Daredevil: Born Again",
-          "Сорвиголова: Рождённый заново",
-          "Daredevil: Born Again | Behind The Scenes"
-        ],
-        "overview": "Сліпий адвокат Метт Мердок процвітає, але його альтер его не забуто. Вілсон Фіск обійняв посаду мера і лише Шибайголова знає, хто ховається за маскою добродушного та чесного політика. Давні вороги, здається, забули про минуле і намагаються не повертатися до супергеройської діяльності. Та чи довго триватиме їх мир чи вони повернуться до ворогів?",
-        "poster_path": "/AfINRYmGTuPrwRrBp9lFgbRjSx2.jpg",
-        "first_air_date": "2025-03-04",
-        "video": false,
-        "vote_average": 8.035,
-        "vote_count": 789,
-        "popularity": 102.3828,
-        "PG": 17,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "5060265",
-        "kp_rating": "7.3",
-        "imdb_id": "tt18923754",
-        "imdb_rating": "8.0",
-        "status": "returning series",
-        "last_air_date": "2026-05-06",
-        "seasons": {
-          "1": 9,
-          "2": 8
-        },
-        "episode": {
-          "air_date": "2026-05-05",
-          "episode_number": 8,
-          "name": "Південний Хрест",
-          "overview": "",
-          "season_number": 2,
-          "runtime": 54,
-          "still_path": "/dpwUQPQFWmQU2Ym3tgCKGExVCWV.jpg",
-          "vote_average": 7.9
-        },
-        "genres": [
-          "Драма",
-          "Екшн і Пригоди",
-          "Кримінал"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e8",
-      "premiere": 0
     }
   ],
-  "duration": 5.3305206298828125
+  "duration": 8.5177001953125
 }

@@ -2,6 +2,62 @@
   "secuses": true,
   "result": [
     {
+      "id": 2738,
+      "time": 1780124381171,
+      "card_id": "299167",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "id": 299167,
+        "original_language": "en",
+        "name": "Ранчо Даттонов",
+        "original_name": "Dutton Ranch",
+        "names": [
+          "Ранчо Даттонов",
+          "Dutton Ranch",
+          "The Dutton Ranch"
+        ],
+        "overview": "Ранчо Даттонов - дом Бет и Рипа, стало символом той жизни, о которой они мечтали, за которую отчаянно боролись и ради которой едва не пожертвовали всем. Они всей душой привязались к своей земле площадью 7000 акров, превратив её в место, которое готовы защищать любой ценой. Даже в самые тяжёлые времена Бет и Рип делают всё возможное, чтобы выстоять, сохранить своё ранчо и обеспечить достойное будущее себе и своему приёмному сыну Картеру.",
+        "poster_path": "/mmxsx98NnY56CvataUqM1ktt14O.jpg",
+        "first_air_date": "2026-05-15",
+        "video": false,
+        "vote_average": 9.409,
+        "vote_count": 138,
+        "popularity": 148.9369,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "7275308",
+        "kp_rating": "8.7",
+        "imdb_id": "tt34991493",
+        "status": "returning series",
+        "last_air_date": "2026-05-29",
+        "seasons": {
+          "1": 4
+        },
+        "episode": {
+          "air_date": "2026-05-29",
+          "episode_number": 4,
+          "name": "Эпизод 4",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 47,
+          "still_path": "/svtH6VqB7uZhdVF19qluzoDSSVR.jpg",
+          "vote_average": 8
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e4",
+      "premiere": 0
+    },
+    {
       "id": 2737,
       "time": 1780052381174,
       "card_id": "241609",
@@ -2621,68 +2677,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2688,
-      "time": 1778085300143,
-      "card_id": "202555",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
-        "genre_ids": [
-          18,
-          10759,
-          80
-        ],
-        "id": 202555,
-        "original_language": "en",
-        "name": "Сорвиголова: Рождённый заново",
-        "original_name": "Daredevil: Born Again",
-        "names": [
-          "Сорвиголова: Рожденный заново",
-          "Сорвиголова: Рождённый Заново",
-          "Daredevil: Born Again",
-          "Сорвиголова: Рождённый заново",
-          "Daredevil: Born Again | Behind The Scenes"
-        ],
-        "overview": "Слепому адвокату Мэтту Мёрдоку снова приходится облачиться в костюм Сорвиголовы, чтобы противостоять криминальному авторитету Уилсону Фиску, который решил занять пост мэра Нью-Йорка.",
-        "poster_path": "/gJIXWIQeq8ZNnAgWbilnMLKcBV7.jpg",
-        "first_air_date": "2025-03-04",
-        "video": false,
-        "vote_average": 8.035,
-        "vote_count": 789,
-        "popularity": 102.3828,
-        "PG": 17,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "5060265",
-        "kp_rating": "7.3",
-        "imdb_id": "tt18923754",
-        "imdb_rating": "8.0",
-        "status": "returning series",
-        "last_air_date": "2026-05-06",
-        "seasons": {
-          "1": 9,
-          "2": 8
-        },
-        "episode": {
-          "air_date": "2026-05-05",
-          "episode_number": 8,
-          "name": "Эпизод 8",
-          "overview": "",
-          "season_number": 2,
-          "runtime": 54,
-          "still_path": "/3hfKhjeS2paNcBojTijENVrur6v.jpg",
-          "vote_average": 4.8
-        }
-      },
-      "type": "episode",
-      "hash": "s2;e8",
-      "premiere": 0
     }
   ],
-  "duration": 5.3305206298828125
+  "duration": 8.5177001953125
 }
