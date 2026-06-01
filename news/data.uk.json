@@ -2,6 +2,321 @@
   "secuses": true,
   "result": [
     {
+      "id": 2744,
+      "time": 1780332250601,
+      "card_id": "60625",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "id": 60625,
+        "original_language": "en",
+        "name": "Рік та Морті",
+        "original_name": "Rick and Morty",
+        "names": [
+          "Рик и Морти",
+          "Rick and Morty",
+          "Рік та Морті"
+        ],
+        "overview": "Гумористично-фантастичний мультсеріал про пригоди дідуся-винахідника Ріка та його онука-школяра Морті, яких іноді супроводжують інші члени родини: батько-невдаха Джеррі, донька-школярка Саммер та закомплексована мати Бет.",
+        "poster_path": "/tnXwqcZ98EVKuMzRtcvPRJukwI3.jpg",
+        "first_air_date": "2013-12-02",
+        "video": false,
+        "vote_average": 8.676,
+        "vote_count": 10901,
+        "popularity": 161.3632,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "685246",
+        "kp_rating": "8.9",
+        "imdb_id": "tt2861424",
+        "imdb_rating": "9.0",
+        "status": "returning series",
+        "last_air_date": "2026-06-01",
+        "seasons": {
+          "1": 11,
+          "2": 10,
+          "3": 10,
+          "4": 11,
+          "5": 14,
+          "6": 10,
+          "7": 10,
+          "8": 10,
+          "9": 2
+        },
+        "episode": {
+          "air_date": "2026-05-31",
+          "episode_number": 2,
+          "name": "Серія 2",
+          "overview": "",
+          "season_number": 9,
+          "runtime": 23,
+          "still_path": "/nYIyH5KrAxivpFPDTf87Zlgzpf9.jpg",
+          "vote_average": 10.0
+        },
+        "genres": [
+          "Мультфільм",
+          "Комедія",
+          "Науково фантастичний",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s9;e2",
+      "premiere": 0
+    },
+    {
+      "id": 2743,
+      "time": 1780323249670,
+      "card_id": "1242265",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/8wIaBCeGv3UhIn5CJOWQGHT1Cif.jpg",
+        "genre_ids": [
+          28,
+          80,
+          18,
+          53
+        ],
+        "id": 1242265,
+        "original_language": "en",
+        "title": "Пограбування: План \"Лондон\"",
+        "original_title": "Fuze",
+        "names": [
+          "Пограбування: План \"Лондон\"",
+          "Ограбить Лондон",
+          "Fuze"
+        ],
+        "overview": "Місто охоплює паніка, починається масова евакуація. Але поки служби намагаються запобігти катастрофі, зухвала банда злочинців використовує хаос для найсміливішого пограбування століття.",
+        "poster_path": "/c66rQp6w1kSoPVYqOeHArZcX3hb.jpg",
+        "release_date": "2026-03-23",
+        "video": false,
+        "vote_average": 6.51,
+        "vote_count": 48,
+        "popularity": 52.0089,
+        "PG": 16,
+        "release_quality": "4K",
+        "kinopoisk_id": "6122043",
+        "kp_rating": "6.0",
+        "imdb_id": "tt31189814",
+        "imdb_rating": "6.9",
+        "status": "released",
+        "last_air_date": "2026-05-31",
+        "countries": [
+          "United Kingdom"
+        ],
+        "genres": [
+          "Бойовик",
+          "Кримінал",
+          "Драма",
+          "Трилер"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2742,
+      "time": 1780314249550,
+      "card_id": "85552",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 85552,
+        "original_language": "en",
+        "name": "Ейфорія",
+        "original_name": "Euphoria",
+        "names": [
+          "Эйфория",
+          "Euphoria",
+          "Ейфорія"
+        ],
+        "overview": "У центрі історії — 17-річна Ру Беннетт, яка повернулася до рідного дому після лікування в реабілітаційній клініці. Не гаючи часу, вона знову береться за старі звички — наркотики й тусовки. Однак поява в місті дівчини Джулс стає для Ру знаком надії.",
+        "poster_path": "/nsZkLSw1d0le18B8F0B5VMv6QKJ.jpg",
+        "first_air_date": "2019-06-16",
+        "video": false,
+        "vote_average": 8.291,
+        "vote_count": 10731,
+        "popularity": 274.1536,
+        "PG": 18,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1178445",
+        "kp_rating": "7.5",
+        "imdb_id": "tt8772296",
+        "imdb_rating": "8.2",
+        "status": "returning series",
+        "last_air_date": "2026-06-01",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 8
+        },
+        "episode": {
+          "air_date": "2026-05-31",
+          "episode_number": 8,
+          "name": "Серія 8",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 93,
+          "still_path": "/lUEO2hUElwsGyPcEmf1Z34xywyZ.jpg",
+          "vote_average": 7.8
+        },
+        "genres": [
+          "Драма"
+        ],
+        "countries": [
+          "United States of America",
+          "Israel"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e8",
+      "premiere": 0
+    },
+    {
+      "id": 2741,
+      "time": 1780245853622,
+      "card_id": "1390300",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
+        "genre_ids": [
+          28,
+          35,
+          53
+        ],
+        "id": 1390300,
+        "original_language": "en",
+        "title": "Тільки через твій труп",
+        "original_title": "Over Your Dead Body",
+        "names": [
+          "Тільки через твій труп",
+          "Опасные отношения",
+          "Over Your Dead Body"
+        ],
+        "overview": "Пара, що переживає кризу у стосунках, вирушає до віддаленої хатини, де кожен із них має прихований намір позбутися свого партнера.",
+        "poster_path": "/fqXIk1BY0tJvlqwiTw2HL9gegqE.jpg",
+        "release_date": "2026-04-24",
+        "video": false,
+        "vote_average": 7.138,
+        "vote_count": 47,
+        "popularity": 111.5297,
+        "PG": 18,
+        "release_quality": "4K",
+        "kinopoisk_id": "6581561",
+        "kp_rating": "6.4",
+        "imdb_id": "tt34685692",
+        "imdb_rating": "7.3",
+        "status": "released",
+        "last_air_date": "2026-04-26",
+        "countries": [
+          "United States of America",
+          "Norway",
+          "Finland"
+        ],
+        "genres": [
+          "Бойовик",
+          "Комедія",
+          "Трилер"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2740,
+      "time": 1780242249548,
+      "card_id": "124364",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "id": 124364,
+        "original_language": "en",
+        "name": "Ззовні",
+        "original_name": "FROM",
+        "names": [
+          "Извне",
+          "From",
+          "Ззовні",
+          "FROM"
+        ],
+        "overview": "Події серіалу відбуваються в містичному містечку, розташованому в центральній частині США. Всі, хто потрапляють туди, опиняються в пастці. Мимовільні жителі борются за збереження залишків здорового глузду та шукають вихід з кошмарної ситуації, адже щоночі їм доводиться переживати напад жахливих створінь, які виходять із заходом сонця з довколишнього лісу.",
+        "poster_path": "/rvlPBfIm6CUQTGorQvf6wK8lPDH.jpg",
+        "first_air_date": "2022-02-20",
+        "video": false,
+        "vote_average": 8.406,
+        "vote_count": 3332,
+        "popularity": 718.6677,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4476885",
+        "kp_rating": "7.6",
+        "imdb_id": "tt9813792",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-05-31",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 6
+        },
+        "episode": {
+          "air_date": "2026-05-31",
+          "episode_number": 6,
+          "name": "Серце — самотній мисливець",
+          "overview": "",
+          "season_number": 4,
+          "runtime": 52,
+          "still_path": "/d37q32vA2MNTfcqkAA8iuW1H8ae.jpg",
+          "vote_average": 5.079
+        },
+        "genres": [
+          "Детектив",
+          "Драма",
+          "Науково фантастичний"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s4;e6",
+      "premiere": 0
+    },
+    {
       "id": 2739,
       "time": 1780216961666,
       "card_id": "317980",
@@ -107,7 +422,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/svtH6VqB7uZhdVF19qluzoDSSVR.jpg",
-          "vote_average": 8.7
+          "vote_average": 9.0
         },
         "genres": [
           "Вестерн",
@@ -174,7 +489,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/4aoLyPug8KtZWLo5oTitpGox7GQ.jpg",
-          "vote_average": 8.1
+          "vote_average": 8.083
         },
         "genres": [
           "Драма",
@@ -300,15 +615,15 @@
         ],
         "id": 1339713,
         "original_language": "en",
-        "title": "Одержимість",
+        "title": "Обсесія",
         "original_title": "Obsession",
         "names": [
-          "Одержимість",
+          "Обсесія",
           "Обсессия",
           "Obsession - Du sollst mich lieben",
           "Obsession"
         ],
-        "overview": "Коли безнадійний романтик загадує бажання, щоб його давня симпатія закохалася в нього, це запускає зловісне закляття.",
+        "overview": "Зламавши таємничу «Вербу одного бажання», аби завоювати серце коханої дівчини, безнадійний романтик отримує саме те, про що просив. Проте невдовзі він усвідомлює: деякі бажання мають занадто темну та зловісну ціну.",
         "poster_path": "/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
         "release_date": "2026-04-16",
         "video": false,
@@ -387,7 +702,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
-          "vote_average": 6.0
+          "vote_average": 7.25
         },
         "genres": [
           "Драма",
@@ -409,7 +724,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
+        "backdrop_path": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
         "genre_ids": [
           10759,
           80,
@@ -463,7 +778,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
+        "backdrop_path": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
         "genre_ids": [
           10759,
           80,
@@ -505,7 +820,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/62nhkhbQJjuxei1bI7Xu8mFtkAb.jpg",
-          "vote_average": 7.9
+          "vote_average": 6.6
         },
         "genres": [
           "Кримінал",
@@ -577,7 +892,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/zJZfxi8X3XPHAhxXseRugtnNVtt.jpg",
+        "backdrop_path": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
         "genre_ids": [
           16,
           35,
@@ -630,7 +945,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 8.893
+          "vote_average": 8.8
         },
         "genres": [
           "Мультфільм",
@@ -749,7 +1064,7 @@
           "season_number": 3,
           "runtime": 78,
           "still_path": "/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg",
-          "vote_average": 7.3
+          "vote_average": 6.7
         },
         "genres": [
           "Драма"
@@ -914,7 +1229,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/4VrLojD6Gl1HQkcDHAoHQjSDPh9.jpg",
+        "backdrop_path": "/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
         "genre_ids": [
           28,
           12,
@@ -1108,7 +1423,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/l37OpzNN1MzdGSG8ibn33A7KQt4.jpg",
-          "vote_average": 9.2
+          "vote_average": 9.3
         },
         "genres": [
           "Вестерн",
@@ -1338,7 +1653,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/fEpbmTvcp5ezmogpprVtlzdpnKl.jpg",
-          "vote_average": 5.948
+          "vote_average": 5.9
         },
         "genres": [
           "Науково фантастичний",
@@ -1467,7 +1782,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/sKkVo26hfshCSd6B02FER0qixz3.jpg",
-          "vote_average": 9.4
+          "vote_average": 9.458
         },
         "genres": [
           "Вестерн",
@@ -1529,7 +1844,7 @@
           "season_number": 1,
           "runtime": 56,
           "still_path": "/oV8Uxf6VRrV5oAjCmwcGAlfkhno.jpg",
-          "vote_average": 9.1
+          "vote_average": 9.25
         },
         "genres": [
           "Драма"
@@ -1593,7 +1908,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/1lvXuZV4A8yoidLbntLtpQnzZaH.jpg",
-          "vote_average": 7.2
+          "vote_average": 7.1
         },
         "genres": [
           "Драма"
@@ -1614,7 +1929,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
+        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
         "genre_ids": [
           9648,
           18,
@@ -1662,7 +1977,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/wrOtPyoXtLyTlcQupc1GYPGAuSJ.jpg",
-          "vote_average": 5.852
+          "vote_average": 5.935
         },
         "genres": [
           "Детектив",
@@ -1831,7 +2146,7 @@
           "season_number": 8,
           "runtime": 72,
           "still_path": "/xxfVUTzLKwoeXusluq0rbpeFzPC.jpg",
-          "vote_average": 8.8
+          "vote_average": 8.6
         },
         "genres": [
           "Драма",
@@ -2109,7 +2424,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/m7RKphwoonRHsSniQAJhAEnTmca.jpg",
-          "vote_average": 6.508
+          "vote_average": 6.452
         },
         "genres": [
           "Науково фантастичний",
@@ -2225,7 +2540,7 @@
           "season_number": 3,
           "runtime": 61,
           "still_path": "/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg",
-          "vote_average": 5.9
+          "vote_average": 5.75
         },
         "genres": [
           "Драма"
@@ -2246,7 +2561,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
+        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
         "genre_ids": [
           9648,
           18,
@@ -2294,7 +2609,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/2FBTPVhOlhIRyn5EWuXspIyIPHT.jpg",
-          "vote_average": 6.176
+          "vote_average": 6.083
         },
         "genres": [
           "Детектив",
@@ -2377,7 +2692,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/1yw8C3xPzrliGpQp0qHID7F1zOT.jpg",
+        "backdrop_path": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
         "genre_ids": [
           18,
           9648
@@ -2489,7 +2804,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
+        "backdrop_path": "/b8H1a89qmNxF8rqFGrG93Q9qn52.jpg",
         "genre_ids": [
           10749,
           35,
@@ -2588,7 +2903,7 @@
           "season_number": 8,
           "runtime": 54,
           "still_path": "/g2Xq2bMO0t2lApPY8V8CXyGzZEt.jpg",
-          "vote_average": 8.8
+          "vote_average": 8.2
         },
         "genres": [
           "Драма",
@@ -2602,282 +2917,7 @@
       "type": "episode",
       "hash": "s8;e9",
       "premiere": 0
-    },
-    {
-      "id": 2694,
-      "time": 1778247298103,
-      "card_id": "241609",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 241609,
-        "original_language": "en",
-        "name": "Друзі та сусіди",
-        "original_name": "Your Friends & Neighbors",
-        "names": [
-          "Друзі та сусіди",
-          "Друзья и соседи",
-          "Друзья и Соседи",
-          "Your Friends & Neighbors",
-          "Your Friends and Neighbors"
-        ],
-        "overview": "Фінансовий титан раптово розлучається, втрачає роботу і, щоб уникнути банкрутства, починає грабувати багатих сусідів. Обкрадаючи людей зі свого соціального кола, він відчуває дивне піднесення — але поступово заплутується в смертоносному павутинні.",
-        "poster_path": "/xGURzoKwTw6B4rrOOiQLOEPNEE.jpg",
-        "first_air_date": "2025-04-10",
-        "video": false,
-        "vote_average": 7.615,
-        "vote_count": 204,
-        "popularity": 42.4644,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6600202",
-        "kp_rating": "7.5",
-        "imdb_id": "tt30459041",
-        "imdb_rating": "7.7",
-        "status": "returning series",
-        "last_air_date": "2026-05-08",
-        "seasons": {
-          "1": 9,
-          "2": 6
-        },
-        "episode": {
-          "air_date": "2026-05-07",
-          "episode_number": 6,
-          "name": "Для всього іншого був боулінг",
-          "overview": "Куп і його сімʼя дають собі раду зі стресом на похороні й поминках.",
-          "season_number": 2,
-          "runtime": 42,
-          "still_path": "/htfy0mGyz1dzvX9j7dowdXVtept.jpg",
-          "vote_average": 7.4
-        },
-        "genres": [
-          "Драма",
-          "Кримінал"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e6",
-      "premiere": 0
-    },
-    {
-      "id": 2693,
-      "time": 1778245502439,
-      "card_id": "257994",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/loZCtN8s1yjSBD75rbHsRisWfUc.jpg",
-        "genre_ids": [
-          18,
-          9648,
-          10751
-        ],
-        "id": 257994,
-        "original_language": "en",
-        "name": "Напівлюдина",
-        "original_name": "Half Man",
-        "names": [
-          "Напівлюдина",
-          "Получеловек",
-          "Half Man"
-        ],
-        "overview": "Рубен з’являється на весіллі свого відчуженого брата Найлла, стаючи каталізатором переосмислення останніх 40 років їхніх стосунків.",
-        "poster_path": "/x4n2SKlmDHzrzb1JmwNMGAugyxg.jpg",
-        "first_air_date": "2026-04-28",
-        "video": false,
-        "vote_average": 8.167,
-        "vote_count": 12,
-        "popularity": 38.0668,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "GB"
-        ],
-        "kinopoisk_id": "7919289",
-        "imdb_id": "tt32767294",
-        "imdb_rating": "7.1",
-        "status": "returning series",
-        "last_air_date": "2026-05-08",
-        "seasons": {
-          "1": 3
-        },
-        "countries": [
-          "United Kingdom"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2692,
-      "time": 1778232902773,
-      "card_id": "931285",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
-        "genre_ids": [
-          28,
-          14,
-          12
-        ],
-        "id": 931285,
-        "original_language": "en",
-        "title": "Мортал Комбат ІІ",
-        "original_title": "Mortal Kombat II",
-        "names": [
-          "Мортал Комбат ІІ",
-          "Мортал Комбат 2",
-          "Mortal Kombat 2",
-          "Mortal Kombat II"
-        ],
-        "overview": "Від студії New Line Cinema — новий вибуховий розділ культової франшизи, створеної за мотивами легендарної відеогри Mortal Kombat II. Цього разу у фанатському бойовому строю — вже з самим Джонні Кейджем — чемпіони зіштовхуються один з одним у безжальному, кривавому протистоянні без правил. Їхня мета — зупинити темне правління Шао Кана, що загрожує самому існуванню Земного царства та його захисників.",
-        "poster_path": "/4ppObTbqkmi7HunEOjqDmpE26NT.jpg",
-        "release_date": "2026-05-06",
-        "video": false,
-        "vote_average": 7.618,
-        "vote_count": 17,
-        "popularity": 63.4594,
-        "PG": 18,
-        "release_quality": "ts",
-        "kinopoisk_id": "4876869",
-        "imdb_id": "tt17490712",
-        "status": "released",
-        "last_air_date": "2026-05-08",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Бойовик",
-          "Фентезі",
-          "Пригоди"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2691,
-      "time": 1778227500865,
-      "card_id": "285838",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-        "genre_ids": [
-          9648,
-          18
-        ],
-        "id": 285838,
-        "original_language": "ko",
-        "name": "Якби бажання вбивали",
-        "original_name": "기리고",
-        "names": [
-          "Якби бажання вбивали",
-          "Загадай свою смерть",
-          "Girigo",
-          "Желаю твоей смерти / If Wishes Could Kill / Если бы желания могли убивать",
-          "기리고",
-          "Если бы желания могли убивать",
-          "Girigo / If Wishes Could Kill"
-        ],
-        "overview": "Таємничий застосунок обіцяє здійснення бажань, а потім запускає відлік до смерті. Потрапивши в цю пастку, група підлітків мусить розірвати смертельний ланцюг, щоб вижити.",
-        "poster_path": "/oKSt05GBc2ZZ5G2BxTqLikNml1V.jpg",
-        "first_air_date": "2026-04-24",
-        "video": false,
-        "vote_average": 8.1,
-        "vote_count": 53,
-        "popularity": 85.2914,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "KR"
-        ],
-        "kinopoisk_id": "7343988",
-        "kp_rating": "7.0",
-        "imdb_id": "tt36104233",
-        "imdb_rating": "7.2",
-        "status": "ended",
-        "last_air_date": "2026-04-26",
-        "seasons": {
-          "1": 8
-        },
-        "countries": [
-          "South Korea"
-        ],
-        "genres": [
-          "Детектив",
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2690,
-      "time": 1778164498123,
-      "card_id": "1430077",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/e9UvRjJAqn2hLXDfMHU1LFMEKGv.jpg",
-        "genre_ids": [
-          27
-        ],
-        "id": 1430077,
-        "original_language": "en",
-        "title": "Гокум",
-        "original_title": "Hokum",
-        "names": [
-          "Гокум",
-          "Хокум",
-          "Hokum"
-        ],
-        "overview": "Письменник романів жахів Ом Бауман приїжджає до ірландського готелю, щоб розвіяти прах своїх батьків, не підозрюючи, що в цьому місці, за чутками, мешкає відьма. З наближенням ночі він стикається з незрозумілими явищами та таємницями минулого, які поступово розкривають зловісну природу цього віддаленого куточка.",
-        "poster_path": "/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
-        "release_date": "2026-04-29",
-        "video": false,
-        "vote_average": 6.8,
-        "vote_count": 8,
-        "popularity": 25.7065,
-        "PG": 17,
-        "release_quality": "ts",
-        "kinopoisk_id": "10359971",
-        "imdb_id": "tt35672862",
-        "imdb_rating": "8.5",
-        "status": "released",
-        "last_air_date": "2026-05-03",
-        "countries": [
-          "United States of America",
-          "Ireland",
-          "United Arab Emirates",
-          "Hong Kong"
-        ],
-        "genres": [
-          "Жахи"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.262596130371094
+  "duration": 36.507972717285156
 }

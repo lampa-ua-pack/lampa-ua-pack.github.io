@@ -2,6 +2,295 @@
   "secuses": true,
   "result": [
     {
+      "id": 2744,
+      "time": 1780332250601,
+      "card_id": "60625",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/zJZfxi8X3XPHAhxXseRugtnNVtt.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "id": 60625,
+        "original_language": "en",
+        "name": "Рик и Морти",
+        "original_name": "Rick and Morty",
+        "names": [
+          "Рик и Морти",
+          "Rick and Morty",
+          "Рік та Морті"
+        ],
+        "overview": "Морти - самый обычный мальчик, который ничем не отличается от своих сверстников. А вот его дедуля Рик занимается необычными научными исследованиями и зачастую полностью неадекватен. Он может в любое время дня и ночи схватить внука и отправиться вместе с ним в безумные приключения с помощью построенной из разного хлама летающей тарелки, которая способна перемещаться сквозь межпространственный тоннель. Каждый раз эта парочка оказывается в самых неожиданных местах и самых нелепых ситуациях.",
+        "poster_path": "/cgbInj4z0x6ZSIP9z5yICrzGRhu.jpg",
+        "first_air_date": "2013-12-02",
+        "video": false,
+        "vote_average": 8.676,
+        "vote_count": 10901,
+        "popularity": 161.3632,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "685246",
+        "kp_rating": "8.9",
+        "imdb_id": "tt2861424",
+        "imdb_rating": "9.0",
+        "status": "returning series",
+        "last_air_date": "2026-06-01",
+        "seasons": {
+          "1": 11,
+          "2": 10,
+          "3": 10,
+          "4": 11,
+          "5": 14,
+          "6": 10,
+          "7": 10,
+          "8": 10,
+          "9": 2
+        },
+        "episode": {
+          "air_date": "2026-05-31",
+          "episode_number": 2,
+          "name": "Эпизод 2",
+          "overview": "",
+          "season_number": 9,
+          "runtime": 23,
+          "still_path": "/nYIyH5KrAxivpFPDTf87Zlgzpf9.jpg",
+          "vote_average": 10
+        }
+      },
+      "type": "episode",
+      "hash": "s9;e2",
+      "premiere": 0
+    },
+    {
+      "id": 2743,
+      "time": 1780323249670,
+      "card_id": "1242265",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/8wIaBCeGv3UhIn5CJOWQGHT1Cif.jpg",
+        "genre_ids": [
+          28,
+          80,
+          18,
+          53
+        ],
+        "id": 1242265,
+        "original_language": "en",
+        "title": "Ограбить Лондон",
+        "original_title": "Fuze",
+        "names": [
+          "Ограбить Лондон",
+          "Fuze"
+        ],
+        "overview": "В центре Лондона находят неразорвавшуюся бомбу времён Второй мировой. Людей из соседних домов эвакуируют, включая работников крупнейшего банка Великобритании. Именно в этот момент там находится крупная партия алмазов. Вооружившись современными гаджетами, команда первоклассных взломщиков готовит невероятно дерзкое ограбление.",
+        "poster_path": "/mAoWadpIpwp8XEjYpDzEKy8rs6c.jpg",
+        "release_date": "2026-03-23",
+        "video": false,
+        "vote_average": 6.51,
+        "vote_count": 48,
+        "popularity": 52.0089,
+        "PG": 16,
+        "release_quality": "4K",
+        "kinopoisk_id": "6122043",
+        "kp_rating": "6.0",
+        "imdb_id": "tt31189814",
+        "imdb_rating": "6.9",
+        "status": "released",
+        "last_air_date": "2026-05-31",
+        "countries": [
+          "Великобритания"
+        ],
+        "genres": [
+          "Боевик",
+          "Криминал",
+          "Драма",
+          "Триллер"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2742,
+      "time": 1780314249550,
+      "card_id": "85552",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 85552,
+        "original_language": "en",
+        "name": "Эйфория",
+        "original_name": "Euphoria",
+        "names": [
+          "Эйфория",
+          "Euphoria",
+          "Ейфорія"
+        ],
+        "overview": "17-летняя Ру Беннетт возвращается домой после лечения в реабилитационной клинике. Не имея ни малейшего желания завязывать с наркотиками, она немедленно берётся за старое. На вечеринке Ру обращает внимание на недавно приехавшую в их пригород ровесницу Джулс, и это знакомство становится началом большой дружбы.",
+        "poster_path": "/yJz0VPfztciUt8cYulEOnk7wQhs.jpg",
+        "first_air_date": "2019-06-16",
+        "video": false,
+        "vote_average": 8.291,
+        "vote_count": 10731,
+        "popularity": 274.1536,
+        "PG": 18,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1178445",
+        "kp_rating": "7.5",
+        "imdb_id": "tt8772296",
+        "imdb_rating": "8.2",
+        "status": "returning series",
+        "last_air_date": "2026-06-01",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 8
+        },
+        "episode": {
+          "air_date": "2026-05-31",
+          "episode_number": 8,
+          "name": "Эпизод 8",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 93,
+          "still_path": "/lUEO2hUElwsGyPcEmf1Z34xywyZ.jpg",
+          "vote_average": 7
+        }
+      },
+      "type": "episode",
+      "hash": "s3;e8",
+      "premiere": 0
+    },
+    {
+      "id": 2741,
+      "time": 1780245853622,
+      "card_id": "1390300",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
+        "genre_ids": [
+          28,
+          35,
+          53
+        ],
+        "id": 1390300,
+        "original_language": "en",
+        "title": "Опасные отношения",
+        "original_title": "Over Your Dead Body",
+        "names": [
+          "Опасные отношения",
+          "Over Your Dead Body"
+        ],
+        "overview": "Семейная пара приезжает на уикенд в коттедж у живописного озера, чтобы наладить натянутые отношения. Но планы портят непрошеные и очень опасные гости, которые проникают в их дом. Чтобы выжить, ребятам придется не просто найти общий язык, но и впервые по-настоящему узнать друг друга.",
+        "poster_path": "/sKeUDlzJTPjOqzQ8KzLDGzfDnUn.jpg",
+        "release_date": "2026-04-24",
+        "video": false,
+        "vote_average": 7.138,
+        "vote_count": 47,
+        "popularity": 111.5297,
+        "PG": 18,
+        "release_quality": "4K",
+        "kinopoisk_id": "6581561",
+        "kp_rating": "6.4",
+        "imdb_id": "tt34685692",
+        "imdb_rating": "7.3",
+        "status": "released",
+        "last_air_date": "2026-04-26",
+        "countries": [
+          "США",
+          "Норвегия",
+          "Финляндия"
+        ],
+        "genres": [
+          "Боевик",
+          "Комедия",
+          "Триллер"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2740,
+      "time": 1780242249548,
+      "card_id": "124364",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "id": 124364,
+        "original_language": "en",
+        "name": "Извне",
+        "original_name": "FROM",
+        "names": [
+          "Извне",
+          "From",
+          "Ззовні",
+          "FROM"
+        ],
+        "overview": "Затерянный в лесу американский городок пленяет каждого, кому не посчастливилось проехать его по пути — покинуть это место оказывается буквально невозможно. Днем невольные жители пытаются выстроить подобие нормального быта и найти способ выбраться, а по ночам спасаются от пугающих обитателей леса, которые приходят навестить горожан, как только заходит солнце.",
+        "poster_path": "/dFJ8exnjJoEfTlHoR58L4OlTSEu.jpg",
+        "first_air_date": "2022-02-20",
+        "video": false,
+        "vote_average": 8.406,
+        "vote_count": 3332,
+        "popularity": 718.6677,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4476885",
+        "kp_rating": "7.6",
+        "imdb_id": "tt9813792",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-05-31",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 6
+        },
+        "episode": {
+          "air_date": "2026-05-31",
+          "episode_number": 6,
+          "name": "Эпизод 6",
+          "overview": "",
+          "season_number": 4,
+          "runtime": 52,
+          "still_path": "/d37q32vA2MNTfcqkAA8iuW1H8ae.jpg",
+          "vote_average": 3.5
+        }
+      },
+      "type": "episode",
+      "hash": "s4;e6",
+      "premiere": 0
+    },
+    {
       "id": 2739,
       "time": 1780216961666,
       "card_id": "317980",
@@ -2411,271 +2700,7 @@
       "type": "episode",
       "hash": "s8;e9",
       "premiere": 0
-    },
-    {
-      "id": 2694,
-      "time": 1778247298103,
-      "card_id": "241609",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 241609,
-        "original_language": "en",
-        "name": "Друзья и соседи",
-        "original_name": "Your Friends & Neighbors",
-        "names": [
-          "Друзья и соседи",
-          "Друзья и Соседи",
-          "Your Friends & Neighbors",
-          "Your Friends and Neighbors"
-        ],
-        "overview": "После внезапного развода и потери работы крупный финансист начинает грабить богатых соседей, чтобы удержаться на плаву. Кражи у людей из того же социального слоя странным образом ободряют его, но постепенно он запутывается в смертоносной паутине.",
-        "poster_path": "/wr6dsSOfht23oiym1TcAlMN7R3k.jpg",
-        "first_air_date": "2025-04-10",
-        "video": false,
-        "vote_average": 7.615,
-        "vote_count": 204,
-        "popularity": 42.4644,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6600202",
-        "kp_rating": "7.5",
-        "imdb_id": "tt30459041",
-        "imdb_rating": "7.7",
-        "status": "returning series",
-        "last_air_date": "2026-05-08",
-        "seasons": {
-          "1": 9,
-          "2": 6
-        },
-        "episode": {
-          "air_date": "2026-05-07",
-          "episode_number": 6,
-          "name": "Эпизод 6",
-          "overview": "",
-          "season_number": 2,
-          "runtime": 42,
-          "still_path": "/htfy0mGyz1dzvX9j7dowdXVtept.jpg",
-          "vote_average": 8
-        }
-      },
-      "type": "episode",
-      "hash": "s2;e6",
-      "premiere": 0
-    },
-    {
-      "id": 2693,
-      "time": 1778245502439,
-      "card_id": "257994",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/uvmn7g7G0cVj7OVeDRrklky4NfF.jpg",
-        "genre_ids": [
-          18,
-          9648,
-          10751
-        ],
-        "id": 257994,
-        "original_language": "en",
-        "name": "Получеловек",
-        "original_name": "Half Man",
-        "names": [
-          "Получеловек",
-          "Half Man"
-        ],
-        "overview": "Когда на свадьбе у Ниалла появляется его «брат» Рубен, с которым он давно не общался, это приводит к вспышке насилия.",
-        "poster_path": "/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg",
-        "first_air_date": "2026-04-28",
-        "video": false,
-        "vote_average": 8.167,
-        "vote_count": 12,
-        "popularity": 38.0668,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "GB"
-        ],
-        "kinopoisk_id": "7919289",
-        "imdb_id": "tt32767294",
-        "imdb_rating": "7.1",
-        "status": "returning series",
-        "last_air_date": "2026-05-08",
-        "seasons": {
-          "1": 3
-        },
-        "countries": [
-          "Великобритания"
-        ],
-        "genres": [
-          "Драма",
-          "Детектив"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2692,
-      "time": 1778232902773,
-      "card_id": "931285",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
-        "genre_ids": [
-          28,
-          14,
-          12
-        ],
-        "id": 931285,
-        "original_language": "en",
-        "title": "Мортал Комбат 2",
-        "original_title": "Mortal Kombat II",
-        "names": [
-          "Мортал Комбат 2",
-          "Mortal Kombat 2",
-          "Mortal Kombat II"
-        ],
-        "overview": "Чемпионы Земного царства вместе с Джонни Кейджем вступают в схватку друг с другом, чтобы предотвратить тёмное правление Шао Кана.",
-        "poster_path": "/4WgJ5Dk0JhPdCdJkwHNVyJyQYdH.jpg",
-        "release_date": "2026-05-06",
-        "video": false,
-        "vote_average": 7.618,
-        "vote_count": 17,
-        "popularity": 63.4594,
-        "PG": 18,
-        "release_quality": "ts",
-        "kinopoisk_id": "4876869",
-        "imdb_id": "tt17490712",
-        "status": "released",
-        "last_air_date": "2026-05-08",
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Боевик",
-          "Фэнтези",
-          "Приключения"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2691,
-      "time": 1778227500865,
-      "card_id": "285838",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-        "genre_ids": [
-          9648,
-          18
-        ],
-        "id": 285838,
-        "original_language": "ko",
-        "name": "Если бы желания могли убивать",
-        "original_name": "기리고",
-        "names": [
-          "Загадай свою смерть",
-          "Girigo",
-          "Желаю твоей смерти / If Wishes Could Kill / Если бы желания могли убивать",
-          "기리고",
-          "Если бы желания могли убивать",
-          "Girigo / If Wishes Could Kill"
-        ],
-        "overview": "Таинственное приложение обещает исполнить желания, а затем запускает обратный отсчет до смерти. Чтобы выжить, группе подростков нужно разорвать смертельную цепочку.",
-        "poster_path": "/8aPlFXx0wCrzBdxRsQhZM3c4XEt.jpg",
-        "first_air_date": "2026-04-24",
-        "video": false,
-        "vote_average": 8.1,
-        "vote_count": 53,
-        "popularity": 85.2914,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "KR"
-        ],
-        "kinopoisk_id": "7343988",
-        "kp_rating": "7.0",
-        "imdb_id": "tt36104233",
-        "imdb_rating": "7.2",
-        "status": "ended",
-        "last_air_date": "2026-04-26",
-        "seasons": {
-          "1": 8
-        },
-        "countries": [
-          "Южная Корея"
-        ],
-        "genres": [
-          "Детектив",
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2690,
-      "time": 1778164498123,
-      "card_id": "1430077",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/e9UvRjJAqn2hLXDfMHU1LFMEKGv.jpg",
-        "genre_ids": [
-          27
-        ],
-        "id": 1430077,
-        "original_language": "en",
-        "title": "Хокум",
-        "original_title": "Hokum",
-        "names": [
-          "Хокум",
-          "Hokum"
-        ],
-        "overview": "Писатель романов ужасов Ом Бауман приезжает в ирландскую гостиницу, чтобы развеять прах родителей, не подозревая, что в этом месте, по слухам, обитает ведьма. С приближением ночи он сталкивается с необъяснимыми явлениями и тайнами прошлого, которые постепенно раскрывают зловещую природу этого уединённого уголка.",
-        "poster_path": "/zt5cQrDQG12EeaoebhdQV94ZgFi.jpg",
-        "release_date": "2026-04-29",
-        "video": false,
-        "vote_average": 6.8,
-        "vote_count": 8,
-        "popularity": 25.7065,
-        "PG": 17,
-        "release_quality": "ts",
-        "kinopoisk_id": "10359971",
-        "imdb_id": "tt35672862",
-        "imdb_rating": "8.5",
-        "status": "released",
-        "last_air_date": "2026-05-03",
-        "countries": [
-          "ОАЭ",
-          "США",
-          "Гонконг",
-          "Ирландия"
-        ],
-        "genres": [
-          "Ужасы"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.262596130371094
+  "duration": 36.507972717285156
 }
