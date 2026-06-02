@@ -180,7 +180,7 @@
           "season_number": 3,
           "runtime": 93,
           "still_path": "/lUEO2hUElwsGyPcEmf1Z34xywyZ.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.556
         },
         "genres": [
           "Драма"
@@ -217,7 +217,7 @@
           "Over Your Dead Body"
         ],
         "overview": "Пара, що переживає кризу у стосунках, вирушає до віддаленої хатини, де кожен із них має прихований намір позбутися свого партнера.",
-        "poster_path": "/fqXIk1BY0tJvlqwiTw2HL9gegqE.jpg",
+        "poster_path": "/pvs3uKsOmCB37gZitzSlI0Aae3s.jpg",
         "release_date": "2026-04-24",
         "video": false,
         "vote_average": 7.138,
@@ -301,7 +301,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/d37q32vA2MNTfcqkAA8iuW1H8ae.jpg",
-          "vote_average": 5.079
+          "vote_average": 5.167
         },
         "genres": [
           "Детектив",
@@ -489,7 +489,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/4aoLyPug8KtZWLo5oTitpGox7GQ.jpg",
-          "vote_average": 8.083
+          "vote_average": 8.1
         },
         "genres": [
           "Драма",
@@ -543,7 +543,8 @@
           "1": 3
         },
         "countries": [
-          "United States of America"
+          "United States of America",
+          "United Kingdom"
         ],
         "genres": [
           "Документальний"
@@ -820,7 +821,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/62nhkhbQJjuxei1bI7Xu8mFtkAb.jpg",
-          "vote_average": 6.6
+          "vote_average": 6.385
         },
         "genres": [
           "Кримінал",
@@ -1064,7 +1065,7 @@
           "season_number": 3,
           "runtime": 78,
           "still_path": "/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg",
-          "vote_average": 6.7
+          "vote_average": 6.6
         },
         "genres": [
           "Драма"
@@ -1490,7 +1491,7 @@
           "season_number": 2,
           "runtime": 57,
           "still_path": "/r18w0RYSIqdEzaOyCaYFpIW8gNE.jpg",
-          "vote_average": 8.167
+          "vote_average": 8.2
         },
         "genres": [
           "Драма",
@@ -1782,7 +1783,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/sKkVo26hfshCSd6B02FER0qixz3.jpg",
-          "vote_average": 9.458
+          "vote_average": 9.4
         },
         "genres": [
           "Вестерн",
@@ -1908,7 +1909,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/1lvXuZV4A8yoidLbntLtpQnzZaH.jpg",
-          "vote_average": 7.1
+          "vote_average": 6.9
         },
         "genres": [
           "Драма"
@@ -1977,7 +1978,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/wrOtPyoXtLyTlcQupc1GYPGAuSJ.jpg",
-          "vote_average": 5.935
+          "vote_average": 5.9
         },
         "genres": [
           "Детектив",
@@ -2214,7 +2215,7 @@
           "season_number": 2,
           "runtime": 57,
           "still_path": "/oMOWpYQbjiNgGf5gPFZHyVFVmCV.jpg",
-          "vote_average": 7.944
+          "vote_average": 7.9
         },
         "genres": [
           "Драма",
@@ -2424,7 +2425,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/m7RKphwoonRHsSniQAJhAEnTmca.jpg",
-          "vote_average": 6.452
+          "vote_average": 6.477
         },
         "genres": [
           "Науково фантастичний",
@@ -2540,7 +2541,7 @@
           "season_number": 3,
           "runtime": 61,
           "still_path": "/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg",
-          "vote_average": 5.75
+          "vote_average": 5.4
         },
         "genres": [
           "Драма"
@@ -2609,7 +2610,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/2FBTPVhOlhIRyn5EWuXspIyIPHT.jpg",
-          "vote_average": 6.083
+          "vote_average": 6.1
         },
         "genres": [
           "Детектив",
@@ -2787,7 +2788,8 @@
         },
         "genres": [
           "Драма",
-          "Кримінал"
+          "Кримінал",
+          "Детектив"
         ],
         "countries": [
           "Denmark"
@@ -2919,5 +2921,5 @@
       "premiere": 0
     }
   ],
-  "duration": 36.507972717285156
+  "duration": 6.863288879394531
 }
