@@ -2,6 +2,147 @@
   "secuses": true,
   "result": [
     {
+      "id": 2747,
+      "time": 1780501722683,
+      "card_id": "1232667",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/fH4pbzTCP1EWbZ1BoCtx7lgRb1F.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1232667,
+        "original_language": "en",
+        "title": "Люблю, скучаю",
+        "original_title": "Miss You, Love You",
+        "names": [
+          "Люблю, скучаю",
+          "Miss You, Love You",
+          "Скучаю по тебе, люблю тебя"
+        ],
+        "overview": "Овдовевшая Дайан вынуждена планировать похороны мужа в одиночку — когда она связывается с сыном, тот отказывается приезжать и посылает на подмогу матери личного помощника. Неожиданному тандему предстоит как следует узнать друг друга, не раз поговорить по душам и, конечно, провести достойную панихиду.",
+        "poster_path": "/odnel7VLYHTdW3OdgRl7N5nSlpM.jpg",
+        "release_date": "2026-05-29",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "popularity": 1.4661,
+        "PG": 0,
+        "release_quality": "4K",
+        "kinopoisk_id": "12499636",
+        "imdb_id": "tt30343126",
+        "status": "released",
+        "last_air_date": "2026-05-30",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Драма"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2746,
+      "time": 1780479854731,
+      "card_id": "1083381",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+        "genre_ids": [
+          27,
+          9648,
+          878
+        ],
+        "id": 1083381,
+        "original_language": "en",
+        "title": "Закулисье реальности",
+        "original_title": "Backrooms",
+        "names": [
+          "Закулисье реальности",
+          "Backrooms"
+        ],
+        "overview": "Когда неудачливый продавец мебели Кларк обнаруживает скрытый портал в другое измерение в подвале своего магазина, он оказывается в бесконечном лабиринте извилистых жёлтых коридоров. В этом мире время и пространство не подчиняются логике, а нечто жуткое может скрываться за каждым углом.",
+        "poster_path": "/cpbkzW8OlXS2fqeTuUmZqbCpIEm.jpg",
+        "release_date": "2026-05-27",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 58,
+        "popularity": 132.9603,
+        "PG": 18,
+        "release_quality": "ts",
+        "kinopoisk_id": "5452841",
+        "kp_rating": "6.4",
+        "imdb_id": "tt26657236",
+        "status": "released",
+        "last_air_date": "2026-05-30",
+        "countries": [
+          "США",
+          "Канада"
+        ],
+        "genres": [
+          "Ужасы",
+          "Детектив",
+          "Фантастика"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2745,
+      "time": 1780467249713,
+      "card_id": "1662414",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/ldUVeDfA5ID2vchHGejrEltoBSN.jpg",
+        "genre_ids": [
+          12,
+          18,
+          10751
+        ],
+        "id": 1662414,
+        "original_language": "en",
+        "title": "Ночной полет на винтовом самолете",
+        "original_title": "Propeller One-Way Night Coach",
+        "names": [
+          "Пропеллер: Ночной рейс в один конец",
+          "Propeller One-Way Night Coach",
+          "Ночной полет на винтовом самолете"
+        ],
+        "overview": "На дворе золотой век авиации. Юный авиалюбитель и его мать отправляются через всю страну в Голливуд — обычный перелет, который становится незабываемым.",
+        "poster_path": "/qUSfQsDBY9MMR1pmZcPRnpLV8ih.jpg",
+        "release_date": "2026-05-15",
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 1,
+        "popularity": 1.8252,
+        "PG": 12,
+        "release_quality": "4K",
+        "kinopoisk_id": "11843361",
+        "imdb_id": "tt41367695",
+        "status": "released",
+        "last_air_date": "2026-05-30",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Приключения",
+          "Драма",
+          "Семейный"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2744,
       "time": 1780332250601,
       "card_id": "60625",
@@ -2529,178 +2670,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2697,
-      "time": 1778319300785,
-      "card_id": "127865",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/fIXTetAsXkPO6UUUw85IU4oactf.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 127865,
-        "original_language": "da",
-        "name": "Каштановый человечек",
-        "original_name": "Kastanjemanden",
-        "names": [
-          "Каштановый человечек",
-          "The Chestnut Man",
-          "Каштановий чоловічок",
-          "Kastanjemanden"
-        ],
-        "overview": "Небольшой датский городок потрясает серия жестоких убийств молодых девушек, рядом с телами которых находят фигурки из спичек и каштанов. За расследование берутся 2 детектива, которые находят на поделках отпечатки пальцев девочки, считавшейся давно погибшей.",
-        "poster_path": "/pZcURiQ0nFSJavFhlvIcDqZSlla.jpg",
-        "first_air_date": "2021-09-29",
-        "video": false,
-        "vote_average": 7.5,
-        "vote_count": 661,
-        "popularity": 44.2019,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "DK"
-        ],
-        "kinopoisk_id": "1434190",
-        "kp_rating": "7.5",
-        "imdb_id": "tt10834220",
-        "imdb_rating": "7.6",
-        "status": "returning series",
-        "last_air_date": "2026-05-07",
-        "seasons": {
-          "1": 6,
-          "2": 6
-        },
-        "episode": {
-          "air_date": "2026-05-07",
-          "episode_number": 6,
-          "name": "Эпизод 6",
-          "overview": "",
-          "season_number": 2,
-          "runtime": 48,
-          "still_path": "/4Q11reQ3Z72OL6wyZoKGjv4rj5C.jpg",
-          "vote_average": 7
-        }
-      },
-      "type": "episode",
-      "hash": "s2;e6",
-      "premiere": 0
-    },
-    {
-      "id": 2696,
-      "time": 1778268904521,
-      "card_id": "1325734",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
-        "genre_ids": [
-          10749,
-          35,
-          18
-        ],
-        "id": 1325734,
-        "original_language": "en",
-        "title": "Вот это драма!",
-        "original_title": "The Drama",
-        "names": [
-          "Вот это драма!",
-          "The Drama"
-        ],
-        "overview": "Чарли и Эмма влюблены друг в друга и вот-вот поженятся. Место свадьбы выбрано, приглашения разосланы, до долгожданной церемонии остаются считанные дни. Но одно, казалось бы, невинное откровение переворачивает всё — Чарли узнаёт об Эмме то, что предпочёл бы не знать. Теперь на пути к «долго и счастливо» их отношениям предстоит пройти через неожиданную драму.",
-        "poster_path": "/mayjUmmXGM1n5E5AJnOfylig10W.jpg",
-        "release_date": "2026-03-26",
-        "video": false,
-        "vote_average": 7.026,
-        "vote_count": 585,
-        "popularity": 29.6682,
-        "PG": 18,
-        "release_quality": "4K",
-        "kinopoisk_id": "6530127",
-        "kp_rating": "7.1",
-        "imdb_id": "tt33071426",
-        "status": "released",
-        "last_air_date": "2026-04-05",
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Мелодрама",
-          "Комедия",
-          "Драма"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2695,
-      "time": 1778265298094,
-      "card_id": "56570",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
-        "genre_ids": [
-          18,
-          10765
-        ],
-        "id": 56570,
-        "original_language": "en",
-        "name": "Чужестранка",
-        "original_name": "Outlander",
-        "names": [
-          "Чужестранка",
-          "Outlander",
-          "Чужоземка"
-        ],
-        "overview": "Клэр, работавшая медсестрой во время Второй мировой войны, случайно перемещается во времени и попадает в 1743 год. В этом мире, полном приключений, она знакомится с шотландским рыцарем Джейми. У героев завязывается страстный роман, несмотря на то, что сердце Клэр разрывается между двумя мужчинами — Джейми и ее мужем Фрэнком, который остался в другом времени.",
-        "poster_path": "/5HdUN4MvDegqDNLAjJDTjFRWfVR.jpg",
-        "first_air_date": "2014-08-09",
-        "video": false,
-        "vote_average": 8.177,
-        "vote_count": 2819,
-        "popularity": 111.9164,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "818284",
-        "kp_rating": "8.0",
-        "imdb_id": "tt3006802",
-        "imdb_rating": "8.3",
-        "status": "returning series",
-        "last_air_date": "2026-05-08",
-        "seasons": {
-          "1": 16,
-          "2": 13,
-          "3": 13,
-          "4": 13,
-          "5": 12,
-          "6": 8,
-          "7": 16,
-          "8": 9
-        },
-        "episode": {
-          "air_date": "2026-05-08",
-          "episode_number": 9,
-          "name": "Эпизод 9",
-          "overview": "",
-          "season_number": 8,
-          "runtime": 55,
-          "still_path": "/g2Xq2bMO0t2lApPY8V8CXyGzZEt.jpg",
-          "vote_average": 0
-        }
-      },
-      "type": "episode",
-      "hash": "s8;e9",
-      "premiere": 0
     }
   ],
-  "duration": 6.863288879394531
+  "duration": 4.583027999848127
 }

@@ -2,6 +2,150 @@
   "secuses": true,
   "result": [
     {
+      "id": 2747,
+      "time": 1780501722683,
+      "card_id": "1232667",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/fH4pbzTCP1EWbZ1BoCtx7lgRb1F.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1232667,
+        "original_language": "en",
+        "title": "Сумую за тобою, люблю тебе",
+        "original_title": "Miss You, Love You",
+        "names": [
+          "Сумую за тобою, люблю тебе",
+          "Люблю, скучаю",
+          "Miss You, Love You",
+          "Скучаю по тебе, люблю тебя"
+        ],
+        "overview": "Вдова організовує похорон свого чоловіка. Її відчужений син замість того, щоб приїхати самому, надсилає свою помічницю. Вдова переживає горе разом із нею.",
+        "poster_path": "/2f7d9ybamv0QIJn0odsh1dwRuxS.jpg",
+        "release_date": "2026-05-29",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "popularity": 1.4661,
+        "PG": 0,
+        "release_quality": "4K",
+        "kinopoisk_id": "12499636",
+        "imdb_id": "tt30343126",
+        "status": "released",
+        "last_air_date": "2026-05-30",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Драма"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2746,
+      "time": 1780479854731,
+      "card_id": "1083381",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+        "genre_ids": [
+          27,
+          9648,
+          878
+        ],
+        "id": 1083381,
+        "original_language": "en",
+        "title": "Backrooms: Залаштунки",
+        "original_title": "Backrooms",
+        "names": [
+          "Backrooms: Залаштунки",
+          "Закулисье реальности",
+          "Backrooms"
+        ],
+        "overview": "Сюжет стрічки зосереджений навколо лабіринту порожніх офісних кімнат, які приховують дещо моторошне. Гнітюче очікування лякає головних героїв та змушує їх рухатися далі, тамуючи відчай і передчуття непоправного жаху.",
+        "poster_path": "/hxZuCNRL2yJI6Id7MstH0lUsIUa.jpg",
+        "release_date": "2026-05-27",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 58,
+        "popularity": 132.9603,
+        "PG": 18,
+        "release_quality": "ts",
+        "kinopoisk_id": "5452841",
+        "kp_rating": "6.4",
+        "imdb_id": "tt26657236",
+        "status": "released",
+        "last_air_date": "2026-05-30",
+        "countries": [
+          "United States of America",
+          "Canada"
+        ],
+        "genres": [
+          "Жахи",
+          "Детектив",
+          "Фантастика"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2745,
+      "time": 1780467249713,
+      "card_id": "1662414",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/ldUVeDfA5ID2vchHGejrEltoBSN.jpg",
+        "genre_ids": [
+          12,
+          18,
+          10751
+        ],
+        "id": 1662414,
+        "original_language": "en",
+        "title": "Пропелер у нічному небі",
+        "original_title": "Propeller One-Way Night Coach",
+        "names": [
+          "Пропелер у нічному небі",
+          "Пропеллер: Ночной рейс в один конец",
+          "Propeller One-Way Night Coach",
+          "Ночной полет на винтовом самолете"
+        ],
+        "overview": "У золоту добу авіації юний любитель літаків і його мати вирушають у подорож через усю країну до Голлівуду. Цей звичайний переліт стає пригодою всього життя.",
+        "poster_path": "/fORDye7ppKR6hleyGM3yOHzOIeW.jpg",
+        "release_date": "2026-05-15",
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 1,
+        "popularity": 1.8252,
+        "PG": 12,
+        "release_quality": "4K",
+        "kinopoisk_id": "11843361",
+        "imdb_id": "tt41367695",
+        "status": "released",
+        "last_air_date": "2026-05-30",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Пригоди",
+          "Драма",
+          "Сімейний"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2744,
       "time": 1780332250601,
       "card_id": "60625",
@@ -61,7 +205,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/nYIyH5KrAxivpFPDTf87Zlgzpf9.jpg",
-          "vote_average": 10.0
+          "vote_average": 8.75
         },
         "genres": [
           "Мультфільм",
@@ -178,9 +322,9 @@
           "name": "Серія 8",
           "overview": "",
           "season_number": 3,
-          "runtime": 93,
+          "runtime": 92,
           "still_path": "/lUEO2hUElwsGyPcEmf1Z34xywyZ.jpg",
-          "vote_average": 7.556
+          "vote_average": 7.4
         },
         "genres": [
           "Драма"
@@ -301,7 +445,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/d37q32vA2MNTfcqkAA8iuW1H8ae.jpg",
-          "vote_average": 5.167
+          "vote_average": 5.1
         },
         "genres": [
           "Детектив",
@@ -422,7 +566,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/svtH6VqB7uZhdVF19qluzoDSSVR.jpg",
-          "vote_average": 9.0
+          "vote_average": 8.0
         },
         "genres": [
           "Вестерн",
@@ -625,7 +769,7 @@
           "Obsession"
         ],
         "overview": "Зламавши таємничу «Вербу одного бажання», аби завоювати серце коханої дівчини, безнадійний романтик отримує саме те, про що просив. Проте невдовзі він усвідомлює: деякі бажання мають занадто темну та зловісну ціну.",
-        "poster_path": "/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
+        "poster_path": "/5sWyXhGhLECYWvUXSTqnfe4fBed.jpg",
         "release_date": "2026-04-16",
         "video": false,
         "vote_average": 7.9,
@@ -703,7 +847,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
-          "vote_average": 7.25
+          "vote_average": 7.8
         },
         "genres": [
           "Драма",
@@ -820,8 +964,8 @@
           "overview": "",
           "season_number": 1,
           "runtime": 46,
-          "still_path": "/62nhkhbQJjuxei1bI7Xu8mFtkAb.jpg",
-          "vote_average": 6.385
+          "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
+          "vote_average": 6.0
         },
         "genres": [
           "Кримінал",
@@ -1063,9 +1207,9 @@
           "name": "Серія 7",
           "overview": "",
           "season_number": 3,
-          "runtime": 78,
+          "runtime": 77,
           "still_path": "/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg",
-          "vote_average": 6.6
+          "vote_average": 6.7
         },
         "genres": [
           "Драма"
@@ -1422,9 +1566,9 @@
           "name": "Серія 3",
           "overview": "",
           "season_number": 1,
-          "runtime": 47,
+          "runtime": 49,
           "still_path": "/l37OpzNN1MzdGSG8ibn33A7KQt4.jpg",
-          "vote_average": 9.3
+          "vote_average": 8.625
         },
         "genres": [
           "Вестерн",
@@ -1654,7 +1798,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/fEpbmTvcp5ezmogpprVtlzdpnKl.jpg",
-          "vote_average": 5.9
+          "vote_average": 5.856
         },
         "genres": [
           "Науково фантастичний",
@@ -1783,7 +1927,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/sKkVo26hfshCSd6B02FER0qixz3.jpg",
-          "vote_average": 9.4
+          "vote_average": 9.036
         },
         "genres": [
           "Вестерн",
@@ -1908,7 +2052,7 @@
           "overview": "",
           "season_number": 3,
           "runtime": 60,
-          "still_path": "/1lvXuZV4A8yoidLbntLtpQnzZaH.jpg",
+          "still_path": "/oHlluigr7ecEcChDkOVepSZijun.jpg",
           "vote_average": 6.9
         },
         "genres": [
@@ -2425,7 +2569,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/m7RKphwoonRHsSniQAJhAEnTmca.jpg",
-          "vote_average": 6.477
+          "vote_average": 6.424
         },
         "genres": [
           "Науково фантастичний",
@@ -2731,195 +2875,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2697,
-      "time": 1778319300785,
-      "card_id": "127865",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/fIXTetAsXkPO6UUUw85IU4oactf.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 127865,
-        "original_language": "da",
-        "name": "Каштановий чоловічок",
-        "original_name": "Kastanjemanden",
-        "names": [
-          "Каштановый человечек",
-          "The Chestnut Man",
-          "Каштановий чоловічок",
-          "Kastanjemanden"
-        ],
-        "overview": "На місці жорстокого вбивства знаходять фігурку з каштанів. На основі цієї зачіпки двоє детективів вистежують убивцю і розслідують зникнення доньки політичної діячки.",
-        "poster_path": "/lq6sKBXVeF0DR4DcgOZYi2bggFq.jpg",
-        "first_air_date": "2021-09-29",
-        "video": false,
-        "vote_average": 7.5,
-        "vote_count": 661,
-        "popularity": 44.2019,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "DK"
-        ],
-        "kinopoisk_id": "1434190",
-        "kp_rating": "7.5",
-        "imdb_id": "tt10834220",
-        "imdb_rating": "7.6",
-        "status": "returning series",
-        "last_air_date": "2026-05-07",
-        "seasons": {
-          "1": 6,
-          "2": 6
-        },
-        "episode": {
-          "air_date": "2026-05-07",
-          "episode_number": 6,
-          "name": "Епізод 6",
-          "overview": "Коли складаються всі клаптики головоломки про каштанового чоловічка й стають зрозумілими мотиви злочинця, Тулін і Гесс намагаються врятувати життя невинних.",
-          "season_number": 2,
-          "runtime": 48,
-          "still_path": "/4Q11reQ3Z72OL6wyZoKGjv4rj5C.jpg",
-          "vote_average": 7.7
-        },
-        "genres": [
-          "Драма",
-          "Кримінал",
-          "Детектив"
-        ],
-        "countries": [
-          "Denmark"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e6",
-      "premiere": 0
-    },
-    {
-      "id": 2696,
-      "time": 1778268904521,
-      "card_id": "1325734",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/b8H1a89qmNxF8rqFGrG93Q9qn52.jpg",
-        "genre_ids": [
-          10749,
-          35,
-          18
-        ],
-        "id": 1325734,
-        "original_language": "en",
-        "title": "Любить не любить",
-        "original_title": "The Drama",
-        "names": [
-          "Любить не любить",
-          "Вот это драма!",
-          "The Drama"
-        ],
-        "overview": "Щасливо заручена пара проходить випробування, коли несподіваний поворот подій вносить хаос у їхній тиждень весілля.",
-        "poster_path": "/gU4ybmH7uj6NCjgWsHJyW8TGOZk.jpg",
-        "release_date": "2026-03-26",
-        "video": false,
-        "vote_average": 7.026,
-        "vote_count": 585,
-        "popularity": 29.6682,
-        "PG": 18,
-        "release_quality": "4K",
-        "kinopoisk_id": "6530127",
-        "kp_rating": "7.1",
-        "imdb_id": "tt33071426",
-        "status": "released",
-        "last_air_date": "2026-04-05",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Мелодрама",
-          "Комедія",
-          "Драма"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2695,
-      "time": 1778265298094,
-      "card_id": "56570",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
-        "genre_ids": [
-          18,
-          10765
-        ],
-        "id": 56570,
-        "original_language": "en",
-        "name": "Чужоземка",
-        "original_name": "Outlander",
-        "names": [
-          "Чужестранка",
-          "Outlander",
-          "Чужоземка"
-        ],
-        "overview": "Клер, яка працювала медсестрою під час Другої світової війни, випадково переміщається в часі і потрапляє в 1743 рік. У цьому світі, повному пригод, вона знайомиться з шотландським лицарем Джеймі. У героїв зав'язується пристрасний роман, незважаючи на те, що серце Клер розривається між двома чоловіками - Джеймі і її чоловіком Френком, який залишився в іншому часі.",
-        "poster_path": "/tZuKy6RWPQKgyOtx8XWxpdzfQME.jpg",
-        "first_air_date": "2014-08-09",
-        "video": false,
-        "vote_average": 8.177,
-        "vote_count": 2819,
-        "popularity": 111.9164,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "818284",
-        "kp_rating": "8.0",
-        "imdb_id": "tt3006802",
-        "imdb_rating": "8.3",
-        "status": "returning series",
-        "last_air_date": "2026-05-08",
-        "seasons": {
-          "1": 16,
-          "2": 13,
-          "3": 13,
-          "4": 13,
-          "5": 12,
-          "6": 8,
-          "7": 16,
-          "8": 9
-        },
-        "episode": {
-          "air_date": "2026-05-08",
-          "episode_number": 9,
-          "name": "Серія 9",
-          "overview": "",
-          "season_number": 8,
-          "runtime": 54,
-          "still_path": "/g2Xq2bMO0t2lApPY8V8CXyGzZEt.jpg",
-          "vote_average": 8.2
-        },
-        "genres": [
-          "Драма",
-          "Науково фантастичний"
-        ],
-        "countries": [
-          "United Kingdom",
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s8;e9",
-      "premiere": 0
     }
   ],
-  "duration": 6.863288879394531
+  "duration": 4.583027999848127
 }
