@@ -2,6 +2,111 @@
   "secuses": true,
   "result": [
     {
+      "id": 2749,
+      "time": 1780514327720,
+      "card_id": "1122573",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/oBft4BZeoDQzTT9ZGijClr76qvK.jpg",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "id": 1122573,
+        "original_language": "en",
+        "title": "Грязные деньги",
+        "original_title": "In the Grey",
+        "names": [
+          "Грязные деньги",
+          "In the Grey"
+        ],
+        "overview": "Когда безжалостный магнат Салазар присваивает себе миллиард долларов, отряд элитных агентов под управлением проницательной Рэйчел получает задание вернуть деньги любой ценой. Сид, Бронко и их соратники начинают воплощать стратегию давления на афериста, а затем отправляются на остров Салазара, где проявляют все свои навыки обращения с оружием и взрывчаткой. Однако внезапно ситуация выходит из-под контроля.",
+        "poster_path": "/eX68co76w7wunCRunji7kyglqTG.jpg",
+        "release_date": "2026-05-13",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 69,
+        "popularity": 19.685,
+        "PG": 18,
+        "release_quality": "webdl",
+        "kinopoisk_id": "5437609",
+        "kp_rating": "6.8",
+        "imdb_id": "tt27681354",
+        "status": "released",
+        "last_air_date": "2026-05-16",
+        "countries": [
+          "Великобритания",
+          "США"
+        ],
+        "genres": [
+          "Боевик",
+          "Триллер"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2748,
+      "time": 1780510722722,
+      "card_id": "270476",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          35
+        ],
+        "id": 270476,
+        "original_language": "en",
+        "name": "Уидоус-Бэй",
+        "original_name": "Widow's Bay",
+        "names": [
+          "Бухта вдов",
+          "Widow's Bay",
+          "Уидоус-Бэй",
+          "Widows Bay"
+        ],
+        "overview": "Мэр города в Новой Англии решает превратить его в новый центр притяжения туристов, несмотря на предупреждения местных о том, что он проклят.",
+        "poster_path": "/7Dc2FNMcOeNO61W2rOKgJDoVJ63.jpg",
+        "first_air_date": "2026-04-28",
+        "video": false,
+        "vote_average": 8.26,
+        "vote_count": 102,
+        "popularity": 60.665,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6555657",
+        "kp_rating": "7.7",
+        "imdb_id": "tt33332385",
+        "status": "returning series",
+        "last_air_date": "2026-06-03",
+        "seasons": {
+          "1": 8
+        },
+        "episode": {
+          "air_date": "2026-06-02",
+          "episode_number": 8,
+          "name": "Ваш багаж",
+          "overview": "Не волнуйтесь о потерянной поклаже. Старый багаж всегда всплывает в Уидоус-Бэй.",
+          "season_number": 1,
+          "runtime": 34,
+          "still_path": "/eh3wez62jJ79krAvtgWLRVStUZj.jpg",
+          "vote_average": 10
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e8",
+      "premiere": 0
+    },
+    {
       "id": 2747,
       "time": 1780501722683,
       "card_id": "1232667",
@@ -2571,106 +2676,7 @@
       "type": "episode",
       "hash": "s4;e4",
       "premiere": 0
-    },
-    {
-      "id": 2699,
-      "time": 1778409298114,
-      "card_id": "262388",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/uDxlriNvtxdizceQKQllwhC0lYG.jpg",
-        "genre_ids": [
-          80,
-          18
-        ],
-        "id": 262388,
-        "original_language": "en",
-        "name": "Пропавшая без вести",
-        "original_name": "M.I.A.",
-        "names": [
-          "Пропавшая без вести",
-          "M.I.A."
-        ],
-        "overview": "Этте Джонз не сидится на месте, она мечтает о жизни в сверкающем субтропическом королевстве Майами. Но когда семейный бизнес по торговле наркотиками терпит крах, Этте приходится отправиться в опасное путешествие по неоновому подполью Майами, которое покажет, кто она такая и на что в итоге способна.",
-        "poster_path": "/uvocuo6mgQTtNa7O6a3MQoTfuh4.jpg",
-        "first_air_date": "2026-05-07",
-        "video": false,
-        "vote_average": 9,
-        "vote_count": 4,
-        "popularity": 28.5416,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "11297614",
-        "imdb_id": "tt33253070",
-        "status": "returning series",
-        "last_air_date": "2026-05-08",
-        "seasons": {
-          "1": 9
-        },
-        "episode": {
-          "air_date": "2026-05-07",
-          "episode_number": 9,
-          "name": "Эпизод 9",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 40,
-          "still_path": "/wZng5iAHnuzOnNRMLfVPPF6ILJt.jpg",
-          "vote_average": 7.75
-        }
-      },
-      "type": "episode",
-      "hash": "s1;e9",
-      "premiere": 0
-    },
-    {
-      "id": 2698,
-      "time": 1778400298127,
-      "card_id": "1330021",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
-        "genre_ids": [
-          18,
-          9648
-        ],
-        "id": 1330021,
-        "original_language": "en",
-        "title": "Необычайно умные создания",
-        "original_title": "Remarkably Bright Creatures",
-        "names": [
-          "Необычайно умные создания",
-          "Remarkably Bright Creatures"
-        ],
-        "overview": "В этой трогательной драме по мотивам бестселлера вдова сближается с умным осьминогом и потерянным молодым мужчиной, работая по ночам в океанариуме.",
-        "poster_path": "/3odwuuWv6v7RQpI4GtJdxDVlice.jpg",
-        "release_date": "2026-05-07",
-        "video": false,
-        "vote_average": 8.2,
-        "vote_count": 18,
-        "popularity": 71.6378,
-        "PG": 13,
-        "release_quality": "4K",
-        "kinopoisk_id": "12245586",
-        "imdb_id": "tt33100314",
-        "status": "released",
-        "last_air_date": "2026-05-08",
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Драма",
-          "Детектив"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.583027999848127
+  "duration": 6.26651799865067
 }

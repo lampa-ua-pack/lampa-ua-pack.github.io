@@ -2,6 +2,121 @@
   "secuses": true,
   "result": [
     {
+      "id": 2749,
+      "time": 1780514327720,
+      "card_id": "1122573",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/bIy0555ukSqweSqG9MtRnoyisQI.jpg",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "id": 1122573,
+        "original_language": "en",
+        "title": "Брудні гроші",
+        "original_title": "In the Grey",
+        "names": [
+          "Брудні гроші",
+          "Грязные деньги",
+          "In the Grey"
+        ],
+        "overview": "Таємна команда елітних оперативників, які діють у тіні по всьому світу, однаково вправно користується владою, впливом і зброєю. Коли безжальний деспот привласнює мільярдний статок, їх відправляють повернути його в місії, що для інших була б самогубством. Але те, що починалося як майже неможливе пограбування, швидко переростає у війну стратегій, обману й виживання.",
+        "poster_path": "/hN1HsjFwkFEe8lY6I3XkHGdC7yP.jpg",
+        "release_date": "2026-05-13",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 69,
+        "popularity": 19.685,
+        "PG": 18,
+        "release_quality": "webdl",
+        "kinopoisk_id": "5437609",
+        "kp_rating": "6.8",
+        "imdb_id": "tt27681354",
+        "status": "released",
+        "last_air_date": "2026-05-16",
+        "countries": [
+          "United Kingdom",
+          "United States of America"
+        ],
+        "genres": [
+          "Бойовик",
+          "Трилер"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2748,
+      "time": 1780510722722,
+      "card_id": "270476",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          35
+        ],
+        "id": 270476,
+        "original_language": "en",
+        "name": "Відоус-Бей",
+        "original_name": "Widow's Bay",
+        "names": [
+          "Відоус-Бей",
+          "Бухта вдов",
+          "Widow's Bay",
+          "Уидоус-Бэй",
+          "Widows Bay"
+        ],
+        "overview": "Мер містечка в Новій Англії має намір перетворити його на туристичну принаду, попри застереження місцевих про те, що це місце прокляте.",
+        "poster_path": "/r9LY3JmgL8CcUKDOEKQZHsOaIcP.jpg",
+        "first_air_date": "2026-04-28",
+        "video": false,
+        "vote_average": 8.26,
+        "vote_count": 102,
+        "popularity": 60.665,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6555657",
+        "kp_rating": "7.7",
+        "imdb_id": "tt33332385",
+        "status": "returning series",
+        "last_air_date": "2026-06-03",
+        "seasons": {
+          "1": 8
+        },
+        "episode": {
+          "air_date": "2026-06-02",
+          "episode_number": 8,
+          "name": "Ваш багаж",
+          "overview": "Не переживайте про загублений багаж. У Відоус-Бей старий багаж завжди знаходиться.",
+          "season_number": 1,
+          "runtime": 34,
+          "still_path": "/eh3wez62jJ79krAvtgWLRVStUZj.jpg",
+          "vote_average": 8.6
+        },
+        "genres": [
+          "Драма",
+          "Детектив",
+          "Комедія"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e8",
+      "premiere": 0
+    },
+    {
       "id": 2747,
       "time": 1780501722683,
       "card_id": "1232667",
@@ -53,7 +168,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+        "backdrop_path": "/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
         "genre_ids": [
           27,
           9648,
@@ -322,9 +437,9 @@
           "name": "Серія 8",
           "overview": "",
           "season_number": 3,
-          "runtime": 92,
+          "runtime": 93,
           "still_path": "/lUEO2hUElwsGyPcEmf1Z34xywyZ.jpg",
-          "vote_average": 7.4
+          "vote_average": 7.636
         },
         "genres": [
           "Драма"
@@ -445,7 +560,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/d37q32vA2MNTfcqkAA8iuW1H8ae.jpg",
-          "vote_average": 5.1
+          "vote_average": 5.2
         },
         "genres": [
           "Детектив",
@@ -788,7 +903,8 @@
           "United Kingdom"
         ],
         "genres": [
-          "Жахи"
+          "Жахи",
+          "Трилер"
         ]
       },
       "type": "now_playing",
@@ -845,7 +961,7 @@
           "name": "Морська хвороба",
           "overview": "Вирушайте в море з мером Лофтісом і шанованою місцевою особою Віком! Вони там у справах — краще просто насолоджуватися подорожжю.",
           "season_number": 1,
-          "runtime": 42,
+          "runtime": 43,
           "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
           "vote_average": 7.8
         },
@@ -965,7 +1081,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
-          "vote_average": 6.0
+          "vote_average": 6.4
         },
         "genres": [
           "Кримінал",
@@ -1207,7 +1323,7 @@
           "name": "Серія 7",
           "overview": "",
           "season_number": 3,
-          "runtime": 77,
+          "runtime": 78,
           "still_path": "/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg",
           "vote_average": 6.7
         },
@@ -1568,7 +1684,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/l37OpzNN1MzdGSG8ibn33A7KQt4.jpg",
-          "vote_average": 8.625
+          "vote_average": 8.6
         },
         "genres": [
           "Вестерн",
@@ -1798,7 +1914,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/fEpbmTvcp5ezmogpprVtlzdpnKl.jpg",
-          "vote_average": 5.856
+          "vote_average": 5.9
         },
         "genres": [
           "Науково фантастичний",
@@ -1927,7 +2043,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/sKkVo26hfshCSd6B02FER0qixz3.jpg",
-          "vote_average": 9.036
+          "vote_average": 9.0
         },
         "genres": [
           "Вестерн",
@@ -2569,7 +2685,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/m7RKphwoonRHsSniQAJhAEnTmca.jpg",
-          "vote_average": 6.424
+          "vote_average": 6.433
         },
         "genres": [
           "Науково фантастичний",
@@ -2768,114 +2884,7 @@
       "type": "episode",
       "hash": "s4;e4",
       "premiere": 0
-    },
-    {
-      "id": 2699,
-      "time": 1778409298114,
-      "card_id": "262388",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/wqjhAWmqHrIIn4PdchGCuEgPksw.jpg",
-        "genre_ids": [
-          80,
-          18
-        ],
-        "id": 262388,
-        "original_language": "en",
-        "name": "M.I.A.",
-        "original_name": "M.I.A.",
-        "names": [
-          "Пропавшая без вести",
-          "M.I.A."
-        ],
-        "overview": "Етта Тайґер Джонс мріє про життя в сяючому субтропічному королівстві Маямі. Однак коли сімейний наркобізнес руйнується через трагедію, Етта вирушає в небезпечну подорож неоновим підпіллям Маямі, яка визначить, ким вона є і на що зрештою здатна.",
-        "poster_path": "/uvocuo6mgQTtNa7O6a3MQoTfuh4.jpg",
-        "first_air_date": "2026-05-07",
-        "video": false,
-        "vote_average": 9,
-        "vote_count": 4,
-        "popularity": 28.5416,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "11297614",
-        "imdb_id": "tt33253070",
-        "status": "returning series",
-        "last_air_date": "2026-05-08",
-        "seasons": {
-          "1": 9
-        },
-        "episode": {
-          "air_date": "2026-05-07",
-          "episode_number": 9,
-          "name": "Серія 9",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 40,
-          "still_path": "/wZng5iAHnuzOnNRMLfVPPF6ILJt.jpg",
-          "vote_average": 8.4
-        },
-        "genres": [
-          "Кримінал",
-          "Драма"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e9",
-      "premiere": 0
-    },
-    {
-      "id": 2698,
-      "time": 1778400298127,
-      "card_id": "1330021",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
-        "genre_ids": [
-          18,
-          9648
-        ],
-        "id": 1330021,
-        "original_language": "en",
-        "title": "Напрочуд кмітливі створіння",
-        "original_title": "Remarkably Bright Creatures",
-        "names": [
-          "Напрочуд кмітливі створіння",
-          "Необычайно умные создания",
-          "Remarkably Bright Creatures"
-        ],
-        "overview": "Події відбуваються у маленькому містечку, де Това, літня жінка, яка втратила сина, працює нічною прибиральницею в місцевому акваріумі. Вона знаходить спільну мову з мешканцем акваріума — старим та надзвичайно спостережливим восьминогом Марцеллусом. В цей же час в місто приїжджає Камерон — молодий чоловік, який шукає свого батька й влаштовується працівником в акваріум. Його зустріч із Товою та Марцеллусом запускає ланцюг подій, що веде до несподіваних відкриттів про минуле й нових можливостей для майбутнього.",
-        "poster_path": "/x0IqFdGeAYPK10WyjpXCTfOEBIh.jpg",
-        "release_date": "2026-05-07",
-        "video": false,
-        "vote_average": 8.2,
-        "vote_count": 18,
-        "popularity": 71.6378,
-        "PG": 13,
-        "release_quality": "4K",
-        "kinopoisk_id": "12245586",
-        "imdb_id": "tt33100314",
-        "status": "released",
-        "last_air_date": "2026-05-08",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Драма",
-          "Детектив"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.583027999848127
+  "duration": 6.26651799865067
 }
