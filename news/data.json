@@ -2,6 +2,54 @@
   "secuses": true,
   "result": [
     {
+      "id": 2750,
+      "time": 1780657072737,
+      "card_id": "1430077",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/e9UvRjJAqn2hLXDfMHU1LFMEKGv.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 1430077,
+        "original_language": "en",
+        "title": "Хокум",
+        "original_title": "Hokum",
+        "names": [
+          "Хокум",
+          "Hokum"
+        ],
+        "overview": "Писатель романов ужасов Ом Бауман приезжает в ирландскую гостиницу, чтобы развеять прах родителей, не подозревая, что в этом месте, по слухам, обитает ведьма. С приближением ночи он сталкивается с необъяснимыми явлениями и тайнами прошлого, которые постепенно раскрывают зловещую природу этого уединённого уголка.",
+        "poster_path": "/zt5cQrDQG12EeaoebhdQV94ZgFi.jpg",
+        "release_date": "2026-04-29",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 60,
+        "popularity": 14.7806,
+        "PG": 18,
+        "release_quality": "4K",
+        "kinopoisk_id": "10359971",
+        "kp_rating": "6.7",
+        "imdb_id": "tt35672862",
+        "imdb_rating": "7.4",
+        "status": "released",
+        "last_air_date": "2026-05-03",
+        "countries": [
+          "США",
+          "Ирландия",
+          "ОАЭ",
+          "Гонконг"
+        ],
+        "genres": [
+          "Ужасы"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2749,
       "time": 1780514327720,
       "card_id": "1122573",
@@ -2614,69 +2662,7 @@
       "type": "episode",
       "hash": "s3;e5",
       "premiere": 0
-    },
-    {
-      "id": 2700,
-      "time": 1778481298133,
-      "card_id": "124364",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
-        "genre_ids": [
-          9648,
-          18,
-          10765
-        ],
-        "id": 124364,
-        "original_language": "en",
-        "name": "Извне",
-        "original_name": "FROM",
-        "names": [
-          "Извне",
-          "From",
-          "Ззовні",
-          "FROM"
-        ],
-        "overview": "Затерянный в лесу американский городок пленяет каждого, кому не посчастливилось проехать его по пути — покинуть это место оказывается буквально невозможно. Днем невольные жители пытаются выстроить подобие нормального быта и найти способ выбраться, а по ночам спасаются от пугающих обитателей леса, которые приходят навестить горожан, как только заходит солнце.",
-        "poster_path": "/dFJ8exnjJoEfTlHoR58L4OlTSEu.jpg",
-        "first_air_date": "2022-02-20",
-        "video": false,
-        "vote_average": 8.179,
-        "vote_count": 2715,
-        "popularity": 618.8381,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4476885",
-        "kp_rating": "7.6",
-        "imdb_id": "tt9813792",
-        "imdb_rating": "7.8",
-        "status": "returning series",
-        "last_air_date": "2026-05-10",
-        "seasons": {
-          "1": 10,
-          "2": 10,
-          "3": 10,
-          "4": 4
-        },
-        "episode": {
-          "air_date": "2026-05-10",
-          "episode_number": 4,
-          "name": "Эпизод 4",
-          "overview": "",
-          "season_number": 4,
-          "runtime": 52,
-          "still_path": "/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg",
-          "vote_average": 6.667
-        }
-      },
-      "type": "episode",
-      "hash": "s4;e4",
-      "premiere": 0
     }
   ],
-  "duration": 6.26651799865067
+  "duration": 8.840241000056267
 }
