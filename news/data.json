@@ -2,6 +2,213 @@
   "secuses": true,
   "result": [
     {
+      "id": 2754,
+      "time": 1780750667801,
+      "card_id": "1629095",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/unXrjADknsh0kiQOT7hddvoiOhj.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1629095,
+        "original_language": "ro",
+        "title": "Городские пацаны: Городские парни",
+        "original_title": "Băieți de oraș: Golden Boyz",
+        "names": [
+          "Городские пацаны: Городские парни",
+          "City Boys: Golden Boyz",
+          "Băieți de oraș: Golden Boyz",
+          "Baieti de oras: Golden Boyz"
+        ],
+        "overview": "Фильм рассказывает о приключениях двух недалеких молодых людей - Роби Роберто и Мэлоуна. В центре сюжета оказывается Мэлоун, который неожиданно получает шанс унаследовать 9 миллионов евро после смерти дальнего родственника. Однако есть условие: чтобы забрать деньги, ему необходимо получить диплом о высшем образовании. Герои пускаются во все тяжкие, пытаясь провернуть эту аферу, сталкиваясь с реалиями современного Бухареста.",
+        "poster_path": "/msmjEUOXH05AI5c6p3oQubJ282I.jpg",
+        "release_date": "2026-02-06",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 5,
+        "popularity": 5.8129,
+        "PG": 0,
+        "release_quality": "webdl",
+        "kinopoisk_id": "11280735",
+        "imdb_id": "tt39195606",
+        "imdb_rating": "7.9",
+        "status": "released",
+        "last_air_date": "2026-06-05",
+        "countries": [
+          "Румыния"
+        ],
+        "genres": [
+          "Комедия"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2753,
+      "time": 1780729071826,
+      "card_id": "1273221",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1273221,
+        "original_language": "en",
+        "title": "Очень страшное кино",
+        "original_title": "Scary Movie",
+        "names": [
+          "Очень страшное кино 6",
+          "Scary Movie 6",
+          "Очень страшное кино",
+          "Scary Movie"
+        ],
+        "overview": "Двое друзей снова оказываются втянутыми в хаос, в котором участвуют убийцы, монстры и сверхъестественные существа.",
+        "poster_path": "/mHggwMptRO9dzmaLlYdxlh1eXpj.jpg",
+        "release_date": "2026-06-03",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 26,
+        "popularity": 71.9313,
+        "PG": 18,
+        "release_quality": "ts",
+        "kinopoisk_id": "5506641",
+        "imdb_id": "tt32093575",
+        "status": "released",
+        "last_air_date": "2026-06-04",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Комедия",
+          "Ужасы"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2752,
+      "time": 1780689467679,
+      "card_id": "299167",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "id": 299167,
+        "original_language": "en",
+        "name": "Ранчо Даттонов",
+        "original_name": "Dutton Ranch",
+        "names": [
+          "Ранчо Даттонов",
+          "Dutton Ranch",
+          "The Dutton Ranch"
+        ],
+        "overview": "Ранчо Даттонов - дом Бет и Рипа, стало символом той жизни, о которой они мечтали, за которую отчаянно боролись и ради которой едва не пожертвовали всем. Они всей душой привязались к своей земле площадью 7000 акров, превратив её в место, которое готовы защищать любой ценой. Даже в самые тяжёлые времена Бет и Рип делают всё возможное, чтобы выстоять, сохранить своё ранчо и обеспечить достойное будущее себе и своему приёмному сыну Картеру.",
+        "poster_path": "/mmxsx98NnY56CvataUqM1ktt14O.jpg",
+        "first_air_date": "2026-05-15",
+        "video": false,
+        "vote_average": 9.4,
+        "vote_count": 173,
+        "popularity": 159.4967,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "7275308",
+        "kp_rating": "8.6",
+        "imdb_id": "tt34991493",
+        "status": "returning series",
+        "last_air_date": "2026-06-05",
+        "seasons": {
+          "1": 5
+        },
+        "episode": {
+          "air_date": "2026-06-05",
+          "episode_number": 5,
+          "name": "Эпизод 5",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 51,
+          "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
+          "vote_average": 9
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e5",
+      "premiere": 0
+    },
+    {
+      "id": 2751,
+      "time": 1780671468728,
+      "card_id": "241609",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 241609,
+        "original_language": "en",
+        "name": "Друзья и соседи",
+        "original_name": "Your Friends & Neighbors",
+        "names": [
+          "Друзья и соседи",
+          "Друзья и Соседи",
+          "Your Friends & Neighbors",
+          "Your Friends and Neighbors"
+        ],
+        "overview": "После внезапного развода и потери работы крупный финансист начинает грабить богатых соседей, чтобы удержаться на плаву. Кражи у людей из того же социального слоя странным образом ободряют его, но постепенно он запутывается в смертоносной паутине.",
+        "poster_path": "/wr6dsSOfht23oiym1TcAlMN7R3k.jpg",
+        "first_air_date": "2025-04-10",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 231,
+        "popularity": 49.9131,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6600202",
+        "kp_rating": "7.5",
+        "imdb_id": "tt30459041",
+        "imdb_rating": "7.7",
+        "status": "returning series",
+        "last_air_date": "2026-06-05",
+        "seasons": {
+          "1": 9,
+          "2": 10
+        },
+        "episode": {
+          "air_date": "2026-06-04",
+          "episode_number": 10,
+          "name": "Ночь охотника",
+          "overview": "После очередного шокирующего скандала соседи собираются на День отца в загородном клубе.",
+          "season_number": 2,
+          "runtime": 56,
+          "still_path": "/o3c6GyTORTJeWtW8nxNqqzxdELU.jpg",
+          "vote_average": 0
+        }
+      },
+      "type": "episode",
+      "hash": "s2;e10",
+      "premiere": 0
+    },
+    {
       "id": 2750,
       "time": 1780657072737,
       "card_id": "1430077",
@@ -2446,223 +2653,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2704,
-      "time": 1778700548349,
-      "card_id": "1400357",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/mWRjVb2Lj9pjOlNcDP7lNvrvSo8.jpg",
-        "genre_ids": [
-          80,
-          35
-        ],
-        "id": 1400357,
-        "original_language": "en",
-        "title": "Кристоферы",
-        "original_title": "The Christophers",
-        "names": [
-          "Кристоферы",
-          "The Christophers"
-        ],
-        "overview": "Барнаби и его сестра Салли — дети некогда знаменитого пожилого художника Джулиана Склара. В тайне от отца они решают нанять молодую художницу Лори Батлер, чтобы та дописала незаконченные картины Джулиана, которые после его смерти перейдут детям по наследству и позволят им заработать.",
-        "poster_path": "/uLRr3sVVqzcexegoCMrhb2AsVZn.jpg",
-        "release_date": "2026-04-10",
-        "video": false,
-        "vote_average": 6.8,
-        "vote_count": 3,
-        "popularity": 2.361,
-        "PG": 17,
-        "release_quality": "4K",
-        "kinopoisk_id": "6739486",
-        "imdb_id": "tt34966562",
-        "status": "released",
-        "last_air_date": "2026-05-13",
-        "countries": [
-          "Великобритания",
-          "США"
-        ],
-        "genres": [
-          "Криминал",
-          "Комедия"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2703,
-      "time": 1778691548128,
-      "card_id": "76479",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-        "genre_ids": [
-          10765,
-          10759
-        ],
-        "id": 76479,
-        "original_language": "en",
-        "name": "Пацаны",
-        "original_name": "The Boys",
-        "names": [
-          "Пацаны",
-          "The Boys",
-          "Хлопці / Хлопаки"
-        ],
-        "overview": "2000-ые, мир, где существуют супергерои. Они являются настоящими звёздами, которых все знают и обожают. Но за идеальным фасадом скрывается гораздо более мрачный мир - большинство героев в жизни не самые приятные люди. Для контроля за супергероями ЦРУ создаёт специальный отряд, неофициально известный как \"Пацаны\" - суровые члены которого всегда готовы поставить зазнавшегося героя на место самым жестоким способом.",
-        "poster_path": "/8QGxRzHbzs4ihjy4afaUdlsROBD.jpg",
-        "first_air_date": "2019-07-25",
-        "video": false,
-        "vote_average": 8.449,
-        "vote_count": 12207,
-        "popularity": 585.9876,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "460586",
-        "kp_rating": "8.3",
-        "imdb_id": "tt1190634",
-        "imdb_rating": "8.6",
-        "status": "returning series",
-        "last_air_date": "2026-05-13",
-        "seasons": {
-          "1": 8,
-          "2": 8,
-          "3": 8,
-          "4": 8,
-          "5": 7
-        },
-        "episode": {
-          "air_date": "2026-05-13",
-          "episode_number": 7,
-          "name": "Французик, Самка и мужик по имени Молоко Матери",
-          "overview": "ПРЕДУПРЕЖДЕНИЕ: БУДЬТЕ ОСТОРОЖНЫ, ВХОДЯ В ЗВУКОВОЙ ПАВИЛЬОН. ВЫСТУПАЮЩИЕ МОГУТ ИСПОЛЬЗОВАТЬ СВЕРХСИЛЫ.",
-          "season_number": 5,
-          "runtime": 70,
-          "still_path": "/rZazWJ7T1UPNBnPNaFgcZWVDg8E.jpg",
-          "vote_average": 8.8
-        }
-      },
-      "type": "episode",
-      "hash": "s5;e7",
-      "premiere": 0
-    },
-    {
-      "id": 2702,
-      "time": 1778614153238,
-      "card_id": "262388",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/uDxlriNvtxdizceQKQllwhC0lYG.jpg",
-        "genre_ids": [
-          80,
-          18
-        ],
-        "id": 262388,
-        "original_language": "en",
-        "name": "Пропавшая без вести",
-        "original_name": "M.I.A.",
-        "names": [
-          "Пропавшая без вести",
-          "M.I.A."
-        ],
-        "overview": "Этте Джонз не сидится на месте, она мечтает о жизни в сверкающем субтропическом королевстве Майами. Но когда семейный бизнес по торговле наркотиками терпит крах, Этте приходится отправиться в опасное путешествие по неоновому подполью Майами, которое покажет, кто она такая и на что в итоге способна.",
-        "poster_path": "/uvocuo6mgQTtNa7O6a3MQoTfuh4.jpg",
-        "first_air_date": "2026-05-07",
-        "video": false,
-        "vote_average": 9,
-        "vote_count": 4,
-        "popularity": 28.5416,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "11297614",
-        "imdb_id": "tt33253070",
-        "status": "returning series",
-        "last_air_date": "2026-05-11",
-        "seasons": {
-          "1": 9
-        },
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Криминал",
-          "Драма"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2701,
-      "time": 1778529548132,
-      "card_id": "85552",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 85552,
-        "original_language": "en",
-        "name": "Эйфория",
-        "original_name": "Euphoria",
-        "names": [
-          "Эйфория",
-          "Euphoria",
-          "Ейфорія"
-        ],
-        "overview": "17-летняя Ру Беннетт возвращается домой после лечения в реабилитационной клинике. Не имея ни малейшего желания завязывать с наркотиками, она немедленно берётся за старое. На вечеринке Ру обращает внимание на недавно приехавшую в их пригород ровесницу Джулс, и это знакомство становится началом большой дружбы.",
-        "poster_path": "/yJz0VPfztciUt8cYulEOnk7wQhs.jpg",
-        "first_air_date": "2019-06-16",
-        "video": false,
-        "vote_average": 8.28,
-        "vote_count": 10498,
-        "popularity": 309.1307,
-        "PG": 18,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1178445",
-        "kp_rating": "7.5",
-        "imdb_id": "tt8772296",
-        "imdb_rating": "8.2",
-        "status": "returning series",
-        "last_air_date": "2026-05-11",
-        "seasons": {
-          "1": 10,
-          "2": 8,
-          "3": 5
-        },
-        "episode": {
-          "air_date": "2026-05-10",
-          "episode_number": 5,
-          "name": "Эпизод 5",
-          "overview": "",
-          "season_number": 3,
-          "runtime": 61,
-          "still_path": "/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg",
-          "vote_average": 7
-        }
-      },
-      "type": "episode",
-      "hash": "s3;e5",
-      "premiere": 0
     }
   ],
-  "duration": 8.840241000056267
+  "duration": 5.7706170082092285
 }
