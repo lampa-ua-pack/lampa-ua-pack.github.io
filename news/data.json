@@ -2,6 +2,102 @@
   "secuses": true,
   "result": [
     {
+      "id": 2756,
+      "time": 1780822667809,
+      "card_id": "1471224",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/tPgWgSS9LndIJaL8b0vYjWigLqE.jpg",
+        "genre_ids": [
+          35,
+          18,
+          80
+        ],
+        "id": 1471224,
+        "original_language": "fr",
+        "title": "Преступление на третьем этаже",
+        "original_title": "Le Crime du 3e étage",
+        "names": [
+          "Преступление на третьем этаже",
+          "Le crime du 3e étage",
+          "Le Crime du 3e étage"
+        ],
+        "overview": "Франсуа пишет захватывающие детективы, но его реальная жизнь скучна и однообразна. Его жена Колетт мечтает об остроте чувств, показывая студентам хичкоковский кинематограф. Но всё меняется, когда Коллет начинает подозревать соседа в убийстве жены. Размеренная жизнь пары летит кувырком, а их выдохшиеся отношения внезапно оживают.",
+        "poster_path": "/3fEsnO0iNsVpPPsJDu48gOpqhNw.jpg",
+        "release_date": "2026-03-11",
+        "video": false,
+        "vote_average": 6.583,
+        "vote_count": 36,
+        "popularity": 1.6402,
+        "PG": 0,
+        "release_quality": "ts",
+        "kinopoisk_id": "10187723",
+        "imdb_id": "tt38814447",
+        "imdb_rating": "7.0",
+        "status": "released",
+        "last_air_date": "2026-06-06",
+        "countries": [
+          "Франция"
+        ],
+        "genres": [
+          "Комедия",
+          "Драма",
+          "Криминал"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2755,
+      "time": 1780765072835,
+      "card_id": "454639",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+        "genre_ids": [
+          28,
+          14,
+          878
+        ],
+        "id": 454639,
+        "original_language": "en",
+        "title": "Властелины вселенной",
+        "original_title": "Masters of the Universe",
+        "names": [
+          "Властелины вселенной",
+          "Masters of the Universe"
+        ],
+        "overview": "Адам, 10-летний принц с планеты Этерния, терпит крушение на космическом корабле и попадает на Землю. Спустя 15 лет принц отправляется на родную планету, которая теперь находится под гнётом Скелетора. Чтобы одолеть опасного противника, Адаму предстоит раскрыть своё прошлое, объединить силы с союзниками и стать Хи-Меном — самым могущественным человеком во Вселенной.",
+        "poster_path": "/u0SxcVBFf9c5PFt9i12RYSLoQf.jpg",
+        "release_date": "2026-06-03",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 24,
+        "popularity": 91.1325,
+        "PG": 16,
+        "release_quality": "ts",
+        "kinopoisk_id": "88124",
+        "imdb_id": "tt0427340",
+        "status": "released",
+        "last_air_date": "2026-06-05",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Боевик",
+          "Фэнтези",
+          "Фантастика"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2754,
       "time": 1780750667801,
       "card_id": "1629095",
@@ -2561,99 +2657,7 @@
       "type": "episode",
       "hash": "s2;e7",
       "premiere": 0
-    },
-    {
-      "id": 2706,
-      "time": 1778772550132,
-      "card_id": "855435",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/qdyeQg2gWj1L8cDlwU3tI4s0Hub.jpg",
-        "genre_ids": [
-          27
-        ],
-        "id": 855435,
-        "original_language": "en",
-        "title": "Лики смерти",
-        "original_title": "Faces of Death",
-        "names": [
-          "Лики смерти",
-          "Faces of Death"
-        ],
-        "overview": "Марго работает модератором популярного видеохостинга. Ей приходится просматривать контент разной степени жестокости и мерзости, и однажды её внимание привлекает серия постановочных видео, где, как ей кажется, показаны настоящие убийства. Начальство не хочет ничего предпринимать, поэтому Марго берётся за расследование сама и выясняет, что ролики повторяют сцены из культового хоррора «Лики смерти».",
-        "poster_path": "/5KDjg1jZPCYDvDeevV9U5o6YdVf.jpg",
-        "release_date": "2026-04-10",
-        "video": false,
-        "vote_average": 6.7,
-        "vote_count": 10,
-        "popularity": 2.5134,
-        "PG": 17,
-        "release_quality": "4K",
-        "kinopoisk_id": "5282562",
-        "kp_rating": "5.7",
-        "imdb_id": "tt14619456",
-        "status": "released",
-        "last_air_date": "2026-05-13",
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Ужасы"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2705,
-      "time": 1778754548242,
-      "card_id": "1439930",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
-        "genre_ids": [
-          28,
-          18,
-          80
-        ],
-        "id": 1439930,
-        "original_language": "en",
-        "title": "Каратель: Последнее убийство",
-        "original_title": "A Marvel Television Special Presentation - The Punisher: One Last Kill",
-        "names": [
-          "Каратель: Последнее убийство",
-          "The Punisher: One Last Kill",
-          "A Marvel Television Special Presentation - The Punisher: One Last Kill"
-        ],
-        "overview": "Пока Фрэнк Касл ищет смысл жизни за пределами мести, неожиданная сила вновь втягивает его в борьбу.",
-        "poster_path": "/nLFfNeftCJRK1PXebnSymYX3Vhf.jpg",
-        "release_date": "2026-05-12",
-        "video": false,
-        "vote_average": 7.5,
-        "vote_count": 11,
-        "popularity": 34.1264,
-        "PG": 17,
-        "release_quality": "4K",
-        "kinopoisk_id": "7378359",
-        "imdb_id": "tt36042156",
-        "status": "released",
-        "last_air_date": "2026-05-14",
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Боевик",
-          "Драма",
-          "Криминал"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 5.7706170082092285
+  "duration": 7.078238010406494
 }
