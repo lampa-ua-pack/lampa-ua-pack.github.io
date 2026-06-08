@@ -2,6 +2,232 @@
   "secuses": true,
   "result": [
     {
+      "id": 2760,
+      "time": 1780922026107,
+      "card_id": "467914",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/nHP6HaHRZ8GHveLH5VVJSFFQ3S.jpg",
+        "genre_ids": [
+          16,
+          14,
+          10751,
+          12
+        ],
+        "id": 467914,
+        "original_language": "en",
+        "title": "Зачарованное королевство",
+        "original_title": "The Land of Sometimes",
+        "names": [
+          "Зачарованное королевство",
+          "The Land of Sometimes"
+        ],
+        "overview": "Эльфи и Элиз — близнецы, живущие в деревне вместе с родителями. Каждый год они с нетерпением ждут Рождества, но в этот раз будут отмечать праздник без отца, который не вернулся из командировки. Дети не хотят слушать маму, и она решает дать им загадочные карманные часы. С их помощью Эльфи и Элиз перемещаются в удивительную страну под названием Иногда. В путешествии их сопровождает дружелюбный волшебник, который дарит им шесть желаний. Вот только в стране Иногда за день проносятся все времена года, и близнецы должны вернутся до того, как подойдет к концу зима.",
+        "poster_path": "/zIiWCll93x3q8gEPyxSHIyEs0Du.jpg",
+        "release_date": "2026-03-20",
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 1,
+        "popularity": 1.693,
+        "PG": 0,
+        "release_quality": "webdl",
+        "kinopoisk_id": "837341",
+        "imdb_id": "tt3517106",
+        "imdb_rating": "7.0",
+        "status": "released",
+        "last_air_date": "2026-06-07",
+        "countries": [
+          "Великобритания"
+        ],
+        "genres": [
+          "Мультфильм",
+          "Фэнтези",
+          "Семейный",
+          "Приключения"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2759,
+      "time": 1780914823092,
+      "card_id": "60625",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "id": 60625,
+        "original_language": "en",
+        "name": "Рик и Морти",
+        "original_name": "Rick and Morty",
+        "names": [
+          "Рик и Морти",
+          "Rick and Morty",
+          "Рік та Морті"
+        ],
+        "overview": "Морти - самый обычный мальчик, который ничем не отличается от своих сверстников. А вот его дедуля Рик занимается необычными научными исследованиями и зачастую полностью неадекватен. Он может в любое время дня и ночи схватить внука и отправиться вместе с ним в безумные приключения с помощью построенной из разного хлама летающей тарелки, которая способна перемещаться сквозь межпространственный тоннель. Каждый раз эта парочка оказывается в самых неожиданных местах и самых нелепых ситуациях.",
+        "poster_path": "/cgbInj4z0x6ZSIP9z5yICrzGRhu.jpg",
+        "first_air_date": "2013-12-02",
+        "video": false,
+        "vote_average": 8.678,
+        "vote_count": 10931,
+        "popularity": 146.8555,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "685246",
+        "kp_rating": "8.9",
+        "imdb_id": "tt2861424",
+        "imdb_rating": "9.0",
+        "status": "returning series",
+        "last_air_date": "2026-06-08",
+        "seasons": {
+          "1": 11,
+          "2": 10,
+          "3": 10,
+          "4": 11,
+          "5": 14,
+          "6": 10,
+          "7": 10,
+          "8": 10,
+          "9": 3
+        },
+        "episode": {
+          "air_date": "2026-06-07",
+          "episode_number": 3,
+          "name": "Эпизод 3",
+          "overview": "",
+          "season_number": 9,
+          "runtime": 24,
+          "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
+          "vote_average": 8
+        }
+      },
+      "type": "episode",
+      "hash": "s9;e3",
+      "premiere": 0
+    },
+    {
+      "id": 2758,
+      "time": 1780904023192,
+      "card_id": "1321179",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/1s1r4OOdnU8VX2inALVTA2q94uY.jpg",
+        "genre_ids": [
+          36,
+          18
+        ],
+        "id": 1321179,
+        "original_language": "ko",
+        "title": "Королевский страж",
+        "original_title": "왕과 사는 남자",
+        "names": [
+          "Королевский страж",
+          "Wanggwa saneun namja",
+          "왕과 사는 남자"
+        ],
+        "overview": "Историческая драма, действие которой происходит во времена династии Чосон.\r Староста деревни и ее жители заботятся о молодом короле, который был свергнут с престола и изгнан из дворца.",
+        "poster_path": "/kkJB3SeUJp7Y0IXXLkv5QZHJGkH.jpg",
+        "release_date": "2026-02-04",
+        "video": false,
+        "vote_average": 7.139,
+        "vote_count": 18,
+        "popularity": 15.0647,
+        "PG": 0,
+        "release_quality": "webdl",
+        "kinopoisk_id": "6452243",
+        "imdb_id": "tt38626703",
+        "imdb_rating": "7.0",
+        "status": "released",
+        "last_air_date": "2026-06-07",
+        "countries": [
+          "Южная Корея"
+        ],
+        "genres": [
+          "История",
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2757,
+      "time": 1780842823100,
+      "card_id": "124364",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "id": 124364,
+        "original_language": "en",
+        "name": "Извне",
+        "original_name": "FROM",
+        "names": [
+          "Извне",
+          "From",
+          "Ззовні",
+          "FROM"
+        ],
+        "overview": "Затерянный в лесу американский городок пленяет каждого, кому не посчастливилось проехать его по пути — покинуть это место оказывается буквально невозможно. Днем невольные жители пытаются выстроить подобие нормального быта и найти способ выбраться, а по ночам спасаются от пугающих обитателей леса, которые приходят навестить горожан, как только заходит солнце.",
+        "poster_path": "/dFJ8exnjJoEfTlHoR58L4OlTSEu.jpg",
+        "first_air_date": "2022-02-20",
+        "video": false,
+        "vote_average": 8.442,
+        "vote_count": 3473,
+        "popularity": 692.8228,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4476885",
+        "kp_rating": "7.6",
+        "imdb_id": "tt9813792",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-06-07",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 7
+        },
+        "episode": {
+          "air_date": "2026-06-07",
+          "episode_number": 7,
+          "name": "Эпизод 7",
+          "overview": "",
+          "season_number": 4,
+          "runtime": 51,
+          "still_path": "/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
+          "vote_average": 6.333
+        }
+      },
+      "type": "episode",
+      "hash": "s4;e7",
+      "premiere": 0
+    },
+    {
       "id": 2756,
       "time": 1780822667809,
       "card_id": "1471224",
@@ -2439,225 +2665,7 @@
       "type": "episode",
       "hash": "s4;e5",
       "premiere": 0
-    },
-    {
-      "id": 2710,
-      "time": 1779010153264,
-      "card_id": "273240",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 273240,
-        "original_language": "en",
-        "name": "Вне кампуса",
-        "original_name": "Off Campus",
-        "names": [
-          "Вне кампуса",
-          "Off Campus"
-        ],
-        "overview": "События развиваются в вымышленном Брайарском университете. Отличница и поп-певица Ханна Уэллс влюблена в местную знаменитость, звезду футбола Джастина Кола, но тот не замечает девушку. Чтобы обратить на себя внимание Джастина и заставить ревновать, она заключает договор с капитаном университетской хоккейной команды Гарретом Грэхемом. Он должен сыграть роль ее жениха, а Ханна поможет ему улучшить успеваемость. Однако надежный план дает сбой.",
-        "poster_path": "/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
-        "first_air_date": "2026-05-13",
-        "video": false,
-        "vote_average": 10,
-        "vote_count": 2,
-        "popularity": 15.7958,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "11804709",
-        "kp_rating": "8.5",
-        "imdb_id": "tt33546863",
-        "status": "returning series",
-        "last_air_date": "2026-05-13",
-        "seasons": {
-          "1": 8
-        },
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2709,
-      "time": 1778934552267,
-      "card_id": "1341137",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/r19pit61EI91tnOv7U4SxHhRPlN.jpg",
-        "genre_ids": [
-          18,
-          36
-        ],
-        "id": 1341137,
-        "original_language": "en",
-        "title": "Великое пробуждение",
-        "original_title": "A Great Awakening",
-        "names": [
-          "Великое пробуждение",
-          "A Great Awakening"
-        ],
-        "overview": "На фоне становления новой нации разворачивается вдохновляющая история необычной дружбы двух выдающихся личностей - харизматичного проповедника Джорджа Уайтфилда и прагматичного мыслителя Бенджамина Франклина. Их союз, полный противоречий и взаимного уважения, меняет не только их судьбы, но и ход истории. Это драматическое повествование о вере, идеях и силе человеческих отношений в эпоху великих перемен.",
-        "poster_path": "/dXeeDRLGpTX1U97lWBAwQeeplsW.jpg",
-        "release_date": "2026-04-03",
-        "video": false,
-        "vote_average": 8,
-        "vote_count": 5,
-        "popularity": 7.6117,
-        "PG": 13,
-        "release_quality": "4K",
-        "kinopoisk_id": "11888719",
-        "imdb_id": "tt33305882",
-        "status": "released",
-        "last_air_date": "2026-05-07",
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Драма",
-          "История"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2708,
-      "time": 1778853549130,
-      "card_id": "56570",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
-        "genre_ids": [
-          18,
-          10765
-        ],
-        "id": 56570,
-        "original_language": "en",
-        "name": "Чужестранка",
-        "original_name": "Outlander",
-        "names": [
-          "Чужестранка",
-          "Outlander",
-          "Чужоземка"
-        ],
-        "overview": "Клэр, работавшая медсестрой во время Второй мировой войны, случайно перемещается во времени и попадает в 1743 год. В этом мире, полном приключений, она знакомится с шотландским рыцарем Джейми. У героев завязывается страстный роман, несмотря на то, что сердце Клэр разрывается между двумя мужчинами — Джейми и ее мужем Фрэнком, который остался в другом времени.",
-        "poster_path": "/5HdUN4MvDegqDNLAjJDTjFRWfVR.jpg",
-        "first_air_date": "2014-08-09",
-        "video": false,
-        "vote_average": 8.18,
-        "vote_count": 2831,
-        "popularity": 107.6433,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "818284",
-        "kp_rating": "8.0",
-        "imdb_id": "tt3006802",
-        "imdb_rating": "8.3",
-        "status": "returning series",
-        "last_air_date": "2026-05-15",
-        "seasons": {
-          "1": 16,
-          "2": 13,
-          "3": 13,
-          "4": 13,
-          "5": 12,
-          "6": 8,
-          "7": 16,
-          "8": 10
-        },
-        "episode": {
-          "air_date": "2026-05-15",
-          "episode_number": 10,
-          "name": "Эпизод 10",
-          "overview": "",
-          "season_number": 8,
-          "runtime": 72,
-          "still_path": "/xxfVUTzLKwoeXusluq0rbpeFzPC.jpg",
-          "vote_average": 0
-        }
-      },
-      "type": "episode",
-      "hash": "s8;e10",
-      "premiere": 0
-    },
-    {
-      "id": 2707,
-      "time": 1778835548264,
-      "card_id": "241609",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 241609,
-        "original_language": "en",
-        "name": "Друзья и соседи",
-        "original_name": "Your Friends & Neighbors",
-        "names": [
-          "Друзья и соседи",
-          "Друзья и Соседи",
-          "Your Friends & Neighbors",
-          "Your Friends and Neighbors"
-        ],
-        "overview": "После внезапного развода и потери работы крупный финансист начинает грабить богатых соседей, чтобы удержаться на плаву. Кражи у людей из того же социального слоя странным образом ободряют его, но постепенно он запутывается в смертоносной паутине.",
-        "poster_path": "/wr6dsSOfht23oiym1TcAlMN7R3k.jpg",
-        "first_air_date": "2025-04-10",
-        "video": false,
-        "vote_average": 7.604,
-        "vote_count": 211,
-        "popularity": 39.1492,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6600202",
-        "kp_rating": "7.5",
-        "imdb_id": "tt30459041",
-        "imdb_rating": "7.7",
-        "status": "returning series",
-        "last_air_date": "2026-05-15",
-        "seasons": {
-          "1": 9,
-          "2": 7
-        },
-        "episode": {
-          "air_date": "2026-05-14",
-          "episode_number": 7,
-          "name": "На востоке",
-          "overview": "Куп и Сэм проводят дикие выходные в поместье Эша в Хэмптонс. Мел заходит слишком далеко в борьбе с соседями.",
-          "season_number": 2,
-          "runtime": 57,
-          "still_path": "/oMOWpYQbjiNgGf5gPFZHyVFVmCV.jpg",
-          "vote_average": 8
-        }
-      },
-      "type": "episode",
-      "hash": "s2;e7",
-      "premiere": 0
     }
   ],
-  "duration": 7.078238010406494
+  "duration": 4.230107009410858
 }

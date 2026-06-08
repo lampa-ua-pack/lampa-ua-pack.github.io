@@ -2,6 +2,250 @@
   "secuses": true,
   "result": [
     {
+      "id": 2760,
+      "time": 1780922026107,
+      "card_id": "467914",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/nHP6HaHRZ8GHveLH5VVJSFFQ3S.jpg",
+        "genre_ids": [
+          16,
+          14,
+          10751,
+          12
+        ],
+        "id": 467914,
+        "original_language": "en",
+        "title": "Фантастичне королівство",
+        "original_title": "The Land of Sometimes",
+        "names": [
+          "Фантастичне королівство",
+          "Зачарованное королевство",
+          "The Land of Sometimes"
+        ],
+        "overview": "Близнюки Еліс та Альфі отримують чарівний годинник від свого зниклого безвісти батька-солдата. Вони переносяться у фантастичне королівство, де пори року змінюються за один день! У країні чудес герої зустрічають химерних персонажів і стикаються із захоплюючими випробуваннями на шляху до відкриття справжньої сили уяви та надії.",
+        "poster_path": "/uEZAx4Rk42hv8bfrXC9pyQPWErw.jpg",
+        "release_date": "2026-03-20",
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 1,
+        "popularity": 1.693,
+        "PG": 0,
+        "release_quality": "webdl",
+        "kinopoisk_id": "837341",
+        "imdb_id": "tt3517106",
+        "imdb_rating": "7.0",
+        "status": "released",
+        "last_air_date": "2026-06-07",
+        "countries": [
+          "United Kingdom"
+        ],
+        "genres": [
+          "Мультфільм",
+          "Фентезі",
+          "Сімейний",
+          "Пригоди"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2759,
+      "time": 1780914823092,
+      "card_id": "60625",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "id": 60625,
+        "original_language": "en",
+        "name": "Рік та Морті",
+        "original_name": "Rick and Morty",
+        "names": [
+          "Рик и Морти",
+          "Rick and Morty",
+          "Рік та Морті"
+        ],
+        "overview": "Гумористично-фантастичний мультсеріал про пригоди дідуся-винахідника Ріка та його онука-школяра Морті, яких іноді супроводжують інші члени родини: батько-невдаха Джеррі, донька-школярка Саммер та закомплексована мати Бет.",
+        "poster_path": "/tnXwqcZ98EVKuMzRtcvPRJukwI3.jpg",
+        "first_air_date": "2013-12-02",
+        "video": false,
+        "vote_average": 8.678,
+        "vote_count": 10931,
+        "popularity": 146.8555,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "685246",
+        "kp_rating": "8.9",
+        "imdb_id": "tt2861424",
+        "imdb_rating": "9.0",
+        "status": "returning series",
+        "last_air_date": "2026-06-08",
+        "seasons": {
+          "1": 11,
+          "2": 10,
+          "3": 10,
+          "4": 11,
+          "5": 14,
+          "6": 10,
+          "7": 10,
+          "8": 10,
+          "9": 3
+        },
+        "episode": {
+          "air_date": "2026-06-07",
+          "episode_number": 3,
+          "name": "Серія 3",
+          "overview": "",
+          "season_number": 9,
+          "runtime": 24,
+          "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
+          "vote_average": 8.0
+        },
+        "genres": [
+          "Мультфільм",
+          "Комедія",
+          "Науково фантастичний",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s9;e3",
+      "premiere": 0
+    },
+    {
+      "id": 2758,
+      "time": 1780904023192,
+      "card_id": "1321179",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/1s1r4OOdnU8VX2inALVTA2q94uY.jpg",
+        "genre_ids": [
+          36,
+          18
+        ],
+        "id": 1321179,
+        "original_language": "ko",
+        "title": "왕과 사는 남자",
+        "original_title": "왕과 사는 남자",
+        "names": [
+          "Королевский страж",
+          "Wanggwa saneun namja",
+          "왕과 사는 남자"
+        ],
+        "overview": "Историческая драма, действие которой происходит во времена династии Чосон.\r Староста деревни и ее жители заботятся о молодом короле, который был свергнут с престола и изгнан из дворца.",
+        "poster_path": "/kkJB3SeUJp7Y0IXXLkv5QZHJGkH.jpg",
+        "release_date": "2026-02-04",
+        "video": false,
+        "vote_average": 7.139,
+        "vote_count": 18,
+        "popularity": 15.0647,
+        "PG": 0,
+        "release_quality": "webdl",
+        "kinopoisk_id": "6452243",
+        "imdb_id": "tt38626703",
+        "imdb_rating": "7.0",
+        "status": "released",
+        "last_air_date": "2026-06-07",
+        "countries": [
+          "South Korea"
+        ],
+        "genres": [
+          "Історичний",
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2757,
+      "time": 1780842823100,
+      "card_id": "124364",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "id": 124364,
+        "original_language": "en",
+        "name": "Ззовні",
+        "original_name": "FROM",
+        "names": [
+          "Извне",
+          "From",
+          "Ззовні",
+          "FROM"
+        ],
+        "overview": "Події серіалу відбуваються в містичному містечку, розташованому в центральній частині США. Всі, хто потрапляють туди, опиняються в пастці. Мимовільні жителі борются за збереження залишків здорового глузду та шукають вихід з кошмарної ситуації, адже щоночі їм доводиться переживати напад жахливих створінь, які виходять із заходом сонця з довколишнього лісу.",
+        "poster_path": "/rvlPBfIm6CUQTGorQvf6wK8lPDH.jpg",
+        "first_air_date": "2022-02-20",
+        "video": false,
+        "vote_average": 8.442,
+        "vote_count": 3473,
+        "popularity": 692.8228,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4476885",
+        "kp_rating": "7.6",
+        "imdb_id": "tt9813792",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-06-07",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 7
+        },
+        "episode": {
+          "air_date": "2026-06-07",
+          "episode_number": 7,
+          "name": "Найкращі плани",
+          "overview": "У міру того, як на світло випливає тривожна історія Табіти та Джейд, ситуація для ще одного мешканця містечка починає ускладнюватися. Бойд хоче перевірити небезпечну гіпотезу.",
+          "season_number": 4,
+          "runtime": 51,
+          "still_path": "/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
+          "vote_average": 5.4
+        },
+        "genres": [
+          "Детектив",
+          "Драма",
+          "Науково фантастичний"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s4;e7",
+      "premiere": 0
+    },
+    {
       "id": 2756,
       "time": 1780822667809,
       "card_id": "1471224",
@@ -183,8 +427,7 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія",
-          "Жахи"
+          "Комедія"
         ]
       },
       "type": "now_playing",
@@ -241,7 +484,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.2
+          "vote_average": 9.375
         },
         "genres": [
           "Вестерн",
@@ -308,7 +551,7 @@
           "season_number": 2,
           "runtime": 56,
           "still_path": "/o3c6GyTORTJeWtW8nxNqqzxdELU.jpg",
-          "vote_average": 7.75
+          "vote_average": 7.8
         },
         "genres": [
           "Драма",
@@ -690,7 +933,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/nYIyH5KrAxivpFPDTf87Zlgzpf9.jpg",
-          "vote_average": 8.0
+          "vote_average": 7.857
         },
         "genres": [
           "Мультфільм",
@@ -929,8 +1172,8 @@
           "overview": "",
           "season_number": 4,
           "runtime": 52,
-          "still_path": "/d37q32vA2MNTfcqkAA8iuW1H8ae.jpg",
-          "vote_average": 5.7
+          "still_path": "/yfPAXLfe6YUnJ4EqpvuCk5irBWv.jpg",
+          "vote_average": 5.6
         },
         "genres": [
           "Детектив",
@@ -1051,7 +1294,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/te8KbkC5ekTltyJy3HkVYhjuJst.jpg",
-          "vote_average": 8.4
+          "vote_average": 8.65
         },
         "genres": [
           "Вестерн",
@@ -1204,7 +1447,7 @@
           "Нормал",
           "Normal"
         ],
-        "overview": "Улісс тимчасово стає шерифом у маленькому містечку Нормал у Міннесоті, де попередній шериф загинув за дивних обставин, пов'язаних із лосем. Спокій швидко закінчується: відбується напад на банк, у який втручається як місцева влада, так і японська якудза. Уллісу доводиться об'єднатися з двома грабіжниками, які виявляють несподівану людяність під час хаосу. Протистояння з корумпованим мером перетворюється на нескінченний потік брутальної та винахідливої бойні.",
+        "overview": "Улісс тимчасово обіймає посаду шерифа в невеличкому містечку Нормал, що в штаті Міннесота. Його попередник загинув за вкрай дивних обставин, до яких, як не дивно, причетний лось. Проте спокій триває недовго: на місцевий банк скоюють зухвалий напад, у який, окрім представників влади, вплутується ще й японська якудза. Уліссу доводиться об’єднатися з двома грабіжниками, які посеред цього хаосу демонструють неочікувану людяність. Конфлікт із корумпованим мером виливається в нескінченну низку жорстоких і винахідливих розправ.",
         "poster_path": "/j4gJiC0T0Lku0sX3hEUuZpvCXqV.jpg",
         "release_date": "2026-04-16",
         "video": false,
@@ -1239,7 +1482,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/4k99kV4R1bbbrsnjR205v91Xbin.jpg",
+        "backdrop_path": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
         "genre_ids": [
           27
         ],
@@ -1451,7 +1694,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
-          "vote_average": 6.7
+          "vote_average": 6.75
         },
         "genres": [
           "Кримінал",
@@ -1486,7 +1729,7 @@
           "Dear England"
         ],
         "overview": "Гарет Саутгейт возглавляет сборную Англии по футболу в момент глубокого кризиса. Команда, обремененная серией болезненных поражений и мировым антирекордом по пенальти, нуждается в перезагрузке. Тренеру предстоит изменить психологию игроков и вернуть нации утраченную футбольную гордость и славу.",
-        "poster_path": "/8kQ3TFhHMvCRfIR2y6Ug8RG2a3a.jpg",
+        "poster_path": "/8gNZM8tRj1HIxl5SxOlTD3TStsl.jpg",
         "first_air_date": "2026-05-24",
         "video": false,
         "vote_average": 0,
@@ -1576,7 +1819,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 8.7
+          "vote_average": 8.646
         },
         "genres": [
           "Мультфільм",
@@ -2607,7 +2850,7 @@
           "season_number": 4,
           "runtime": 53,
           "still_path": "/wrOtPyoXtLyTlcQupc1GYPGAuSJ.jpg",
-          "vote_average": 6.1
+          "vote_average": 5.9
         },
         "genres": [
           "Детектив",
@@ -2621,243 +2864,7 @@
       "type": "episode",
       "hash": "s4;e5",
       "premiere": 0
-    },
-    {
-      "id": 2710,
-      "time": 1779010153264,
-      "card_id": "273240",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 273240,
-        "original_language": "en",
-        "name": "Поза кампусом",
-        "original_name": "Off Campus",
-        "names": [
-          "Поза кампусом",
-          "Вне кампуса",
-          "Off Campus"
-        ],
-        "overview": "Ханна Веллс погоджується допомогти капітану хокейної команди Гаррету Ґрему завоювати дівчину, в яку він закоханий. Але їхня домовленість поступово переростає у справжній зв’язок, поки вони намагаються впоратися зі своїм минулим. Тим часом їхні друзі — Лоґан, Дін, Такер і Еллі — переживають студентське життя, дружбу та кохання.",
-        "poster_path": "/3xzbOA2BqjtsYDQiUvXO9A5ZmYg.jpg",
-        "first_air_date": "2026-05-13",
-        "video": false,
-        "vote_average": 10,
-        "vote_count": 2,
-        "popularity": 15.7958,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "11804709",
-        "kp_rating": "8.5",
-        "imdb_id": "tt33546863",
-        "status": "returning series",
-        "last_air_date": "2026-05-13",
-        "seasons": {
-          "1": 8
-        },
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2709,
-      "time": 1778934552267,
-      "card_id": "1341137",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/r19pit61EI91tnOv7U4SxHhRPlN.jpg",
-        "genre_ids": [
-          18,
-          36
-        ],
-        "id": 1341137,
-        "original_language": "en",
-        "title": "Велике пробудження",
-        "original_title": "A Great Awakening",
-        "names": [
-          "Велике пробудження",
-          "Великое пробуждение",
-          "A Great Awakening"
-        ],
-        "overview": "Одна з найвизначніших подій в історії Америки розповідає про історію несподіваної дружби між преподобним Джорджем Вайтфілдом і Бенджаміном Франкліном.",
-        "poster_path": "/dXeeDRLGpTX1U97lWBAwQeeplsW.jpg",
-        "release_date": "2026-04-03",
-        "video": false,
-        "vote_average": 8,
-        "vote_count": 5,
-        "popularity": 7.6117,
-        "PG": 13,
-        "release_quality": "4K",
-        "kinopoisk_id": "11888719",
-        "imdb_id": "tt33305882",
-        "status": "released",
-        "last_air_date": "2026-05-07",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Драма",
-          "Історичний"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2708,
-      "time": 1778853549130,
-      "card_id": "56570",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
-        "genre_ids": [
-          18,
-          10765
-        ],
-        "id": 56570,
-        "original_language": "en",
-        "name": "Чужоземка",
-        "original_name": "Outlander",
-        "names": [
-          "Чужестранка",
-          "Outlander",
-          "Чужоземка"
-        ],
-        "overview": "Клер, яка працювала медсестрою під час Другої світової війни, випадково переміщається в часі і потрапляє в 1743 рік. У цьому світі, повному пригод, вона знайомиться з шотландським лицарем Джеймі. У героїв зав'язується пристрасний роман, незважаючи на те, що серце Клер розривається між двома чоловіками - Джеймі і її чоловіком Френком, який залишився в іншому часі.",
-        "poster_path": "/tZuKy6RWPQKgyOtx8XWxpdzfQME.jpg",
-        "first_air_date": "2014-08-09",
-        "video": false,
-        "vote_average": 8.18,
-        "vote_count": 2831,
-        "popularity": 107.6433,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "818284",
-        "kp_rating": "8.0",
-        "imdb_id": "tt3006802",
-        "imdb_rating": "8.3",
-        "status": "returning series",
-        "last_air_date": "2026-05-15",
-        "seasons": {
-          "1": 16,
-          "2": 13,
-          "3": 13,
-          "4": 13,
-          "5": 12,
-          "6": 8,
-          "7": 16,
-          "8": 10
-        },
-        "episode": {
-          "air_date": "2026-05-15",
-          "episode_number": 10,
-          "name": "Серія 10",
-          "overview": "",
-          "season_number": 8,
-          "runtime": 72,
-          "still_path": "/xxfVUTzLKwoeXusluq0rbpeFzPC.jpg",
-          "vote_average": 8.6
-        },
-        "genres": [
-          "Драма",
-          "Науково фантастичний"
-        ],
-        "countries": [
-          "United Kingdom",
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s8;e10",
-      "premiere": 0
-    },
-    {
-      "id": 2707,
-      "time": 1778835548264,
-      "card_id": "241609",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 241609,
-        "original_language": "en",
-        "name": "Друзі та сусіди",
-        "original_name": "Your Friends & Neighbors",
-        "names": [
-          "Друзі та сусіди",
-          "Друзья и соседи",
-          "Друзья и Соседи",
-          "Your Friends & Neighbors",
-          "Your Friends and Neighbors"
-        ],
-        "overview": "Фінансовий титан раптово розлучається, втрачає роботу і, щоб уникнути банкрутства, починає грабувати багатих сусідів. Обкрадаючи людей зі свого соціального кола, він відчуває дивне піднесення — але поступово заплутується в смертоносному павутинні.",
-        "poster_path": "/xGURzoKwTw6B4rrOOiQLOEPNEE.jpg",
-        "first_air_date": "2025-04-10",
-        "video": false,
-        "vote_average": 7.604,
-        "vote_count": 211,
-        "popularity": 39.1492,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6600202",
-        "kp_rating": "7.5",
-        "imdb_id": "tt30459041",
-        "imdb_rating": "7.7",
-        "status": "returning series",
-        "last_air_date": "2026-05-15",
-        "seasons": {
-          "1": 9,
-          "2": 7
-        },
-        "episode": {
-          "air_date": "2026-05-14",
-          "episode_number": 7,
-          "name": "На схід",
-          "overview": "Куп і Сем проводять шалений вікенд у маєтку Еша в Гемптонзі. Мел перебирає міру в боях із сусідами.",
-          "season_number": 2,
-          "runtime": 57,
-          "still_path": "/oMOWpYQbjiNgGf5gPFZHyVFVmCV.jpg",
-          "vote_average": 7.9
-        },
-        "genres": [
-          "Драма",
-          "Кримінал"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e7",
-      "premiere": 0
     }
   ],
-  "duration": 7.078238010406494
+  "duration": 4.230107009410858
 }
