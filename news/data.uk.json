@@ -230,7 +230,7 @@
           "season_number": 4,
           "runtime": 51,
           "still_path": "/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
-          "vote_average": 5.4
+          "vote_average": 5.333
         },
         "genres": [
           "Детектив",
@@ -301,7 +301,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+        "backdrop_path": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
         "genre_ids": [
           28,
           14,
@@ -484,7 +484,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.375
+          "vote_average": 9.4
         },
         "genres": [
           "Вестерн",
@@ -551,7 +551,7 @@
           "season_number": 2,
           "runtime": 56,
           "still_path": "/o3c6GyTORTJeWtW8nxNqqzxdELU.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.9
         },
         "genres": [
           "Драма",
@@ -621,7 +621,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/oBft4BZeoDQzTT9ZGijClr76qvK.jpg",
+        "backdrop_path": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
         "genre_ids": [
           28,
           53
@@ -669,7 +669,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+        "backdrop_path": "/tqxImBSRPrWPvZuuCr2dPw1auqA.jpg",
         "genre_ids": [
           18,
           9648,
@@ -714,7 +714,7 @@
           "season_number": 1,
           "runtime": 34,
           "still_path": "/eh3wez62jJ79krAvtgWLRVStUZj.jpg",
-          "vote_average": 8.438
+          "vote_average": 8.35
         },
         "genres": [
           "Драма",
@@ -933,7 +933,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/nYIyH5KrAxivpFPDTf87Zlgzpf9.jpg",
-          "vote_average": 7.857
+          "vote_average": 7.938
         },
         "genres": [
           "Мультфільм",
@@ -1052,7 +1052,7 @@
           "season_number": 3,
           "runtime": 93,
           "still_path": "/lUEO2hUElwsGyPcEmf1Z34xywyZ.jpg",
-          "vote_average": 7.636
+          "vote_average": 7.333
         },
         "genres": [
           "Драма"
@@ -1294,7 +1294,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/te8KbkC5ekTltyJy3HkVYhjuJst.jpg",
-          "vote_average": 8.65
+          "vote_average": 8.7
         },
         "genres": [
           "Вестерн",
@@ -1482,7 +1482,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+        "backdrop_path": "/4k99kV4R1bbbrsnjR205v91Xbin.jpg",
         "genre_ids": [
           27
         ],
@@ -1516,8 +1516,7 @@
           "United Kingdom"
         ],
         "genres": [
-          "Жахи",
-          "Трилер"
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -1531,7 +1530,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+        "backdrop_path": "/tqxImBSRPrWPvZuuCr2dPw1auqA.jpg",
         "genre_ids": [
           18,
           9648,
@@ -1598,7 +1597,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
+        "backdrop_path": "/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
         "genre_ids": [
           10759,
           80,
@@ -1636,9 +1635,9 @@
           "United States of America"
         ],
         "genres": [
-          "Кримінал",
           "Драма",
-          "Детектив"
+          "Детектив",
+          "Кримінал"
         ]
       },
       "type": "now_playing",
@@ -1652,7 +1651,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
+        "backdrop_path": "/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
         "genre_ids": [
           10759,
           80,
@@ -1694,12 +1693,12 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
-          "vote_average": 6.75
+          "vote_average": 6.8
         },
         "genres": [
-          "Кримінал",
           "Драма",
-          "Детектив"
+          "Детектив",
+          "Кримінал"
         ],
         "countries": [
           "United States of America"
@@ -2527,7 +2526,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/fEpbmTvcp5ezmogpprVtlzdpnKl.jpg",
-          "vote_average": 5.896
+          "vote_average": 5.9
         },
         "genres": [
           "Науково фантастичний",
@@ -2654,7 +2653,7 @@
           "overview": "",
           "season_number": 1,
           "runtime": 47,
-          "still_path": "/zXO11LCZeFBjBhnSAK9zlzEsJxu.jpg",
+          "still_path": "/sKkVo26hfshCSd6B02FER0qixz3.jpg",
           "vote_average": 9.1
         },
         "genres": [
@@ -2866,5 +2865,5 @@
       "premiere": 0
     }
   ],
-  "duration": 4.230107009410858
+  "duration": 8.927136957645416
 }
