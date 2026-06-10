@@ -2,6 +2,66 @@
   "secuses": true,
   "result": [
     {
+      "id": 2761,
+      "time": 1781094827622,
+      "card_id": "276161",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+        "genre_ids": [
+          10759,
+          18,
+          35
+        ],
+        "id": 276161,
+        "original_language": "ko",
+        "name": "Пусть послужит вам уроком",
+        "original_name": "참교육",
+        "names": [
+          "Истинное образование",
+          "Chamgyoyuk",
+          "Teach You a Lesson / Преподать урок",
+          "참교육",
+          "Chamgyoyuk /  Teach You a Lesson",
+          "Истинное образование / Пусть послужит вам уроком",
+          "Пусть послужит вам уроком"
+        ],
+        "overview": "Когда в школах рушится уважение, на место выезжают необычные инспекторы, чтобы навести порядок — с помощью жестких и прагматичных уроков, которых не найдешь в учебниках.",
+        "poster_path": "/k5XFkspikw2fGcXZ1GwbTRhzJHy.jpg",
+        "first_air_date": "2026-06-05",
+        "video": false,
+        "vote_average": 9.159,
+        "vote_count": 104,
+        "popularity": 330.2432,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "6648249",
+        "imdb_id": "tt34809853",
+        "status": "ended",
+        "last_air_date": "2026-06-05",
+        "seasons": {
+          "1": 10
+        },
+        "episode": {
+          "air_date": "2026-06-05",
+          "episode_number": 10,
+          "name": "Эпизод 10",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 61,
+          "still_path": "/qkTZFEkWGi8GijSSwKHryagi0sZ.jpg",
+          "vote_average": 10
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e10",
+      "premiere": 0
+    },
+    {
       "id": 2760,
       "time": 1780922026107,
       "card_id": "467914",
@@ -2603,69 +2663,7 @@
       "type": "episode",
       "hash": "s3;e6",
       "premiere": 0
-    },
-    {
-      "id": 2711,
-      "time": 1779042429523,
-      "card_id": "124364",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
-        "genre_ids": [
-          9648,
-          18,
-          10765
-        ],
-        "id": 124364,
-        "original_language": "en",
-        "name": "Извне",
-        "original_name": "FROM",
-        "names": [
-          "Извне",
-          "From",
-          "Ззовні",
-          "FROM"
-        ],
-        "overview": "Затерянный в лесу американский городок пленяет каждого, кому не посчастливилось проехать его по пути — покинуть это место оказывается буквально невозможно. Днем невольные жители пытаются выстроить подобие нормального быта и найти способ выбраться, а по ночам спасаются от пугающих обитателей леса, которые приходят навестить горожан, как только заходит солнце.",
-        "poster_path": "/dFJ8exnjJoEfTlHoR58L4OlTSEu.jpg",
-        "first_air_date": "2022-02-20",
-        "video": false,
-        "vote_average": 8.345,
-        "vote_count": 3135,
-        "popularity": 546.462,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4476885",
-        "kp_rating": "7.6",
-        "imdb_id": "tt9813792",
-        "imdb_rating": "7.8",
-        "status": "returning series",
-        "last_air_date": "2026-05-17",
-        "seasons": {
-          "1": 10,
-          "2": 10,
-          "3": 10,
-          "4": 5
-        },
-        "episode": {
-          "air_date": "2026-05-17",
-          "episode_number": 5,
-          "name": "Эпизод 5",
-          "overview": "",
-          "season_number": 4,
-          "runtime": 52,
-          "still_path": "/tCvMSBNefJ637Me2174PKwrX53i.jpg",
-          "vote_average": 6.833
-        }
-      },
-      "type": "episode",
-      "hash": "s4;e5",
-      "premiere": 0
     }
   ],
-  "duration": 8.927136957645416
+  "duration": 4.6110740303993225
 }
