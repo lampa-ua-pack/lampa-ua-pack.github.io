@@ -2,6 +2,178 @@
   "secuses": true,
   "result": [
     {
+      "id": 2764,
+      "time": 1781192023228,
+      "card_id": "1555331",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/l437c1NjyPl6jL1qZla7WeUlxFi.jpg",
+        "genre_ids": [
+          28,
+          35
+        ],
+        "id": 1555331,
+        "original_language": "tr",
+        "title": "D.I.S.C.O.",
+        "original_title": "D.I.S.C.O.",
+        "names": [
+          "Д.И.С.К.О.",
+          "D.I.S.C.O."
+        ],
+        "overview": "У отстранённого от работы шпиона отпуск идёт под откос, когда парикмахер раскрывает его личность и шантажом заставляет вместе завершить проваленную миссию. А тут ещё и их жёны неожиданно вступают в игру.",
+        "poster_path": "/zNjm76IFBxiXMZ7ldWrVSudWeqo.jpg",
+        "release_date": "2026-01-01",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 8,
+        "popularity": 8.7043,
+        "PG": 12,
+        "release_quality": "webdl",
+        "kinopoisk_id": "11091609",
+        "imdb_id": "tt39105882",
+        "imdb_rating": "7.2",
+        "status": "released",
+        "last_air_date": "2026-06-11",
+        "countries": [
+          "Turkey"
+        ],
+        "genres": [
+          "Бойовик",
+          "Комедія"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2763,
+      "time": 1781161429722,
+      "card_id": "276161",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+        "genre_ids": [
+          10759,
+          18,
+          35
+        ],
+        "id": 276161,
+        "original_language": "ko",
+        "name": "Дам тобі науку",
+        "original_name": "참교육",
+        "names": [
+          "Дам тобі науку",
+          "Истинное образование",
+          "Chamgyoyuk",
+          "Teach You a Lesson / Преподать урок",
+          "참교육",
+          "Chamgyoyuk /  Teach You a Lesson",
+          "Истинное образование / Пусть послужит вам уроком",
+          "Пусть послужит вам уроком"
+        ],
+        "overview": "Коли в школах зникає повага, прибувають незвичайні інспектори, що наводять лад за допомогою жорстких безкомпромісних уроків, яких не знайти в підручниках.",
+        "poster_path": "/36BnxmIvWvOsMmlQfbI0ilTfuvh.jpg",
+        "first_air_date": "2026-06-05",
+        "video": false,
+        "vote_average": 9.159,
+        "vote_count": 104,
+        "popularity": 330.2432,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "6648249",
+        "imdb_id": "tt34809853",
+        "status": "ended",
+        "last_air_date": "2026-06-05",
+        "seasons": {
+          "1": 10
+        },
+        "countries": [
+          "South Korea"
+        ],
+        "genres": [
+          "Екшн і Пригоди",
+          "Драма",
+          "Комедія"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2762,
+      "time": 1781112823120,
+      "card_id": "270476",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          35
+        ],
+        "id": 270476,
+        "original_language": "en",
+        "name": "Відоус-Бей",
+        "original_name": "Widow's Bay",
+        "names": [
+          "Відоус-Бей",
+          "Бухта вдов",
+          "Widow's Bay",
+          "Уидоус-Бэй",
+          "Widows Bay"
+        ],
+        "overview": "Мер містечка в Новій Англії має намір перетворити його на туристичну принаду, попри застереження місцевих про те, що це місце прокляте.",
+        "poster_path": "/r9LY3JmgL8CcUKDOEKQZHsOaIcP.jpg",
+        "first_air_date": "2026-04-28",
+        "video": false,
+        "vote_average": 8.279,
+        "vote_count": 120,
+        "popularity": 75.0716,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6555657",
+        "kp_rating": "7.6",
+        "imdb_id": "tt33332385",
+        "status": "returning series",
+        "last_air_date": "2026-06-10",
+        "seasons": {
+          "1": 9
+        },
+        "episode": {
+          "air_date": "2026-06-09",
+          "episode_number": 9,
+          "name": "Аварійне укриття",
+          "overview": "Знайдіть, будь ласка, укриття, раптом острів накриє багатовіковий шторм і занурить нас у темряву. Пограйте в карти.",
+          "season_number": 1,
+          "runtime": 32,
+          "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
+          "vote_average": 7.8
+        },
+        "genres": [
+          "Драма",
+          "Детектив",
+          "Комедія"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e9",
+      "premiere": 0
+    },
+    {
       "id": 2761,
       "time": 1781094827622,
       "card_id": "276161",
@@ -181,7 +353,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.667
+          "vote_average": 8.7
         },
         "genres": [
           "Мультфільм",
@@ -370,7 +542,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+        "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
         "genre_ids": [
           28,
           14,
@@ -641,7 +813,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/woZX9wZaiX70LbW7bOeNccNTIhp.jpg",
+        "backdrop_path": "/n7WeIugzFXXkkCO6ps3GClKvn7V.jpg",
         "genre_ids": [
           27
         ],
@@ -1464,7 +1636,7 @@
           "World War II with Tom Hanks"
         ],
         "overview": "В сериале рассматривается Вторая мировая война, начиная с вторжения Германии в Польшу и заканчивая атомной эрой, анализируются ключевые сражения, лидеры военного времени, такие как Черчилль и Рузвельт, и человеческие жертвы тотальной войны.",
-        "poster_path": "/MPN0glmZV3JnZfmXtKF32SRhDD.jpg",
+        "poster_path": "/yOTuMOr3iACTrbm0w1OrCRSewEg.jpg",
         "first_air_date": "2026-05-25",
         "video": false,
         "vote_average": 0,
@@ -1585,7 +1757,8 @@
           "United Kingdom"
         ],
         "genres": [
-          "Жахи"
+          "Жахи",
+          "Трилер"
         ]
       },
       "type": "now_playing",
@@ -1762,7 +1935,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
-          "vote_average": 6.8
+          "vote_average": 6.923
         },
         "genres": [
           "Драма",
@@ -1887,7 +2060,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.7
         },
         "genres": [
           "Мультфільм",
@@ -2595,7 +2768,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/fEpbmTvcp5ezmogpprVtlzdpnKl.jpg",
-          "vote_average": 5.9
+          "vote_average": 5.952
         },
         "genres": [
           "Науково фантастичний",
@@ -2659,7 +2832,7 @@
           "season_number": 1,
           "runtime": 81,
           "still_path": "/tJ2zB1JvroPpSZQWhjykGjcWu2s.jpg",
-          "vote_average": 8.2
+          "vote_average": 6.8
         },
         "genres": [
           "Драма",
@@ -2673,196 +2846,7 @@
       "type": "episode",
       "hash": "s1;e8",
       "premiere": 0
-    },
-    {
-      "id": 2714,
-      "time": 1779132430543,
-      "card_id": "299167",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-        "genre_ids": [
-          37,
-          18
-        ],
-        "id": 299167,
-        "original_language": "en",
-        "name": "Ранчо Даттонів",
-        "original_name": "Dutton Ranch",
-        "names": [
-          "Ранчо Даттонів",
-          "Ранчо Даттонов",
-          "Dutton Ranch",
-          "The Dutton Ranch"
-        ],
-        "overview": "Бет Даттон і Ріп Вілер борються за виживання на своєму улюбленому ранчо площею 7000 акрів в умовах важких часів і жорсткої конкуренції, водночас намагаючись допомогти юному Картеру стати тим чоловіком, яким він має бути.",
-        "poster_path": "/dtKW23O5tfxq7EXUsfeLgBx7gy1.jpg",
-        "first_air_date": "2026-05-15",
-        "video": false,
-        "vote_average": 9.2,
-        "vote_count": 22,
-        "popularity": 74.9897,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7275308",
-        "imdb_id": "tt34991493",
-        "status": "returning series",
-        "last_air_date": "2026-05-18",
-        "seasons": {
-          "1": 2
-        },
-        "episode": {
-          "air_date": "2026-05-15",
-          "episode_number": 2,
-          "name": "Серія 2",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 47,
-          "still_path": "/sKkVo26hfshCSd6B02FER0qixz3.jpg",
-          "vote_average": 9.1
-        },
-        "genres": [
-          "Вестерн",
-          "Драма"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e2",
-      "premiere": 0
-    },
-    {
-      "id": 2713,
-      "time": 1779114429558,
-      "card_id": "273240",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 273240,
-        "original_language": "en",
-        "name": "Поза кампусом",
-        "original_name": "Off Campus",
-        "names": [
-          "Поза кампусом",
-          "Вне кампуса",
-          "Off Campus"
-        ],
-        "overview": "Ханна Веллс погоджується допомогти капітану хокейної команди Гаррету Ґрему завоювати дівчину, в яку він закоханий. Але їхня домовленість поступово переростає у справжній зв’язок, поки вони намагаються впоратися зі своїм минулим. Тим часом їхні друзі — Лоґан, Дін, Такер і Еллі — переживають студентське життя, дружбу та кохання.",
-        "poster_path": "/3xzbOA2BqjtsYDQiUvXO9A5ZmYg.jpg",
-        "first_air_date": "2026-05-13",
-        "video": false,
-        "vote_average": 8.854,
-        "vote_count": 102,
-        "popularity": 242.6623,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "11804709",
-        "kp_rating": "8.3",
-        "imdb_id": "tt33546863",
-        "status": "returning series",
-        "last_air_date": "2026-05-18",
-        "seasons": {
-          "1": 8
-        },
-        "episode": {
-          "air_date": "2026-05-13",
-          "episode_number": 8,
-          "name": "Серія 8",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 56,
-          "still_path": "/oV8Uxf6VRrV5oAjCmwcGAlfkhno.jpg",
-          "vote_average": 9.111
-        },
-        "genres": [
-          "Драма"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e8",
-      "premiere": 0
-    },
-    {
-      "id": 2712,
-      "time": 1779096429499,
-      "card_id": "85552",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 85552,
-        "original_language": "en",
-        "name": "Ейфорія",
-        "original_name": "Euphoria",
-        "names": [
-          "Эйфория",
-          "Euphoria",
-          "Ейфорія"
-        ],
-        "overview": "У центрі історії — 17-річна Ру Беннетт, яка повернулася до рідного дому після лікування в реабілітаційній клініці. Не гаючи часу, вона знову береться за старі звички — наркотики й тусовки. Однак поява в місті дівчини Джулс стає для Ру знаком надії.",
-        "poster_path": "/nsZkLSw1d0le18B8F0B5VMv6QKJ.jpg",
-        "first_air_date": "2019-06-16",
-        "video": false,
-        "vote_average": 8.285,
-        "vote_count": 10625,
-        "popularity": 241.7235,
-        "PG": 18,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1178445",
-        "kp_rating": "7.5",
-        "imdb_id": "tt8772296",
-        "imdb_rating": "8.2",
-        "status": "returning series",
-        "last_air_date": "2026-05-18",
-        "seasons": {
-          "1": 10,
-          "2": 8,
-          "3": 6
-        },
-        "episode": {
-          "air_date": "2026-05-17",
-          "episode_number": 6,
-          "name": "Серія 6",
-          "overview": "",
-          "season_number": 3,
-          "runtime": 60,
-          "still_path": "/oHlluigr7ecEcChDkOVepSZijun.jpg",
-          "vote_average": 6.9
-        },
-        "genres": [
-          "Драма"
-        ],
-        "countries": [
-          "United States of America",
-          "Israel"
-        ]
-      },
-      "type": "episode",
-      "hash": "s3;e6",
-      "premiere": 0
     }
   ],
-  "duration": 4.6110740303993225
+  "duration": 7.209219932556152
 }
