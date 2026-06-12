@@ -227,7 +227,7 @@
           "season_number": 1,
           "runtime": 61,
           "still_path": "/qkTZFEkWGi8GijSSwKHryagi0sZ.jpg",
-          "vote_average": 10.0
+          "vote_average": 9.0
         },
         "genres": [
           "Екшн і Пригоди",
@@ -353,7 +353,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.7
+          "vote_average": 8.2
         },
         "genres": [
           "Мультфільм",
@@ -542,7 +542,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+        "backdrop_path": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
         "genre_ids": [
           28,
           14,
@@ -725,7 +725,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.25
+          "vote_average": 9.4
         },
         "genres": [
           "Вестерн",
@@ -1174,7 +1174,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/nYIyH5KrAxivpFPDTf87Zlgzpf9.jpg",
-          "vote_average": 7.9
+          "vote_average": 7.722
         },
         "genres": [
           "Мультфільм",
@@ -1535,7 +1535,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/te8KbkC5ekTltyJy3HkVYhjuJst.jpg",
-          "vote_average": 8.7
+          "vote_average": 8.773
         },
         "genres": [
           "Вестерн",
@@ -1935,7 +1935,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
-          "vote_average": 6.923
+          "vote_average": 6.963
         },
         "genres": [
           "Драма",
@@ -2538,7 +2538,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/gMIvnKoLxE5BngLlDXaCoufFdOW.jpg",
-          "vote_average": 8.8
+          "vote_average": 8.875
         },
         "genres": [
           "Вестерн",
@@ -2605,7 +2605,7 @@
           "season_number": 2,
           "runtime": 57,
           "still_path": "/r18w0RYSIqdEzaOyCaYFpIW8gNE.jpg",
-          "vote_average": 8.2
+          "vote_average": 8.429
         },
         "genres": [
           "Драма",
@@ -2848,5 +2848,5 @@
       "premiere": 0
     }
   ],
-  "duration": 7.209219932556152
+  "duration": 6.531085014343262
 }
