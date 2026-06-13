@@ -2,6 +2,158 @@
   "secuses": true,
   "result": [
     {
+      "id": 2767,
+      "time": 1781346823171,
+      "card_id": "299167",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "id": 299167,
+        "original_language": "en",
+        "name": "Ранчо Даттонов",
+        "original_name": "Dutton Ranch",
+        "names": [
+          "Ранчо Даттонов",
+          "Dutton Ranch",
+          "The Dutton Ranch"
+        ],
+        "overview": "Ранчо Даттонов - дом Бет и Рипа, стало символом той жизни, о которой они мечтали, за которую отчаянно боролись и ради которой едва не пожертвовали всем. Они всей душой привязались к своей земле площадью 7000 акров, превратив её в место, которое готовы защищать любой ценой. Даже в самые тяжёлые времена Бет и Рип делают всё возможное, чтобы выстоять, сохранить своё ранчо и обеспечить достойное будущее себе и своему приёмному сыну Картеру.",
+        "poster_path": "/mmxsx98NnY56CvataUqM1ktt14O.jpg",
+        "first_air_date": "2026-05-15",
+        "video": false,
+        "vote_average": 9.3,
+        "vote_count": 237,
+        "popularity": 143.0673,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "7275308",
+        "kp_rating": "8.6",
+        "imdb_id": "tt34991493",
+        "status": "returning series",
+        "last_air_date": "2026-06-12",
+        "seasons": {
+          "1": 6
+        },
+        "episode": {
+          "air_date": "2026-06-12",
+          "episode_number": 6,
+          "name": "Эпизод 6",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 41,
+          "still_path": "/oiZzteUTrSJhUjZTPN4MtrWtl1a.jpg",
+          "vote_average": 8
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e6",
+      "premiere": 0
+    },
+    {
+      "id": 2766,
+      "time": 1781336023258,
+      "card_id": "1280738",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
+        "genre_ids": [
+          28,
+          80
+        ],
+        "id": 1280738,
+        "original_language": "en",
+        "title": "Живая ярость",
+        "original_title": "火遮眼",
+        "names": [
+          "Живая ярость",
+          "Fo ze ngaan",
+          "火遮眼"
+        ],
+        "overview": "Когда дочь мастера-ремесленника Ван Вэя похищает преступная группировка, тот самостоятельно отправляется на поиски. Его единственным союзником становится Навин — неутомимый журналист, чья жена таинственно исчезла. Мужчинам из разных слоёв общества предстоит научиться доверять друг другу и сотрудничать, используя навыки рукопашного боя, полученные благодаря их тайному прошлому.",
+        "poster_path": "/jAN5WQstlgSMsbLISH59Sx7cYfu.jpg",
+        "release_date": "2026-06-10",
+        "video": false,
+        "vote_average": 8.6,
+        "vote_count": 7,
+        "popularity": 91.0011,
+        "PG": 18,
+        "release_quality": "ts",
+        "kinopoisk_id": "6292456",
+        "imdb_id": "tt33311069",
+        "imdb_rating": "7.9",
+        "status": "released",
+        "last_air_date": "2026-06-12",
+        "countries": [
+          "Гонконг",
+          "США",
+          "Китай"
+        ],
+        "genres": [
+          "Боевик",
+          "Криминал"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2765,
+      "time": 1781332428522,
+      "card_id": "1275779",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+        "genre_ids": [
+          9648,
+          878,
+          53
+        ],
+        "id": 1275779,
+        "original_language": "en",
+        "title": "День разоблачения",
+        "original_title": "Disclosure Day",
+        "names": [
+          "День разоблачения",
+          "Disclosure Day"
+        ],
+        "overview": "Человечество узнаёт о прибытии на Землю инопланетян, чьё существование долгое время тщательно скрывалось.",
+        "poster_path": "/wTGKPO2eFnX3CHmZke2ugqlCqQ8.jpg",
+        "release_date": "2026-06-10",
+        "video": false,
+        "vote_average": 7.82,
+        "vote_count": 50,
+        "popularity": 162.3728,
+        "PG": 12,
+        "release_quality": "ts",
+        "kinopoisk_id": "4510025",
+        "imdb_id": "tt15047880",
+        "status": "released",
+        "last_air_date": "2026-06-12",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Боевик",
+          "Фантастика",
+          "Триллер"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2764,
       "time": 1781192023228,
       "card_id": "1555331",
@@ -2494,171 +2646,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2717,
-      "time": 1779393429794,
-      "card_id": "1380291",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/dd31qJxOarrHyGZwYsCzOjobQzP.jpg",
-        "genre_ids": [
-          28,
-          53,
-          18
-        ],
-        "id": 1380291,
-        "original_language": "en",
-        "title": "Джек Райан: Призрачная война",
-        "original_title": "Tom Clancy's Jack Ryan: Ghost War",
-        "names": [
-          "Джек Райан: Призрачная война",
-          "Tom Clancy's Jack Ryan: Ghost War",
-          "Jack Ryan: Ghost War"
-        ],
-        "overview": "Джек Райан воссоединяется с агентами ЦРУ чтобы распутать коварную паутину предательства против врага, знающего каждый их шаг, и сталкивается с прошлым.",
-        "poster_path": "/wbmps0qH0lji0WyfNEWJiK31fUs.jpg",
-        "release_date": "2026-05-20",
-        "video": false,
-        "vote_average": 7,
-        "vote_count": 3,
-        "popularity": 11.3652,
-        "PG": 17,
-        "release_quality": "4K",
-        "kinopoisk_id": "6458125",
-        "imdb_id": "tt34378301",
-        "status": "released",
-        "last_air_date": "2026-05-21",
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Боевик",
-          "Триллер"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2716,
-      "time": 1779294429580,
-      "card_id": "76479",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-        "genre_ids": [
-          10765,
-          10759
-        ],
-        "id": 76479,
-        "original_language": "en",
-        "name": "Пацаны",
-        "original_name": "The Boys",
-        "names": [
-          "Пацаны",
-          "The Boys",
-          "Хлопці / Хлопаки"
-        ],
-        "overview": "2000-ые, мир, где существуют супергерои. Они являются настоящими звёздами, которых все знают и обожают. Но за идеальным фасадом скрывается гораздо более мрачный мир - большинство героев в жизни не самые приятные люди. Для контроля за супергероями ЦРУ создаёт специальный отряд, неофициально известный как \"Пацаны\" - суровые члены которого всегда готовы поставить зазнавшегося героя на место самым жестоким способом.",
-        "poster_path": "/8QGxRzHbzs4ihjy4afaUdlsROBD.jpg",
-        "first_air_date": "2019-07-25",
-        "video": false,
-        "vote_average": 8.459,
-        "vote_count": 12360,
-        "popularity": 634.2452,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "460586",
-        "kp_rating": "8.3",
-        "imdb_id": "tt1190634",
-        "imdb_rating": "8.6",
-        "status": "returning series",
-        "last_air_date": "2026-05-20",
-        "seasons": {
-          "1": 8,
-          "2": 8,
-          "3": 8,
-          "4": 8,
-          "5": 8
-        },
-        "episode": {
-          "air_date": "2026-05-20",
-          "episode_number": 8,
-          "name": "Эпизод 8",
-          "overview": "",
-          "season_number": 5,
-          "runtime": 67,
-          "still_path": "/mT4DLPaS25esfuu9YlgUjsL9IJg.jpg",
-          "vote_average": 6.4
-        }
-      },
-      "type": "episode",
-      "hash": "s5;e8",
-      "premiere": 0
-    },
-    {
-      "id": 2715,
-      "time": 1779186431635,
-      "card_id": "308014",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/ntPgSYKwPg9xKO4VvLJYfInSyZa.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 308014,
-        "original_language": "es",
-        "name": "Берлин и Дама с горностаем",
-        "original_name": "Berlín y la dama del armiño",
-        "names": [
-          "Берлин и Дама с горностаем",
-          "Berlín y la dama del armiño",
-          "Berlin and the Lady with an Ermine",
-          "Берлин и дама с горностаем"
-        ],
-        "overview": "Готовясь к новому делу, Берлин призывает банду в Севилью и делает зазнавшегося герцога жертвой его собственного плана: украсть шедевр Леонардо да Винчи.",
-        "poster_path": "/2D05OU4TJromu7Bo192YZSTpPkr.jpg",
-        "first_air_date": "2026-05-15",
-        "video": false,
-        "vote_average": 7.2,
-        "vote_count": 21,
-        "popularity": 177.3909,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "ES"
-        ],
-        "kinopoisk_id": "12394283",
-        "imdb_id": "tt42178219",
-        "status": "ended",
-        "last_air_date": "2026-05-18",
-        "seasons": {
-          "1": 8
-        },
-        "episode": {
-          "air_date": "2026-05-15",
-          "episode_number": 8,
-          "name": "Счастье принадлежит тому, кто любит",
-          "overview": "После вечеринки в Пеньисколе Берлин кардинально меняет планы. Сможет ли он с командой провернуть величайшее ограбление в истории?",
-          "season_number": 1,
-          "runtime": 82,
-          "still_path": "/tJ2zB1JvroPpSZQWhjykGjcWu2s.jpg",
-          "vote_average": 7.5
-        }
-      },
-      "type": "episode",
-      "hash": "s1;e8",
-      "premiere": 0
     }
   ],
-  "duration": 6.531085014343262
+  "duration": 4.776033997535706
 }

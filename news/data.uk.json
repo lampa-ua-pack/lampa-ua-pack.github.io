@@ -2,6 +2,168 @@
   "secuses": true,
   "result": [
     {
+      "id": 2767,
+      "time": 1781346823171,
+      "card_id": "299167",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "id": 299167,
+        "original_language": "en",
+        "name": "Ранчо Даттонів",
+        "original_name": "Dutton Ranch",
+        "names": [
+          "Ранчо Даттонів",
+          "Ранчо Даттонов",
+          "Dutton Ranch",
+          "The Dutton Ranch"
+        ],
+        "overview": "Бет Даттон і Ріп Вілер борються за виживання на своєму улюбленому ранчо площею 7000 акрів в умовах важких часів і жорсткої конкуренції, водночас намагаючись допомогти юному Картеру стати тим чоловіком, яким він має бути.",
+        "poster_path": "/dtKW23O5tfxq7EXUsfeLgBx7gy1.jpg",
+        "first_air_date": "2026-05-15",
+        "video": false,
+        "vote_average": 9.3,
+        "vote_count": 237,
+        "popularity": 143.0673,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "7275308",
+        "kp_rating": "8.6",
+        "imdb_id": "tt34991493",
+        "status": "returning series",
+        "last_air_date": "2026-06-12",
+        "seasons": {
+          "1": 6
+        },
+        "episode": {
+          "air_date": "2026-06-12",
+          "episode_number": 6,
+          "name": "Серія 6",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 41,
+          "still_path": "/oiZzteUTrSJhUjZTPN4MtrWtl1a.jpg",
+          "vote_average": 8.0
+        },
+        "genres": [
+          "Вестерн",
+          "Драма"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e6",
+      "premiere": 0
+    },
+    {
+      "id": 2766,
+      "time": 1781336023258,
+      "card_id": "1280738",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
+        "genre_ids": [
+          28,
+          80
+        ],
+        "id": 1280738,
+        "original_language": "en",
+        "title": "Він шалений",
+        "original_title": "火遮眼",
+        "names": [
+          "Він шалений",
+          "Живая ярость",
+          "Fo ze ngaan",
+          "火遮眼"
+        ],
+        "overview": "Батько вступає у відчайдушну боротьбу з торговцями людьми, які викрали його доньку. Разом із напарником, який також шукає дружину, вони битимуться з кожним, щоб урятувати найдорожчих!",
+        "poster_path": "/o4HLyElxG8KX1MHUeIDLfe8StAD.jpg",
+        "release_date": "2026-06-10",
+        "video": false,
+        "vote_average": 8.6,
+        "vote_count": 7,
+        "popularity": 91.0011,
+        "PG": 18,
+        "release_quality": "ts",
+        "kinopoisk_id": "6292456",
+        "imdb_id": "tt33311069",
+        "imdb_rating": "7.9",
+        "status": "released",
+        "last_air_date": "2026-06-12",
+        "countries": [
+          "Hong Kong",
+          "United States of America",
+          "China"
+        ],
+        "genres": [
+          "Бойовик",
+          "Кримінал"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2765,
+      "time": 1781332428522,
+      "card_id": "1275779",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+        "genre_ids": [
+          9648,
+          878,
+          53
+        ],
+        "id": 1275779,
+        "original_language": "en",
+        "title": "День істини",
+        "original_title": "Disclosure Day",
+        "names": [
+          "День істини",
+          "День разоблачения",
+          "Disclosure Day"
+        ],
+        "overview": "Якби ви дізналися, що ми не самі у Всесвіті, — якби хтось показав вам це, якби довів, — чи злякало б це вас? Цього літа правда належить семи мільярдам людей. Ми наближаємося до… Дня істини.",
+        "poster_path": "/b7OyH5StSuM8jNVU30Yi90GazGA.jpg",
+        "release_date": "2026-06-10",
+        "video": false,
+        "vote_average": 7.82,
+        "vote_count": 50,
+        "popularity": 162.3728,
+        "PG": 12,
+        "release_quality": "ts",
+        "kinopoisk_id": "4510025",
+        "imdb_id": "tt15047880",
+        "status": "released",
+        "last_air_date": "2026-06-12",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Бойовик",
+          "Фантастика",
+          "Трилер"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2764,
       "time": 1781192023228,
       "card_id": "1555331",
@@ -158,7 +320,7 @@
           "season_number": 1,
           "runtime": 32,
           "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.857
         },
         "genres": [
           "Драма",
@@ -353,7 +515,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.2
+          "vote_average": 8.167
         },
         "genres": [
           "Мультфільм",
@@ -423,7 +585,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
+        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
         "genre_ids": [
           9648,
           18,
@@ -542,7 +704,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+        "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
         "genre_ids": [
           28,
           14,
@@ -668,7 +830,8 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія"
+          "Комедія",
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -725,7 +888,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.4
+          "vote_average": 9.188
         },
         "genres": [
           "Вестерн",
@@ -955,7 +1118,7 @@
           "season_number": 1,
           "runtime": 34,
           "still_path": "/eh3wez62jJ79krAvtgWLRVStUZj.jpg",
-          "vote_average": 8.136
+          "vote_average": 8.1
         },
         "genres": [
           "Драма",
@@ -1174,7 +1337,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/nYIyH5KrAxivpFPDTf87Zlgzpf9.jpg",
-          "vote_average": 7.722
+          "vote_average": 8.091
         },
         "genres": [
           "Мультфільм",
@@ -1293,7 +1456,7 @@
           "season_number": 3,
           "runtime": 93,
           "still_path": "/lUEO2hUElwsGyPcEmf1Z34xywyZ.jpg",
-          "vote_average": 7.3
+          "vote_average": 7.231
         },
         "genres": [
           "Драма"
@@ -1366,7 +1529,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
+        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
         "genre_ids": [
           9648,
           18,
@@ -1935,7 +2098,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
-          "vote_average": 6.963
+          "vote_average": 7.0
         },
         "genres": [
           "Драма",
@@ -2060,7 +2223,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 8.7
+          "vote_average": 8.712
         },
         "genres": [
           "Мультфільм",
@@ -2179,7 +2342,7 @@
           "season_number": 3,
           "runtime": 78,
           "still_path": "/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg",
-          "vote_average": 6.7
+          "vote_average": 6.692
         },
         "genres": [
           "Драма"
@@ -2664,189 +2827,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2717,
-      "time": 1779393429794,
-      "card_id": "1380291",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/dd31qJxOarrHyGZwYsCzOjobQzP.jpg",
-        "genre_ids": [
-          28,
-          53,
-          18
-        ],
-        "id": 1380291,
-        "original_language": "en",
-        "title": "Джек Раян: Війна привидів",
-        "original_title": "Tom Clancy's Jack Ryan: Ghost War",
-        "names": [
-          "Джек Раян: Війна привидів",
-          "Джек Райан: Призрачная война",
-          "Tom Clancy's Jack Ryan: Ghost War",
-          "Jack Ryan: Ghost War"
-        ],
-        "overview": "Історія про Джека Раяна, який знову об’єднується з оперативниками ЦРУ, щоб пройти крізь небезпечну мережу зрад і протистояти ворогу, що знає кожен їхній крок, водночас стикаючись із минулим, яке вони вважали давно похованим.",
-        "poster_path": "/tQpJxOFx6zslf6x8CCKbsMmRDNb.jpg",
-        "release_date": "2026-05-20",
-        "video": false,
-        "vote_average": 7,
-        "vote_count": 3,
-        "popularity": 11.3652,
-        "PG": 17,
-        "release_quality": "4K",
-        "kinopoisk_id": "6458125",
-        "imdb_id": "tt34378301",
-        "status": "released",
-        "last_air_date": "2026-05-21",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Бойовик",
-          "Трилер"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2716,
-      "time": 1779294429580,
-      "card_id": "76479",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-        "genre_ids": [
-          10765,
-          10759
-        ],
-        "id": 76479,
-        "original_language": "en",
-        "name": "Хлопаки",
-        "original_name": "The Boys",
-        "names": [
-          "Хлопаки",
-          "Пацаны",
-          "The Boys",
-          "Хлопці / Хлопаки"
-        ],
-        "overview": "Події розгортаються в альтернативному світі, де супергерої є звичним явищем. Вони щоденно по кілька разів рятують світ, знімаються у фільмах і стають обличчями рекламних кампаній відомих брендів. Втім, є і зворотня сторона медалі: кожен день тисячі людей страждають від дій супергероїв, для яких людське життя насправді не коштує зовсім нічого. Але є невеличка групка відчайдухів, яких такий стан справ не влаштовує, вони мають мету – покарати знахабнілих надлюдей та вивести їх на чисту воду…",
-        "poster_path": "/iNKkWK11okzbenMvJY87aOHNfll.jpg",
-        "first_air_date": "2019-07-25",
-        "video": false,
-        "vote_average": 8.459,
-        "vote_count": 12360,
-        "popularity": 634.2452,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "460586",
-        "kp_rating": "8.3",
-        "imdb_id": "tt1190634",
-        "imdb_rating": "8.6",
-        "status": "returning series",
-        "last_air_date": "2026-05-20",
-        "seasons": {
-          "1": 8,
-          "2": 8,
-          "3": 8,
-          "4": 8,
-          "5": 8
-        },
-        "episode": {
-          "air_date": "2026-05-20",
-          "episode_number": 8,
-          "name": "Кров і кістки",
-          "overview": "Великодня неділя. 14:00. Прямий ефір на @VoughtNews. Станьте свідками перезавантаження всесвіту Патріотом.",
-          "season_number": 5,
-          "runtime": 67,
-          "still_path": "/fEpbmTvcp5ezmogpprVtlzdpnKl.jpg",
-          "vote_average": 5.952
-        },
-        "genres": [
-          "Науково фантастичний",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s5;e8",
-      "premiere": 0
-    },
-    {
-      "id": 2715,
-      "time": 1779186431635,
-      "card_id": "308014",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/ntPgSYKwPg9xKO4VvLJYfInSyZa.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 308014,
-        "original_language": "es",
-        "name": "Берлін і Пані з горностаєм",
-        "original_name": "Berlín y la dama del armiño",
-        "names": [
-          "Берлін і Пані з горностаєм",
-          "Берлин и Дама с горностаем",
-          "Berlín y la dama del armiño",
-          "Berlin and the Lady with an Ermine",
-          "Берлин и дама с горностаем"
-        ],
-        "overview": "Берлін прагне організувати нове пограбування. Він кличе свою команду до Севільї та перетворює жадібного герцога на жертву власного плану з викрадення шедевра да Вінчі.",
-        "poster_path": "/uv1KXCXzuQsYtIRx0ZPxm3y0AYY.jpg",
-        "first_air_date": "2026-05-15",
-        "video": false,
-        "vote_average": 7.2,
-        "vote_count": 21,
-        "popularity": 177.3909,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "ES"
-        ],
-        "kinopoisk_id": "12394283",
-        "imdb_id": "tt42178219",
-        "status": "ended",
-        "last_air_date": "2026-05-18",
-        "seasons": {
-          "1": 8
-        },
-        "episode": {
-          "air_date": "2026-05-15",
-          "episode_number": 8,
-          "name": "Щастя належить тому, хто кохає",
-          "overview": "Відпочинок у Пенісколі змушує Берліна радикально змінити плани. Чи вдасться команді скоїти найбільше пограбування в історії?",
-          "season_number": 1,
-          "runtime": 81,
-          "still_path": "/tJ2zB1JvroPpSZQWhjykGjcWu2s.jpg",
-          "vote_average": 6.8
-        },
-        "genres": [
-          "Драма",
-          "Кримінал",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "Spain"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e8",
-      "premiere": 0
     }
   ],
-  "duration": 6.531085014343262
+  "duration": 4.776033997535706
 }
