@@ -2,6 +2,133 @@
   "secuses": true,
   "result": [
     {
+      "id": 2769,
+      "time": 1781436823179,
+      "card_id": "124364",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "id": 124364,
+        "original_language": "en",
+        "name": "Ззовні",
+        "original_name": "FROM",
+        "names": [
+          "Извне",
+          "From",
+          "Ззовні",
+          "FROM"
+        ],
+        "overview": "Події серіалу відбуваються в містичному містечку, розташованому в центральній частині США. Всі, хто потрапляють туди, опиняються в пастці. Мимовільні жителі борются за збереження залишків здорового глузду та шукають вихід з кошмарної ситуації, адже щоночі їм доводиться переживати напад жахливих створінь, які виходять із заходом сонця з довколишнього лісу.",
+        "poster_path": "/rvlPBfIm6CUQTGorQvf6wK8lPDH.jpg",
+        "first_air_date": "2022-02-20",
+        "video": false,
+        "vote_average": 8.458,
+        "vote_count": 3565,
+        "popularity": 848.6014,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4476885",
+        "kp_rating": "7.6",
+        "imdb_id": "tt9813792",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-06-14",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 8
+        },
+        "episode": {
+          "air_date": "2026-06-14",
+          "episode_number": 8,
+          "name": "Серія 8",
+          "overview": "",
+          "season_number": 4,
+          "runtime": 58,
+          "still_path": "/2FWcI7UnbCUK6SGJXmonEg8aY6q.jpg",
+          "vote_average": 1.0
+        },
+        "genres": [
+          "Детектив",
+          "Драма",
+          "Науково фантастичний"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s4;e8",
+      "premiere": 0
+    },
+    {
+      "id": 2768,
+      "time": 1781431430445,
+      "card_id": "270476",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          35
+        ],
+        "id": 270476,
+        "original_language": "en",
+        "name": "Відоус-Бей",
+        "original_name": "Widow's Bay",
+        "names": [
+          "Відоус-Бей",
+          "Бухта вдов",
+          "Widow's Bay",
+          "Уидоус-Бэй",
+          "Widows Bay"
+        ],
+        "overview": "Мер містечка в Новій Англії має намір перетворити його на туристичну принаду, попри застереження місцевих про те, що це місце прокляте.",
+        "poster_path": "/r9LY3JmgL8CcUKDOEKQZHsOaIcP.jpg",
+        "first_air_date": "2026-04-28",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 132,
+        "popularity": 76.2118,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6555657",
+        "kp_rating": "7.6",
+        "imdb_id": "tt33332385",
+        "status": "returning series",
+        "last_air_date": "2026-06-10",
+        "seasons": {
+          "1": 9
+        },
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Драма",
+          "Детектив",
+          "Комедія"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2767,
       "time": 1781346823171,
       "card_id": "299167",
@@ -51,7 +178,7 @@
           "season_number": 1,
           "runtime": 41,
           "still_path": "/oiZzteUTrSJhUjZTPN4MtrWtl1a.jpg",
-          "vote_average": 8.0
+          "vote_average": 8.5
         },
         "genres": [
           "Вестерн",
@@ -320,7 +447,7 @@
           "season_number": 1,
           "runtime": 32,
           "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
-          "vote_average": 7.857
+          "vote_average": 7.75
         },
         "genres": [
           "Драма",
@@ -515,7 +642,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.167
+          "vote_average": 8.5
         },
         "genres": [
           "Мультфільм",
@@ -585,7 +712,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
+        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
         "genre_ids": [
           9648,
           18,
@@ -633,7 +760,7 @@
           "season_number": 4,
           "runtime": 51,
           "still_path": "/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
-          "vote_average": 5.9
+          "vote_average": 5.938
         },
         "genres": [
           "Детектив",
@@ -830,8 +957,7 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія",
-          "Жахи"
+          "Комедія"
         ]
       },
       "type": "now_playing",
@@ -888,7 +1014,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.188
+          "vote_average": 9.3
         },
         "genres": [
           "Вестерн",
@@ -1118,7 +1244,7 @@
           "season_number": 1,
           "runtime": 34,
           "still_path": "/eh3wez62jJ79krAvtgWLRVStUZj.jpg",
-          "vote_average": 8.1
+          "vote_average": 8.042
         },
         "genres": [
           "Драма",
@@ -1456,7 +1582,7 @@
           "season_number": 3,
           "runtime": 93,
           "still_path": "/lUEO2hUElwsGyPcEmf1Z34xywyZ.jpg",
-          "vote_average": 7.231
+          "vote_average": 7.1
         },
         "genres": [
           "Драма"
@@ -1529,7 +1655,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
+        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
         "genre_ids": [
           9648,
           18,
@@ -1577,7 +1703,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/yfPAXLfe6YUnJ4EqpvuCk5irBWv.jpg",
-          "vote_average": 5.6
+          "vote_average": 5.433
         },
         "genres": [
           "Детектив",
@@ -1698,7 +1824,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/te8KbkC5ekTltyJy3HkVYhjuJst.jpg",
-          "vote_average": 8.773
+          "vote_average": 8.8
         },
         "genres": [
           "Вестерн",
@@ -1799,7 +1925,7 @@
           "World War II with Tom Hanks"
         ],
         "overview": "В сериале рассматривается Вторая мировая война, начиная с вторжения Германии в Польшу и заканчивая атомной эрой, анализируются ключевые сражения, лидеры военного времени, такие как Черчилль и Рузвельт, и человеческие жертвы тотальной войны.",
-        "poster_path": "/yOTuMOr3iACTrbm0w1OrCRSewEg.jpg",
+        "poster_path": "/MPN0glmZV3JnZfmXtKF32SRhDD.jpg",
         "first_air_date": "2026-05-25",
         "video": false,
         "vote_average": 0,
@@ -1980,7 +2106,7 @@
           "season_number": 1,
           "runtime": 43,
           "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.9
         },
         "genres": [
           "Драма",
@@ -2093,12 +2219,12 @@
         "episode": {
           "air_date": "2026-05-25",
           "episode_number": 8,
-          "name": "Серія 8",
+          "name": "Людина в масці",
           "overview": "",
           "season_number": 1,
           "runtime": 46,
           "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
-          "vote_average": 7.0
+          "vote_average": 7.071
         },
         "genres": [
           "Драма",
@@ -2342,7 +2468,7 @@
           "season_number": 3,
           "runtime": 78,
           "still_path": "/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg",
-          "vote_average": 6.692
+          "vote_average": 6.714
         },
         "genres": [
           "Драма"
@@ -2701,7 +2827,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/gMIvnKoLxE5BngLlDXaCoufFdOW.jpg",
-          "vote_average": 8.875
+          "vote_average": 8.731
         },
         "genres": [
           "Вестерн",
@@ -2714,120 +2840,7 @@
       "type": "episode",
       "hash": "s1;e3",
       "premiere": 0
-    },
-    {
-      "id": 2719,
-      "time": 1779446892384,
-      "card_id": "241609",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 241609,
-        "original_language": "en",
-        "name": "Друзі та сусіди",
-        "original_name": "Your Friends & Neighbors",
-        "names": [
-          "Друзі та сусіди",
-          "Друзья и соседи",
-          "Друзья и Соседи",
-          "Your Friends & Neighbors",
-          "Your Friends and Neighbors"
-        ],
-        "overview": "Фінансовий титан раптово розлучається, втрачає роботу і, щоб уникнути банкрутства, починає грабувати багатих сусідів. Обкрадаючи людей зі свого соціального кола, він відчуває дивне піднесення — але поступово заплутується в смертоносному павутинні.",
-        "poster_path": "/xGURzoKwTw6B4rrOOiQLOEPNEE.jpg",
-        "first_air_date": "2025-04-10",
-        "video": false,
-        "vote_average": 7.623,
-        "vote_count": 219,
-        "popularity": 40.6913,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6600202",
-        "kp_rating": "7.5",
-        "imdb_id": "tt30459041",
-        "imdb_rating": "7.7",
-        "status": "returning series",
-        "last_air_date": "2026-05-22",
-        "seasons": {
-          "1": 9,
-          "2": 8
-        },
-        "episode": {
-          "air_date": "2026-05-21",
-          "episode_number": 8,
-          "name": "Без себе я розгублений",
-          "overview": "Мел і Торі стикаються з наслідками своїх дій. Сем намагається порвати з Ешем. Куп потрапляє між молотом і ковадлом.",
-          "season_number": 2,
-          "runtime": 57,
-          "still_path": "/r18w0RYSIqdEzaOyCaYFpIW8gNE.jpg",
-          "vote_average": 8.429
-        },
-        "genres": [
-          "Драма",
-          "Кримінал"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e8",
-      "premiere": 0
-    },
-    {
-      "id": 2718,
-      "time": 1779436092369,
-      "card_id": "1667906",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/uoxuDza5meDgHFSBUlCfpvoIEQ7.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 1667906,
-        "original_language": "en",
-        "title": "Mah e kochoolooye man",
-        "original_title": "Mah e kochoolooye man",
-        "names": [
-          "Моя маленькая луна",
-          "My Little Moon",
-          "Mah e kochoolooye man"
-        ],
-        "overview": "В разгар иранских протестов под лозунгом «Женщина, жизнь, свобода» подростки из Ирана и США знакомятся в сети. На фоне усиления напряжённости их виртуальная дружба становится для них спасательным кругом, даря надежду и силы не утонуть в океане страха и социальных потрясений.",
-        "poster_path": "/QTfTP87tnzcasyIcAZQufYE44c.jpg",
-        "release_date": "2026-04-17",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "popularity": 0.1526,
-        "PG": 0,
-        "release_quality": "webdl",
-        "kinopoisk_id": "12005305",
-        "imdb_id": "tt26685977",
-        "imdb_rating": "7.8",
-        "status": "released",
-        "last_air_date": "2026-05-21",
-        "countries": [
-          "United States of America",
-          "Iran"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.776033997535706
+  "duration": 5.780714988708496
 }

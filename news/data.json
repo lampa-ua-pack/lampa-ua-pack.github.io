@@ -2,6 +2,124 @@
   "secuses": true,
   "result": [
     {
+      "id": 2769,
+      "time": 1781436823179,
+      "card_id": "124364",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "id": 124364,
+        "original_language": "en",
+        "name": "Извне",
+        "original_name": "FROM",
+        "names": [
+          "Извне",
+          "From",
+          "Ззовні",
+          "FROM"
+        ],
+        "overview": "Затерянный в лесу американский городок пленяет каждого, кому не посчастливилось проехать его по пути — покинуть это место оказывается буквально невозможно. Днем невольные жители пытаются выстроить подобие нормального быта и найти способ выбраться, а по ночам спасаются от пугающих обитателей леса, которые приходят навестить горожан, как только заходит солнце.",
+        "poster_path": "/dFJ8exnjJoEfTlHoR58L4OlTSEu.jpg",
+        "first_air_date": "2022-02-20",
+        "video": false,
+        "vote_average": 8.458,
+        "vote_count": 3565,
+        "popularity": 848.6014,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4476885",
+        "kp_rating": "7.6",
+        "imdb_id": "tt9813792",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-06-14",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 8
+        },
+        "episode": {
+          "air_date": "2026-06-14",
+          "episode_number": 8,
+          "name": "Эпизод 8",
+          "overview": "",
+          "season_number": 4,
+          "runtime": 58,
+          "still_path": "/2FWcI7UnbCUK6SGJXmonEg8aY6q.jpg",
+          "vote_average": 1
+        }
+      },
+      "type": "episode",
+      "hash": "s4;e8",
+      "premiere": 0
+    },
+    {
+      "id": 2768,
+      "time": 1781431430445,
+      "card_id": "270476",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          35
+        ],
+        "id": 270476,
+        "original_language": "en",
+        "name": "Уидоус-Бэй",
+        "original_name": "Widow's Bay",
+        "names": [
+          "Бухта вдов",
+          "Widow's Bay",
+          "Уидоус-Бэй",
+          "Widows Bay"
+        ],
+        "overview": "Мэр города в Новой Англии решает превратить его в новый центр притяжения туристов, несмотря на предупреждения местных о том, что он проклят.",
+        "poster_path": "/7Dc2FNMcOeNO61W2rOKgJDoVJ63.jpg",
+        "first_air_date": "2026-04-28",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 132,
+        "popularity": 76.2118,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6555657",
+        "kp_rating": "7.6",
+        "imdb_id": "tt33332385",
+        "status": "returning series",
+        "last_air_date": "2026-06-10",
+        "seasons": {
+          "1": 9
+        },
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Драма",
+          "Детектив",
+          "Комедия"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2767,
       "time": 1781346823171,
       "card_id": "299167",
@@ -2541,112 +2659,7 @@
       "type": "episode",
       "hash": "s1;e3",
       "premiere": 0
-    },
-    {
-      "id": 2719,
-      "time": 1779446892384,
-      "card_id": "241609",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 241609,
-        "original_language": "en",
-        "name": "Друзья и соседи",
-        "original_name": "Your Friends & Neighbors",
-        "names": [
-          "Друзья и соседи",
-          "Друзья и Соседи",
-          "Your Friends & Neighbors",
-          "Your Friends and Neighbors"
-        ],
-        "overview": "После внезапного развода и потери работы крупный финансист начинает грабить богатых соседей, чтобы удержаться на плаву. Кражи у людей из того же социального слоя странным образом ободряют его, но постепенно он запутывается в смертоносной паутине.",
-        "poster_path": "/wr6dsSOfht23oiym1TcAlMN7R3k.jpg",
-        "first_air_date": "2025-04-10",
-        "video": false,
-        "vote_average": 7.623,
-        "vote_count": 219,
-        "popularity": 40.6913,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6600202",
-        "kp_rating": "7.5",
-        "imdb_id": "tt30459041",
-        "imdb_rating": "7.7",
-        "status": "returning series",
-        "last_air_date": "2026-05-22",
-        "seasons": {
-          "1": 9,
-          "2": 8
-        },
-        "episode": {
-          "air_date": "2026-05-21",
-          "episode_number": 8,
-          "name": "Мне не хватает себя",
-          "overview": "Мел и Тори сталкиваются с последствиями своих действий. Сэм пытается порвать с Эшем. Куп оказывается между молотом и наковальней.",
-          "season_number": 2,
-          "runtime": 57,
-          "still_path": "/r18w0RYSIqdEzaOyCaYFpIW8gNE.jpg",
-          "vote_average": 8
-        }
-      },
-      "type": "episode",
-      "hash": "s2;e8",
-      "premiere": 0
-    },
-    {
-      "id": 2718,
-      "time": 1779436092369,
-      "card_id": "1667906",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/uoxuDza5meDgHFSBUlCfpvoIEQ7.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 1667906,
-        "original_language": "en",
-        "title": "Моя маленькая луна",
-        "original_title": "Mah e kochoolooye man",
-        "names": [
-          "Моя маленькая луна",
-          "My Little Moon",
-          "Mah e kochoolooye man"
-        ],
-        "overview": "В разгар иранских протестов под лозунгом «Женщина, жизнь, свобода» подростки из Ирана и США знакомятся в сети. На фоне усиления напряжённости их виртуальная дружба становится для них спасательным кругом, даря надежду и силы не утонуть в океане страха и социальных потрясений.",
-        "poster_path": "/QTfTP87tnzcasyIcAZQufYE44c.jpg",
-        "release_date": "2026-04-17",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "popularity": 0.1526,
-        "PG": 0,
-        "release_quality": "webdl",
-        "kinopoisk_id": "12005305",
-        "imdb_id": "tt26685977",
-        "imdb_rating": "7.8",
-        "status": "released",
-        "last_air_date": "2026-05-21",
-        "countries": [
-          "США",
-          "Иран"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.776033997535706
+  "duration": 5.780714988708496
 }
