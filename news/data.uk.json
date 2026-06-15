@@ -56,7 +56,7 @@
           "season_number": 4,
           "runtime": 58,
           "still_path": "/2FWcI7UnbCUK6SGJXmonEg8aY6q.jpg",
-          "vote_average": 1.0
+          "vote_average": 4.1
         },
         "genres": [
           "Детектив",
@@ -176,9 +176,9 @@
           "name": "Серія 6",
           "overview": "",
           "season_number": 1,
-          "runtime": 41,
+          "runtime": 42,
           "still_path": "/oiZzteUTrSJhUjZTPN4MtrWtl1a.jpg",
-          "vote_average": 8.5
+          "vote_average": 8.6
         },
         "genres": [
           "Вестерн",
@@ -760,7 +760,7 @@
           "season_number": 4,
           "runtime": 51,
           "still_path": "/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
-          "vote_average": 5.938
+          "vote_average": 5.8
         },
         "genres": [
           "Детектив",
@@ -957,7 +957,8 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія"
+          "Комедія",
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -1081,7 +1082,7 @@
           "season_number": 2,
           "runtime": 56,
           "still_path": "/o3c6GyTORTJeWtW8nxNqqzxdELU.jpg",
-          "vote_average": 7.9
+          "vote_average": 7.75
         },
         "genres": [
           "Драма",
@@ -1463,7 +1464,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/nYIyH5KrAxivpFPDTf87Zlgzpf9.jpg",
-          "vote_average": 8.091
+          "vote_average": 8.1
         },
         "genres": [
           "Мультфільм",
@@ -1703,7 +1704,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/yfPAXLfe6YUnJ4EqpvuCk5irBWv.jpg",
-          "vote_average": 5.433
+          "vote_average": 5.7
         },
         "genres": [
           "Детектив",
@@ -1824,7 +1825,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/te8KbkC5ekTltyJy3HkVYhjuJst.jpg",
-          "vote_average": 8.8
+          "vote_average": 8.625
         },
         "genres": [
           "Вестерн",
@@ -1891,7 +1892,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/4aoLyPug8KtZWLo5oTitpGox7GQ.jpg",
-          "vote_average": 8.1
+          "vote_average": 7.929
         },
         "genres": [
           "Драма",
@@ -2106,7 +2107,7 @@
           "season_number": 1,
           "runtime": 43,
           "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
-          "vote_average": 7.9
+          "vote_average": 7.885
         },
         "genres": [
           "Драма",
@@ -2349,7 +2350,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 8.712
+          "vote_average": 8.7
         },
         "genres": [
           "Мультфільм",
@@ -2468,7 +2469,7 @@
           "season_number": 3,
           "runtime": 78,
           "still_path": "/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg",
-          "vote_average": 6.714
+          "vote_average": 6.7
         },
         "genres": [
           "Драма"
@@ -2827,7 +2828,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/gMIvnKoLxE5BngLlDXaCoufFdOW.jpg",
-          "vote_average": 8.731
+          "vote_average": 8.7
         },
         "genres": [
           "Вестерн",
@@ -2842,5 +2843,5 @@
       "premiere": 0
     }
   ],
-  "duration": 5.780714988708496
+  "duration": 7.134196996688843
 }
