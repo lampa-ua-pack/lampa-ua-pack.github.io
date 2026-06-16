@@ -2,6 +2,73 @@
   "secuses": true,
   "result": [
     {
+      "id": 2770,
+      "time": 1781544823209,
+      "card_id": "60625",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "id": 60625,
+        "original_language": "en",
+        "name": "Рик и Морти",
+        "original_name": "Rick and Morty",
+        "names": [
+          "Рик и Морти",
+          "Rick and Morty",
+          "Рік та Морті"
+        ],
+        "overview": "Морти - самый обычный мальчик, который ничем не отличается от своих сверстников. А вот его дедуля Рик занимается необычными научными исследованиями и зачастую полностью неадекватен. Он может в любое время дня и ночи схватить внука и отправиться вместе с ним в безумные приключения с помощью построенной из разного хлама летающей тарелки, которая способна перемещаться сквозь межпространственный тоннель. Каждый раз эта парочка оказывается в самых неожиданных местах и самых нелепых ситуациях.",
+        "poster_path": "/cgbInj4z0x6ZSIP9z5yICrzGRhu.jpg",
+        "first_air_date": "2013-12-02",
+        "video": false,
+        "vote_average": 8.678,
+        "vote_count": 10950,
+        "popularity": 144.6525,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "685246",
+        "kp_rating": "8.9",
+        "imdb_id": "tt2861424",
+        "imdb_rating": "9.0",
+        "status": "returning series",
+        "last_air_date": "2026-06-15",
+        "seasons": {
+          "1": 11,
+          "2": 10,
+          "3": 10,
+          "4": 11,
+          "5": 14,
+          "6": 10,
+          "7": 10,
+          "8": 10,
+          "9": 4
+        },
+        "episode": {
+          "air_date": "2026-06-14",
+          "episode_number": 4,
+          "name": "Эпизод 4",
+          "overview": "",
+          "season_number": 9,
+          "runtime": 21,
+          "still_path": "/wlnkMKVi98y5QPAVKd7gtQioc85.jpg",
+          "vote_average": 8.2
+        }
+      },
+      "type": "episode",
+      "hash": "s9;e4",
+      "premiere": 0
+    },
+    {
       "id": 2769,
       "time": 1781436823179,
       "card_id": "124364",
@@ -2603,63 +2670,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2720,
-      "time": 1779464892359,
-      "card_id": "299167",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
-        "genre_ids": [
-          37,
-          18
-        ],
-        "id": 299167,
-        "original_language": "en",
-        "name": "Ранчо Даттонов",
-        "original_name": "Dutton Ranch",
-        "names": [
-          "Ранчо Даттонов",
-          "Dutton Ranch",
-          "The Dutton Ranch"
-        ],
-        "overview": "Ранчо Даттонов - дом Бет и Рипа, стало символом той жизни, о которой они мечтали, за которую отчаянно боролись и ради которой едва не пожертвовали всем. Они всей душой привязались к своей земле площадью 7000 акров, превратив её в место, которое готовы защищать любой ценой. Даже в самые тяжёлые времена Бет и Рип делают всё возможное, чтобы выстоять, сохранить своё ранчо и обеспечить достойное будущее себе и своему приёмному сыну Картеру.",
-        "poster_path": "/mmxsx98NnY56CvataUqM1ktt14O.jpg",
-        "first_air_date": "2026-05-15",
-        "video": false,
-        "vote_average": 9.4,
-        "vote_count": 89,
-        "popularity": 143.9946,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7275308",
-        "kp_rating": "8.8",
-        "imdb_id": "tt34991493",
-        "status": "returning series",
-        "last_air_date": "2026-05-22",
-        "seasons": {
-          "1": 3
-        },
-        "episode": {
-          "air_date": "2026-05-22",
-          "episode_number": 3,
-          "name": "Эпизод 3",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 49,
-          "still_path": "/l37OpzNN1MzdGSG8ibn33A7KQt4.jpg",
-          "vote_average": 7.5
-        }
-      },
-      "type": "episode",
-      "hash": "s1;e3",
-      "premiere": 0
     }
   ],
-  "duration": 7.134196996688843
+  "duration": 4.2024359703063965
 }

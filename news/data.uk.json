@@ -2,13 +2,89 @@
   "secuses": true,
   "result": [
     {
+      "id": 2770,
+      "time": 1781544823209,
+      "card_id": "60625",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "id": 60625,
+        "original_language": "en",
+        "name": "Рік та Морті",
+        "original_name": "Rick and Morty",
+        "names": [
+          "Рик и Морти",
+          "Rick and Morty",
+          "Рік та Морті"
+        ],
+        "overview": "Гумористично-фантастичний мультсеріал про пригоди дідуся-винахідника Ріка та його онука-школяра Морті, яких іноді супроводжують інші члени родини: батько-невдаха Джеррі, донька-школярка Саммер та закомплексована мати Бет.",
+        "poster_path": "/tnXwqcZ98EVKuMzRtcvPRJukwI3.jpg",
+        "first_air_date": "2013-12-02",
+        "video": false,
+        "vote_average": 8.678,
+        "vote_count": 10950,
+        "popularity": 144.6525,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "685246",
+        "kp_rating": "8.9",
+        "imdb_id": "tt2861424",
+        "imdb_rating": "9.0",
+        "status": "returning series",
+        "last_air_date": "2026-06-15",
+        "seasons": {
+          "1": 11,
+          "2": 10,
+          "3": 10,
+          "4": 11,
+          "5": 14,
+          "6": 10,
+          "7": 10,
+          "8": 10,
+          "9": 4
+        },
+        "episode": {
+          "air_date": "2026-06-14",
+          "episode_number": 4,
+          "name": "Серія 4",
+          "overview": "",
+          "season_number": 9,
+          "runtime": 23,
+          "still_path": "/kIjmRbbdZfKw6RCTxUO2zsa74x0.jpg",
+          "vote_average": 8.2
+        },
+        "genres": [
+          "Мультфільм",
+          "Комедія",
+          "Науково фантастичний",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s9;e4",
+      "premiere": 0
+    },
+    {
       "id": 2769,
       "time": 1781436823179,
       "card_id": "124364",
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
+        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
         "genre_ids": [
           9648,
           18,
@@ -51,12 +127,12 @@
         "episode": {
           "air_date": "2026-06-14",
           "episode_number": 8,
-          "name": "Серія 8",
-          "overview": "",
+          "name": "Важка та голова",
+          "overview": "Небезпечний план починає набувати реальних обрисів. На що готовий піти Бойд, аби повернути всіх додому? Фатіма та Генрі опиняються на двох дуже різних і тривожних роздоріжжях. Віктор допомагає Табіті та Ітану підготуватися до найгіршого.",
           "season_number": 4,
           "runtime": 58,
-          "still_path": "/2FWcI7UnbCUK6SGJXmonEg8aY6q.jpg",
-          "vote_average": 4.1
+          "still_path": "/AaL0o5rpoFPq0hhkEGkkPZUWb8V.jpg",
+          "vote_average": 4.7
         },
         "genres": [
           "Детектив",
@@ -447,7 +523,7 @@
           "season_number": 1,
           "runtime": 32,
           "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
-          "vote_average": 7.75
+          "vote_average": 7.778
         },
         "genres": [
           "Драма",
@@ -642,7 +718,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.5
+          "vote_average": 8.4
         },
         "genres": [
           "Мультфільм",
@@ -712,7 +788,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
+        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
         "genre_ids": [
           9648,
           18,
@@ -760,7 +836,7 @@
           "season_number": 4,
           "runtime": 51,
           "still_path": "/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
-          "vote_average": 5.8
+          "vote_average": 5.9
         },
         "genres": [
           "Детектив",
@@ -957,8 +1033,7 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія",
-          "Жахи"
+          "Комедія"
         ]
       },
       "type": "now_playing",
@@ -1015,7 +1090,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.3
+          "vote_average": 9.1
         },
         "genres": [
           "Вестерн",
@@ -1082,7 +1157,7 @@
           "season_number": 2,
           "runtime": 56,
           "still_path": "/o3c6GyTORTJeWtW8nxNqqzxdELU.jpg",
-          "vote_average": 7.75
+          "vote_average": 7.786
         },
         "genres": [
           "Драма",
@@ -1103,7 +1178,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/n7WeIugzFXXkkCO6ps3GClKvn7V.jpg",
+        "backdrop_path": "/woZX9wZaiX70LbW7bOeNccNTIhp.jpg",
         "genre_ids": [
           27
         ],
@@ -1245,7 +1320,7 @@
           "season_number": 1,
           "runtime": 34,
           "still_path": "/eh3wez62jJ79krAvtgWLRVStUZj.jpg",
-          "vote_average": 8.042
+          "vote_average": 8.107
         },
         "genres": [
           "Драма",
@@ -1656,7 +1731,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
+        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
         "genre_ids": [
           9648,
           18,
@@ -1825,7 +1900,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/te8KbkC5ekTltyJy3HkVYhjuJst.jpg",
-          "vote_average": 8.625
+          "vote_average": 8.6
         },
         "genres": [
           "Вестерн",
@@ -2107,7 +2182,7 @@
           "season_number": 1,
           "runtime": 43,
           "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
-          "vote_average": 7.885
+          "vote_average": 7.933
         },
         "genres": [
           "Драма",
@@ -2225,7 +2300,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
-          "vote_average": 7.071
+          "vote_average": 7.172
         },
         "genres": [
           "Драма",
@@ -2777,71 +2852,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2720,
-      "time": 1779464892359,
-      "card_id": "299167",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-        "genre_ids": [
-          37,
-          18
-        ],
-        "id": 299167,
-        "original_language": "en",
-        "name": "Ранчо Даттонів",
-        "original_name": "Dutton Ranch",
-        "names": [
-          "Ранчо Даттонів",
-          "Ранчо Даттонов",
-          "Dutton Ranch",
-          "The Dutton Ranch"
-        ],
-        "overview": "Бет Даттон і Ріп Вілер борються за виживання на своєму улюбленому ранчо площею 7000 акрів в умовах важких часів і жорсткої конкуренції, водночас намагаючись допомогти юному Картеру стати тим чоловіком, яким він має бути.",
-        "poster_path": "/dtKW23O5tfxq7EXUsfeLgBx7gy1.jpg",
-        "first_air_date": "2026-05-15",
-        "video": false,
-        "vote_average": 9.4,
-        "vote_count": 89,
-        "popularity": 143.9946,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7275308",
-        "kp_rating": "8.8",
-        "imdb_id": "tt34991493",
-        "status": "returning series",
-        "last_air_date": "2026-05-22",
-        "seasons": {
-          "1": 3
-        },
-        "episode": {
-          "air_date": "2026-05-22",
-          "episode_number": 3,
-          "name": "Серія 3",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 49,
-          "still_path": "/gMIvnKoLxE5BngLlDXaCoufFdOW.jpg",
-          "vote_average": 8.7
-        },
-        "genres": [
-          "Вестерн",
-          "Драма"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e3",
-      "premiere": 0
     }
   ],
-  "duration": 7.134196996688843
+  "duration": 4.2024359703063965
 }
