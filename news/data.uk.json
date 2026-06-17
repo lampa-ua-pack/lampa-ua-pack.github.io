@@ -2,6 +2,73 @@
   "secuses": true,
   "result": [
     {
+      "id": 2771,
+      "time": 1781706823199,
+      "card_id": "270476",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          35
+        ],
+        "id": 270476,
+        "original_language": "en",
+        "name": "Відоус-Бей",
+        "original_name": "Widow's Bay",
+        "names": [
+          "Відоус-Бей",
+          "Бухта вдов",
+          "Widow's Bay",
+          "Уидоус-Бэй",
+          "Widows Bay"
+        ],
+        "overview": "Мер містечка в Новій Англії має намір перетворити його на туристичну принаду, попри застереження місцевих про те, що це місце прокляте.",
+        "poster_path": "/r9LY3JmgL8CcUKDOEKQZHsOaIcP.jpg",
+        "first_air_date": "2026-04-28",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 132,
+        "popularity": 76.2118,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6555657",
+        "kp_rating": "7.6",
+        "imdb_id": "tt33332385",
+        "status": "returning series",
+        "last_air_date": "2026-06-17",
+        "seasons": {
+          "1": 10
+        },
+        "episode": {
+          "air_date": "2026-06-16",
+          "episode_number": 10,
+          "name": "Маємо надію, що вам тут сподобалося!",
+          "overview": "Ми розуміємо, що довелося зробити важкий вибір, і ми вже не будемо такі, як були колись, але маємо надію, що ви знов до нас завітаєте!",
+          "season_number": 1,
+          "runtime": 48,
+          "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
+          "vote_average": 9.5
+        },
+        "genres": [
+          "Драма",
+          "Детектив",
+          "Комедія"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e10",
+      "premiere": 0
+    },
+    {
       "id": 2770,
       "time": 1781544823209,
       "card_id": "60625",
@@ -84,7 +151,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
+        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
         "genre_ids": [
           9648,
           18,
@@ -132,7 +199,7 @@
           "season_number": 4,
           "runtime": 58,
           "still_path": "/AaL0o5rpoFPq0hhkEGkkPZUWb8V.jpg",
-          "vote_average": 4.7
+          "vote_average": 5.1
         },
         "genres": [
           "Детектив",
@@ -440,7 +507,7 @@
           "Пусть послужит вам уроком"
         ],
         "overview": "Коли в школах зникає повага, прибувають незвичайні інспектори, що наводять лад за допомогою жорстких безкомпромісних уроків, яких не знайти в підручниках.",
-        "poster_path": "/36BnxmIvWvOsMmlQfbI0ilTfuvh.jpg",
+        "poster_path": "/supW3Y9CjoPPBv6Ha3NOuPAV5ZV.jpg",
         "first_air_date": "2026-06-05",
         "video": false,
         "vote_average": 9.159,
@@ -523,7 +590,7 @@
           "season_number": 1,
           "runtime": 32,
           "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
-          "vote_average": 7.778
+          "vote_average": 7.8
         },
         "genres": [
           "Драма",
@@ -566,7 +633,7 @@
           "Пусть послужит вам уроком"
         ],
         "overview": "Коли в школах зникає повага, прибувають незвичайні інспектори, що наводять лад за допомогою жорстких безкомпромісних уроків, яких не знайти в підручниках.",
-        "poster_path": "/36BnxmIvWvOsMmlQfbI0ilTfuvh.jpg",
+        "poster_path": "/supW3Y9CjoPPBv6Ha3NOuPAV5ZV.jpg",
         "first_air_date": "2026-06-05",
         "video": false,
         "vote_average": 9.159,
@@ -788,7 +855,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
+        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
         "genre_ids": [
           9648,
           18,
@@ -907,7 +974,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+        "backdrop_path": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
         "genre_ids": [
           28,
           14,
@@ -1033,7 +1100,8 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія"
+          "Комедія",
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -1387,7 +1455,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+        "backdrop_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
         "genre_ids": [
           27,
           9648,
@@ -1731,7 +1799,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
+        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
         "genre_ids": [
           9648,
           18,
@@ -2088,7 +2156,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/4k99kV4R1bbbrsnjR205v91Xbin.jpg",
+        "backdrop_path": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
         "genre_ids": [
           27
         ],
@@ -2122,8 +2190,7 @@
           "United Kingdom"
         ],
         "genres": [
-          "Жахи",
-          "Трилер"
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -2182,7 +2249,7 @@
           "season_number": 1,
           "runtime": 43,
           "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
-          "vote_average": 7.933
+          "vote_average": 7.75
         },
         "genres": [
           "Драма",
@@ -2300,7 +2367,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
-          "vote_average": 7.172
+          "vote_average": 7.2
         },
         "genres": [
           "Драма",
@@ -2425,7 +2492,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 8.7
+          "vote_average": 8.685
         },
         "genres": [
           "Мультфільм",
@@ -2804,55 +2871,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2721,
-      "time": 1779527902850,
-      "card_id": "1257868",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/vzAcTHSYy9cMwuZ73OrxwbqX5bB.jpg",
-        "genre_ids": [
-          18,
-          35
-        ],
-        "id": 1257868,
-        "original_language": "en",
-        "title": "Вікенд для пар",
-        "original_title": "Couples Weekend",
-        "names": [
-          "Вікенд для пар",
-          "Отпуск на двоих",
-          "Couples Weekend",
-          "Парный уикенд",
-          "Отпуск на двоих / Парный уикенд"
-        ],
-        "overview": "Четверо дорослих опиняються у вирі обману й бажань, коли повалене дерево в новорічну ніч запускає ланцюг подій, що ставить під сумнів їхні стосунки та брехню, яку вони говорять собі й одне одному.",
-        "poster_path": "/ggYP1ABFG5CavUHif0oLbL7mCF7.jpg",
-        "release_date": "2026-05-08",
-        "video": false,
-        "vote_average": 5.944,
-        "vote_count": 9,
-        "popularity": 4.7659,
-        "PG": 17,
-        "release_quality": "4K",
-        "kinopoisk_id": "5146668",
-        "imdb_id": "tt12477096",
-        "status": "released",
-        "last_air_date": "2026-05-10",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Драма",
-          "Комедія"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.2024359703063965
+  "duration": 6.640146970748901
 }

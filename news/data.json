@@ -2,6 +2,64 @@
   "secuses": true,
   "result": [
     {
+      "id": 2771,
+      "time": 1781706823199,
+      "card_id": "270476",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          35
+        ],
+        "id": 270476,
+        "original_language": "en",
+        "name": "Уидоус-Бэй",
+        "original_name": "Widow's Bay",
+        "names": [
+          "Бухта вдов",
+          "Widow's Bay",
+          "Уидоус-Бэй",
+          "Widows Bay"
+        ],
+        "overview": "Мэр города в Новой Англии решает превратить его в новый центр притяжения туристов, несмотря на предупреждения местных о том, что он проклят.",
+        "poster_path": "/7Dc2FNMcOeNO61W2rOKgJDoVJ63.jpg",
+        "first_air_date": "2026-04-28",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 132,
+        "popularity": 76.2118,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6555657",
+        "kp_rating": "7.6",
+        "imdb_id": "tt33332385",
+        "status": "returning series",
+        "last_air_date": "2026-06-17",
+        "seasons": {
+          "1": 10
+        },
+        "episode": {
+          "air_date": "2026-06-16",
+          "episode_number": 10,
+          "name": "Надеемся, вам понравилось!",
+          "overview": "Мы понимаем, что пришлось принимать трудные решения, и, возможно, мы уже никогда не будем прежними, но надеемся, что вы приедете еще!",
+          "season_number": 1,
+          "runtime": 48,
+          "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
+          "vote_average": 9
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e10",
+      "premiere": 0
+    },
+    {
       "id": 2770,
       "time": 1781544823209,
       "card_id": "60625",
@@ -2623,54 +2681,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2721,
-      "time": 1779527902850,
-      "card_id": "1257868",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/vzAcTHSYy9cMwuZ73OrxwbqX5bB.jpg",
-        "genre_ids": [
-          18,
-          35
-        ],
-        "id": 1257868,
-        "original_language": "en",
-        "title": "Отпуск на двоих",
-        "original_title": "Couples Weekend",
-        "names": [
-          "Отпуск на двоих",
-          "Couples Weekend",
-          "Парный уикенд",
-          "Отпуск на двоих / Парный уикенд"
-        ],
-        "overview": "Митч и Дебс - друзья детства, которые теперь приезжают на отдых в уединенный дом в лесу со своими вторыми половинками. Но отношения в обеих парах трещат по швам. Падение дерева у дома становится спусковым крючком для откровений: воспоминания, странный напиток, расшатанные браки. Герои становятся свидетелями и участниками неловких сцен, неожиданных признаний и затянувшихся взаимных претензий. Постепенно раскрываются давно спрятанные обиды, тайные желания и секреты. За тонким юмором и легким абсурдом идет честный разговор о том, какую ложь можно принимать, чтобы продолжать жить - и как трудно бывает выбраться из этой ловушки.",
-        "poster_path": "/oJZhbslpCsuad90FVvvTgCHYpss.jpg",
-        "release_date": "2026-05-08",
-        "video": false,
-        "vote_average": 5.944,
-        "vote_count": 9,
-        "popularity": 4.7659,
-        "PG": 17,
-        "release_quality": "4K",
-        "kinopoisk_id": "5146668",
-        "imdb_id": "tt12477096",
-        "status": "released",
-        "last_air_date": "2026-05-10",
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Драма",
-          "Комедия"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.2024359703063965
+  "duration": 6.640146970748901
 }
