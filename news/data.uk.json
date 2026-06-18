@@ -2,6 +2,53 @@
   "secuses": true,
   "result": [
     {
+      "id": 2772,
+      "time": 1781787823353,
+      "card_id": "1219542",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/xIdshPSkYOPOwE3KZ54VM9LEsvM.jpg",
+        "genre_ids": [
+          12,
+          10751,
+          80
+        ],
+        "id": 1219542,
+        "original_language": "de",
+        "title": "Die drei ??? – Toteninsel",
+        "original_title": "Die drei ??? – Toteninsel",
+        "names": [
+          "Три сыщика: Проклятие Острова мёртвых",
+          "Die drei???: Toteninsel",
+          "Die drei ??? – Toteninsel"
+        ],
+        "overview": "Летние каникулы мечты отменяются! Юстус, Питер и Боб собирались в беззаботный дорожный путешествие, но вместо этого перешли дорогу могущественному тайному ордену. Идя по следу преступников, юные детективы оказываются на Макатао зловещем вулканическом острове, который местные прозвали Островом мёртвых. Смогут ли Три сыщика разгадать тайну древнего проклятия и выбраться из огненной ловушки живыми?",
+        "poster_path": "/cQy8PqmhwRKuSmyb9eFdUe55B9V.jpg",
+        "release_date": "2026-01-22",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 17,
+        "popularity": 1.4608,
+        "PG": 6,
+        "release_quality": "4K",
+        "imdb_id": "tt38908928",
+        "status": "released",
+        "last_air_date": "2026-06-18",
+        "countries": [
+          "Germany"
+        ],
+        "genres": [
+          "Пригоди",
+          "Сімейний",
+          "Кримінал"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2771,
       "time": 1781706823199,
       "card_id": "270476",
@@ -53,7 +100,7 @@
           "season_number": 1,
           "runtime": 48,
           "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
-          "vote_average": 9.5
+          "vote_average": 7.667
         },
         "genres": [
           "Драма",
@@ -199,7 +246,7 @@
           "season_number": 4,
           "runtime": 58,
           "still_path": "/AaL0o5rpoFPq0hhkEGkkPZUWb8V.jpg",
-          "vote_average": 5.1
+          "vote_average": 5.031
         },
         "genres": [
           "Детектив",
@@ -321,7 +368,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/oiZzteUTrSJhUjZTPN4MtrWtl1a.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.929
         },
         "genres": [
           "Вестерн",
@@ -424,9 +471,9 @@
           "United States of America"
         ],
         "genres": [
-          "Бойовик",
+          "Трилер",
           "Фантастика",
-          "Трилер"
+          "Бойовик"
         ]
       },
       "type": "now_playing",
@@ -590,7 +637,7 @@
           "season_number": 1,
           "runtime": 32,
           "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.538
         },
         "genres": [
           "Драма",
@@ -1158,7 +1205,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.1
+          "vote_average": 9.136
         },
         "genres": [
           "Вестерн",
@@ -1388,7 +1435,7 @@
           "season_number": 1,
           "runtime": 34,
           "still_path": "/eh3wez62jJ79krAvtgWLRVStUZj.jpg",
-          "vote_average": 8.107
+          "vote_average": 8.2
         },
         "genres": [
           "Драма",
@@ -1968,7 +2015,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/te8KbkC5ekTltyJy3HkVYhjuJst.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.731
         },
         "genres": [
           "Вестерн",
@@ -2190,7 +2237,8 @@
           "United Kingdom"
         ],
         "genres": [
-          "Жахи"
+          "Жахи",
+          "Трилер"
         ]
       },
       "type": "now_playing",
@@ -2249,7 +2297,7 @@
           "season_number": 1,
           "runtime": 43,
           "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
-          "vote_average": 7.75
+          "vote_average": 7.8
         },
         "genres": [
           "Драма",
@@ -2366,7 +2414,7 @@
           "overview": "",
           "season_number": 1,
           "runtime": 46,
-          "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
+          "still_path": "/62nhkhbQJjuxei1bI7Xu8mFtkAb.jpg",
           "vote_average": 7.2
         },
         "genres": [
@@ -2492,7 +2540,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 8.685
+          "vote_average": 8.7
         },
         "genres": [
           "Мультфільм",
@@ -2817,61 +2865,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2722,
-      "time": 1779531502420,
-      "card_id": "299167",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-        "genre_ids": [
-          37,
-          18
-        ],
-        "id": 299167,
-        "original_language": "en",
-        "name": "Ранчо Даттонів",
-        "original_name": "Dutton Ranch",
-        "names": [
-          "Ранчо Даттонів",
-          "Ранчо Даттонов",
-          "Dutton Ranch",
-          "The Dutton Ranch"
-        ],
-        "overview": "Бет Даттон і Ріп Вілер борються за виживання на своєму улюбленому ранчо площею 7000 акрів в умовах важких часів і жорсткої конкуренції, водночас намагаючись допомогти юному Картеру стати тим чоловіком, яким він має бути.",
-        "poster_path": "/dtKW23O5tfxq7EXUsfeLgBx7gy1.jpg",
-        "first_air_date": "2026-05-15",
-        "video": false,
-        "vote_average": 9.4,
-        "vote_count": 89,
-        "popularity": 143.9946,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7275308",
-        "kp_rating": "8.8",
-        "imdb_id": "tt34991493",
-        "status": "returning series",
-        "last_air_date": "2026-05-22",
-        "seasons": {
-          "1": 3
-        },
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Вестерн",
-          "Драма"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.640146970748901
+  "duration": 7.666594982147217
 }
