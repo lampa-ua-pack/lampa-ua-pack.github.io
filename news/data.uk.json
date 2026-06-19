@@ -2,6 +2,166 @@
   "secuses": true,
   "result": [
     {
+      "id": 2775,
+      "time": 1781878161773,
+      "card_id": "1501018",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/7ImZeJiXNcZYKruKEqMzyW3CwVL.jpg",
+        "genre_ids": [
+          35,
+          80
+        ],
+        "id": 1501018,
+        "original_language": "fr",
+        "title": "Une famille de bâtards",
+        "original_title": "Une famille de bâtards",
+        "names": [
+          "Семейка Момо",
+          "Une Famille de Bâtards",
+          "Une famille de bâtards"
+        ],
+        "overview": "Париж, 1997 год. После покушения на отца Мохамед неожиданно узнаёт, что у него есть брат и сестра. Вместе им предстоит спасти семейный бар от долгов и местных бандитов. Криминальная комедия о неожиданных родственниках, семейных тайнах и втором шансе стать настоящей семьёй.",
+        "poster_path": "/zuiZDJcjlNWB6EcXHer06u9BQke.jpg",
+        "release_date": "2026-06-12",
+        "video": false,
+        "vote_average": 5.257,
+        "vote_count": 37,
+        "popularity": 34.5755,
+        "PG": 16,
+        "release_quality": "4K",
+        "imdb_id": "tt36963493",
+        "status": "released",
+        "last_air_date": "2026-06-17",
+        "countries": [
+          "France",
+          "United States of America"
+        ],
+        "genres": [
+          "Комедія",
+          "Кримінал"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2774,
+      "time": 1781869159639,
+      "card_id": "278178",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/2yDDwP48GqL9Fpb6UEgGHyqM63y.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "id": 278178,
+        "original_language": "en",
+        "name": "Я тебе відшукаю",
+        "original_name": "I Will Find You",
+        "names": [
+          "Я тебе відшукаю",
+          "Я тебя отыщу",
+          "I Will Find You",
+          "Я найду тебя"
+        ],
+        "overview": "Несправедливо засуджений за вбивство свого сина чоловік дізнається, що хлопчик міг вижити, і вирушає на порятунок.",
+        "poster_path": "/lXJDAPb7s8mKzsZbAcT0dlSQbdY.jpg",
+        "first_air_date": "2026-06-18",
+        "video": false,
+        "vote_average": 10,
+        "vote_count": 5,
+        "popularity": 6.9228,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "9349321",
+        "imdb_id": "tt34771210",
+        "status": "ended",
+        "last_air_date": "2026-06-18",
+        "seasons": {
+          "1": 8
+        },
+        "episode": {
+          "air_date": "2026-06-18",
+          "episode_number": 8,
+          "name": "Епізод 8",
+          "overview": "Заручившись допомогою неочікуваного союзника, Девід і Рейчел отримують один шанс повернути Меттью, доки він не зник назавжди.",
+          "season_number": 1,
+          "runtime": 36,
+          "still_path": "/TOs0PsDUEz8mlo3XKAIBKQ0SOW.jpg",
+          "vote_average": 0.0
+        },
+        "genres": [
+          "Драма",
+          "Детектив",
+          "Кримінал"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e8",
+      "premiere": 0
+    },
+    {
+      "id": 2773,
+      "time": 1781860159748,
+      "card_id": "1477317",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/wQOhbCP6H8bO5ddlXDZT207orew.jpg",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 1477317,
+        "original_language": "en",
+        "title": "Твоя провина: Лондон",
+        "original_title": "Your Fault: London",
+        "names": [
+          "Твоя провина: Лондон",
+          "Твоя вина: Лондон",
+          "Your Fault: London",
+          "Culpa tuya: Londres"
+        ],
+        "overview": "Ноа їде в Оксфорд, щоб продовжити навчання, а Нік занурюється в роботу. У їхньому житті з'являються нові люди, що пробуджує несподівані емоції та ревнощі. Довіра піддається випробуванням, а відносини, які здавалися непорушними, починають давати тріщину.  Опинившись на роздоріжжі, Ноа і Нік повинні зробити вибір: боротися за кохання, яке їх об'єднало, або ризикнути втратити його назавжди",
+        "poster_path": "/8rot6C7pIwU20c8E3kuFliztKxs.jpg",
+        "release_date": "2026-06-17",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 34,
+        "popularity": 115.1238,
+        "PG": 0,
+        "release_quality": "4K",
+        "kinopoisk_id": "9880148",
+        "imdb_id": "tt36958376",
+        "status": "released",
+        "last_air_date": "2026-06-18",
+        "countries": [
+          "Spain",
+          "United Kingdom",
+          "United States of America"
+        ],
+        "genres": [
+          "Мелодрама",
+          "Драма"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2772,
       "time": 1781787823353,
       "card_id": "1219542",
@@ -55,7 +215,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "genre_ids": [
           18,
           9648,
@@ -100,7 +260,7 @@
           "season_number": 1,
           "runtime": 48,
           "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
-          "vote_average": 7.667
+          "vote_average": 7.944
         },
         "genres": [
           "Драма",
@@ -246,7 +406,7 @@
           "season_number": 4,
           "runtime": 58,
           "still_path": "/AaL0o5rpoFPq0hhkEGkkPZUWb8V.jpg",
-          "vote_average": 5.031
+          "vote_average": 5.265
         },
         "genres": [
           "Детектив",
@@ -268,7 +428,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "genre_ids": [
           18,
           9648,
@@ -368,7 +528,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/oiZzteUTrSJhUjZTPN4MtrWtl1a.jpg",
-          "vote_average": 8.929
+          "vote_average": 8.9
         },
         "genres": [
           "Вестерн",
@@ -473,7 +633,7 @@
         "genres": [
           "Трилер",
           "Фантастика",
-          "Бойовик"
+          "Детектив"
         ]
       },
       "type": "now_playing",
@@ -592,7 +752,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "genre_ids": [
           18,
           9648,
@@ -1390,7 +1550,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "genre_ids": [
           18,
           9648,
@@ -1502,7 +1662,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+        "backdrop_path": "/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
         "genre_ids": [
           27,
           9648,
@@ -2252,7 +2412,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "genre_ids": [
           18,
           9648,
@@ -2297,7 +2457,7 @@
           "season_number": 1,
           "runtime": 43,
           "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.882
         },
         "genres": [
           "Драма",
@@ -2722,150 +2882,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2725,
-      "time": 1779614636220,
-      "card_id": "1368881",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/bOy625BjpCskOWnx3tD09MsKVCb.jpg",
-        "genre_ids": [
-          35
-        ],
-        "id": 1368881,
-        "original_language": "en",
-        "title": "Спочатку дами",
-        "original_title": "Ladies First",
-        "names": [
-          "Спочатку дами",
-          "Дамы вперёд",
-          "Ladies First",
-          "Дамы вперед",
-          "Сначала дамы"
-        ],
-        "overview": "Сповнене інтрижок заможне життя пихатого, але харизматичного дамського угодника стає з ніг на голову, коли він прокидається в паралельному світі, яким керують жінки.",
-        "poster_path": "/oZFIHKc8ULhpTpEdNtQpikuVoKK.jpg",
-        "release_date": "2026-05-21",
-        "video": false,
-        "vote_average": 5.7,
-        "vote_count": 20,
-        "popularity": 76.2,
-        "PG": 16,
-        "release_quality": "4K",
-        "kinopoisk_id": "12024538",
-        "imdb_id": "tt34611082",
-        "status": "released",
-        "last_air_date": "2026-05-24",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Комедія",
-          "Фентезі"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2724,
-      "time": 1779612836247,
-      "card_id": "1340206",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
-        "genre_ids": [
-          80,
-          53
-        ],
-        "id": 1340206,
-        "original_language": "en",
-        "title": "Tuner",
-        "original_title": "Tuner",
-        "names": [
-          "Настройщик",
-          "Tuner"
-        ],
-        "overview": "Жизнь талантливого настройщика фортепиано переворачивается с ног на голову, когда он обнаруживает, что его отточенные навыки настройки фортепиано можно с тем же успехом применять для взлома сейфов.",
-        "poster_path": "/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
-        "release_date": "2026-05-21",
-        "video": false,
-        "vote_average": 7,
-        "vote_count": 2,
-        "popularity": 12.5492,
-        "PG": 17,
-        "release_quality": "ts",
-        "kinopoisk_id": "7518867",
-        "imdb_id": "tt33296751",
-        "imdb_rating": "7.3",
-        "status": "released",
-        "last_air_date": "2026-05-23",
-        "countries": [
-          "Canada",
-          "United States of America"
-        ],
-        "genres": [
-          "Кримінал",
-          "Трилер"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2723,
-      "time": 1779609241235,
-      "card_id": "1228710",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
-        "genre_ids": [
-          28,
-          12,
-          878
-        ],
-        "id": 1228710,
-        "original_language": "en",
-        "title": "Мандалорець і Ґроґу",
-        "original_title": "The Mandalorian and Grogu",
-        "names": [
-          "Мандалорець і Ґроґу",
-          "Мандалорец и Грогу",
-          "The Mandalorian & Grogu",
-          "Star Wars: The Mandalorian and Grogu"
-        ],
-        "overview": "Жорстока Імперія пала, проте її воєначальники все ще розкидані по галактиці. Молода Нова Республіка намагається захистити все те, за що боролося Повстання, тому звертається по допомогу до легендарного мандалорського мисливця за головами Діна Джаріна та його юного учня Ґроґу. Разом вони вирушають у свою найризикованішу місію, що приведе їх до нових союзників, небезпечних ворогів і випробувань, що змінять їхні долі.",
-        "poster_path": "/ipezVNLljduGrftH9kjfUaUqIt1.jpg",
-        "release_date": "2026-05-20",
-        "video": false,
-        "vote_average": 6.4,
-        "vote_count": 39,
-        "popularity": 73.0823,
-        "PG": 16,
-        "release_quality": "ts",
-        "kinopoisk_id": "5437088",
-        "imdb_id": "tt30825738",
-        "status": "released",
-        "last_air_date": "2026-05-22",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Бойовик",
-          "Пригоди",
-          "Фантастика"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.666594982147217
+  "duration": 6.619697093963623
 }
