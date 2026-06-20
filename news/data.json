@@ -2,6 +2,165 @@
   "secuses": true,
   "result": [
     {
+      "id": 2778,
+      "time": 1781944764792,
+      "card_id": "1318413",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+        "genre_ids": [
+          53,
+          36,
+          10752
+        ],
+        "id": 1318413,
+        "original_language": "en",
+        "title": "Давление",
+        "original_title": "Pressure",
+        "names": [
+          "Давление",
+          "Pressure"
+        ],
+        "overview": "Июнь 1944 года. Высадка в Нормандии, крупнейшая в истории морская десантная операция, уже подготовлена, и любая задержка грозит тем, что немецкая разведка раскроет планы союзников. Главному метеорологу Великобритании Джеймсу Стэггу предстоит убедить все командование союзных сил во главе с генералом Дуайтом Эйзенхауэром довериться его нестандартным методам и изменить планы операции. У ученых остается лишь 72 часа на точный прогноз сразу двух надвигающихся штормов, но от этого зависит судьба всего Западного фронта.",
+        "poster_path": "/xYLbAshji6VK0vQjtLZg2E9bea.jpg",
+        "release_date": "2026-05-25",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 50,
+        "popularity": 78.0296,
+        "PG": 18,
+        "release_quality": "webdl",
+        "kinopoisk_id": "6606844",
+        "kp_rating": "6.9",
+        "imdb_id": "tt32547691",
+        "status": "released",
+        "last_air_date": "2026-05-31",
+        "countries": [
+          "Великобритания",
+          "Франция"
+        ],
+        "genres": [
+          "Триллер",
+          "История",
+          "Военный"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2777,
+      "time": 1781941159645,
+      "card_id": "299167",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "id": 299167,
+        "original_language": "en",
+        "name": "Ранчо Даттонов",
+        "original_name": "Dutton Ranch",
+        "names": [
+          "Ранчо Даттонов",
+          "Dutton Ranch",
+          "The Dutton Ranch"
+        ],
+        "overview": "Ранчо Даттонов - дом Бет и Рипа, стало символом той жизни, о которой они мечтали, за которую отчаянно боролись и ради которой едва не пожертвовали всем. Они всей душой привязались к своей земле площадью 7000 акров, превратив её в место, которое готовы защищать любой ценой. Даже в самые тяжёлые времена Бет и Рип делают всё возможное, чтобы выстоять, сохранить своё ранчо и обеспечить достойное будущее себе и своему приёмному сыну Картеру.",
+        "poster_path": "/mmxsx98NnY56CvataUqM1ktt14O.jpg",
+        "first_air_date": "2026-05-15",
+        "video": false,
+        "vote_average": 9.353,
+        "vote_count": 269,
+        "popularity": 162.7442,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "7275308",
+        "kp_rating": "8.6",
+        "imdb_id": "tt34991493",
+        "status": "returning series",
+        "last_air_date": "2026-06-19",
+        "seasons": {
+          "1": 7
+        },
+        "episode": {
+          "air_date": "2026-06-19",
+          "episode_number": 7,
+          "name": "Эпизод 7",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 40,
+          "still_path": "/s4kz19IA4SuzywWtiaAuPmED0mu.jpg",
+          "vote_average": 9
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e7",
+      "premiere": 0
+    },
+    {
+      "id": 2776,
+      "time": 1781935761765,
+      "card_id": "278178",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/2yDDwP48GqL9Fpb6UEgGHyqM63y.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "id": 278178,
+        "original_language": "en",
+        "name": "Я тебя отыщу",
+        "original_name": "I Will Find You",
+        "names": [
+          "Я тебя отыщу",
+          "I Will Find You",
+          "Я найду тебя"
+        ],
+        "overview": "Отец, несправедливо осужденный за убийство сына, отбывает срок в тюрьме. Узнав, что мальчик еще может быть жив, герой предпринимает отчаянные шаги, стремясь его спасти.",
+        "poster_path": "/tz1msIMyN5IAl2W4C0JBsjIadPj.jpg",
+        "first_air_date": "2026-06-18",
+        "video": false,
+        "vote_average": 10,
+        "vote_count": 5,
+        "popularity": 6.9228,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "9349321",
+        "imdb_id": "tt34771210",
+        "status": "ended",
+        "last_air_date": "2026-06-19",
+        "seasons": {
+          "1": 8
+        },
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Драма",
+          "Детектив",
+          "Криминал"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2775,
       "time": 1781878161773,
       "card_id": "1501018",
@@ -2526,166 +2685,7 @@
       "type": "episode",
       "hash": "s9;e1",
       "premiere": 0
-    },
-    {
-      "id": 2728,
-      "time": 1779783201038,
-      "card_id": "224941",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/iftYIh1OjJb99EOTHIrDcx59zWb.jpg",
-        "genre_ids": [
-          10765,
-          9648
-        ],
-        "id": 224941,
-        "original_language": "en",
-        "name": "Бороуз",
-        "original_name": "The Boroughs",
-        "names": [
-          "Бороуз",
-          "The Boroughs",
-          "Городок"
-        ],
-        "overview": "В идеальном жилом комплексе для пенсионеров действует потусторонняя сила, которая угрожает отнять самое ценное — оставшееся время. Ей противостоит героическая команда.",
-        "poster_path": "/826WiB3FY5dsfCC1gwUpJXGkwkm.jpg",
-        "first_air_date": "2026-05-21",
-        "video": false,
-        "vote_average": 6.333,
-        "vote_count": 6,
-        "popularity": 8.6351,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7385223",
-        "imdb_id": "tt27557289",
-        "status": "returning series",
-        "last_air_date": "2026-05-22",
-        "seasons": {
-          "1": 12
-        },
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "НФ и Фэнтези",
-          "Детектив"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2727,
-      "time": 1779716595400,
-      "card_id": "85552",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 85552,
-        "original_language": "en",
-        "name": "Эйфория",
-        "original_name": "Euphoria",
-        "names": [
-          "Эйфория",
-          "Euphoria",
-          "Ейфорія"
-        ],
-        "overview": "17-летняя Ру Беннетт возвращается домой после лечения в реабилитационной клинике. Не имея ни малейшего желания завязывать с наркотиками, она немедленно берётся за старое. На вечеринке Ру обращает внимание на недавно приехавшую в их пригород ровесницу Джулс, и это знакомство становится началом большой дружбы.",
-        "poster_path": "/yJz0VPfztciUt8cYulEOnk7wQhs.jpg",
-        "first_air_date": "2019-06-16",
-        "video": false,
-        "vote_average": 8.289,
-        "vote_count": 10659,
-        "popularity": 222.5807,
-        "PG": 18,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1178445",
-        "kp_rating": "7.5",
-        "imdb_id": "tt8772296",
-        "imdb_rating": "8.2",
-        "status": "returning series",
-        "last_air_date": "2026-05-25",
-        "seasons": {
-          "1": 10,
-          "2": 8,
-          "3": 7
-        },
-        "episode": {
-          "air_date": "2026-05-24",
-          "episode_number": 7,
-          "name": "Эпизод 7",
-          "overview": "",
-          "season_number": 3,
-          "runtime": 78,
-          "still_path": "/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg",
-          "vote_average": 7.75
-        }
-      },
-      "type": "episode",
-      "hash": "s3;e7",
-      "premiere": 0
-    },
-    {
-      "id": 2726,
-      "time": 1779705794840,
-      "card_id": "1375646",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
-        "genre_ids": [
-          28,
-          53,
-          27
-        ],
-        "id": 1375646,
-        "original_language": "ko",
-        "title": "Колония",
-        "original_title": "군체",
-        "names": [
-          "Колония",
-          "Gunche",
-          "군체"
-        ],
-        "overview": "Во время конференции по биотехнологиям опасный вирус вырывается на свободу, и люди оказываются заблокированы в небоскрёбе — огромном выставочном центре, где начинается настоящий кошмар.",
-        "poster_path": "/uQIlX1zpvM7FAKRbeyLDJN3zxrX.jpg",
-        "release_date": "2026-05-21",
-        "video": false,
-        "vote_average": 5.875,
-        "vote_count": 4,
-        "popularity": 44.8133,
-        "PG": 18,
-        "release_quality": "ts",
-        "kinopoisk_id": "6705911",
-        "imdb_id": "tt34385135",
-        "imdb_rating": "8.8",
-        "status": "released",
-        "last_air_date": "2026-05-25",
-        "countries": [
-          "Южная Корея"
-        ],
-        "genres": [
-          "Боевик",
-          "Триллер",
-          "Ужасы"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.619697093963623
+  "duration": 4.684676170349121
 }

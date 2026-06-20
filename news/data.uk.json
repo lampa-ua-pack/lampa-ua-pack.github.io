@@ -2,6 +2,175 @@
   "secuses": true,
   "result": [
     {
+      "id": 2778,
+      "time": 1781944764792,
+      "card_id": "1318413",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+        "genre_ids": [
+          53,
+          36,
+          10752
+        ],
+        "id": 1318413,
+        "original_language": "en",
+        "title": "Тиск",
+        "original_title": "Pressure",
+        "names": [
+          "Тиск",
+          "Давление",
+          "Pressure"
+        ],
+        "overview": "У напружені 72 години перед Днем «Д» доля світу висить на волосині. Генерал Дуайт Д. Айзенгауер і капітан Джеймс Стеґґ стикаються з неможливим вибором — розпочати найнебезпечніше вторгнення в історії або ризикнути програти війну повністю.",
+        "poster_path": "/rCBI97Vbx5cisNm4qVirIIBTWsg.jpg",
+        "release_date": "2026-05-25",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 50,
+        "popularity": 78.0296,
+        "PG": 18,
+        "release_quality": "webdl",
+        "kinopoisk_id": "6606844",
+        "kp_rating": "6.9",
+        "imdb_id": "tt32547691",
+        "status": "released",
+        "last_air_date": "2026-05-31",
+        "countries": [
+          "United Kingdom",
+          "France"
+        ],
+        "genres": [
+          "Трилер",
+          "Історичний",
+          "Військовий"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2777,
+      "time": 1781941159645,
+      "card_id": "299167",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "id": 299167,
+        "original_language": "en",
+        "name": "Ранчо Даттонів",
+        "original_name": "Dutton Ranch",
+        "names": [
+          "Ранчо Даттонів",
+          "Ранчо Даттонов",
+          "Dutton Ranch",
+          "The Dutton Ranch"
+        ],
+        "overview": "Бет Даттон і Ріп Вілер борються за виживання на своєму улюбленому ранчо площею 7000 акрів в умовах важких часів і жорсткої конкуренції, водночас намагаючись допомогти юному Картеру стати тим чоловіком, яким він має бути.",
+        "poster_path": "/dtKW23O5tfxq7EXUsfeLgBx7gy1.jpg",
+        "first_air_date": "2026-05-15",
+        "video": false,
+        "vote_average": 9.353,
+        "vote_count": 269,
+        "popularity": 162.7442,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "7275308",
+        "kp_rating": "8.6",
+        "imdb_id": "tt34991493",
+        "status": "returning series",
+        "last_air_date": "2026-06-19",
+        "seasons": {
+          "1": 7
+        },
+        "episode": {
+          "air_date": "2026-06-19",
+          "episode_number": 7,
+          "name": "Серія 7",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 40,
+          "still_path": "/s4kz19IA4SuzywWtiaAuPmED0mu.jpg",
+          "vote_average": 9.0
+        },
+        "genres": [
+          "Вестерн",
+          "Драма"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e7",
+      "premiere": 0
+    },
+    {
+      "id": 2776,
+      "time": 1781935761765,
+      "card_id": "278178",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/2yDDwP48GqL9Fpb6UEgGHyqM63y.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "id": 278178,
+        "original_language": "en",
+        "name": "Я тебе відшукаю",
+        "original_name": "I Will Find You",
+        "names": [
+          "Я тебе відшукаю",
+          "Я тебя отыщу",
+          "I Will Find You",
+          "Я найду тебя"
+        ],
+        "overview": "Несправедливо засуджений за вбивство свого сина чоловік дізнається, що хлопчик міг вижити, і вирушає на порятунок.",
+        "poster_path": "/lXJDAPb7s8mKzsZbAcT0dlSQbdY.jpg",
+        "first_air_date": "2026-06-18",
+        "video": false,
+        "vote_average": 10,
+        "vote_count": 5,
+        "popularity": 6.9228,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "9349321",
+        "imdb_id": "tt34771210",
+        "status": "ended",
+        "last_air_date": "2026-06-19",
+        "seasons": {
+          "1": 8
+        },
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Драма",
+          "Детектив",
+          "Кримінал"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2775,
       "time": 1781878161773,
       "card_id": "1501018",
@@ -15,9 +184,10 @@
         ],
         "id": 1501018,
         "original_language": "fr",
-        "title": "Une famille de bâtards",
-        "original_title": "Une famille de bâtards",
+        "title": "Une Famille De Bâtards",
+        "original_title": "Une Famille De Bâtards",
         "names": [
+          "Une Famille De Bâtards",
           "Семейка Момо",
           "Une Famille de Bâtards",
           "Une famille de bâtards"
@@ -258,9 +428,9 @@
           "name": "Маємо надію, що вам тут сподобалося!",
           "overview": "Ми розуміємо, що довелося зробити важкий вибір, і ми вже не будемо такі, як були колись, але маємо надію, що ви знов до нас завітаєте!",
           "season_number": 1,
-          "runtime": 48,
+          "runtime": 49,
           "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
-          "vote_average": 7.944
+          "vote_average": 8.045
         },
         "genres": [
           "Драма",
@@ -406,7 +576,7 @@
           "season_number": 4,
           "runtime": 58,
           "still_path": "/AaL0o5rpoFPq0hhkEGkkPZUWb8V.jpg",
-          "vote_average": 5.265
+          "vote_average": 5.444
         },
         "genres": [
           "Детектив",
@@ -528,7 +698,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/oiZzteUTrSJhUjZTPN4MtrWtl1a.jpg",
-          "vote_average": 8.9
+          "vote_average": 8.6
         },
         "genres": [
           "Вестерн",
@@ -631,9 +801,8 @@
           "United States of America"
         ],
         "genres": [
-          "Трилер",
           "Фантастика",
-          "Детектив"
+          "Трилер"
         ]
       },
       "type": "now_playing",
@@ -1365,7 +1534,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.136
+          "vote_average": 9.1
         },
         "genres": [
           "Вестерн",
@@ -2175,7 +2344,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/te8KbkC5ekTltyJy3HkVYhjuJst.jpg",
-          "vote_average": 8.731
+          "vote_average": 8.7
         },
         "genres": [
           "Вестерн",
@@ -2457,7 +2626,7 @@
           "season_number": 1,
           "runtime": 43,
           "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
-          "vote_average": 7.882
+          "vote_average": 7.889
         },
         "genres": [
           "Драма",
@@ -2715,174 +2884,7 @@
       "type": "episode",
       "hash": "s9;e1",
       "premiere": 0
-    },
-    {
-      "id": 2728,
-      "time": 1779783201038,
-      "card_id": "224941",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/iftYIh1OjJb99EOTHIrDcx59zWb.jpg",
-        "genre_ids": [
-          10765,
-          9648
-        ],
-        "id": 224941,
-        "original_language": "en",
-        "name": "Бороуз",
-        "original_name": "The Boroughs",
-        "names": [
-          "Бороуз",
-          "The Boroughs",
-          "Городок"
-        ],
-        "overview": "У, здавалося б, ідеальному містечку для літніх людей незвичайні герої мають зупинити потойбічну загрозу, що намагається викрасти єдине, чого в них і так уже немає — час.",
-        "poster_path": "/80n6EKv6NTPlDphscZZYubHnLD1.jpg",
-        "first_air_date": "2026-05-21",
-        "video": false,
-        "vote_average": 6.333,
-        "vote_count": 6,
-        "popularity": 8.6351,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7385223",
-        "imdb_id": "tt27557289",
-        "status": "returning series",
-        "last_air_date": "2026-05-22",
-        "seasons": {
-          "1": 12
-        },
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Науково фантастичний",
-          "Детектив"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2727,
-      "time": 1779716595400,
-      "card_id": "85552",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 85552,
-        "original_language": "en",
-        "name": "Ейфорія",
-        "original_name": "Euphoria",
-        "names": [
-          "Эйфория",
-          "Euphoria",
-          "Ейфорія"
-        ],
-        "overview": "У центрі історії — 17-річна Ру Беннетт, яка повернулася до рідного дому після лікування в реабілітаційній клініці. Не гаючи часу, вона знову береться за старі звички — наркотики й тусовки. Однак поява в місті дівчини Джулс стає для Ру знаком надії.",
-        "poster_path": "/nsZkLSw1d0le18B8F0B5VMv6QKJ.jpg",
-        "first_air_date": "2019-06-16",
-        "video": false,
-        "vote_average": 8.289,
-        "vote_count": 10659,
-        "popularity": 222.5807,
-        "PG": 18,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1178445",
-        "kp_rating": "7.5",
-        "imdb_id": "tt8772296",
-        "imdb_rating": "8.2",
-        "status": "returning series",
-        "last_air_date": "2026-05-25",
-        "seasons": {
-          "1": 10,
-          "2": 8,
-          "3": 7
-        },
-        "episode": {
-          "air_date": "2026-05-24",
-          "episode_number": 7,
-          "name": "Серія 7",
-          "overview": "",
-          "season_number": 3,
-          "runtime": 78,
-          "still_path": "/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg",
-          "vote_average": 6.7
-        },
-        "genres": [
-          "Драма"
-        ],
-        "countries": [
-          "United States of America",
-          "Israel"
-        ]
-      },
-      "type": "episode",
-      "hash": "s3;e7",
-      "premiere": 0
-    },
-    {
-      "id": 2726,
-      "time": 1779705794840,
-      "card_id": "1375646",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
-        "genre_ids": [
-          28,
-          53,
-          27
-        ],
-        "id": 1375646,
-        "original_language": "ko",
-        "title": "Колонія",
-        "original_title": "군체",
-        "names": [
-          "Колонія",
-          "Колония",
-          "Gunche",
-          "군체"
-        ],
-        "overview": "Професорка біотехнології приїжджає на наукову конференцію — і стає мимовільною свідкою катастрофи: невідомий вірус наздоганяє всіх і кожного. Люди починають еволюціонувати в непередбачувані форми, об’єднуючись у нову структуру — «колонію», яка ставить під загрозу життя небагатьох уцілілих.",
-        "poster_path": "/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
-        "release_date": "2026-05-21",
-        "video": false,
-        "vote_average": 5.875,
-        "vote_count": 4,
-        "popularity": 44.8133,
-        "PG": 18,
-        "release_quality": "ts",
-        "kinopoisk_id": "6705911",
-        "imdb_id": "tt34385135",
-        "imdb_rating": "8.8",
-        "status": "released",
-        "last_air_date": "2026-05-25",
-        "countries": [
-          "South Korea"
-        ],
-        "genres": [
-          "Бойовик",
-          "Трилер",
-          "Жахи"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.619697093963623
+  "duration": 4.684676170349121
 }
