@@ -2,6 +2,76 @@
   "secuses": true,
   "result": [
     {
+      "id": 2779,
+      "time": 1782049159678,
+      "card_id": "124364",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "id": 124364,
+        "original_language": "en",
+        "name": "Ззовні",
+        "original_name": "FROM",
+        "names": [
+          "Извне",
+          "From",
+          "Ззовні",
+          "FROM"
+        ],
+        "overview": "Події серіалу відбуваються в містичному містечку, розташованому в центральній частині США. Всі, хто потрапляють туди, опиняються в пастці. Мимовільні жителі борются за збереження залишків здорового глузду та шукають вихід з кошмарної ситуації, адже щоночі їм доводиться переживати напад жахливих створінь, які виходять із заходом сонця з довколишнього лісу.",
+        "poster_path": "/rvlPBfIm6CUQTGorQvf6wK8lPDH.jpg",
+        "first_air_date": "2022-02-20",
+        "video": false,
+        "vote_average": 8.48,
+        "vote_count": 3682,
+        "popularity": 675.0874,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4476885",
+        "kp_rating": "7.6",
+        "imdb_id": "tt9813792",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-06-21",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 9
+        },
+        "episode": {
+          "air_date": "2026-06-21",
+          "episode_number": 9,
+          "name": "Серія 9",
+          "overview": "",
+          "season_number": 4,
+          "runtime": 47,
+          "still_path": "/95qRpGinaXgHmyhQy9UvsO48Jmb.jpg",
+          "vote_average": 5.2
+        },
+        "genres": [
+          "Детектив",
+          "Драма",
+          "Науково фантастичний"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s4;e9",
+      "premiere": 0
+    },
+    {
       "id": 2778,
       "time": 1781944764792,
       "card_id": "1318413",
@@ -99,7 +169,7 @@
           "name": "Серія 7",
           "overview": "",
           "season_number": 1,
-          "runtime": 40,
+          "runtime": 42,
           "still_path": "/s4kz19IA4SuzywWtiaAuPmED0mu.jpg",
           "vote_average": 9.0
         },
@@ -719,7 +789,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
+        "backdrop_path": "/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
         "genre_ids": [
           28,
           80
@@ -862,7 +932,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+        "backdrop_path": "/fOV6dJGG6EghbeXkU7RVQpDhFyp.jpg",
         "genre_ids": [
           10759,
           18,
@@ -988,7 +1058,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+        "backdrop_path": "/fOV6dJGG6EghbeXkU7RVQpDhFyp.jpg",
         "genre_ids": [
           10759,
           18,
@@ -1534,7 +1604,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.1
+          "vote_average": 9.125
         },
         "genres": [
           "Вестерн",
@@ -1831,7 +1901,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+        "backdrop_path": "/ckgd8xG6PnuMSbNg3sfY7QRzN9f.jpg",
         "genre_ids": [
           27,
           9648,
@@ -2344,7 +2414,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/te8KbkC5ekTltyJy3HkVYhjuJst.jpg",
-          "vote_average": 8.7
+          "vote_average": 8.75
         },
         "genres": [
           "Вестерн",
@@ -2648,7 +2718,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
+        "backdrop_path": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
         "genre_ids": [
           10759,
           80,
@@ -2702,7 +2772,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
+        "backdrop_path": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
         "genre_ids": [
           10759,
           80,
@@ -2744,7 +2814,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/62nhkhbQJjuxei1bI7Xu8mFtkAb.jpg",
-          "vote_average": 7.2
+          "vote_average": 7.226
         },
         "genres": [
           "Драма",
@@ -2808,83 +2878,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2729,
-      "time": 1779788596680,
-      "card_id": "60625",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
-        "genre_ids": [
-          16,
-          35,
-          10765,
-          10759
-        ],
-        "id": 60625,
-        "original_language": "en",
-        "name": "Рік та Морті",
-        "original_name": "Rick and Morty",
-        "names": [
-          "Рик и Морти",
-          "Rick and Morty",
-          "Рік та Морті"
-        ],
-        "overview": "Гумористично-фантастичний мультсеріал про пригоди дідуся-винахідника Ріка та його онука-школяра Морті, яких іноді супроводжують інші члени родини: батько-невдаха Джеррі, донька-школярка Саммер та закомплексована мати Бет.",
-        "poster_path": "/tnXwqcZ98EVKuMzRtcvPRJukwI3.jpg",
-        "first_air_date": "2013-12-02",
-        "video": false,
-        "vote_average": 8.7,
-        "vote_count": 10843,
-        "popularity": 79.584,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "685246",
-        "kp_rating": "8.9",
-        "imdb_id": "tt2861424",
-        "imdb_rating": "9.0",
-        "status": "returning series",
-        "last_air_date": "2026-05-25",
-        "seasons": {
-          "1": 11,
-          "2": 10,
-          "3": 10,
-          "4": 11,
-          "5": 14,
-          "6": 10,
-          "7": 10,
-          "8": 10,
-          "9": 1
-        },
-        "episode": {
-          "air_date": "2026-05-24",
-          "episode_number": 1,
-          "name": "Серія 1",
-          "overview": "",
-          "season_number": 9,
-          "runtime": 23,
-          "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 8.7
-        },
-        "genres": [
-          "Мультфільм",
-          "Комедія",
-          "Науково фантастичний",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s9;e1",
-      "premiere": 0
     }
   ],
-  "duration": 4.684676170349121
+  "duration": 7.9211859703063965
 }

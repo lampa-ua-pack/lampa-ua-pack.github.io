@@ -2,6 +2,68 @@
   "secuses": true,
   "result": [
     {
+      "id": 2779,
+      "time": 1782049159678,
+      "card_id": "124364",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "id": 124364,
+        "original_language": "en",
+        "name": "Извне",
+        "original_name": "FROM",
+        "names": [
+          "Извне",
+          "From",
+          "Ззовні",
+          "FROM"
+        ],
+        "overview": "Затерянный в лесу американский городок пленяет каждого, кому не посчастливилось проехать его по пути — покинуть это место оказывается буквально невозможно. Днем невольные жители пытаются выстроить подобие нормального быта и найти способ выбраться, а по ночам спасаются от пугающих обитателей леса, которые приходят навестить горожан, как только заходит солнце.",
+        "poster_path": "/dFJ8exnjJoEfTlHoR58L4OlTSEu.jpg",
+        "first_air_date": "2022-02-20",
+        "video": false,
+        "vote_average": 8.48,
+        "vote_count": 3682,
+        "popularity": 675.0874,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4476885",
+        "kp_rating": "7.6",
+        "imdb_id": "tt9813792",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-06-21",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 9
+        },
+        "episode": {
+          "air_date": "2026-06-21",
+          "episode_number": 9,
+          "name": "Эпизод 9",
+          "overview": "",
+          "season_number": 4,
+          "runtime": 47,
+          "still_path": "/95qRpGinaXgHmyhQy9UvsO48Jmb.jpg",
+          "vote_average": 4
+        }
+      },
+      "type": "episode",
+      "hash": "s4;e9",
+      "premiere": 0
+    },
+    {
       "id": 2778,
       "time": 1781944764792,
       "card_id": "1318413",
@@ -2618,74 +2680,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2729,
-      "time": 1779788596680,
-      "card_id": "60625",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/Ao5pBFuWY32cVuh6iYjEjZMEscN.jpg",
-        "genre_ids": [
-          16,
-          35,
-          10765,
-          10759
-        ],
-        "id": 60625,
-        "original_language": "en",
-        "name": "Рик и Морти",
-        "original_name": "Rick and Morty",
-        "names": [
-          "Рик и Морти",
-          "Rick and Morty",
-          "Рік та Морті"
-        ],
-        "overview": "Морти - самый обычный мальчик, который ничем не отличается от своих сверстников. А вот его дедуля Рик занимается необычными научными исследованиями и зачастую полностью неадекватен. Он может в любое время дня и ночи схватить внука и отправиться вместе с ним в безумные приключения с помощью построенной из разного хлама летающей тарелки, которая способна перемещаться сквозь межпространственный тоннель. Каждый раз эта парочка оказывается в самых неожиданных местах и самых нелепых ситуациях.",
-        "poster_path": "/3kniCPsO7ziszMiNvXxe0T1ciym.jpg",
-        "first_air_date": "2013-12-02",
-        "video": false,
-        "vote_average": 8.7,
-        "vote_count": 10843,
-        "popularity": 79.584,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "685246",
-        "kp_rating": "8.9",
-        "imdb_id": "tt2861424",
-        "imdb_rating": "9.0",
-        "status": "returning series",
-        "last_air_date": "2026-05-25",
-        "seasons": {
-          "1": 11,
-          "2": 10,
-          "3": 10,
-          "4": 11,
-          "5": 14,
-          "6": 10,
-          "7": 10,
-          "8": 10,
-          "9": 1
-        },
-        "episode": {
-          "air_date": "2026-05-24",
-          "episode_number": 1,
-          "name": "Эпизод 1",
-          "overview": "",
-          "season_number": 9,
-          "runtime": 23,
-          "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 7.938
-        }
-      },
-      "type": "episode",
-      "hash": "s9;e1",
-      "premiere": 0
     }
   ],
-  "duration": 4.684676170349121
+  "duration": 7.9211859703063965
 }
