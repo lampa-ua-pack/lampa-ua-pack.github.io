@@ -2,6 +2,136 @@
   "secuses": true,
   "result": [
     {
+      "id": 2781,
+      "time": 1782139159657,
+      "card_id": "60625",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "id": 60625,
+        "original_language": "en",
+        "name": "Рик и Морти",
+        "original_name": "Rick and Morty",
+        "names": [
+          "Рик и Морти",
+          "Rick and Morty",
+          "Рік та Морті"
+        ],
+        "overview": "Морти - самый обычный мальчик, который ничем не отличается от своих сверстников. А вот его дедуля Рик занимается необычными научными исследованиями и зачастую полностью неадекватен. Он может в любое время дня и ночи схватить внука и отправиться вместе с ним в безумные приключения с помощью построенной из разного хлама летающей тарелки, которая способна перемещаться сквозь межпространственный тоннель. Каждый раз эта парочка оказывается в самых неожиданных местах и самых нелепых ситуациях.",
+        "poster_path": "/6D1NA4IMUFI8lBNuCBUlp7eLYDP.jpg",
+        "first_air_date": "2013-12-02",
+        "video": false,
+        "vote_average": 8.679,
+        "vote_count": 10993,
+        "popularity": 152.6207,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "685246",
+        "kp_rating": "8.9",
+        "imdb_id": "tt2861424",
+        "imdb_rating": "9.0",
+        "status": "returning series",
+        "last_air_date": "2026-06-22",
+        "seasons": {
+          "1": 11,
+          "2": 10,
+          "3": 10,
+          "4": 11,
+          "5": 14,
+          "6": 10,
+          "7": 10,
+          "8": 10,
+          "9": 5
+        },
+        "episode": {
+          "air_date": "2026-06-21",
+          "episode_number": 5,
+          "name": "Эпизод 5",
+          "overview": "",
+          "season_number": 9,
+          "runtime": 22,
+          "still_path": "/dQUDeY9qKrERkHwu8sB67XmG6Am.jpg",
+          "vote_average": 9
+        }
+      },
+      "type": "episode",
+      "hash": "s9;e5",
+      "premiere": 0
+    },
+    {
+      "id": 2780,
+      "time": 1782121160689,
+      "card_id": "94997",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 94997,
+        "original_language": "en",
+        "name": "Дом Дракона",
+        "original_name": "House of the Dragon",
+        "names": [
+          "Дом Дракона",
+          "House of the Dragon",
+          "Дом дракона",
+          "Дім Дракона",
+          "Дім дракона",
+          "Game of Thrones: House of the Dragon"
+        ],
+        "overview": "После смерти короля Визериса династия Таргариенов начинает бескомпромиссную борьбу за Железный трон. Предводительницей «черной» ветви становится принцесса Рейнира, а на стороне «зеленой» оказывается ее лучшая подруга и дочь десницы короля Алисента. В битве за престол соперницы заручаются поддержкой неожиданных союзников, плетут интриги — и используют разрушительную мощь драконов.",
+        "poster_path": "/hXyYN6LFo7QnKUA3QBx7B3KsnJE.jpg",
+        "first_air_date": "2022-08-21",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 6047,
+        "popularity": 132.5104,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1316601",
+        "kp_rating": "8.1",
+        "imdb_id": "tt11198330",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-06-22",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 1
+        },
+        "episode": {
+          "air_date": "2026-06-21",
+          "episode_number": 1,
+          "name": "Эпизод 1",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 66,
+          "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
+          "vote_average": 4.5
+        }
+      },
+      "type": "episode",
+      "hash": "s3;e1",
+      "premiere": 0
+    },
+    {
       "id": 2779,
       "time": 1782049159678,
       "card_id": "124364",
@@ -2575,112 +2705,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2731,
-      "time": 1779908381135,
-      "card_id": "220102",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/19yUwtpsnI2o9DIvA3A2jrKJcOd.jpg",
-        "genre_ids": [
-          10759,
-          80,
-          9648
-        ],
-        "id": 220102,
-        "original_language": "en",
-        "name": "Паук-Нуар",
-        "original_name": "Spider-Noir",
-        "names": [
-          "Паук-Нуар",
-          "Spider-Noir"
-        ],
-        "overview": "Нью-Йорк, 1930-ые. Частный детектив Бен Райлли, который переживает не лучшие времена, сталкивается со своим прошлым. Бену, единственному супергерою в городе, приходится бороться с внутренними демонами и снова стать Человеком-пауком, чтобы спасти мегаполис и себя.",
-        "poster_path": "/6LxPDhFwWFmUOiJKieYjuMNpfel.jpg",
-        "first_air_date": "2026-05-25",
-        "video": false,
-        "vote_average": 8,
-        "vote_count": 2,
-        "popularity": 34.0962,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "5698586",
-        "imdb_id": "tt30460310",
-        "status": "returning series",
-        "last_air_date": "2026-05-27",
-        "seasons": {
-          "1": 8
-        },
-        "episode": {
-          "air_date": "2026-05-25",
-          "episode_number": 8,
-          "name": "Эпизод 8",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 48,
-          "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
-          "vote_average": 9
-        }
-      },
-      "type": "episode",
-      "hash": "s1;e8",
-      "premiere": 0
-    },
-    {
-      "id": 2730,
-      "time": 1779876796250,
-      "card_id": "295532",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/vXtuye0TbQ97E3q4B1qPrTxiOvq.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 295532,
-        "original_language": "en",
-        "name": "Дорогая Англия",
-        "original_name": "Dear England",
-        "names": [
-          "Дорогая Англия",
-          "Dear England"
-        ],
-        "overview": "Гарет Саутгейт возглавляет сборную Англии по футболу в момент глубокого кризиса. Команда, обремененная серией болезненных поражений и мировым антирекордом по пенальти, нуждается в перезагрузке. Тренеру предстоит изменить психологию игроков и вернуть нации утраченную футбольную гордость и славу.",
-        "poster_path": "/4ezcTug28FnaNixpkAYeoC7SPvi.jpg",
-        "first_air_date": "2026-05-24",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "popularity": 3.3828,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "GB"
-        ],
-        "kinopoisk_id": "12539569",
-        "imdb_id": "tt31433766",
-        "imdb_rating": "8.0",
-        "status": "returning series",
-        "last_air_date": "2026-05-25",
-        "seasons": {
-          "1": 2
-        },
-        "countries": [
-          "Великобритания"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.9211859703063965
+  "duration": 7.131978988647461
 }

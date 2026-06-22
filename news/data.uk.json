@@ -2,6 +2,153 @@
   "secuses": true,
   "result": [
     {
+      "id": 2781,
+      "time": 1782139159657,
+      "card_id": "60625",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "id": 60625,
+        "original_language": "en",
+        "name": "Рік та Морті",
+        "original_name": "Rick and Morty",
+        "names": [
+          "Рик и Морти",
+          "Rick and Morty",
+          "Рік та Морті"
+        ],
+        "overview": "Гумористично-фантастичний мультсеріал про пригоди дідуся-винахідника Ріка та його онука-школяра Морті, яких іноді супроводжують інші члени родини: батько-невдаха Джеррі, донька-школярка Саммер та закомплексована мати Бет.",
+        "poster_path": "/tnXwqcZ98EVKuMzRtcvPRJukwI3.jpg",
+        "first_air_date": "2013-12-02",
+        "video": false,
+        "vote_average": 8.679,
+        "vote_count": 10993,
+        "popularity": 152.6207,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "685246",
+        "kp_rating": "8.9",
+        "imdb_id": "tt2861424",
+        "imdb_rating": "9.0",
+        "status": "returning series",
+        "last_air_date": "2026-06-22",
+        "seasons": {
+          "1": 11,
+          "2": 10,
+          "3": 10,
+          "4": 11,
+          "5": 14,
+          "6": 10,
+          "7": 10,
+          "8": 10,
+          "9": 5
+        },
+        "episode": {
+          "air_date": "2026-06-21",
+          "episode_number": 5,
+          "name": "Серія 5",
+          "overview": "",
+          "season_number": 9,
+          "runtime": 22,
+          "still_path": "/dQUDeY9qKrERkHwu8sB67XmG6Am.jpg",
+          "vote_average": 0.0
+        },
+        "genres": [
+          "Мультфільм",
+          "Комедія",
+          "Науково фантастичний",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s9;e5",
+      "premiere": 0
+    },
+    {
+      "id": 2780,
+      "time": 1782121160689,
+      "card_id": "94997",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 94997,
+        "original_language": "en",
+        "name": "Дім дракона",
+        "original_name": "House of the Dragon",
+        "names": [
+          "Дом Дракона",
+          "House of the Dragon",
+          "Дом дракона",
+          "Дім Дракона",
+          "Дім дракона",
+          "Game of Thrones: House of the Dragon"
+        ],
+        "overview": "Члени дому Тарґарієнів залишають приречену Валірію і відправляються на захід, де знаходять величезну територію, населену ворогуючими королівствами.",
+        "poster_path": "/yaGOa7I9xIug8qsw7vXzkeMZ1mb.jpg",
+        "first_air_date": "2022-08-21",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 6047,
+        "popularity": 132.5104,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1316601",
+        "kp_rating": "8.1",
+        "imdb_id": "tt11198330",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-06-22",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 1
+        },
+        "episode": {
+          "air_date": "2026-06-21",
+          "episode_number": 1,
+          "name": "Серія 1",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 66,
+          "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
+          "vote_average": 4.9
+        },
+        "genres": [
+          "Науково фантастичний",
+          "Драма",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e1",
+      "premiere": 0
+    },
+    {
       "id": 2779,
       "time": 1782049159678,
       "card_id": "124364",
@@ -56,7 +203,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/95qRpGinaXgHmyhQy9UvsO48Jmb.jpg",
-          "vote_average": 5.2
+          "vote_average": 4.7
         },
         "genres": [
           "Детектив",
@@ -500,12 +647,12 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
-          "vote_average": 8.045
+          "vote_average": 8.042
         },
         "genres": [
           "Драма",
-          "Детектив",
-          "Комедія"
+          "Комедія",
+          "Детектив"
         ],
         "countries": [
           "United States of America"
@@ -646,7 +793,7 @@
           "season_number": 4,
           "runtime": 58,
           "still_path": "/AaL0o5rpoFPq0hhkEGkkPZUWb8V.jpg",
-          "vote_average": 5.444
+          "vote_average": 5.2
         },
         "genres": [
           "Детектив",
@@ -710,8 +857,8 @@
         ],
         "genres": [
           "Драма",
-          "Детектив",
-          "Комедія"
+          "Комедія",
+          "Детектив"
         ]
       },
       "type": "now_playing",
@@ -789,7 +936,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
+        "backdrop_path": "/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
         "genre_ids": [
           28,
           80
@@ -1040,8 +1187,8 @@
         },
         "genres": [
           "Драма",
-          "Детектив",
-          "Комедія"
+          "Комедія",
+          "Детектив"
         ],
         "countries": [
           "United States of America"
@@ -1231,7 +1378,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.4
+          "vote_average": 8.409
         },
         "genres": [
           "Мультфільм",
@@ -1349,7 +1496,7 @@
           "season_number": 4,
           "runtime": 51,
           "still_path": "/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
-          "vote_average": 5.9
+          "vote_average": 5.3
         },
         "genres": [
           "Детектив",
@@ -1604,7 +1751,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.125
+          "vote_average": 9.1
         },
         "genres": [
           "Вестерн",
@@ -1706,7 +1853,7 @@
           "Hokum"
         ],
         "overview": "Письменник романів жахів Ом Бауман приїжджає до ірландського готелю, щоб розвіяти прах своїх батьків, не підозрюючи, що в цьому місці, за чутками, мешкає відьма. З наближенням ночі він стикається з незрозумілими явищами та таємницями минулого, які поступово розкривають зловісну природу цього віддаленого куточка.",
-        "poster_path": "/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
+        "poster_path": "/rNsDR3UURU8Ow6eNfxUtIFh7zmt.jpg",
         "release_date": "2026-04-29",
         "video": false,
         "vote_average": 6.9,
@@ -1834,12 +1981,12 @@
           "season_number": 1,
           "runtime": 34,
           "still_path": "/eh3wez62jJ79krAvtgWLRVStUZj.jpg",
-          "vote_average": 8.2
+          "vote_average": 8.176
         },
         "genres": [
           "Драма",
-          "Детектив",
-          "Комедія"
+          "Комедія",
+          "Детектив"
         ],
         "countries": [
           "United States of America"
@@ -1901,7 +2048,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/ckgd8xG6PnuMSbNg3sfY7QRzN9f.jpg",
+        "backdrop_path": "/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
         "genre_ids": [
           27,
           9648,
@@ -2053,7 +2200,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/nYIyH5KrAxivpFPDTf87Zlgzpf9.jpg",
-          "vote_average": 8.1
+          "vote_average": 8.154
         },
         "genres": [
           "Мультфільм",
@@ -2293,7 +2440,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/yfPAXLfe6YUnJ4EqpvuCk5irBWv.jpg",
-          "vote_average": 5.7
+          "vote_average": 5.4
         },
         "genres": [
           "Детектив",
@@ -2700,8 +2847,8 @@
         },
         "genres": [
           "Драма",
-          "Детектив",
-          "Комедія"
+          "Комедія",
+          "Детектив"
         ],
         "countries": [
           "United States of America"
@@ -2764,121 +2911,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2731,
-      "time": 1779908381135,
-      "card_id": "220102",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
-        "genre_ids": [
-          10759,
-          80,
-          9648
-        ],
-        "id": 220102,
-        "original_language": "en",
-        "name": "Павук-Нуар",
-        "original_name": "Spider-Noir",
-        "names": [
-          "Павук-Нуар",
-          "Паук-Нуар",
-          "Spider-Noir"
-        ],
-        "overview": "Постарілий приватний детектив і невдаха в Нью-Йорку 1930-х років змушений зіштовхнутися зі своїм минулим, коли він був єдиним у місті супергероєм.",
-        "poster_path": "/1H8R4CQVu3gXpiemZxyADaaxAkF.jpg",
-        "first_air_date": "2026-05-25",
-        "video": false,
-        "vote_average": 8,
-        "vote_count": 2,
-        "popularity": 34.0962,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "5698586",
-        "imdb_id": "tt30460310",
-        "status": "returning series",
-        "last_air_date": "2026-05-27",
-        "seasons": {
-          "1": 8
-        },
-        "episode": {
-          "air_date": "2026-05-25",
-          "episode_number": 8,
-          "name": "Людина в масці",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 46,
-          "still_path": "/62nhkhbQJjuxei1bI7Xu8mFtkAb.jpg",
-          "vote_average": 7.226
-        },
-        "genres": [
-          "Драма",
-          "Детектив",
-          "Кримінал"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e8",
-      "premiere": 0
-    },
-    {
-      "id": 2730,
-      "time": 1779876796250,
-      "card_id": "295532",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/vXtuye0TbQ97E3q4B1qPrTxiOvq.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 295532,
-        "original_language": "en",
-        "name": "Dear England",
-        "original_name": "Dear England",
-        "names": [
-          "Дорогая Англия",
-          "Dear England"
-        ],
-        "overview": "Гарет Саутгейт возглавляет сборную Англии по футболу в момент глубокого кризиса. Команда, обремененная серией болезненных поражений и мировым антирекордом по пенальти, нуждается в перезагрузке. Тренеру предстоит изменить психологию игроков и вернуть нации утраченную футбольную гордость и славу.",
-        "poster_path": "/8gNZM8tRj1HIxl5SxOlTD3TStsl.jpg",
-        "first_air_date": "2026-05-24",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "popularity": 3.3828,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "GB"
-        ],
-        "kinopoisk_id": "12539569",
-        "imdb_id": "tt31433766",
-        "imdb_rating": "8.0",
-        "status": "returning series",
-        "last_air_date": "2026-05-25",
-        "seasons": {
-          "1": 2
-        },
-        "countries": [
-          "United Kingdom"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.9211859703063965
+  "duration": 7.131978988647461
 }
