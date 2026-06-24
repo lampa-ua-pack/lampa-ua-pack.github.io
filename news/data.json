@@ -2,6 +2,102 @@
   "secuses": true,
   "result": [
     {
+      "id": 2783,
+      "time": 1782292159794,
+      "card_id": "614945",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
+        "genre_ids": [
+          10749,
+          35
+        ],
+        "id": 614945,
+        "original_language": "en",
+        "title": "Сообщения для Изабель",
+        "original_title": "Voicemails for Isabelle",
+        "names": [
+          "Сообщения для Изабель",
+          "Voicemails for Isabelle"
+        ],
+        "overview": "Девушка отправляет забавные и искренние голосовые сообщения покойной сестре, не подозревая, что их получает незнакомый человек и влюбляется в нее на расстоянии.",
+        "poster_path": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+        "release_date": "2026-06-20",
+        "video": false,
+        "vote_average": 6.625,
+        "vote_count": 8,
+        "popularity": 7.7539,
+        "PG": 13,
+        "release_quality": "4K",
+        "kinopoisk_id": "12465988",
+        "kp_rating": "7.8",
+        "imdb_id": "tt10375624",
+        "status": "released",
+        "last_air_date": "2026-06-20",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Мелодрама",
+          "Комедия"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2782,
+      "time": 1782232763688,
+      "card_id": "1084244",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          35,
+          12
+        ],
+        "id": 1084244,
+        "original_language": "en",
+        "title": "История игрушек 5",
+        "original_title": "Toy Story 5",
+        "names": [
+          "История игрушек 5",
+          "Toy Story 5"
+        ],
+        "overview": "Вуди, Джесси и Базз Лайтер сталкиваются с новой угрозой — планшетом «ЛилиПад», который стал любимой игрушкой 8-летней Бонни и занимает всё больше её времени.",
+        "poster_path": "/84igQj0DU3TgPrtQ7bHXHCio1sV.jpg",
+        "release_date": "2026-06-17",
+        "video": false,
+        "vote_average": 7.511,
+        "vote_count": 219,
+        "popularity": 345.7913,
+        "PG": 6,
+        "release_quality": "ts",
+        "kinopoisk_id": "5424947",
+        "kp_rating": "7.4",
+        "imdb_id": "tt29355505",
+        "status": "released",
+        "last_air_date": "2026-06-19",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Мультфильм",
+          "Семейный",
+          "Комедия",
+          "Приключения"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2781,
       "time": 1782139159657,
       "card_id": "60625",
@@ -2594,118 +2690,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2733,
-      "time": 1779980382137,
-      "card_id": "270476",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
-        "genre_ids": [
-          18,
-          9648,
-          35
-        ],
-        "id": 270476,
-        "original_language": "en",
-        "name": "Уидоус-Бэй",
-        "original_name": "Widow's Bay",
-        "names": [
-          "Бухта вдов",
-          "Widow's Bay",
-          "Уидоус-Бэй",
-          "Widows Bay"
-        ],
-        "overview": "Мэр города в Новой Англии решает превратить его в новый центр притяжения туристов, несмотря на предупреждения местных о том, что он проклят.",
-        "poster_path": "/7Dc2FNMcOeNO61W2rOKgJDoVJ63.jpg",
-        "first_air_date": "2026-04-28",
-        "video": false,
-        "vote_average": 8.351,
-        "vote_count": 74,
-        "popularity": 50.795,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6555657",
-        "kp_rating": "7.8",
-        "imdb_id": "tt33332385",
-        "status": "returning series",
-        "last_air_date": "2026-05-27",
-        "seasons": {
-          "1": 7
-        },
-        "episode": {
-          "air_date": "2026-05-26",
-          "episode_number": 7,
-          "name": "Морская болезнь",
-          "overview": "Отправляйтесь в море с мэром Лофтисом и уважаемым местным жителем Уиком! Они заняты делом, так что лучше просто наслаждайтесь путешествием.",
-          "season_number": 1,
-          "runtime": 42,
-          "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
-          "vote_average": 6
-        }
-      },
-      "type": "episode",
-      "hash": "s1;e7",
-      "premiere": 0
-    },
-    {
-      "id": 2732,
-      "time": 1779956983259,
-      "card_id": "220102",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/19yUwtpsnI2o9DIvA3A2jrKJcOd.jpg",
-        "genre_ids": [
-          10759,
-          80,
-          9648
-        ],
-        "id": 220102,
-        "original_language": "en",
-        "name": "Паук-Нуар",
-        "original_name": "Spider-Noir",
-        "names": [
-          "Паук-Нуар",
-          "Spider-Noir"
-        ],
-        "overview": "Нью-Йорк, 1930-ые. Частный детектив Бен Райлли, который переживает не лучшие времена, сталкивается со своим прошлым. Бену, единственному супергерою в городе, приходится бороться с внутренними демонами и снова стать Человеком-пауком, чтобы спасти мегаполис и себя.",
-        "poster_path": "/6LxPDhFwWFmUOiJKieYjuMNpfel.jpg",
-        "first_air_date": "2026-05-25",
-        "video": false,
-        "vote_average": 8,
-        "vote_count": 2,
-        "popularity": 34.0962,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "5698586",
-        "imdb_id": "tt30460310",
-        "status": "returning series",
-        "last_air_date": "2026-05-27",
-        "seasons": {
-          "1": 8
-        },
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Криминал",
-          "Детектив",
-          "Драма"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.050832033157349
+  "duration": 7.3124940395355225
 }

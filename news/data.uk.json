@@ -2,6 +2,104 @@
   "secuses": true,
   "result": [
     {
+      "id": 2783,
+      "time": 1782292159794,
+      "card_id": "614945",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
+        "genre_ids": [
+          10749,
+          35
+        ],
+        "id": 614945,
+        "original_language": "en",
+        "title": "Повідомлення до Ізабелі",
+        "original_title": "Voicemails for Isabelle",
+        "names": [
+          "Повідомлення до Ізабелі",
+          "Сообщения для Изабель",
+          "Voicemails for Isabelle"
+        ],
+        "overview": "Надзвичайно відверті голосові повідомлення молодої жінки покійній сестрі випадково перенаправляються незнайомцю, який починає закохуватися в неї на відстані.",
+        "poster_path": "/1Qbv2z09GDjTD3Xm3C7xbd6HABu.jpg",
+        "release_date": "2026-06-20",
+        "video": false,
+        "vote_average": 6.625,
+        "vote_count": 8,
+        "popularity": 7.7539,
+        "PG": 13,
+        "release_quality": "4K",
+        "kinopoisk_id": "12465988",
+        "kp_rating": "7.8",
+        "imdb_id": "tt10375624",
+        "status": "released",
+        "last_air_date": "2026-06-20",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Мелодрама",
+          "Комедія"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2782,
+      "time": 1782232763688,
+      "card_id": "1084244",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          35,
+          12
+        ],
+        "id": 1084244,
+        "original_language": "en",
+        "title": "Історія іграшок 5",
+        "original_title": "Toy Story 5",
+        "names": [
+          "Історія іграшок 5",
+          "История игрушек 5",
+          "Toy Story 5"
+        ],
+        "overview": "У новому розділі культової історії Базз, Вуді, Джессі та їхні друзі зіштовхуються з неочікуваною суперницею — Ліліпад, високотехнологічним планшетом у формі жабки, що перевертає їхній світ догори дриґом. Вона стає справжнім випробуванням для старих героїв, змушуючи їх знову об’єднатися, щоб врятувати улюблений світ дитинства. Тим часом до команди приєднується новий кумедний герой — Смарті Пентс — іграшка, що має привчати малюків до горщика.",
+        "poster_path": "/lqW1DxFiUt6FKIdUllYKm1VRiZq.jpg",
+        "release_date": "2026-06-17",
+        "video": false,
+        "vote_average": 7.511,
+        "vote_count": 219,
+        "popularity": 345.7913,
+        "PG": 6,
+        "release_quality": "ts",
+        "kinopoisk_id": "5424947",
+        "kp_rating": "7.4",
+        "imdb_id": "tt29355505",
+        "status": "released",
+        "last_air_date": "2026-06-19",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Мультфільм",
+          "Сімейний",
+          "Комедія",
+          "Пригоди"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2781,
       "time": 1782139159657,
       "card_id": "60625",
@@ -59,9 +157,9 @@
           "name": "Серія 5",
           "overview": "",
           "season_number": 9,
-          "runtime": 22,
+          "runtime": 23,
           "still_path": "/dQUDeY9qKrERkHwu8sB67XmG6Am.jpg",
-          "vote_average": 7.875
+          "vote_average": 8.3
         },
         "genres": [
           "Мультфільм",
@@ -84,7 +182,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "backdrop_path": "/h37hqVLmCW00ImewLAHT1DadOky.jpg",
         "genre_ids": [
           10765,
           18,
@@ -133,7 +231,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 6.5
+          "vote_average": 7.167
         },
         "genres": [
           "Науково фантастичний",
@@ -647,7 +745,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
-          "vote_average": 7.885
+          "vote_average": 7.964
         },
         "genres": [
           "Драма",
@@ -1496,7 +1594,7 @@
           "season_number": 4,
           "runtime": 51,
           "still_path": "/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
-          "vote_average": 5.231
+          "vote_average": 5.2
         },
         "genres": [
           "Детектив",
@@ -1694,7 +1792,8 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія"
+          "Комедія",
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -2275,7 +2374,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+        "backdrop_path": "/aJN0VtMbtYndK0M0XoaoKBoAzPu.jpg",
         "genre_ids": [
           18
         ],
@@ -2318,7 +2417,7 @@
           "overview": "",
           "season_number": 3,
           "runtime": 93,
-          "still_path": "/lUEO2hUElwsGyPcEmf1Z34xywyZ.jpg",
+          "still_path": "/asmuTZNYmsKOzWPOS3CwIk63xjw.jpg",
           "vote_average": 7.1
         },
         "genres": [
@@ -2561,7 +2660,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/te8KbkC5ekTltyJy3HkVYhjuJst.jpg",
-          "vote_average": 8.75
+          "vote_average": 8.8
         },
         "genres": [
           "Вестерн",
@@ -2790,128 +2889,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2733,
-      "time": 1779980382137,
-      "card_id": "270476",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
-        "genre_ids": [
-          18,
-          9648,
-          35
-        ],
-        "id": 270476,
-        "original_language": "en",
-        "name": "Відоус-Бей",
-        "original_name": "Widow's Bay",
-        "names": [
-          "Відоус-Бей",
-          "Бухта вдов",
-          "Widow's Bay",
-          "Уидоус-Бэй",
-          "Widows Bay"
-        ],
-        "overview": "Мер містечка в Новій Англії має намір перетворити його на туристичну принаду, попри застереження місцевих про те, що це місце прокляте.",
-        "poster_path": "/r9LY3JmgL8CcUKDOEKQZHsOaIcP.jpg",
-        "first_air_date": "2026-04-28",
-        "video": false,
-        "vote_average": 8.351,
-        "vote_count": 74,
-        "popularity": 50.795,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6555657",
-        "kp_rating": "7.8",
-        "imdb_id": "tt33332385",
-        "status": "returning series",
-        "last_air_date": "2026-05-27",
-        "seasons": {
-          "1": 7
-        },
-        "episode": {
-          "air_date": "2026-05-26",
-          "episode_number": 7,
-          "name": "Морська хвороба",
-          "overview": "Вирушайте в море з мером Лофтісом і шанованою місцевою особою Віком! Вони там у справах — краще просто насолоджуватися подорожжю.",
-          "season_number": 1,
-          "runtime": 43,
-          "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
-          "vote_average": 7.889
-        },
-        "genres": [
-          "Драма",
-          "Комедія",
-          "Детектив"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e7",
-      "premiere": 0
-    },
-    {
-      "id": 2732,
-      "time": 1779956983259,
-      "card_id": "220102",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
-        "genre_ids": [
-          10759,
-          80,
-          9648
-        ],
-        "id": 220102,
-        "original_language": "en",
-        "name": "Павук-Нуар",
-        "original_name": "Spider-Noir",
-        "names": [
-          "Павук-Нуар",
-          "Паук-Нуар",
-          "Spider-Noir"
-        ],
-        "overview": "Постарілий приватний детектив і невдаха в Нью-Йорку 1930-х років змушений зіштовхнутися зі своїм минулим, коли він був єдиним у місті супергероєм.",
-        "poster_path": "/1H8R4CQVu3gXpiemZxyADaaxAkF.jpg",
-        "first_air_date": "2026-05-25",
-        "video": false,
-        "vote_average": 8,
-        "vote_count": 2,
-        "popularity": 34.0962,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "5698586",
-        "imdb_id": "tt30460310",
-        "status": "returning series",
-        "last_air_date": "2026-05-27",
-        "seasons": {
-          "1": 8
-        },
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Драма",
-          "Детектив",
-          "Кримінал"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.050832033157349
+  "duration": 7.3124940395355225
 }
