@@ -106,7 +106,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
+        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
         "genre_ids": [
           16,
           35,
@@ -159,7 +159,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/dQUDeY9qKrERkHwu8sB67XmG6Am.jpg",
-          "vote_average": 8.3
+          "vote_average": 8.083
         },
         "genres": [
           "Мультфільм",
@@ -182,7 +182,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/h37hqVLmCW00ImewLAHT1DadOky.jpg",
+        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
         "genre_ids": [
           10765,
           18,
@@ -231,7 +231,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.167
+          "vote_average": 6.784
         },
         "genres": [
           "Науково фантастичний",
@@ -301,7 +301,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/95qRpGinaXgHmyhQy9UvsO48Jmb.jpg",
-          "vote_average": 5.4
+          "vote_average": 5.5
         },
         "genres": [
           "Детектив",
@@ -437,7 +437,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/2yDDwP48GqL9Fpb6UEgGHyqM63y.jpg",
+        "backdrop_path": "/z0R6ToCsMMkLwuQXjzzdd1QCdJv.jpg",
         "genre_ids": [
           18,
           9648,
@@ -539,7 +539,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/2yDDwP48GqL9Fpb6UEgGHyqM63y.jpg",
+        "backdrop_path": "/z0R6ToCsMMkLwuQXjzzdd1QCdJv.jpg",
         "genre_ids": [
           18,
           9648,
@@ -582,7 +582,7 @@
           "season_number": 1,
           "runtime": 36,
           "still_path": "/TOs0PsDUEz8mlo3XKAIBKQ0SOW.jpg",
-          "vote_average": 0.0
+          "vote_average": 8.0
         },
         "genres": [
           "Драма",
@@ -745,7 +745,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
-          "vote_average": 7.964
+          "vote_average": 7.676
         },
         "genres": [
           "Драма",
@@ -767,7 +767,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
+        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
         "genre_ids": [
           16,
           35,
@@ -891,7 +891,7 @@
           "season_number": 4,
           "runtime": 58,
           "still_path": "/AaL0o5rpoFPq0hhkEGkkPZUWb8V.jpg",
-          "vote_average": 5.038
+          "vote_average": 5.0
         },
         "genres": [
           "Детектив",
@@ -1281,7 +1281,7 @@
           "season_number": 1,
           "runtime": 32,
           "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
-          "vote_average": 7.467
+          "vote_average": 7.471
         },
         "genres": [
           "Драма",
@@ -1423,7 +1423,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
+        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
         "genre_ids": [
           16,
           35,
@@ -1633,7 +1633,7 @@
           "Le Crime du 3e étage"
         ],
         "overview": "Колетт, захоплена фанатка фільмів Гічкока, підозрює, що новий сусід вбив свою дружину. Франсуа, її чоловік і відомий автор трилерів, не в захваті від її ідей. Пара починає захопливе і ризиковане розслідування, щоб з'ясувати, чи справді в їхньому будинку сталося вбивство!",
-        "poster_path": "/5FHAlQPHFyJEIN1UOxsADog1KUy.jpg",
+        "poster_path": "/kQRtuJ0ybDk5inwt9VBiySJHmmQ.jpg",
         "release_date": "2026-03-11",
         "video": false,
         "vote_average": 6.583,
@@ -1938,7 +1938,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/woZX9wZaiX70LbW7bOeNccNTIhp.jpg",
+        "backdrop_path": "/qY7zVZ7liULhfRoXg4c9Xl83LcR.jpg",
         "genre_ids": [
           27
         ],
@@ -2080,7 +2080,7 @@
           "season_number": 1,
           "runtime": 34,
           "still_path": "/eh3wez62jJ79krAvtgWLRVStUZj.jpg",
-          "vote_average": 8.278
+          "vote_average": 8.333
         },
         "genres": [
           "Драма",
@@ -2246,7 +2246,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
+        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
         "genre_ids": [
           16,
           35,
@@ -2299,7 +2299,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/nYIyH5KrAxivpFPDTf87Zlgzpf9.jpg",
-          "vote_average": 8.154
+          "vote_average": 8.214
         },
         "genres": [
           "Мультфільм",
@@ -2322,7 +2322,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/2J4e77TodIQGeyQQ6p6mZFoS20F.jpg",
+        "backdrop_path": "/8wIaBCeGv3UhIn5CJOWQGHT1Cif.jpg",
         "genre_ids": [
           28,
           80,
@@ -2891,5 +2891,5 @@
       "premiere": 0
     }
   ],
-  "duration": 7.3124940395355225
+  "duration": 6.300491094589233
 }
