@@ -2,6 +2,104 @@
   "secuses": true,
   "result": [
     {
+      "id": 2785,
+      "time": 1782465975925,
+      "card_id": "1451344",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/zZQQ5dd7jq1PfUnWTT9qH4RMf5a.jpg",
+        "genre_ids": [
+          35,
+          28
+        ],
+        "id": 1451344,
+        "original_language": "ko",
+        "title": "Мужья в действии",
+        "original_title": "남편들",
+        "names": [
+          "Мужья в деле",
+          "Husbands in Action",
+          "Мужья в действии",
+          "남편들",
+          "Nampyeondeul",
+          "Мужья в действии / Husbands in Action"
+        ],
+        "overview": "Детектив объединяется с новым мужем своей бывшей жены, чтобы выследить похитителей. Смогут ли они преодолеть свои разногласия ради безумной спасательной операции?",
+        "poster_path": "/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
+        "release_date": "2026-06-18",
+        "video": false,
+        "vote_average": 7.811,
+        "vote_count": 37,
+        "popularity": 123.8778,
+        "PG": 16,
+        "release_quality": "4K",
+        "kinopoisk_id": "7930395",
+        "kp_rating": "7.3",
+        "imdb_id": "tt36876775",
+        "imdb_rating": "6.3",
+        "status": "released",
+        "last_air_date": "2026-06-20",
+        "countries": [
+          "Южная Корея"
+        ],
+        "genres": [
+          "Комедия",
+          "Боевик"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2784,
+      "time": 1782464174736,
+      "card_id": "1329471",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/112sW296vEx3d71C8fzOqoFIomN.jpg",
+        "genre_ids": [
+          80,
+          18,
+          10749
+        ],
+        "id": 1329471,
+        "original_language": "en",
+        "title": "Каролина Кэролайн",
+        "original_title": "Carolina Caroline",
+        "names": [
+          "Каролина Кэролайн",
+          "Carolina Caroline"
+        ],
+        "overview": "Молодая женщина присоединяется к обаятельному мошеннику, находящемуся в бегах, оставляя за собой след преступления и страсти, когда они спешат по Юго-востоку в поисках её матери, с которой она рассталась.",
+        "poster_path": "/61Dam4eJTY43R8ikC38iv2Vuit8.jpg",
+        "release_date": "2026-06-05",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 9,
+        "popularity": 27.0235,
+        "PG": 17,
+        "kinopoisk_id": "7026396",
+        "imdb_id": "tt33365126",
+        "imdb_rating": "7.1",
+        "status": "released",
+        "last_air_date": "2026-06-24",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Криминал",
+          "Драма",
+          "Мелодрама"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2783,
       "time": 1782292159794,
       "card_id": "614945",
@@ -2594,103 +2692,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2735,
-      "time": 1780043382326,
-      "card_id": "1242332",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
-        "genre_ids": [
-          28,
-          80,
-          53
-        ],
-        "id": 1242332,
-        "original_language": "en",
-        "title": "Нормал",
-        "original_title": "Normal",
-        "names": [
-          "Нормал",
-          "Normal"
-        ],
-        "overview": "Улисс приезжает в небольшой городок Нормал, чтобы временно занять должность шерифа. Город кажется безопасным, почти сонным и дружелюбным. Но после ограбления банка Улисс обнаруживает преступный заговор, в который вовлечён весь город. Теперь ему предстоит решить, готов ли он пойти до конца и разрушить кажущуюся идиллию.",
-        "poster_path": "/1GXYen1mBGlNeIVes6sJHvgLeLC.jpg",
-        "release_date": "2026-04-16",
-        "video": false,
-        "vote_average": 6.49,
-        "vote_count": 97,
-        "popularity": 85.9686,
-        "PG": 18,
-        "release_quality": "4K",
-        "kinopoisk_id": "5580708",
-        "kp_rating": "6.5",
-        "imdb_id": "tt31195136",
-        "imdb_rating": "6.9",
-        "status": "released",
-        "last_air_date": "2026-05-21",
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Боевик",
-          "Криминал",
-          "Триллер"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2734,
-      "time": 1780037986990,
-      "card_id": "1339713",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/1pKFDggvtk23zcn1vUcPiKyuHxM.jpg",
-        "genre_ids": [
-          27
-        ],
-        "id": 1339713,
-        "original_language": "en",
-        "title": "Обсессия",
-        "original_title": "Obsession",
-        "names": [
-          "Обсессия",
-          "Obsession - Du sollst mich lieben",
-          "Obsession"
-        ],
-        "overview": "Безнадёжный романтик Беар давно и безответно влюблён в красавицу Ники. Однажды в магазине эзотерики он находит странную безделушку - волшебную палочку. Если её сломать, исполнится твоё заветное желание. Беар загадывает, чтобы Ники любила его больше всех на свете. И девушка правда в него влюбляется. Однако его счастью быстро приходит конец. Парень замечает, что Ники буквально им одержима, а её знаки внимания становятся всё более пугающими. Оказывается, желание парня исполнилось, но совсем не так, как он мечтал.",
-        "poster_path": "/c3Vz4RgYsWmxsm7eANSXwGA6gAR.jpg",
-        "release_date": "2026-04-16",
-        "video": false,
-        "vote_average": 7.9,
-        "vote_count": 246,
-        "popularity": 299.6354,
-        "PG": 18,
-        "release_quality": "ts",
-        "kinopoisk_id": "10355286",
-        "kp_rating": "7.5",
-        "imdb_id": "tt37287335",
-        "imdb_rating": "8.2",
-        "status": "released",
-        "last_air_date": "2026-05-16",
-        "countries": [
-          "США",
-          "Великобритания"
-        ],
-        "genres": [
-          "Ужасы"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.300491094589233
+  "duration": 7.424432039260864
 }

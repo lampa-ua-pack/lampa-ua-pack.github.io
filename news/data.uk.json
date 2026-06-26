@@ -2,6 +2,106 @@
   "secuses": true,
   "result": [
     {
+      "id": 2785,
+      "time": 1782465975925,
+      "card_id": "1451344",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/zZQQ5dd7jq1PfUnWTT9qH4RMf5a.jpg",
+        "genre_ids": [
+          35,
+          28
+        ],
+        "id": 1451344,
+        "original_language": "ko",
+        "title": "Чоловіки в дії",
+        "original_title": "남편들",
+        "names": [
+          "Чоловіки в дії",
+          "Мужья в деле",
+          "Husbands in Action",
+          "Мужья в действии",
+          "남편들",
+          "Nampyeondeul",
+          "Мужья в действии / Husbands in Action"
+        ],
+        "overview": "Детектив об’єднується з новим чоловіком колишньої дружини, щоб вистежити її викрадачів. Чи зможуть несподівані партнери відкинути розбіжності заради шаленого порятунку?",
+        "poster_path": "/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
+        "release_date": "2026-06-18",
+        "video": false,
+        "vote_average": 7.811,
+        "vote_count": 37,
+        "popularity": 123.8778,
+        "PG": 16,
+        "release_quality": "4K",
+        "kinopoisk_id": "7930395",
+        "kp_rating": "7.3",
+        "imdb_id": "tt36876775",
+        "imdb_rating": "6.3",
+        "status": "released",
+        "last_air_date": "2026-06-20",
+        "countries": [
+          "South Korea"
+        ],
+        "genres": [
+          "Комедія",
+          "Бойовик"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2784,
+      "time": 1782464174736,
+      "card_id": "1329471",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/112sW296vEx3d71C8fzOqoFIomN.jpg",
+        "genre_ids": [
+          80,
+          18,
+          10749
+        ],
+        "id": 1329471,
+        "original_language": "en",
+        "title": "Кароліна Керолайн",
+        "original_title": "Carolina Caroline",
+        "names": [
+          "Кароліна Керолайн",
+          "Каролина Кэролайн",
+          "Carolina Caroline"
+        ],
+        "overview": "Молода жінка приєднується до чарівного шахрая-втікача, залишаючи за собою слід із злочинів і пристрасті, мандруючи південним сходом у пошуках своєї матері.",
+        "poster_path": "/9waKPyT5JWv9EWTf79j25yT6Bu4.jpg",
+        "release_date": "2026-06-05",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 9,
+        "popularity": 27.0235,
+        "PG": 17,
+        "kinopoisk_id": "7026396",
+        "imdb_id": "tt33365126",
+        "imdb_rating": "7.1",
+        "status": "released",
+        "last_air_date": "2026-06-24",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Кримінал",
+          "Драма",
+          "Мелодрама"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2783,
       "time": 1782292159794,
       "card_id": "614945",
@@ -159,7 +259,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/dQUDeY9qKrERkHwu8sB67XmG6Am.jpg",
-          "vote_average": 8.083
+          "vote_average": 8.214
         },
         "genres": [
           "Мультфільм",
@@ -226,12 +326,12 @@
         "episode": {
           "air_date": "2026-06-21",
           "episode_number": 1,
-          "name": "Серія 1",
-          "overview": "",
+          "name": "Сіль і море, вогонь і кров",
+          "overview": "Керуючись вірою в Алісент, Рейніра готується захопити Королівську Гавань, тоді як Тріархія вирушає в море, щоб дати бій Корлісу в затоці Галлет.",
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 6.784
+          "vote_average": 6.8
         },
         "genres": [
           "Науково фантастичний",
@@ -301,7 +401,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/95qRpGinaXgHmyhQy9UvsO48Jmb.jpg",
-          "vote_average": 5.5
+          "vote_average": 5.75
         },
         "genres": [
           "Детектив",
@@ -416,7 +516,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/s4kz19IA4SuzywWtiaAuPmED0mu.jpg",
-          "vote_average": 9.1
+          "vote_average": 9.2
         },
         "genres": [
           "Вестерн",
@@ -582,7 +682,7 @@
           "season_number": 1,
           "runtime": 36,
           "still_path": "/TOs0PsDUEz8mlo3XKAIBKQ0SOW.jpg",
-          "vote_average": 8.0
+          "vote_average": 7.5
         },
         "genres": [
           "Драма",
@@ -820,7 +920,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/kIjmRbbdZfKw6RCTxUO2zsa74x0.jpg",
-          "vote_average": 8.2
+          "vote_average": 8.333
         },
         "genres": [
           "Мультфільм",
@@ -1350,7 +1450,7 @@
           "season_number": 1,
           "runtime": 61,
           "still_path": "/qkTZFEkWGi8GijSSwKHryagi0sZ.jpg",
-          "vote_average": 9.0
+          "vote_average": 8.75
         },
         "genres": [
           "Екшн і Пригоди",
@@ -2791,105 +2891,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2735,
-      "time": 1780043382326,
-      "card_id": "1242332",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
-        "genre_ids": [
-          28,
-          80,
-          53
-        ],
-        "id": 1242332,
-        "original_language": "en",
-        "title": "Нормал",
-        "original_title": "Normal",
-        "names": [
-          "Нормал",
-          "Normal"
-        ],
-        "overview": "Улісс тимчасово обіймає посаду шерифа в невеличкому містечку Нормал, що в штаті Міннесота. Його попередник загинув за вкрай дивних обставин, до яких, як не дивно, причетний лось. Проте спокій триває недовго: на місцевий банк скоюють зухвалий напад, у який, окрім представників влади, вплутується ще й японська якудза. Уліссу доводиться об’єднатися з двома грабіжниками, які посеред цього хаосу демонструють неочікувану людяність. Конфлікт із корумпованим мером виливається в нескінченну низку жорстоких і винахідливих розправ.",
-        "poster_path": "/j4gJiC0T0Lku0sX3hEUuZpvCXqV.jpg",
-        "release_date": "2026-04-16",
-        "video": false,
-        "vote_average": 6.49,
-        "vote_count": 97,
-        "popularity": 85.9686,
-        "PG": 18,
-        "release_quality": "4K",
-        "kinopoisk_id": "5580708",
-        "kp_rating": "6.5",
-        "imdb_id": "tt31195136",
-        "imdb_rating": "6.9",
-        "status": "released",
-        "last_air_date": "2026-05-21",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Бойовик",
-          "Кримінал",
-          "Трилер"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2734,
-      "time": 1780037986990,
-      "card_id": "1339713",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-        "genre_ids": [
-          27
-        ],
-        "id": 1339713,
-        "original_language": "en",
-        "title": "Обсесія",
-        "original_title": "Obsession",
-        "names": [
-          "Обсесія",
-          "Обсессия",
-          "Obsession - Du sollst mich lieben",
-          "Obsession"
-        ],
-        "overview": "Зламавши таємничу «Вербу одного бажання», аби завоювати серце коханої дівчини, безнадійний романтик отримує саме те, про що просив. Проте невдовзі він усвідомлює: деякі бажання мають занадто темну та зловісну ціну.",
-        "poster_path": "/5sWyXhGhLECYWvUXSTqnfe4fBed.jpg",
-        "release_date": "2026-04-16",
-        "video": false,
-        "vote_average": 7.9,
-        "vote_count": 246,
-        "popularity": 299.6354,
-        "PG": 18,
-        "release_quality": "ts",
-        "kinopoisk_id": "10355286",
-        "kp_rating": "7.5",
-        "imdb_id": "tt37287335",
-        "imdb_rating": "8.2",
-        "status": "released",
-        "last_air_date": "2026-05-16",
-        "countries": [
-          "United States of America",
-          "United Kingdom"
-        ],
-        "genres": [
-          "Жахи",
-          "Трилер"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.300491094589233
+  "duration": 7.424432039260864
 }
