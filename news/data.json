@@ -2,6 +2,174 @@
   "secuses": true,
   "result": [
     {
+      "id": 2788,
+      "time": 1782550577145,
+      "card_id": "1301421",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
+        "genre_ids": [
+          35,
+          10751,
+          9648
+        ],
+        "id": 1301421,
+        "original_language": "en",
+        "title": "Следствие ведут овечки",
+        "original_title": "The Sheep Detectives",
+        "names": [
+          "Следствие ведут овечки",
+          "The Sheep Detectives"
+        ],
+        "overview": "Джордж – пастух, который каждый вечер читает детективные романы своим любимым овцам, полагая, что они ничего не поймут. Но когда на ферме происходит загадочное происшествие, овцы понимают, что им придётся стать детективами. Следуя подсказкам и проверяя подозреваемых людей, они доказывают, что даже овцы могут блестяще раскрывать преступления.",
+        "poster_path": "/JHRxN92OgTixFDR1T8FdZfrPvn.jpg",
+        "release_date": "2026-04-30",
+        "video": false,
+        "vote_average": 7.618,
+        "vote_count": 182,
+        "popularity": 26.9746,
+        "PG": 6,
+        "release_quality": "webdl",
+        "kinopoisk_id": "6447742",
+        "kp_rating": "7.5",
+        "imdb_id": "tt32565993",
+        "status": "released",
+        "last_air_date": "2026-06-03",
+        "countries": [
+          "США",
+          "Великобритания"
+        ],
+        "genres": [
+          "Комедия",
+          "Криминал",
+          "Детектив",
+          "Семейный"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2787,
+      "time": 1782546975145,
+      "card_id": "82452",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
+        "genre_ids": [
+          10759,
+          18,
+          10751,
+          10765
+        ],
+        "id": 82452,
+        "original_language": "en",
+        "name": "Аватар: Легенда об Аанге",
+        "original_name": "Avatar the Last Airbender",
+        "names": [
+          "Аватар: Легенда об Аанге",
+          "Avatar: The Last Airbender",
+          "Аватар: легенда об Аанге",
+          "Аватар: Останній захисник",
+          "Avatar the Last Airbender"
+        ],
+        "overview": "В мире существуют народы 4-ёх стихий: огня, воды, земли и воздуха. Представитель народа огня решил поработить остальные народы. Спасти мир и прекратить войну подвластно только Аватару, повелевающему всеми 4-мя стихиями. Ответственность внезапно ложится на плечи 19-ти летнего Аанга, которому предстоит отправиться в опасное путешествие.",
+        "poster_path": "/EdUABIsxRsYCousbtWeia8gVzD.jpg",
+        "first_air_date": "2024-02-22",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 1114,
+        "popularity": 32.4331,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1199731",
+        "kp_rating": "7.2",
+        "imdb_id": "tt9018736",
+        "imdb_rating": "7.2",
+        "status": "returning series",
+        "last_air_date": "2026-06-25",
+        "seasons": {
+          "1": 8,
+          "2": 7
+        },
+        "episode": {
+          "air_date": "2026-06-25",
+          "episode_number": 7,
+          "name": "Что-то сломалось",
+          "overview": "Народ Огня приближается, и разбросанная по всему городу команда должна вновь объединиться, чтобы спасти Ба Синг Се. Зуко предстоит решить, кому он на самом деле предан.",
+          "season_number": 2,
+          "runtime": 69,
+          "still_path": "/hGpGatL0EwuGhTZjIy4m6cAXVJt.jpg",
+          "vote_average": 0
+        }
+      },
+      "type": "episode",
+      "hash": "s2;e7",
+      "premiere": 0
+    },
+    {
+      "id": 2786,
+      "time": 1782492973793,
+      "card_id": "299167",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "id": 299167,
+        "original_language": "en",
+        "name": "Ранчо Даттонов",
+        "original_name": "Dutton Ranch",
+        "names": [
+          "Ранчо Даттонов",
+          "Dutton Ranch",
+          "The Dutton Ranch"
+        ],
+        "overview": "Ранчо Даттонов - дом Бет и Рипа, стало символом той жизни, о которой они мечтали, за которую отчаянно боролись и ради которой едва не пожертвовали всем. Они всей душой привязались к своей земле площадью 7000 акров, превратив её в место, которое готовы защищать любой ценой. Даже в самые тяжёлые времена Бет и Рип делают всё возможное, чтобы выстоять, сохранить своё ранчо и обеспечить достойное будущее себе и своему приёмному сыну Картеру.",
+        "poster_path": "/mmxsx98NnY56CvataUqM1ktt14O.jpg",
+        "first_air_date": "2026-05-15",
+        "video": false,
+        "vote_average": 9.285,
+        "vote_count": 305,
+        "popularity": 171.4241,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "7275308",
+        "kp_rating": "8.5",
+        "imdb_id": "tt34991493",
+        "status": "returning series",
+        "last_air_date": "2026-06-26",
+        "seasons": {
+          "1": 8
+        },
+        "episode": {
+          "air_date": "2026-06-26",
+          "episode_number": 8,
+          "name": "Эпизод 8",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 45,
+          "still_path": "/8m6dULktFqJbAaeQpcuaUb7RwRn.jpg",
+          "vote_average": 9
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e8",
+      "premiere": 0
+    },
+    {
       "id": 2785,
       "time": 1782465975925,
       "card_id": "1451344",
@@ -2527,172 +2695,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2738,
-      "time": 1780124381171,
-      "card_id": "299167",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
-        "genre_ids": [
-          37,
-          18
-        ],
-        "id": 299167,
-        "original_language": "en",
-        "name": "Ранчо Даттонов",
-        "original_name": "Dutton Ranch",
-        "names": [
-          "Ранчо Даттонов",
-          "Dutton Ranch",
-          "The Dutton Ranch"
-        ],
-        "overview": "Ранчо Даттонов - дом Бет и Рипа, стало символом той жизни, о которой они мечтали, за которую отчаянно боролись и ради которой едва не пожертвовали всем. Они всей душой привязались к своей земле площадью 7000 акров, превратив её в место, которое готовы защищать любой ценой. Даже в самые тяжёлые времена Бет и Рип делают всё возможное, чтобы выстоять, сохранить своё ранчо и обеспечить достойное будущее себе и своему приёмному сыну Картеру.",
-        "poster_path": "/mmxsx98NnY56CvataUqM1ktt14O.jpg",
-        "first_air_date": "2026-05-15",
-        "video": false,
-        "vote_average": 9.409,
-        "vote_count": 138,
-        "popularity": 148.9369,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7275308",
-        "kp_rating": "8.7",
-        "imdb_id": "tt34991493",
-        "status": "returning series",
-        "last_air_date": "2026-05-29",
-        "seasons": {
-          "1": 4
-        },
-        "episode": {
-          "air_date": "2026-05-29",
-          "episode_number": 4,
-          "name": "Эпизод 4",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 47,
-          "still_path": "/svtH6VqB7uZhdVF19qluzoDSSVR.jpg",
-          "vote_average": 8
-        }
-      },
-      "type": "episode",
-      "hash": "s1;e4",
-      "premiere": 0
-    },
-    {
-      "id": 2737,
-      "time": 1780052381174,
-      "card_id": "241609",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 241609,
-        "original_language": "en",
-        "name": "Друзья и соседи",
-        "original_name": "Your Friends & Neighbors",
-        "names": [
-          "Друзья и соседи",
-          "Друзья и Соседи",
-          "Your Friends & Neighbors",
-          "Your Friends and Neighbors"
-        ],
-        "overview": "После внезапного развода и потери работы крупный финансист начинает грабить богатых соседей, чтобы удержаться на плаву. Кражи у людей из того же социального слоя странным образом ободряют его, но постепенно он запутывается в смертоносной паутине.",
-        "poster_path": "/wr6dsSOfht23oiym1TcAlMN7R3k.jpg",
-        "first_air_date": "2025-04-10",
-        "video": false,
-        "vote_average": 7.6,
-        "vote_count": 227,
-        "popularity": 41.2129,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6600202",
-        "kp_rating": "7.5",
-        "imdb_id": "tt30459041",
-        "imdb_rating": "7.7",
-        "status": "returning series",
-        "last_air_date": "2026-05-29",
-        "seasons": {
-          "1": 9,
-          "2": 9
-        },
-        "episode": {
-          "air_date": "2026-05-28",
-          "episode_number": 9,
-          "name": "Пропаганда малодушных",
-          "overview": "Союзы испытываются на прочность, когда Куп, Барни и Ник посещают ужин в особняке Эша.",
-          "season_number": 2,
-          "runtime": 54,
-          "still_path": "/4aoLyPug8KtZWLo5oTitpGox7GQ.jpg",
-          "vote_average": 0
-        }
-      },
-      "type": "episode",
-      "hash": "s2;e9",
-      "premiere": 0
-    },
-    {
-      "id": 2736,
-      "time": 1780050581312,
-      "card_id": "316992",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/xD2ycK1qGTwTBOejSMtTw7A5nUv.jpg",
-        "genre_ids": [
-          99
-        ],
-        "id": 316992,
-        "original_language": "en",
-        "name": "Вторая мировая война с Томом Хэнксом",
-        "original_name": "World War II with Tom Hanks",
-        "names": [
-          "Вторая мировая война с Томом Хэнксом",
-          "World War II with Tom Hanks"
-        ],
-        "overview": "В сериале рассматривается Вторая мировая война, начиная с вторжения Германии в Польшу и заканчивая атомной эрой, анализируются ключевые сражения, лидеры военного времени, такие как Черчилль и Рузвельт, и человеческие жертвы тотальной войны.",
-        "poster_path": "/j0DG5uQrgwAubL4ALHMnU65iCOT.jpg",
-        "first_air_date": "2026-05-25",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "popularity": 3.565,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "12555473",
-        "imdb_id": "tt40385200",
-        "imdb_rating": "8.8",
-        "status": "returning series",
-        "last_air_date": "2026-05-26",
-        "seasons": {
-          "1": 3
-        },
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Документальный"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.424432039260864
+  "duration": 5.013581991195679
 }
