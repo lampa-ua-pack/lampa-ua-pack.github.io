@@ -2,6 +2,49 @@
   "secuses": true,
   "result": [
     {
+      "id": 2789,
+      "time": 1782627973818,
+      "card_id": "1397385",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1397385,
+        "original_language": "en",
+        "title": "Братик",
+        "original_title": "Little Brother",
+        "names": [
+          "Братик",
+          "Little Brother"
+        ],
+        "overview": "Идеальная жизнь сдержанного риелтора кардинально меняется, когда внезапно появляется его милый и эксцентричный «младший брат».",
+        "poster_path": "/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+        "release_date": "2026-06-25",
+        "video": false,
+        "vote_average": 6.056,
+        "vote_count": 18,
+        "popularity": 4.0273,
+        "PG": 16,
+        "release_quality": "4K",
+        "kinopoisk_id": "9147455",
+        "imdb_id": "tt34888871",
+        "status": "released",
+        "last_air_date": "2026-06-28",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Комедия"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2788,
       "time": 1782550577145,
       "card_id": "1301421",
@@ -2639,63 +2682,7 @@
       "type": "episode",
       "hash": "s4;e6",
       "premiere": 0
-    },
-    {
-      "id": 2739,
-      "time": 1780216961666,
-      "card_id": "317980",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/dEkvOp6O0UusfTgyd7GULlRenEG.jpg",
-        "genre_ids": [
-          80,
-          9648,
-          18
-        ],
-        "id": 317980,
-        "original_language": "bg",
-        "name": "Следы дождя",
-        "original_name": "Дъждът оставя следи",
-        "names": [
-          "Следы дождя",
-          "The Rain Leaves Traces",
-          "Дъждът оставя следи / Дождь оставляет следы",
-          "Дъждът оставя следи"
-        ],
-        "overview": "В самом сердце Рильского монастыря — одного из главных духовных центров Болгарии — обнаруживают загадочное преступление, которое скрывалось за древними стенами долгие годы. Два следователя с разными характерами и подходами к работе начинают расследование, которое уводит их в прошлое и заставляет столкнуться с тёмными тайнами, предательствами и мрачной историей. Библейская идея о том, что ничто скрытое не останется нераскрытым, становится лейтмотивом истории, где правда медленно, но неизбежно выходит на поверхность, оставляя следы, как дождь.",
-        "poster_path": "/zr5llU3eSb1DsAaLBYGGdpvwgMk.jpg",
-        "first_air_date": "2026-05-27",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "popularity": 0.5007,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "BG"
-        ],
-        "kinopoisk_id": "12576558",
-        "imdb_id": "tt41546963",
-        "imdb_rating": "9.4",
-        "status": "returning series",
-        "last_air_date": "2026-05-30",
-        "seasons": {
-          "1": 2
-        },
-        "countries": [
-          "Болгария"
-        ],
-        "genres": [
-          "Криминал",
-          "Детектив",
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 5.013581991195679
+  "duration": 5.693449020385742
 }

@@ -2,6 +2,49 @@
   "secuses": true,
   "result": [
     {
+      "id": 2789,
+      "time": 1782627973818,
+      "card_id": "1397385",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1397385,
+        "original_language": "en",
+        "title": "Братик",
+        "original_title": "Little Brother",
+        "names": [
+          "Братик",
+          "Little Brother"
+        ],
+        "overview": "Ідеальне життя непривітного рієлтора докорінно змінюється, коли раптово повертається його шалений, але вкрай чарівний «молодший брат».",
+        "poster_path": "/f5pFMkrxAXbTnu6Yx00c4jA5fTz.jpg",
+        "release_date": "2026-06-25",
+        "video": false,
+        "vote_average": 6.056,
+        "vote_count": 18,
+        "popularity": 4.0273,
+        "PG": 16,
+        "release_quality": "4K",
+        "kinopoisk_id": "9147455",
+        "imdb_id": "tt34888871",
+        "status": "released",
+        "last_air_date": "2026-06-28",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Комедія"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2788,
       "time": 1782550577145,
       "card_id": "1301421",
@@ -173,7 +216,7 @@
           "season_number": 1,
           "runtime": 45,
           "still_path": "/8m6dULktFqJbAaeQpcuaUb7RwRn.jpg",
-          "vote_average": 9.0
+          "vote_average": 9.2
         },
         "genres": [
           "Вестерн",
@@ -246,7 +289,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/112sW296vEx3d71C8fzOqoFIomN.jpg",
+        "backdrop_path": "/5dE3rixgMUTXOQLuO3zya4zSFav.jpg",
         "genre_ids": [
           80,
           18,
@@ -445,7 +488,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/dQUDeY9qKrERkHwu8sB67XmG6Am.jpg",
-          "vote_average": 8.2
+          "vote_average": 8.438
         },
         "genres": [
           "Мультфільм",
@@ -468,7 +511,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "backdrop_path": "/h37hqVLmCW00ImewLAHT1DadOky.jpg",
         "genre_ids": [
           10765,
           18,
@@ -517,7 +560,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 6.9
+          "vote_average": 7.217
         },
         "genres": [
           "Науково фантастичний",
@@ -587,7 +630,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/95qRpGinaXgHmyhQy9UvsO48Jmb.jpg",
-          "vote_average": 5.8
+          "vote_average": 5.762
         },
         "genres": [
           "Детектив",
@@ -868,7 +911,7 @@
           "season_number": 1,
           "runtime": 36,
           "still_path": "/TOs0PsDUEz8mlo3XKAIBKQ0SOW.jpg",
-          "vote_average": 7.5
+          "vote_average": 6.9
         },
         "genres": [
           "Драма",
@@ -1636,7 +1679,7 @@
           "season_number": 1,
           "runtime": 61,
           "still_path": "/qkTZFEkWGi8GijSSwKHryagi0sZ.jpg",
-          "vote_average": 8.8
+          "vote_average": 8.667
         },
         "genres": [
           "Екшн і Пригоди",
@@ -2078,7 +2121,8 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія"
+          "Комедія",
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -2365,7 +2409,7 @@
           "season_number": 1,
           "runtime": 34,
           "still_path": "/eh3wez62jJ79krAvtgWLRVStUZj.jpg",
-          "vote_average": 8.3
+          "vote_average": 8.318
         },
         "genres": [
           "Драма",
@@ -2838,63 +2882,7 @@
       "type": "episode",
       "hash": "s4;e6",
       "premiere": 0
-    },
-    {
-      "id": 2739,
-      "time": 1780216961666,
-      "card_id": "317980",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/dEkvOp6O0UusfTgyd7GULlRenEG.jpg",
-        "genre_ids": [
-          80,
-          9648,
-          18
-        ],
-        "id": 317980,
-        "original_language": "bg",
-        "name": "Дъждът оставя следи",
-        "original_name": "Дъждът оставя следи",
-        "names": [
-          "Следы дождя",
-          "The Rain Leaves Traces",
-          "Дъждът оставя следи / Дождь оставляет следы",
-          "Дъждът оставя следи"
-        ],
-        "overview": "В самом сердце Рильского монастыря — одного из главных духовных центров Болгарии — обнаруживают загадочное преступление, которое скрывалось за древними стенами долгие годы. Два следователя с разными характерами и подходами к работе начинают расследование, которое уводит их в прошлое и заставляет столкнуться с тёмными тайнами, предательствами и мрачной историей. Библейская идея о том, что ничто скрытое не останется нераскрытым, становится лейтмотивом истории, где правда медленно, но неизбежно выходит на поверхность, оставляя следы, как дождь.",
-        "poster_path": "/zr5llU3eSb1DsAaLBYGGdpvwgMk.jpg",
-        "first_air_date": "2026-05-27",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "popularity": 0.5007,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "BG"
-        ],
-        "kinopoisk_id": "12576558",
-        "imdb_id": "tt41546963",
-        "imdb_rating": "9.4",
-        "status": "returning series",
-        "last_air_date": "2026-05-30",
-        "seasons": {
-          "1": 2
-        },
-        "countries": [
-          "Bulgaria"
-        ],
-        "genres": [
-          "Кримінал",
-          "Детектив",
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 5.013581991195679
+  "duration": 5.693449020385742
 }
