@@ -2,6 +2,234 @@
   "secuses": true,
   "result": [
     {
+      "id": 2793,
+      "time": 1782735600774,
+      "card_id": "277439",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/gjbdE4FsBwIvYdicVIpCOTdes5H.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 277439,
+        "original_language": "en",
+        "name": "Мыс страха",
+        "original_name": "Cape Fear",
+        "names": [
+          "Мыс страха",
+          "Cape Fear"
+        ],
+        "overview": "На счастливую супружескую пару адвокатов надвигается буря, когда из тюрьмы выходит знаменитый киллер из их прошлого.",
+        "poster_path": "/a5CZ7Mh2XcEnenS9bXbWYVFKuGb.jpg",
+        "first_air_date": "2026-06-04",
+        "video": false,
+        "vote_average": 6.882,
+        "vote_count": 51,
+        "popularity": 49.5282,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6576642",
+        "kp_rating": "7.0",
+        "imdb_id": "tt34675596",
+        "status": "returning series",
+        "last_air_date": "2026-06-27",
+        "seasons": {
+          "1": 5
+        },
+        "episode": {
+          "air_date": "2026-06-25",
+          "episode_number": 5,
+          "name": "Фэйт",
+          "overview": "К Максу приходит человек из прошлого. Анна наводит справки о Невее. Новое дело Тома усложняется.",
+          "season_number": 1,
+          "runtime": 52,
+          "still_path": "/lW1Vr1Rh9rJxernr8EFKg7BPl94.jpg",
+          "vote_average": 8.2
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e5",
+      "premiere": 0
+    },
+    {
+      "id": 2792,
+      "time": 1782721202786,
+      "card_id": "1081003",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "id": 1081003,
+        "original_language": "en",
+        "title": "Супергёрл",
+        "original_title": "Supergirl",
+        "names": [
+          "Супергёрл",
+          "Supergirl"
+        ],
+        "overview": "Во время празднования своего 21-го дня рождения Кара Зор-Эл отправляется в путешествие по галактике вместе со своим псом Крипто. В ходе этого путешествия она знакомится с юной Рути Мэри Нолл и пускается в «кровавый путь мести».",
+        "poster_path": "/gcAZ5f6Y40koGYcfPUqb2tmnVd.jpg",
+        "release_date": "2026-06-23",
+        "video": false,
+        "vote_average": 6.271,
+        "vote_count": 48,
+        "popularity": 144.8921,
+        "PG": 13,
+        "release_quality": "ts",
+        "kinopoisk_id": "1184898",
+        "kp_rating": "6.1",
+        "imdb_id": "tt8814476",
+        "status": "released",
+        "last_air_date": "2026-06-26",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Боевик",
+          "Приключения",
+          "Фантастика"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2791,
+      "time": 1782717598758,
+      "card_id": "94997",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 94997,
+        "original_language": "en",
+        "name": "Дом Дракона",
+        "original_name": "House of the Dragon",
+        "names": [
+          "Дом Дракона",
+          "House of the Dragon",
+          "Дом дракона",
+          "Дім Дракона",
+          "Дім дракона",
+          "Game of Thrones: House of the Dragon"
+        ],
+        "overview": "После смерти короля Визериса династия Таргариенов начинает бескомпромиссную борьбу за Железный трон. Предводительницей «черной» ветви становится принцесса Рейнира, а на стороне «зеленой» оказывается ее лучшая подруга и дочь десницы короля Алисента. В битве за престол соперницы заручаются поддержкой неожиданных союзников, плетут интриги — и используют разрушительную мощь драконов.",
+        "poster_path": "/hXyYN6LFo7QnKUA3QBx7B3KsnJE.jpg",
+        "first_air_date": "2022-08-21",
+        "video": false,
+        "vote_average": 8.338,
+        "vote_count": 6287,
+        "popularity": 493.3086,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1316601",
+        "kp_rating": "8.1",
+        "imdb_id": "tt11198330",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-06-29",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 2
+        },
+        "episode": {
+          "air_date": "2026-06-28",
+          "episode_number": 2,
+          "name": "Эпизод 2",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 66,
+          "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
+          "vote_average": 6.9
+        }
+      },
+      "type": "episode",
+      "hash": "s3;e2",
+      "premiere": 0
+    },
+    {
+      "id": 2790,
+      "time": 1782663598728,
+      "card_id": "124364",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "id": 124364,
+        "original_language": "en",
+        "name": "Извне",
+        "original_name": "FROM",
+        "names": [
+          "Извне",
+          "From",
+          "Ззовні",
+          "FROM"
+        ],
+        "overview": "Затерянный в лесу американский городок пленяет каждого, кому не посчастливилось проехать его по пути — покинуть это место оказывается буквально невозможно. Днем невольные жители пытаются выстроить подобие нормального быта и найти способ выбраться, а по ночам спасаются от пугающих обитателей леса, которые приходят навестить горожан, как только заходит солнце.",
+        "poster_path": "/dFJ8exnjJoEfTlHoR58L4OlTSEu.jpg",
+        "first_air_date": "2022-02-20",
+        "video": false,
+        "vote_average": 8.492,
+        "vote_count": 3774,
+        "popularity": 779.0279,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4476885",
+        "kp_rating": "7.6",
+        "imdb_id": "tt9813792",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-06-28",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 10
+        },
+        "episode": {
+          "air_date": "2026-06-28",
+          "episode_number": 10,
+          "name": "Эпизод 10",
+          "overview": "",
+          "season_number": 4,
+          "runtime": null,
+          "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
+          "vote_average": 3.875
+        }
+      },
+      "type": "episode",
+      "hash": "s4;e10",
+      "premiere": 0
+    },
+    {
       "id": 2789,
       "time": 1782627973818,
       "card_id": "1397385",
@@ -1891,7 +2119,7 @@
       },
       "type": "now_playing",
       "hash": "",
-      "premiere": 0
+      "premiere": 1
     },
     {
       "id": 2754,
@@ -2460,229 +2688,7 @@
       "type": "episode",
       "hash": "s9;e2",
       "premiere": 0
-    },
-    {
-      "id": 2743,
-      "time": 1780323249670,
-      "card_id": "1242265",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/8wIaBCeGv3UhIn5CJOWQGHT1Cif.jpg",
-        "genre_ids": [
-          28,
-          80,
-          18,
-          53
-        ],
-        "id": 1242265,
-        "original_language": "en",
-        "title": "Ограбить Лондон",
-        "original_title": "Fuze",
-        "names": [
-          "Ограбить Лондон",
-          "Fuze"
-        ],
-        "overview": "В центре Лондона находят неразорвавшуюся бомбу времён Второй мировой. Людей из соседних домов эвакуируют, включая работников крупнейшего банка Великобритании. Именно в этот момент там находится крупная партия алмазов. Вооружившись современными гаджетами, команда первоклассных взломщиков готовит невероятно дерзкое ограбление.",
-        "poster_path": "/mAoWadpIpwp8XEjYpDzEKy8rs6c.jpg",
-        "release_date": "2026-03-23",
-        "video": false,
-        "vote_average": 6.51,
-        "vote_count": 48,
-        "popularity": 52.0089,
-        "PG": 16,
-        "release_quality": "4K",
-        "kinopoisk_id": "6122043",
-        "kp_rating": "6.0",
-        "imdb_id": "tt31189814",
-        "imdb_rating": "6.9",
-        "status": "released",
-        "last_air_date": "2026-05-31",
-        "countries": [
-          "Великобритания"
-        ],
-        "genres": [
-          "Боевик",
-          "Криминал",
-          "Драма",
-          "Триллер"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2742,
-      "time": 1780314249550,
-      "card_id": "85552",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 85552,
-        "original_language": "en",
-        "name": "Эйфория",
-        "original_name": "Euphoria",
-        "names": [
-          "Эйфория",
-          "Euphoria",
-          "Ейфорія"
-        ],
-        "overview": "17-летняя Ру Беннетт возвращается домой после лечения в реабилитационной клинике. Не имея ни малейшего желания завязывать с наркотиками, она немедленно берётся за старое. На вечеринке Ру обращает внимание на недавно приехавшую в их пригород ровесницу Джулс, и это знакомство становится началом большой дружбы.",
-        "poster_path": "/yJz0VPfztciUt8cYulEOnk7wQhs.jpg",
-        "first_air_date": "2019-06-16",
-        "video": false,
-        "vote_average": 8.291,
-        "vote_count": 10731,
-        "popularity": 274.1536,
-        "PG": 18,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1178445",
-        "kp_rating": "7.5",
-        "imdb_id": "tt8772296",
-        "imdb_rating": "8.2",
-        "status": "returning series",
-        "last_air_date": "2026-06-01",
-        "seasons": {
-          "1": 10,
-          "2": 8,
-          "3": 8
-        },
-        "episode": {
-          "air_date": "2026-05-31",
-          "episode_number": 8,
-          "name": "Эпизод 8",
-          "overview": "",
-          "season_number": 3,
-          "runtime": 93,
-          "still_path": "/lUEO2hUElwsGyPcEmf1Z34xywyZ.jpg",
-          "vote_average": 7
-        }
-      },
-      "type": "episode",
-      "hash": "s3;e8",
-      "premiere": 0
-    },
-    {
-      "id": 2741,
-      "time": 1780245853622,
-      "card_id": "1390300",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
-        "genre_ids": [
-          28,
-          35,
-          53
-        ],
-        "id": 1390300,
-        "original_language": "en",
-        "title": "Опасные отношения",
-        "original_title": "Over Your Dead Body",
-        "names": [
-          "Опасные отношения",
-          "Over Your Dead Body"
-        ],
-        "overview": "Семейная пара приезжает на уикенд в коттедж у живописного озера, чтобы наладить натянутые отношения. Но планы портят непрошеные и очень опасные гости, которые проникают в их дом. Чтобы выжить, ребятам придется не просто найти общий язык, но и впервые по-настоящему узнать друг друга.",
-        "poster_path": "/sKeUDlzJTPjOqzQ8KzLDGzfDnUn.jpg",
-        "release_date": "2026-04-24",
-        "video": false,
-        "vote_average": 7.138,
-        "vote_count": 47,
-        "popularity": 111.5297,
-        "PG": 18,
-        "release_quality": "4K",
-        "kinopoisk_id": "6581561",
-        "kp_rating": "6.4",
-        "imdb_id": "tt34685692",
-        "imdb_rating": "7.3",
-        "status": "released",
-        "last_air_date": "2026-04-26",
-        "countries": [
-          "США",
-          "Норвегия",
-          "Финляндия"
-        ],
-        "genres": [
-          "Боевик",
-          "Комедия",
-          "Триллер"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2740,
-      "time": 1780242249548,
-      "card_id": "124364",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
-        "genre_ids": [
-          9648,
-          18,
-          10765
-        ],
-        "id": 124364,
-        "original_language": "en",
-        "name": "Извне",
-        "original_name": "FROM",
-        "names": [
-          "Извне",
-          "From",
-          "Ззовні",
-          "FROM"
-        ],
-        "overview": "Затерянный в лесу американский городок пленяет каждого, кому не посчастливилось проехать его по пути — покинуть это место оказывается буквально невозможно. Днем невольные жители пытаются выстроить подобие нормального быта и найти способ выбраться, а по ночам спасаются от пугающих обитателей леса, которые приходят навестить горожан, как только заходит солнце.",
-        "poster_path": "/dFJ8exnjJoEfTlHoR58L4OlTSEu.jpg",
-        "first_air_date": "2022-02-20",
-        "video": false,
-        "vote_average": 8.406,
-        "vote_count": 3332,
-        "popularity": 718.6677,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4476885",
-        "kp_rating": "7.6",
-        "imdb_id": "tt9813792",
-        "imdb_rating": "7.8",
-        "status": "returning series",
-        "last_air_date": "2026-05-31",
-        "seasons": {
-          "1": 10,
-          "2": 10,
-          "3": 10,
-          "4": 6
-        },
-        "episode": {
-          "air_date": "2026-05-31",
-          "episode_number": 6,
-          "name": "Эпизод 6",
-          "overview": "",
-          "season_number": 4,
-          "runtime": 52,
-          "still_path": "/d37q32vA2MNTfcqkAA8iuW1H8ae.jpg",
-          "vote_average": 3.5
-        }
-      },
-      "type": "episode",
-      "hash": "s4;e6",
-      "premiere": 0
     }
   ],
-  "duration": 5.693449020385742
+  "duration": 8.467864036560059
 }

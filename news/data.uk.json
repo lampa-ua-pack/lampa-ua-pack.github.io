@@ -2,6 +2,259 @@
   "secuses": true,
   "result": [
     {
+      "id": 2793,
+      "time": 1782735600774,
+      "card_id": "277439",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 277439,
+        "original_language": "en",
+        "name": "Мис страху",
+        "original_name": "Cape Fear",
+        "names": [
+          "Мис страху",
+          "Мыс страха",
+          "Cape Fear"
+        ],
+        "overview": "Життя щасливого подружжя адвокатів опиняється під загрозою, коли на волю виходить небезпечний злочинець з їхнього минулого.",
+        "poster_path": "/e9XA7L1DwMzCnPZAkr3jOQ3FDcm.jpg",
+        "first_air_date": "2026-06-04",
+        "video": false,
+        "vote_average": 6.882,
+        "vote_count": 51,
+        "popularity": 49.5282,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6576642",
+        "kp_rating": "7.0",
+        "imdb_id": "tt34675596",
+        "status": "returning series",
+        "last_air_date": "2026-06-27",
+        "seasons": {
+          "1": 5
+        },
+        "episode": {
+          "air_date": "2026-06-25",
+          "episode_number": 5,
+          "name": "Віра",
+          "overview": "До Макса навідується людина з минулого. Анна розслідує, хто така Невея. У Томовій новій справі виникають ускладнення.",
+          "season_number": 1,
+          "runtime": 52,
+          "still_path": "/lW1Vr1Rh9rJxernr8EFKg7BPl94.jpg",
+          "vote_average": 8.2
+        },
+        "genres": [
+          "Драма",
+          "Кримінал"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e5",
+      "premiere": 0
+    },
+    {
+      "id": 2792,
+      "time": 1782721202786,
+      "card_id": "1081003",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/hBwCiqcaXtxmhv5xZ0H6Uhd2L1E.jpg",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "id": 1081003,
+        "original_language": "en",
+        "title": "Суперґьорл",
+        "original_title": "Supergirl",
+        "names": [
+          "Суперґьорл",
+          "Супергёрл",
+          "Supergirl"
+        ],
+        "overview": "Кара Зор-Ел, відома як Суперґьорл, роками намагалася триматися осторонь людських справ. Та коли невідомий і безжальний ворог завдає удару надто близько до дому, Кара вимушено об’єднується з неочікуваним напарником і вирушає у міжгалактичну подорож, сповнену помсти, боротьби за справедливість і випробувань, які визначать її шлях.",
+        "poster_path": "/sAaAVBiQr4HpRPhtvkapvDYmUc3.jpg",
+        "release_date": "2026-06-23",
+        "video": false,
+        "vote_average": 6.271,
+        "vote_count": 48,
+        "popularity": 144.8921,
+        "PG": 13,
+        "release_quality": "ts",
+        "kinopoisk_id": "1184898",
+        "kp_rating": "6.1",
+        "imdb_id": "tt8814476",
+        "status": "released",
+        "last_air_date": "2026-06-26",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Бойовик",
+          "Пригоди",
+          "Фантастика"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2791,
+      "time": 1782717598758,
+      "card_id": "94997",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/h37hqVLmCW00ImewLAHT1DadOky.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 94997,
+        "original_language": "en",
+        "name": "Дім дракона",
+        "original_name": "House of the Dragon",
+        "names": [
+          "Дом Дракона",
+          "House of the Dragon",
+          "Дом дракона",
+          "Дім Дракона",
+          "Дім дракона",
+          "Game of Thrones: House of the Dragon"
+        ],
+        "overview": "Члени дому Тарґарієнів залишають приречену Валірію і відправляються на захід, де знаходять величезну територію, населену ворогуючими королівствами.",
+        "poster_path": "/yaGOa7I9xIug8qsw7vXzkeMZ1mb.jpg",
+        "first_air_date": "2022-08-21",
+        "video": false,
+        "vote_average": 8.338,
+        "vote_count": 6287,
+        "popularity": 493.3086,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1316601",
+        "kp_rating": "8.1",
+        "imdb_id": "tt11198330",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-06-29",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 2
+        },
+        "episode": {
+          "air_date": "2026-06-28",
+          "episode_number": 2,
+          "name": "Серія 2",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 64,
+          "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
+          "vote_average": 6.1
+        },
+        "genres": [
+          "Науково фантастичний",
+          "Драма",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e2",
+      "premiere": 0
+    },
+    {
+      "id": 2790,
+      "time": 1782663598728,
+      "card_id": "124364",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "id": 124364,
+        "original_language": "en",
+        "name": "Ззовні",
+        "original_name": "FROM",
+        "names": [
+          "Извне",
+          "From",
+          "Ззовні",
+          "FROM"
+        ],
+        "overview": "Події серіалу відбуваються в містичному містечку, розташованому в центральній частині США. Всі, хто потрапляють туди, опиняються в пастці. Мимовільні жителі борются за збереження залишків здорового глузду та шукають вихід з кошмарної ситуації, адже щоночі їм доводиться переживати напад жахливих створінь, які виходять із заходом сонця з довколишнього лісу.",
+        "poster_path": "/rvlPBfIm6CUQTGorQvf6wK8lPDH.jpg",
+        "first_air_date": "2022-02-20",
+        "video": false,
+        "vote_average": 8.492,
+        "vote_count": 3774,
+        "popularity": 779.0279,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4476885",
+        "kp_rating": "7.6",
+        "imdb_id": "tt9813792",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-06-28",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 10
+        },
+        "episode": {
+          "air_date": "2026-06-28",
+          "episode_number": 10,
+          "name": "Серія 10",
+          "overview": "",
+          "season_number": 4,
+          "runtime": 50,
+          "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
+          "vote_average": 3.8
+        },
+        "genres": [
+          "Детектив",
+          "Драма",
+          "Науково фантастичний"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s4;e10",
+      "premiere": 0
+    },
+    {
       "id": 2789,
       "time": 1782627973818,
       "card_id": "1397385",
@@ -86,7 +339,6 @@
         ],
         "genres": [
           "Комедія",
-          "Кримінал",
           "Детектив",
           "Сімейний"
         ]
@@ -150,7 +402,7 @@
           "season_number": 2,
           "runtime": 69,
           "still_path": "/hGpGatL0EwuGhTZjIy4m6cAXVJt.jpg",
-          "vote_average": 9.0
+          "vote_average": 8.0
         },
         "genres": [
           "Екшн і Пригоди",
@@ -488,7 +740,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/dQUDeY9qKrERkHwu8sB67XmG6Am.jpg",
-          "vote_average": 8.438
+          "vote_average": 8.4
         },
         "genres": [
           "Мультфільм",
@@ -560,7 +812,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.217
+          "vote_average": 7.1
         },
         "genres": [
           "Науково фантастичний",
@@ -629,8 +881,8 @@
           "overview": "Мешканці містечка опинилися на роздоріжжі, якого вони ще ніколи не бачили, оскільки Бойд втілює в життя сміливий і небезпечний план.",
           "season_number": 4,
           "runtime": 47,
-          "still_path": "/95qRpGinaXgHmyhQy9UvsO48Jmb.jpg",
-          "vote_average": 5.762
+          "still_path": "/8OoIdbyrUI7ymR7kYd2yipfQTJZ.jpg",
+          "vote_average": 5.8
         },
         "genres": [
           "Детектив",
@@ -1220,7 +1472,7 @@
           "season_number": 4,
           "runtime": 58,
           "still_path": "/AaL0o5rpoFPq0hhkEGkkPZUWb8V.jpg",
-          "vote_average": 5.0
+          "vote_average": 5.3
         },
         "genres": [
           "Детектив",
@@ -1679,7 +1931,7 @@
           "season_number": 1,
           "runtime": 61,
           "still_path": "/qkTZFEkWGi8GijSSwKHryagi0sZ.jpg",
-          "vote_average": 8.667
+          "vote_average": 8.7
         },
         "genres": [
           "Екшн і Пригоди",
@@ -1805,7 +2057,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.4
+          "vote_average": 8.375
         },
         "genres": [
           "Мультфільм",
@@ -1922,8 +2174,8 @@
           "overview": "У міру того, як на світло випливає тривожна історія Табіти та Джейд, ситуація для ще одного мешканця містечка починає ускладнюватися. Бойд хоче перевірити небезпечну гіпотезу.",
           "season_number": 4,
           "runtime": 51,
-          "still_path": "/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
-          "vote_average": 5.2
+          "still_path": "/7DNvyGJsTHXX6rqjdlqcc7f7flN.jpg",
+          "vote_average": 5.4
         },
         "genres": [
           "Детектив",
@@ -2034,7 +2286,7 @@
       },
       "type": "now_playing",
       "hash": "",
-      "premiere": 0
+      "premiere": 1
     },
     {
       "id": 2754,
@@ -2643,246 +2895,7 @@
       "type": "episode",
       "hash": "s9;e2",
       "premiere": 0
-    },
-    {
-      "id": 2743,
-      "time": 1780323249670,
-      "card_id": "1242265",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/8wIaBCeGv3UhIn5CJOWQGHT1Cif.jpg",
-        "genre_ids": [
-          28,
-          80,
-          18,
-          53
-        ],
-        "id": 1242265,
-        "original_language": "en",
-        "title": "Пограбування: План \"Лондон\"",
-        "original_title": "Fuze",
-        "names": [
-          "Пограбування: План \"Лондон\"",
-          "Ограбить Лондон",
-          "Fuze"
-        ],
-        "overview": "Місто охоплює паніка, починається масова евакуація. Але поки служби намагаються запобігти катастрофі, зухвала банда злочинців використовує хаос для найсміливішого пограбування століття.",
-        "poster_path": "/c66rQp6w1kSoPVYqOeHArZcX3hb.jpg",
-        "release_date": "2026-03-23",
-        "video": false,
-        "vote_average": 6.51,
-        "vote_count": 48,
-        "popularity": 52.0089,
-        "PG": 16,
-        "release_quality": "4K",
-        "kinopoisk_id": "6122043",
-        "kp_rating": "6.0",
-        "imdb_id": "tt31189814",
-        "imdb_rating": "6.9",
-        "status": "released",
-        "last_air_date": "2026-05-31",
-        "countries": [
-          "United Kingdom"
-        ],
-        "genres": [
-          "Бойовик",
-          "Кримінал",
-          "Драма",
-          "Трилер"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2742,
-      "time": 1780314249550,
-      "card_id": "85552",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/GN2KFXiHPVV6sIw4v2P2pqCJty.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 85552,
-        "original_language": "en",
-        "name": "Ейфорія",
-        "original_name": "Euphoria",
-        "names": [
-          "Эйфория",
-          "Euphoria",
-          "Ейфорія"
-        ],
-        "overview": "У центрі історії — 17-річна Ру Беннетт, яка повернулася до рідного дому після лікування в реабілітаційній клініці. Не гаючи часу, вона знову береться за старі звички — наркотики й тусовки. Однак поява в місті дівчини Джулс стає для Ру знаком надії.",
-        "poster_path": "/nsZkLSw1d0le18B8F0B5VMv6QKJ.jpg",
-        "first_air_date": "2019-06-16",
-        "video": false,
-        "vote_average": 8.291,
-        "vote_count": 10731,
-        "popularity": 274.1536,
-        "PG": 18,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1178445",
-        "kp_rating": "7.5",
-        "imdb_id": "tt8772296",
-        "imdb_rating": "8.2",
-        "status": "returning series",
-        "last_air_date": "2026-06-01",
-        "seasons": {
-          "1": 10,
-          "2": 8,
-          "3": 8
-        },
-        "episode": {
-          "air_date": "2026-05-31",
-          "episode_number": 8,
-          "name": "Серія 8",
-          "overview": "",
-          "season_number": 3,
-          "runtime": 93,
-          "still_path": "/asmuTZNYmsKOzWPOS3CwIk63xjw.jpg",
-          "vote_average": 7.1
-        },
-        "genres": [
-          "Драма"
-        ],
-        "countries": [
-          "United States of America",
-          "Israel"
-        ]
-      },
-      "type": "episode",
-      "hash": "s3;e8",
-      "premiere": 0
-    },
-    {
-      "id": 2741,
-      "time": 1780245853622,
-      "card_id": "1390300",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
-        "genre_ids": [
-          28,
-          35,
-          53
-        ],
-        "id": 1390300,
-        "original_language": "en",
-        "title": "Тільки через твій труп",
-        "original_title": "Over Your Dead Body",
-        "names": [
-          "Тільки через твій труп",
-          "Опасные отношения",
-          "Over Your Dead Body"
-        ],
-        "overview": "Пара, що переживає кризу у стосунках, вирушає до віддаленої хатини, де кожен із них має прихований намір позбутися свого партнера.",
-        "poster_path": "/pvs3uKsOmCB37gZitzSlI0Aae3s.jpg",
-        "release_date": "2026-04-24",
-        "video": false,
-        "vote_average": 7.138,
-        "vote_count": 47,
-        "popularity": 111.5297,
-        "PG": 18,
-        "release_quality": "4K",
-        "kinopoisk_id": "6581561",
-        "kp_rating": "6.4",
-        "imdb_id": "tt34685692",
-        "imdb_rating": "7.3",
-        "status": "released",
-        "last_air_date": "2026-04-26",
-        "countries": [
-          "United States of America",
-          "Norway",
-          "Finland"
-        ],
-        "genres": [
-          "Бойовик",
-          "Комедія",
-          "Трилер"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2740,
-      "time": 1780242249548,
-      "card_id": "124364",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
-        "genre_ids": [
-          9648,
-          18,
-          10765
-        ],
-        "id": 124364,
-        "original_language": "en",
-        "name": "Ззовні",
-        "original_name": "FROM",
-        "names": [
-          "Извне",
-          "From",
-          "Ззовні",
-          "FROM"
-        ],
-        "overview": "Події серіалу відбуваються в містичному містечку, розташованому в центральній частині США. Всі, хто потрапляють туди, опиняються в пастці. Мимовільні жителі борются за збереження залишків здорового глузду та шукають вихід з кошмарної ситуації, адже щоночі їм доводиться переживати напад жахливих створінь, які виходять із заходом сонця з довколишнього лісу.",
-        "poster_path": "/rvlPBfIm6CUQTGorQvf6wK8lPDH.jpg",
-        "first_air_date": "2022-02-20",
-        "video": false,
-        "vote_average": 8.406,
-        "vote_count": 3332,
-        "popularity": 718.6677,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4476885",
-        "kp_rating": "7.6",
-        "imdb_id": "tt9813792",
-        "imdb_rating": "7.8",
-        "status": "returning series",
-        "last_air_date": "2026-05-31",
-        "seasons": {
-          "1": 10,
-          "2": 10,
-          "3": 10,
-          "4": 6
-        },
-        "episode": {
-          "air_date": "2026-05-31",
-          "episode_number": 6,
-          "name": "Серце — самотній мисливець",
-          "overview": "",
-          "season_number": 4,
-          "runtime": 52,
-          "still_path": "/yfPAXLfe6YUnJ4EqpvuCk5irBWv.jpg",
-          "vote_average": 5.4
-        },
-        "genres": [
-          "Детектив",
-          "Драма",
-          "Науково фантастичний"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s4;e6",
-      "premiere": 0
     }
   ],
-  "duration": 5.693449020385742
+  "duration": 8.467864036560059
 }
