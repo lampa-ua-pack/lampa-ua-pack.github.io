@@ -2,6 +2,82 @@
   "secuses": true,
   "result": [
     {
+      "id": 2794,
+      "time": 1782753598747,
+      "card_id": "60625",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "id": 60625,
+        "original_language": "en",
+        "name": "Рік та Морті",
+        "original_name": "Rick and Morty",
+        "names": [
+          "Рик и Морти",
+          "Rick and Morty",
+          "Рік та Морті"
+        ],
+        "overview": "Гумористично-фантастичний мультсеріал про пригоди дідуся-винахідника Ріка та його онука-школяра Морті, яких іноді супроводжують інші члени родини: батько-невдаха Джеррі, донька-школярка Саммер та закомплексована мати Бет.",
+        "poster_path": "/tnXwqcZ98EVKuMzRtcvPRJukwI3.jpg",
+        "first_air_date": "2013-12-02",
+        "video": false,
+        "vote_average": 8.7,
+        "vote_count": 11013,
+        "popularity": 152.444,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "685246",
+        "kp_rating": "8.9",
+        "imdb_id": "tt2861424",
+        "imdb_rating": "9.0",
+        "status": "returning series",
+        "last_air_date": "2026-06-29",
+        "seasons": {
+          "1": 11,
+          "2": 10,
+          "3": 10,
+          "4": 11,
+          "5": 14,
+          "6": 10,
+          "7": 10,
+          "8": 10,
+          "9": 6
+        },
+        "episode": {
+          "air_date": "2026-06-28",
+          "episode_number": 6,
+          "name": "Серія 6",
+          "overview": "",
+          "season_number": 9,
+          "runtime": 24,
+          "still_path": "/ptYOQnNi81EHeh4LxcMRs2gfKz5.jpg",
+          "vote_average": 8.333
+        },
+        "genres": [
+          "Мультфільм",
+          "Комедія",
+          "Науково фантастичний",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s9;e6",
+      "premiere": 0
+    },
+    {
       "id": 2793,
       "time": 1782735600774,
       "card_id": "277439",
@@ -50,7 +126,7 @@
           "season_number": 1,
           "runtime": 52,
           "still_path": "/lW1Vr1Rh9rJxernr8EFKg7BPl94.jpg",
-          "vote_average": 8.2
+          "vote_average": 7.875
         },
         "genres": [
           "Драма",
@@ -71,7 +147,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/hBwCiqcaXtxmhv5xZ0H6Uhd2L1E.jpg",
+        "backdrop_path": "/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
         "genre_ids": [
           28,
           12,
@@ -169,7 +245,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 6.1
+          "vote_average": 7.0
         },
         "genres": [
           "Науково фантастичний",
@@ -239,7 +315,7 @@
           "season_number": 4,
           "runtime": 50,
           "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
-          "vote_average": 3.8
+          "vote_average": 4.389
         },
         "genres": [
           "Детектив",
@@ -261,7 +337,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
+        "backdrop_path": "/sbQ3laeMPGNcKoeNguC2f7rSxWT.jpg",
         "genre_ids": [
           35
         ],
@@ -636,7 +712,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+        "backdrop_path": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
         "genre_ids": [
           16,
           10751,
@@ -812,7 +888,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.1
+          "vote_average": 7.2
         },
         "genres": [
           "Науково фантастичний",
@@ -882,7 +958,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/8OoIdbyrUI7ymR7kYd2yipfQTJZ.jpg",
-          "vote_average": 5.8
+          "vote_average": 5.786
         },
         "genres": [
           "Детектив",
@@ -2819,83 +2895,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2744,
-      "time": 1780332250601,
-      "card_id": "60625",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
-        "genre_ids": [
-          16,
-          35,
-          10765,
-          10759
-        ],
-        "id": 60625,
-        "original_language": "en",
-        "name": "Рік та Морті",
-        "original_name": "Rick and Morty",
-        "names": [
-          "Рик и Морти",
-          "Rick and Morty",
-          "Рік та Морті"
-        ],
-        "overview": "Гумористично-фантастичний мультсеріал про пригоди дідуся-винахідника Ріка та його онука-школяра Морті, яких іноді супроводжують інші члени родини: батько-невдаха Джеррі, донька-школярка Саммер та закомплексована мати Бет.",
-        "poster_path": "/tnXwqcZ98EVKuMzRtcvPRJukwI3.jpg",
-        "first_air_date": "2013-12-02",
-        "video": false,
-        "vote_average": 8.676,
-        "vote_count": 10901,
-        "popularity": 161.3632,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "685246",
-        "kp_rating": "8.9",
-        "imdb_id": "tt2861424",
-        "imdb_rating": "9.0",
-        "status": "returning series",
-        "last_air_date": "2026-06-01",
-        "seasons": {
-          "1": 11,
-          "2": 10,
-          "3": 10,
-          "4": 11,
-          "5": 14,
-          "6": 10,
-          "7": 10,
-          "8": 10,
-          "9": 2
-        },
-        "episode": {
-          "air_date": "2026-05-31",
-          "episode_number": 2,
-          "name": "Серія 2",
-          "overview": "",
-          "season_number": 9,
-          "runtime": 23,
-          "still_path": "/nYIyH5KrAxivpFPDTf87Zlgzpf9.jpg",
-          "vote_average": 8.214
-        },
-        "genres": [
-          "Мультфільм",
-          "Комедія",
-          "Науково фантастичний",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s9;e2",
-      "premiere": 0
     }
   ],
-  "duration": 8.467864036560059
+  "duration": 4.042341709136963
 }
