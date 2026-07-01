@@ -61,7 +61,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/ptYOQnNi81EHeh4LxcMRs2gfKz5.jpg",
-          "vote_average": 8.333
+          "vote_average": 8.3
         },
         "genres": [
           "Мультфільм",
@@ -125,8 +125,8 @@
           "overview": "До Макса навідується людина з минулого. Анна розслідує, хто така Невея. У Томовій новій справі виникають ускладнення.",
           "season_number": 1,
           "runtime": 52,
-          "still_path": "/lW1Vr1Rh9rJxernr8EFKg7BPl94.jpg",
-          "vote_average": 7.875
+          "still_path": "/es5WAd84BuHp05SfboYDdzv1GsI.jpg",
+          "vote_average": 8.1
         },
         "genres": [
           "Драма",
@@ -245,7 +245,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 7.0
+          "vote_average": 7.2
         },
         "genres": [
           "Науково фантастичний",
@@ -310,12 +310,12 @@
         "episode": {
           "air_date": "2026-06-28",
           "episode_number": 10,
-          "name": "Серія 10",
-          "overview": "",
+          "name": "Якщо в лісі падає дерево",
+          "overview": "Подорож Бойда, спрямована на те, щоб привести мешканців додому, доходить до жахливого роздоріжжя, і відтепер уже ніщо не буде таким, як раніше.",
           "season_number": 4,
-          "runtime": 50,
+          "runtime": 49,
           "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
-          "vote_average": 4.389
+          "vote_average": 4.632
         },
         "genres": [
           "Детектив",
@@ -337,7 +337,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/sbQ3laeMPGNcKoeNguC2f7rSxWT.jpg",
+        "backdrop_path": "/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
         "genre_ids": [
           35
         ],
@@ -414,8 +414,9 @@
           "United Kingdom"
         ],
         "genres": [
-          "Комедія",
+          "Пригоди",
           "Детектив",
+          "Комедія",
           "Сімейний"
         ]
       },
@@ -712,7 +713,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+        "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
         "genre_ids": [
           16,
           10751,
@@ -958,7 +959,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/8OoIdbyrUI7ymR7kYd2yipfQTJZ.jpg",
-          "vote_average": 5.786
+          "vote_average": 5.9
         },
         "genres": [
           "Детектив",
@@ -1402,7 +1403,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
-          "vote_average": 7.7
+          "vote_average": 7.868
         },
         "genres": [
           "Драма",
@@ -1477,7 +1478,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/kIjmRbbdZfKw6RCTxUO2zsa74x0.jpg",
-          "vote_average": 8.333
+          "vote_average": 8.3
         },
         "genres": [
           "Мультфільм",
@@ -1938,7 +1939,7 @@
           "season_number": 1,
           "runtime": 32,
           "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
-          "vote_average": 7.5
+          "vote_average": 7.556
         },
         "genres": [
           "Драма",
@@ -2133,7 +2134,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.375
+          "vote_average": 8.4
         },
         "genres": [
           "Мультфільм",
@@ -2507,7 +2508,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.1
+          "vote_average": 9.063
         },
         "genres": [
           "Вестерн",
@@ -2804,7 +2805,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+        "backdrop_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
         "genre_ids": [
           27,
           9648,
@@ -2897,5 +2898,5 @@
       "premiere": 0
     }
   ],
-  "duration": 4.042341709136963
+  "duration": 7.422362804412842
 }
