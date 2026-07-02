@@ -2,6 +2,108 @@
   "secuses": true,
   "result": [
     {
+      "id": 2796,
+      "time": 1782994501699,
+      "card_id": "1202033",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
+        "genre_ids": [
+          9648,
+          53,
+          12,
+          80
+        ],
+        "id": 1202033,
+        "original_language": "en",
+        "title": "Энола Холмс 3",
+        "original_title": "Enola Holmes 3",
+        "names": [
+          "Энола Холмс 3",
+          "Enola Holmes 3"
+        ],
+        "overview": "Детектив Энола Холмс отправляется на Мальту, однако ее планы выйти замуж рушатся: из-за исчезновения Шерлока она втягивается в опасное дело.",
+        "poster_path": "/eTjUnXaWpkQbuDcBQV8oI1IeC9r.jpg",
+        "release_date": "2026-06-30",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 21,
+        "popularity": 11.3265,
+        "PG": 13,
+        "release_quality": "4K",
+        "kinopoisk_id": "6281573",
+        "imdb_id": "tt32278481",
+        "status": "released",
+        "last_air_date": "2026-07-01",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Приключения",
+          "Криминал",
+          "Детектив"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2795,
+      "time": 1782929702818,
+      "card_id": "286360",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/oBJ6dZ6A1tY1O94RmWnJkkQVbLz.jpg",
+        "genre_ids": [
+          9648,
+          18
+        ],
+        "id": 286360,
+        "original_language": "ko",
+        "name": "Студент на последнем ряду",
+        "original_name": "맨 끝줄 소년",
+        "names": [
+          "Студент на последнем ряду",
+          "Maen kkeutjul sonyeon",
+          "Notes from the Last Row / The Boy in the Last Row",
+          "맨 끝줄 소년"
+        ],
+        "overview": "Профессор литературы замечает талант студента и предлагает ему уроки писательства. Однако чем глубже он погружается в сюжет, тем необузданнее становятся их занятия.",
+        "poster_path": "/xSSp3JHoZFxc69aeFtc9JTgVMeu.jpg",
+        "first_air_date": "2026-06-26",
+        "video": false,
+        "vote_average": 10,
+        "vote_count": 1,
+        "popularity": 7.5856,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "8067299",
+        "imdb_id": "tt36270432",
+        "imdb_rating": "7.5",
+        "status": "ended",
+        "last_air_date": "2026-06-28",
+        "seasons": {
+          "1": 6
+        },
+        "countries": [
+          "Южная Корея"
+        ],
+        "genres": [
+          "Детектив",
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2794,
       "time": 1782753598747,
       "card_id": "60625",
@@ -2591,104 +2693,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2746,
-      "time": 1780479854731,
-      "card_id": "1083381",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
-        "genre_ids": [
-          27,
-          9648,
-          878
-        ],
-        "id": 1083381,
-        "original_language": "en",
-        "title": "Закулисье реальности",
-        "original_title": "Backrooms",
-        "names": [
-          "Закулисье реальности",
-          "Backrooms"
-        ],
-        "overview": "Когда неудачливый продавец мебели Кларк обнаруживает скрытый портал в другое измерение в подвале своего магазина, он оказывается в бесконечном лабиринте извилистых жёлтых коридоров. В этом мире время и пространство не подчиняются логике, а нечто жуткое может скрываться за каждым углом.",
-        "poster_path": "/cpbkzW8OlXS2fqeTuUmZqbCpIEm.jpg",
-        "release_date": "2026-05-27",
-        "video": false,
-        "vote_average": 6.6,
-        "vote_count": 58,
-        "popularity": 132.9603,
-        "PG": 18,
-        "release_quality": "ts",
-        "kinopoisk_id": "5452841",
-        "kp_rating": "6.4",
-        "imdb_id": "tt26657236",
-        "status": "released",
-        "last_air_date": "2026-05-30",
-        "countries": [
-          "США",
-          "Канада"
-        ],
-        "genres": [
-          "Ужасы",
-          "Детектив",
-          "Фантастика"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2745,
-      "time": 1780467249713,
-      "card_id": "1662414",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/ldUVeDfA5ID2vchHGejrEltoBSN.jpg",
-        "genre_ids": [
-          12,
-          18,
-          10751
-        ],
-        "id": 1662414,
-        "original_language": "en",
-        "title": "Ночной полет на винтовом самолете",
-        "original_title": "Propeller One-Way Night Coach",
-        "names": [
-          "Пропеллер: Ночной рейс в один конец",
-          "Propeller One-Way Night Coach",
-          "Ночной полет на винтовом самолете"
-        ],
-        "overview": "На дворе золотой век авиации. Юный авиалюбитель и его мать отправляются через всю страну в Голливуд — обычный перелет, который становится незабываемым.",
-        "poster_path": "/qUSfQsDBY9MMR1pmZcPRnpLV8ih.jpg",
-        "release_date": "2026-05-15",
-        "video": false,
-        "vote_average": 6,
-        "vote_count": 1,
-        "popularity": 1.8252,
-        "PG": 12,
-        "release_quality": "4K",
-        "kinopoisk_id": "11843361",
-        "imdb_id": "tt41367695",
-        "status": "released",
-        "last_air_date": "2026-05-30",
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Приключения",
-          "Драма",
-          "Семейный"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.422362804412842
+  "duration": 4.98204231262207
 }

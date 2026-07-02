@@ -2,6 +2,110 @@
   "secuses": true,
   "result": [
     {
+      "id": 2796,
+      "time": 1782994501699,
+      "card_id": "1202033",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
+        "genre_ids": [
+          9648,
+          53,
+          12,
+          80
+        ],
+        "id": 1202033,
+        "original_language": "en",
+        "title": "Енола Холмс 3",
+        "original_title": "Enola Holmes 3",
+        "names": [
+          "Енола Холмс 3",
+          "Энола Холмс 3",
+          "Enola Holmes 3"
+        ],
+        "overview": "Нові пригоди вже чекають: детективка Енола Холмс їде на Мальту на своє весілля, але все йде не за планом, коли зникнення Шерлока втягує її в небезпечну справу.",
+        "poster_path": "/xpUBwczeTWn2j4VslTU243tYDWY.jpg",
+        "release_date": "2026-06-30",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 21,
+        "popularity": 11.3265,
+        "PG": 13,
+        "release_quality": "4K",
+        "kinopoisk_id": "6281573",
+        "imdb_id": "tt32278481",
+        "status": "released",
+        "last_air_date": "2026-07-01",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Пригоди",
+          "Кримінал",
+          "Детектив"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2795,
+      "time": 1782929702818,
+      "card_id": "286360",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/oBJ6dZ6A1tY1O94RmWnJkkQVbLz.jpg",
+        "genre_ids": [
+          9648,
+          18
+        ],
+        "id": 286360,
+        "original_language": "ko",
+        "name": "Записки з останнього ряду",
+        "original_name": "맨 끝줄 소년",
+        "names": [
+          "Записки з останнього ряду",
+          "Студент на последнем ряду",
+          "Maen kkeutjul sonyeon",
+          "Notes from the Last Row / The Boy in the Last Row",
+          "맨 끝줄 소년"
+        ],
+        "overview": "Викладач помічає талант студента й пропонує йому уроки письменницької майстерності. Але що глибше він занурюється в історію, то більше заняття виходять з-під контролю.",
+        "poster_path": "/xSSp3JHoZFxc69aeFtc9JTgVMeu.jpg",
+        "first_air_date": "2026-06-26",
+        "video": false,
+        "vote_average": 10,
+        "vote_count": 1,
+        "popularity": 7.5856,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "8067299",
+        "imdb_id": "tt36270432",
+        "imdb_rating": "7.5",
+        "status": "ended",
+        "last_air_date": "2026-06-28",
+        "seasons": {
+          "1": 6
+        },
+        "countries": [
+          "South Korea"
+        ],
+        "genres": [
+          "Детектив",
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2794,
       "time": 1782753598747,
       "card_id": "60625",
@@ -61,7 +165,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/ptYOQnNi81EHeh4LxcMRs2gfKz5.jpg",
-          "vote_average": 8.3
+          "vote_average": 8.4
         },
         "genres": [
           "Мультфільм",
@@ -196,7 +300,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/h37hqVLmCW00ImewLAHT1DadOky.jpg",
+        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
         "genre_ids": [
           10765,
           18,
@@ -245,7 +349,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 7.2
+          "vote_average": 7.368
         },
         "genres": [
           "Науково фантастичний",
@@ -315,7 +419,7 @@
           "season_number": 4,
           "runtime": 49,
           "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
-          "vote_average": 4.632
+          "vote_average": 4.9
         },
         "genres": [
           "Детектив",
@@ -479,7 +583,7 @@
           "season_number": 2,
           "runtime": 69,
           "still_path": "/hGpGatL0EwuGhTZjIy4m6cAXVJt.jpg",
-          "vote_average": 8.0
+          "vote_average": 8.429
         },
         "genres": [
           "Екшн і Пригоди",
@@ -545,7 +649,7 @@
           "season_number": 1,
           "runtime": 45,
           "still_path": "/8m6dULktFqJbAaeQpcuaUb7RwRn.jpg",
-          "vote_average": 9.2
+          "vote_average": 8.2
         },
         "genres": [
           "Вестерн",
@@ -713,7 +817,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+        "backdrop_path": "/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
         "genre_ids": [
           16,
           10751,
@@ -840,7 +944,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/h37hqVLmCW00ImewLAHT1DadOky.jpg",
+        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
         "genre_ids": [
           10765,
           18,
@@ -889,7 +993,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.2
+          "vote_average": 7.313
         },
         "genres": [
           "Науково фантастичний",
@@ -1074,7 +1178,7 @@
           "season_number": 1,
           "runtime": 41,
           "still_path": "/yFnrtYornkPUnAcRc3rFcQ6RgYz.jpg",
-          "vote_average": 9.0
+          "vote_average": 8.75
         },
         "genres": [
           "Вестерн",
@@ -1240,7 +1344,7 @@
           "season_number": 1,
           "runtime": 36,
           "still_path": "/TOs0PsDUEz8mlo3XKAIBKQ0SOW.jpg",
-          "vote_average": 6.9
+          "vote_average": 6.25
         },
         "genres": [
           "Драма",
@@ -1403,7 +1507,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
-          "vote_average": 7.868
+          "vote_average": 7.929
         },
         "genres": [
           "Драма",
@@ -1939,7 +2043,7 @@
           "season_number": 1,
           "runtime": 32,
           "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
-          "vote_average": 7.556
+          "vote_average": 7.65
         },
         "genres": [
           "Драма",
@@ -2450,8 +2554,7 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія",
-          "Жахи"
+          "Комедія"
         ]
       },
       "type": "now_playing",
@@ -2738,7 +2841,7 @@
           "season_number": 1,
           "runtime": 34,
           "still_path": "/eh3wez62jJ79krAvtgWLRVStUZj.jpg",
-          "vote_average": 8.318
+          "vote_average": 8.375
         },
         "genres": [
           "Драма",
@@ -2797,106 +2900,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2746,
-      "time": 1780479854731,
-      "card_id": "1083381",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-        "genre_ids": [
-          27,
-          9648,
-          878
-        ],
-        "id": 1083381,
-        "original_language": "en",
-        "title": "Backrooms: Залаштунки",
-        "original_title": "Backrooms",
-        "names": [
-          "Backrooms: Залаштунки",
-          "Закулисье реальности",
-          "Backrooms"
-        ],
-        "overview": "Сюжет стрічки зосереджений навколо лабіринту порожніх офісних кімнат, які приховують дещо моторошне. Гнітюче очікування лякає головних героїв та змушує їх рухатися далі, тамуючи відчай і передчуття непоправного жаху.",
-        "poster_path": "/hxZuCNRL2yJI6Id7MstH0lUsIUa.jpg",
-        "release_date": "2026-05-27",
-        "video": false,
-        "vote_average": 6.6,
-        "vote_count": 58,
-        "popularity": 132.9603,
-        "PG": 18,
-        "release_quality": "ts",
-        "kinopoisk_id": "5452841",
-        "kp_rating": "6.4",
-        "imdb_id": "tt26657236",
-        "status": "released",
-        "last_air_date": "2026-05-30",
-        "countries": [
-          "United States of America",
-          "Canada"
-        ],
-        "genres": [
-          "Жахи",
-          "Детектив",
-          "Фантастика"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2745,
-      "time": 1780467249713,
-      "card_id": "1662414",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/ldUVeDfA5ID2vchHGejrEltoBSN.jpg",
-        "genre_ids": [
-          12,
-          18,
-          10751
-        ],
-        "id": 1662414,
-        "original_language": "en",
-        "title": "Пропелер у нічному небі",
-        "original_title": "Propeller One-Way Night Coach",
-        "names": [
-          "Пропелер у нічному небі",
-          "Пропеллер: Ночной рейс в один конец",
-          "Propeller One-Way Night Coach",
-          "Ночной полет на винтовом самолете"
-        ],
-        "overview": "У золоту добу авіації юний любитель літаків і його мати вирушають у подорож через усю країну до Голлівуду. Цей звичайний переліт стає пригодою всього життя.",
-        "poster_path": "/fORDye7ppKR6hleyGM3yOHzOIeW.jpg",
-        "release_date": "2026-05-15",
-        "video": false,
-        "vote_average": 6,
-        "vote_count": 1,
-        "popularity": 1.8252,
-        "PG": 12,
-        "release_quality": "4K",
-        "kinopoisk_id": "11843361",
-        "imdb_id": "tt41367695",
-        "status": "released",
-        "last_air_date": "2026-05-30",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Пригоди",
-          "Драма",
-          "Сімейний"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.422362804412842
+  "duration": 4.98204231262207
 }
