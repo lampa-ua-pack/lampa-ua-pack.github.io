@@ -2,6 +2,233 @@
   "secuses": true,
   "result": [
     {
+      "id": 2800,
+      "time": 1783169106005,
+      "card_id": "1317149",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 1317149,
+        "original_language": "en",
+        "title": "Я лаюсь",
+        "original_title": "I Swear",
+        "names": [
+          "Я лаюсь",
+          "Я ругаюсь",
+          "I Swear"
+        ],
+        "overview": "Джон Девідсон: у дитинстві йому діагностували синдром Туретта, через що він відчував відчуження від однолітків і змушений був боротися з розладом, який мало хто бачив на власні очі.",
+        "poster_path": "/ovaHNnDV65VvW3y6ttaBZ2nzkwE.jpg",
+        "release_date": "2025-09-22",
+        "video": false,
+        "vote_average": 8.232,
+        "vote_count": 368,
+        "popularity": 16.0431,
+        "PG": 17,
+        "release_quality": "4K",
+        "kinopoisk_id": "8472578",
+        "kp_rating": "8.5",
+        "imdb_id": "tt31514146",
+        "imdb_rating": "8.4",
+        "status": "released",
+        "last_air_date": "0001-01-01",
+        "countries": [
+          "United Kingdom"
+        ],
+        "genres": [
+          "Драма",
+          "Історичний"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2799,
+      "time": 1783165501858,
+      "card_id": "125988",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 125988,
+        "original_language": "en",
+        "name": "Таємниця бункера",
+        "original_name": "Silo",
+        "names": [
+          "Таємниця бункера",
+          "Бункер",
+          "Silo",
+          "Укрытие",
+          "Таємниця бункера / Бункер",
+          "Wool"
+        ],
+        "overview": "У занапащеному й небезпечному майбутньому тисячі людей живуть у великому підземному бункері. Коли шериф порушує його основоположне правило, а жителі гинуть за загадкових обставин, інженер Джулієт береться розкривати приголомшливі таємниці й правду про бункер.",
+        "poster_path": "/fjo0lVGHPHJS2CqrXOyZN379BXK.jpg",
+        "first_air_date": "2023-05-04",
+        "video": false,
+        "vote_average": 8.164,
+        "vote_count": 2122,
+        "popularity": 64.7131,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4541515",
+        "kp_rating": "7.8",
+        "imdb_id": "tt14688458",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-04",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 1
+        },
+        "episode": {
+          "air_date": "2026-07-02",
+          "episode_number": 1,
+          "name": "Хто ти?",
+          "overview": "Нова мерка Джулієт не пам'ятає нічого про те, як вийшла на поверхню, – як і про своє минуле.",
+          "season_number": 3,
+          "runtime": 52,
+          "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
+          "vote_average": 3.95
+        },
+        "genres": [
+          "Науково фантастичний",
+          "Драма"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e1",
+      "premiere": 0
+    },
+    {
+      "id": 2798,
+      "time": 1783154703030,
+      "card_id": "1310677",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/gXU1At9HJ023Wjm1mHCLnhf80pi.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1310677,
+        "original_language": "ko",
+        "title": "하나 코리아",
+        "original_title": "하나 코리아",
+        "names": [
+          "Покидая Северную Корею",
+          "Hana Korea",
+          "하나 코리아"
+        ],
+        "overview": "Хе-сон бежит в Южную Корею с одной целью — заработать деньги для больной матери. Здесь её ждёт не только долгожданная свобода, но и новые правила, незнакомые люди и высокие ожидания общества. Девушка не теряет надежды и готова бороться за место под солнцем.",
+        "poster_path": "/fy83JSOatI4XPG5M9Sj4ezVkRNA.jpg",
+        "release_date": "2026-07-08",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "popularity": 4.1952,
+        "PG": 0,
+        "release_quality": "webdl",
+        "kinopoisk_id": "11701242",
+        "imdb_id": "tt33344480",
+        "imdb_rating": "7.0",
+        "status": "released",
+        "last_air_date": "2026-06-29",
+        "countries": [
+          "South Korea",
+          "Denmark"
+        ],
+        "genres": [
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2797,
+      "time": 1783147501751,
+      "card_id": "299167",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "id": 299167,
+        "original_language": "en",
+        "name": "Ранчо Даттонів",
+        "original_name": "Dutton Ranch",
+        "names": [
+          "Ранчо Даттонів",
+          "Ранчо Даттонов",
+          "Dutton Ranch",
+          "The Dutton Ranch"
+        ],
+        "overview": "Бет Даттон і Ріп Вілер борються за виживання на своєму улюбленому ранчо площею 7000 акрів в умовах важких часів і жорсткої конкуренції, водночас намагаючись допомогти юному Картеру стати тим чоловіком, яким він має бути.",
+        "poster_path": "/dtKW23O5tfxq7EXUsfeLgBx7gy1.jpg",
+        "first_air_date": "2026-05-15",
+        "video": false,
+        "vote_average": 9.282,
+        "vote_count": 335,
+        "popularity": 231.5716,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "7275308",
+        "kp_rating": "8.5",
+        "imdb_id": "tt34991493",
+        "status": "returning series",
+        "last_air_date": "2026-07-03",
+        "seasons": {
+          "1": 9
+        },
+        "episode": {
+          "air_date": "2026-07-03",
+          "episode_number": 9,
+          "name": "Серія 9",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 59,
+          "still_path": "/tzlA6pW657XmVoIi1D2B5B1j81K.jpg",
+          "vote_average": 10.0
+        },
+        "genres": [
+          "Вестерн",
+          "Драма"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e9",
+      "premiere": 0
+    },
+    {
       "id": 2796,
       "time": 1782994501699,
       "card_id": "1202033",
@@ -166,7 +393,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/ptYOQnNi81EHeh4LxcMRs2gfKz5.jpg",
-          "vote_average": 8.429
+          "vote_average": 8.625
         },
         "genres": [
           "Мультфільм",
@@ -252,7 +479,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg",
+        "backdrop_path": "/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
         "genre_ids": [
           28,
           12,
@@ -350,7 +577,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 7.118
+          "vote_average": 7.3
         },
         "genres": [
           "Науково фантастичний",
@@ -420,7 +647,7 @@
           "season_number": 4,
           "runtime": 49,
           "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
-          "vote_average": 5.227
+          "vote_average": 5.313
         },
         "genres": [
           "Детектив",
@@ -584,7 +811,7 @@
           "season_number": 2,
           "runtime": 69,
           "still_path": "/hGpGatL0EwuGhTZjIy4m6cAXVJt.jpg",
-          "vote_average": 8.429
+          "vote_average": 8.333
         },
         "genres": [
           "Екшн і Пригоди",
@@ -650,7 +877,7 @@
           "season_number": 1,
           "runtime": 45,
           "still_path": "/8m6dULktFqJbAaeQpcuaUb7RwRn.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.1
         },
         "genres": [
           "Вестерн",
@@ -922,7 +1149,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/dQUDeY9qKrERkHwu8sB67XmG6Am.jpg",
-          "vote_average": 8.4
+          "vote_average": 8.389
         },
         "genres": [
           "Мультфільм",
@@ -994,7 +1221,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.366
+          "vote_average": 7.397
         },
         "genres": [
           "Науково фантастичний",
@@ -1179,7 +1406,7 @@
           "season_number": 1,
           "runtime": 41,
           "still_path": "/yFnrtYornkPUnAcRc3rFcQ6RgYz.jpg",
-          "vote_average": 8.75
+          "vote_average": 8.8
         },
         "genres": [
           "Вестерн",
@@ -1583,7 +1810,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/kIjmRbbdZfKw6RCTxUO2zsa74x0.jpg",
-          "vote_average": 8.3
+          "vote_average": 8.429
         },
         "genres": [
           "Мультфільм",
@@ -1776,7 +2003,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/bvgUV0WmbnrCQvl6uqVZG3muaDp.jpg",
-          "vote_average": 8.654
+          "vote_average": 8.7
         },
         "genres": [
           "Вестерн",
@@ -2239,7 +2466,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.4
+          "vote_average": 8.269
         },
         "genres": [
           "Мультфільм",
@@ -2555,7 +2782,8 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія"
+          "Комедія",
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -2612,7 +2840,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.063
+          "vote_average": 9.1
         },
         "genres": [
           "Вестерн",
@@ -2692,216 +2920,7 @@
       "type": "episode",
       "hash": "s2;e10",
       "premiere": 0
-    },
-    {
-      "id": 2750,
-      "time": 1780657072737,
-      "card_id": "1430077",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/qY7zVZ7liULhfRoXg4c9Xl83LcR.jpg",
-        "genre_ids": [
-          27
-        ],
-        "id": 1430077,
-        "original_language": "en",
-        "title": "Гокум",
-        "original_title": "Hokum",
-        "names": [
-          "Гокум",
-          "Хокум",
-          "Hokum"
-        ],
-        "overview": "Письменник романів жахів Ом Бауман приїжджає до ірландського готелю, щоб розвіяти прах своїх батьків, не підозрюючи, що в цьому місці, за чутками, мешкає відьма. З наближенням ночі він стикається з незрозумілими явищами та таємницями минулого, які поступово розкривають зловісну природу цього віддаленого куточка.",
-        "poster_path": "/rNsDR3UURU8Ow6eNfxUtIFh7zmt.jpg",
-        "release_date": "2026-04-29",
-        "video": false,
-        "vote_average": 6.9,
-        "vote_count": 60,
-        "popularity": 14.7806,
-        "PG": 18,
-        "release_quality": "4K",
-        "kinopoisk_id": "10359971",
-        "kp_rating": "6.7",
-        "imdb_id": "tt35672862",
-        "imdb_rating": "7.4",
-        "status": "released",
-        "last_air_date": "2026-05-03",
-        "countries": [
-          "United States of America",
-          "Ireland",
-          "United Arab Emirates",
-          "Hong Kong"
-        ],
-        "genres": [
-          "Жахи"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2749,
-      "time": 1780514327720,
-      "card_id": "1122573",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
-        "genre_ids": [
-          28,
-          53
-        ],
-        "id": 1122573,
-        "original_language": "en",
-        "title": "Брудні гроші",
-        "original_title": "In the Grey",
-        "names": [
-          "Брудні гроші",
-          "Грязные деньги",
-          "In the Grey"
-        ],
-        "overview": "Таємна команда елітних оперативників, які діють у тіні по всьому світу, однаково вправно користується владою, впливом і зброєю. Коли безжальний деспот привласнює мільярдний статок, їх відправляють повернути його в місії, що для інших була б самогубством. Але те, що починалося як майже неможливе пограбування, швидко переростає у війну стратегій, обману й виживання.",
-        "poster_path": "/hN1HsjFwkFEe8lY6I3XkHGdC7yP.jpg",
-        "release_date": "2026-05-13",
-        "video": false,
-        "vote_average": 6.4,
-        "vote_count": 69,
-        "popularity": 19.685,
-        "PG": 18,
-        "release_quality": "webdl",
-        "kinopoisk_id": "5437609",
-        "kp_rating": "6.8",
-        "imdb_id": "tt27681354",
-        "status": "released",
-        "last_air_date": "2026-05-16",
-        "countries": [
-          "United Kingdom",
-          "United States of America"
-        ],
-        "genres": [
-          "Бойовик",
-          "Трилер"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2748,
-      "time": 1780510722722,
-      "card_id": "270476",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
-        "genre_ids": [
-          18,
-          9648,
-          35
-        ],
-        "id": 270476,
-        "original_language": "en",
-        "name": "Відоус-Бей",
-        "original_name": "Widow's Bay",
-        "names": [
-          "Відоус-Бей",
-          "Бухта вдов",
-          "Widow's Bay",
-          "Уидоус-Бэй",
-          "Widows Bay"
-        ],
-        "overview": "Мер містечка в Новій Англії має намір перетворити його на туристичну принаду, попри застереження місцевих про те, що це місце прокляте.",
-        "poster_path": "/r9LY3JmgL8CcUKDOEKQZHsOaIcP.jpg",
-        "first_air_date": "2026-04-28",
-        "video": false,
-        "vote_average": 8.26,
-        "vote_count": 102,
-        "popularity": 60.665,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6555657",
-        "kp_rating": "7.7",
-        "imdb_id": "tt33332385",
-        "status": "returning series",
-        "last_air_date": "2026-06-03",
-        "seasons": {
-          "1": 8
-        },
-        "episode": {
-          "air_date": "2026-06-02",
-          "episode_number": 8,
-          "name": "Ваш багаж",
-          "overview": "Не переживайте про загублений багаж. У Відоус-Бей старий багаж завжди знаходиться.",
-          "season_number": 1,
-          "runtime": 34,
-          "still_path": "/eh3wez62jJ79krAvtgWLRVStUZj.jpg",
-          "vote_average": 8.375
-        },
-        "genres": [
-          "Драма",
-          "Комедія",
-          "Детектив"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e8",
-      "premiere": 0
-    },
-    {
-      "id": 2747,
-      "time": 1780501722683,
-      "card_id": "1232667",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/fH4pbzTCP1EWbZ1BoCtx7lgRb1F.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 1232667,
-        "original_language": "en",
-        "title": "Сумую за тобою, люблю тебе",
-        "original_title": "Miss You, Love You",
-        "names": [
-          "Сумую за тобою, люблю тебе",
-          "Люблю, скучаю",
-          "Miss You, Love You",
-          "Скучаю по тебе, люблю тебя"
-        ],
-        "overview": "Вдова організовує похорон свого чоловіка. Її відчужений син замість того, щоб приїхати самому, надсилає свою помічницю. Вдова переживає горе разом із нею.",
-        "poster_path": "/2f7d9ybamv0QIJn0odsh1dwRuxS.jpg",
-        "release_date": "2026-05-29",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "popularity": 1.4661,
-        "PG": 0,
-        "release_quality": "4K",
-        "kinopoisk_id": "12499636",
-        "imdb_id": "tt30343126",
-        "status": "released",
-        "last_air_date": "2026-05-30",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.795377254486084
+  "duration": 4.3779377937316895
 }

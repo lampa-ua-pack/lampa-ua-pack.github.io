@@ -2,6 +2,216 @@
   "secuses": true,
   "result": [
     {
+      "id": 2800,
+      "time": 1783169106005,
+      "card_id": "1317149",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 1317149,
+        "original_language": "en",
+        "title": "Я ругаюсь",
+        "original_title": "I Swear",
+        "names": [
+          "Я ругаюсь",
+          "I Swear"
+        ],
+        "overview": "1983 год. Подросток из Шотландии Джон мечтает о футболе, но внезапно появившиеся тики делают его жертвой школьной травли. После нервного срыва ему диагностируют синдром Туретта. Вскоре о болезни Джона выходит документальный фильм, который приносит ему известность, но навсегда меняет жизнь семьи и осложняет отношения с матерью.",
+        "poster_path": "/lP3WZIsuAaJ4C2Bj4ag753XsJga.jpg",
+        "release_date": "2025-09-22",
+        "video": false,
+        "vote_average": 8.232,
+        "vote_count": 368,
+        "popularity": 16.0431,
+        "PG": 17,
+        "release_quality": "4K",
+        "kinopoisk_id": "8472578",
+        "kp_rating": "8.5",
+        "imdb_id": "tt31514146",
+        "imdb_rating": "8.4",
+        "status": "released",
+        "last_air_date": "0001-01-01",
+        "countries": [
+          "Великобритания"
+        ],
+        "genres": [
+          "Драма",
+          "История"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2799,
+      "time": 1783165501858,
+      "card_id": "125988",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 125988,
+        "original_language": "en",
+        "name": "Укрытие",
+        "original_name": "Silo",
+        "names": [
+          "Бункер",
+          "Silo",
+          "Укрытие",
+          "Таємниця бункера / Бункер",
+          "Wool"
+        ],
+        "overview": "На отравленной гибнущей планете будущего тысячи людей ютятся в огромном подземном укрытии. Нарушение шерифом основного правила и серия загадочных смертей вынуждают инженера Джульетту заняться раскрытием тайн и поиском правды о бункере.",
+        "poster_path": "/hjbi9TfsJ9kENZOZqVNJa5IRMM2.jpg",
+        "first_air_date": "2023-05-04",
+        "video": false,
+        "vote_average": 8.164,
+        "vote_count": 2122,
+        "popularity": 64.7131,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4541515",
+        "kp_rating": "7.8",
+        "imdb_id": "tt14688458",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-04",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 1
+        },
+        "episode": {
+          "air_date": "2026-07-02",
+          "episode_number": 1,
+          "name": "Кто ты?",
+          "overview": "Новый мэр Джульетта ничего не помнит о времени, проведенном во внешнем мире, а также о своем прошлом.",
+          "season_number": 3,
+          "runtime": 52,
+          "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
+          "vote_average": 3.95
+        }
+      },
+      "type": "episode",
+      "hash": "s3;e1",
+      "premiere": 0
+    },
+    {
+      "id": 2798,
+      "time": 1783154703030,
+      "card_id": "1310677",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/gXU1At9HJ023Wjm1mHCLnhf80pi.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1310677,
+        "original_language": "ko",
+        "title": "Покидая Северную Корею",
+        "original_title": "하나 코리아",
+        "names": [
+          "Покидая Северную Корею",
+          "Hana Korea",
+          "하나 코리아"
+        ],
+        "overview": "Хе-сон бежит в Южную Корею с одной целью — заработать деньги для больной матери. Здесь её ждёт не только долгожданная свобода, но и новые правила, незнакомые люди и высокие ожидания общества. Девушка не теряет надежды и готова бороться за место под солнцем.",
+        "poster_path": "/x2a9OCdLBINEYiZ0gsFnrnnItVe.jpg",
+        "release_date": "2026-07-08",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "popularity": 4.1952,
+        "PG": 0,
+        "release_quality": "webdl",
+        "kinopoisk_id": "11701242",
+        "imdb_id": "tt33344480",
+        "imdb_rating": "7.0",
+        "status": "released",
+        "last_air_date": "2026-06-29",
+        "countries": [
+          "Южная Корея",
+          "Дания"
+        ],
+        "genres": [
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2797,
+      "time": 1783147501751,
+      "card_id": "299167",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "id": 299167,
+        "original_language": "en",
+        "name": "Ранчо Даттонов",
+        "original_name": "Dutton Ranch",
+        "names": [
+          "Ранчо Даттонов",
+          "Dutton Ranch",
+          "The Dutton Ranch"
+        ],
+        "overview": "Ранчо Даттонов - дом Бет и Рипа, стало символом той жизни, о которой они мечтали, за которую отчаянно боролись и ради которой едва не пожертвовали всем. Они всей душой привязались к своей земле площадью 7000 акров, превратив её в место, которое готовы защищать любой ценой. Даже в самые тяжёлые времена Бет и Рип делают всё возможное, чтобы выстоять, сохранить своё ранчо и обеспечить достойное будущее себе и своему приёмному сыну Картеру.",
+        "poster_path": "/mmxsx98NnY56CvataUqM1ktt14O.jpg",
+        "first_air_date": "2026-05-15",
+        "video": false,
+        "vote_average": 9.282,
+        "vote_count": 335,
+        "popularity": 231.5716,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "7275308",
+        "kp_rating": "8.5",
+        "imdb_id": "tt34991493",
+        "status": "returning series",
+        "last_air_date": "2026-07-03",
+        "seasons": {
+          "1": 9
+        },
+        "episode": {
+          "air_date": "2026-07-03",
+          "episode_number": 9,
+          "name": "Эпизод 9",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 48,
+          "still_path": "/tzlA6pW657XmVoIi1D2B5B1j81K.jpg",
+          "vote_average": 10
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e9",
+      "premiere": 0
+    },
+    {
       "id": 2796,
       "time": 1782994501699,
       "card_id": "1202033",
@@ -2496,204 +2706,7 @@
       "type": "episode",
       "hash": "s2;e10",
       "premiere": 0
-    },
-    {
-      "id": 2750,
-      "time": 1780657072737,
-      "card_id": "1430077",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/e9UvRjJAqn2hLXDfMHU1LFMEKGv.jpg",
-        "genre_ids": [
-          27
-        ],
-        "id": 1430077,
-        "original_language": "en",
-        "title": "Хокум",
-        "original_title": "Hokum",
-        "names": [
-          "Хокум",
-          "Hokum"
-        ],
-        "overview": "Писатель романов ужасов Ом Бауман приезжает в ирландскую гостиницу, чтобы развеять прах родителей, не подозревая, что в этом месте, по слухам, обитает ведьма. С приближением ночи он сталкивается с необъяснимыми явлениями и тайнами прошлого, которые постепенно раскрывают зловещую природу этого уединённого уголка.",
-        "poster_path": "/zt5cQrDQG12EeaoebhdQV94ZgFi.jpg",
-        "release_date": "2026-04-29",
-        "video": false,
-        "vote_average": 6.9,
-        "vote_count": 60,
-        "popularity": 14.7806,
-        "PG": 18,
-        "release_quality": "4K",
-        "kinopoisk_id": "10359971",
-        "kp_rating": "6.7",
-        "imdb_id": "tt35672862",
-        "imdb_rating": "7.4",
-        "status": "released",
-        "last_air_date": "2026-05-03",
-        "countries": [
-          "США",
-          "Ирландия",
-          "ОАЭ",
-          "Гонконг"
-        ],
-        "genres": [
-          "Ужасы"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2749,
-      "time": 1780514327720,
-      "card_id": "1122573",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/oBft4BZeoDQzTT9ZGijClr76qvK.jpg",
-        "genre_ids": [
-          28,
-          53
-        ],
-        "id": 1122573,
-        "original_language": "en",
-        "title": "Грязные деньги",
-        "original_title": "In the Grey",
-        "names": [
-          "Грязные деньги",
-          "In the Grey"
-        ],
-        "overview": "Когда безжалостный магнат Салазар присваивает себе миллиард долларов, отряд элитных агентов под управлением проницательной Рэйчел получает задание вернуть деньги любой ценой. Сид, Бронко и их соратники начинают воплощать стратегию давления на афериста, а затем отправляются на остров Салазара, где проявляют все свои навыки обращения с оружием и взрывчаткой. Однако внезапно ситуация выходит из-под контроля.",
-        "poster_path": "/eX68co76w7wunCRunji7kyglqTG.jpg",
-        "release_date": "2026-05-13",
-        "video": false,
-        "vote_average": 6.4,
-        "vote_count": 69,
-        "popularity": 19.685,
-        "PG": 18,
-        "release_quality": "webdl",
-        "kinopoisk_id": "5437609",
-        "kp_rating": "6.8",
-        "imdb_id": "tt27681354",
-        "status": "released",
-        "last_air_date": "2026-05-16",
-        "countries": [
-          "Великобритания",
-          "США"
-        ],
-        "genres": [
-          "Боевик",
-          "Триллер"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2748,
-      "time": 1780510722722,
-      "card_id": "270476",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
-        "genre_ids": [
-          18,
-          9648,
-          35
-        ],
-        "id": 270476,
-        "original_language": "en",
-        "name": "Уидоус-Бэй",
-        "original_name": "Widow's Bay",
-        "names": [
-          "Бухта вдов",
-          "Widow's Bay",
-          "Уидоус-Бэй",
-          "Widows Bay"
-        ],
-        "overview": "Мэр города в Новой Англии решает превратить его в новый центр притяжения туристов, несмотря на предупреждения местных о том, что он проклят.",
-        "poster_path": "/7Dc2FNMcOeNO61W2rOKgJDoVJ63.jpg",
-        "first_air_date": "2026-04-28",
-        "video": false,
-        "vote_average": 8.26,
-        "vote_count": 102,
-        "popularity": 60.665,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6555657",
-        "kp_rating": "7.7",
-        "imdb_id": "tt33332385",
-        "status": "returning series",
-        "last_air_date": "2026-06-03",
-        "seasons": {
-          "1": 8
-        },
-        "episode": {
-          "air_date": "2026-06-02",
-          "episode_number": 8,
-          "name": "Ваш багаж",
-          "overview": "Не волнуйтесь о потерянной поклаже. Старый багаж всегда всплывает в Уидоус-Бэй.",
-          "season_number": 1,
-          "runtime": 34,
-          "still_path": "/eh3wez62jJ79krAvtgWLRVStUZj.jpg",
-          "vote_average": 10
-        }
-      },
-      "type": "episode",
-      "hash": "s1;e8",
-      "premiere": 0
-    },
-    {
-      "id": 2747,
-      "time": 1780501722683,
-      "card_id": "1232667",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/fH4pbzTCP1EWbZ1BoCtx7lgRb1F.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 1232667,
-        "original_language": "en",
-        "title": "Люблю, скучаю",
-        "original_title": "Miss You, Love You",
-        "names": [
-          "Люблю, скучаю",
-          "Miss You, Love You",
-          "Скучаю по тебе, люблю тебя"
-        ],
-        "overview": "Овдовевшая Дайан вынуждена планировать похороны мужа в одиночку — когда она связывается с сыном, тот отказывается приезжать и посылает на подмогу матери личного помощника. Неожиданному тандему предстоит как следует узнать друг друга, не раз поговорить по душам и, конечно, провести достойную панихиду.",
-        "poster_path": "/odnel7VLYHTdW3OdgRl7N5nSlpM.jpg",
-        "release_date": "2026-05-29",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "popularity": 1.4661,
-        "PG": 0,
-        "release_quality": "4K",
-        "kinopoisk_id": "12499636",
-        "imdb_id": "tt30343126",
-        "status": "released",
-        "last_air_date": "2026-05-30",
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.795377254486084
+  "duration": 4.3779377937316895
 }
