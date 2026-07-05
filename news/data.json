@@ -2,6 +2,179 @@
   "secuses": true,
   "result": [
     {
+      "id": 2803,
+      "time": 1783255502361,
+      "card_id": "125988",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 125988,
+        "original_language": "en",
+        "name": "Укрытие",
+        "original_name": "Silo",
+        "names": [
+          "Бункер",
+          "Silo",
+          "Укрытие",
+          "Таємниця бункера / Бункер",
+          "Wool"
+        ],
+        "overview": "На отравленной гибнущей планете будущего тысячи людей ютятся в огромном подземном укрытии. Нарушение шерифом основного правила и серия загадочных смертей вынуждают инженера Джульетту заняться раскрытием тайн и поиском правды о бункере.",
+        "poster_path": "/hjbi9TfsJ9kENZOZqVNJa5IRMM2.jpg",
+        "first_air_date": "2023-05-04",
+        "video": false,
+        "vote_average": 8.164,
+        "vote_count": 2122,
+        "popularity": 64.7131,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4541515",
+        "kp_rating": "7.8",
+        "imdb_id": "tt14688458",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-05",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 2
+        },
+        "episode": {
+          "air_date": "2026-07-09",
+          "episode_number": 2,
+          "name": "Всё хорошо",
+          "overview": "Биллингс расследует исчезновение. Дэниел Кин вступает в перепалку с журналисткой.",
+          "season_number": 3,
+          "runtime": 52,
+          "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
+          "vote_average": 2.8
+        }
+      },
+      "type": "episode",
+      "hash": "s3;e2",
+      "premiere": 0
+    },
+    {
+      "id": 2802,
+      "time": 1783235702376,
+      "card_id": "253960",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/qIMNDToguvTIaVReD8GgeDgfXVr.jpg",
+        "genre_ids": [
+          10765,
+          80
+        ],
+        "id": 253960,
+        "original_language": "ja",
+        "name": "Газовый человек",
+        "original_name": "ガス人間",
+        "names": [
+          "Газовый человек",
+          "Gas Ningen",
+          "Human Vapor",
+          "ガス人間",
+          "Gas Ningen / Human Vapor"
+        ],
+        "overview": "За смертью в прямом эфире на ТВ и преступником, превращающимся в газ, скрывается секретный проект, где используют уязвимых людей. Детектив пытается докопаться до истины.",
+        "poster_path": "/b9K6fvpHqDJFcLn1OOjbLi1VEgn.jpg",
+        "first_air_date": "2026-07-02",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 5,
+        "popularity": 80.0844,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "JP",
+          "KR"
+        ],
+        "kinopoisk_id": "6099853",
+        "imdb_id": "tt33083249",
+        "imdb_rating": "7.0",
+        "status": "ended",
+        "last_air_date": "2026-07-04",
+        "seasons": {
+          "1": 8
+        },
+        "countries": [
+          "Южная Корея",
+          "Япония"
+        ],
+        "genres": [
+          "НФ и Фэнтези",
+          "Криминал"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2801,
+      "time": 1783183503959,
+      "card_id": "277439",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 277439,
+        "original_language": "en",
+        "name": "Мыс страха",
+        "original_name": "Cape Fear",
+        "names": [
+          "Мыс страха",
+          "Cape Fear"
+        ],
+        "overview": "На счастливую супружескую пару адвокатов надвигается буря, когда из тюрьмы выходит знаменитый киллер из их прошлого.",
+        "poster_path": "/a5CZ7Mh2XcEnenS9bXbWYVFKuGb.jpg",
+        "first_air_date": "2026-06-04",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 55,
+        "popularity": 43.3931,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6576642",
+        "kp_rating": "6.9",
+        "imdb_id": "tt34675596",
+        "status": "returning series",
+        "last_air_date": "2026-07-03",
+        "seasons": {
+          "1": 6
+        },
+        "episode": {
+          "air_date": "2026-07-02",
+          "episode_number": 6,
+          "name": "Опоссум",
+          "overview": "Боудены улаживают вопросы с новым соседом. Натали задает вопросы о своем прошлом. У семьи случается приход.",
+          "season_number": 1,
+          "runtime": 56,
+          "still_path": "/zA6WWkrhSoJjJuFhB0MvGXiDVLO.jpg",
+          "vote_average": 7
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e6",
+      "premiere": 0
+    },
+    {
       "id": 2800,
       "time": 1783169106005,
       "card_id": "1317149",
@@ -2545,168 +2718,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2753,
-      "time": 1780729071826,
-      "card_id": "1273221",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
-        "genre_ids": [
-          35
-        ],
-        "id": 1273221,
-        "original_language": "en",
-        "title": "Очень страшное кино",
-        "original_title": "Scary Movie",
-        "names": [
-          "Очень страшное кино 6",
-          "Scary Movie 6",
-          "Очень страшное кино",
-          "Scary Movie"
-        ],
-        "overview": "Двое друзей снова оказываются втянутыми в хаос, в котором участвуют убийцы, монстры и сверхъестественные существа.",
-        "poster_path": "/mHggwMptRO9dzmaLlYdxlh1eXpj.jpg",
-        "release_date": "2026-06-03",
-        "video": false,
-        "vote_average": 5.5,
-        "vote_count": 26,
-        "popularity": 71.9313,
-        "PG": 18,
-        "release_quality": "ts",
-        "kinopoisk_id": "5506641",
-        "imdb_id": "tt32093575",
-        "status": "released",
-        "last_air_date": "2026-06-04",
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Комедия",
-          "Ужасы"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2752,
-      "time": 1780689467679,
-      "card_id": "299167",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-        "genre_ids": [
-          37,
-          18
-        ],
-        "id": 299167,
-        "original_language": "en",
-        "name": "Ранчо Даттонов",
-        "original_name": "Dutton Ranch",
-        "names": [
-          "Ранчо Даттонов",
-          "Dutton Ranch",
-          "The Dutton Ranch"
-        ],
-        "overview": "Ранчо Даттонов - дом Бет и Рипа, стало символом той жизни, о которой они мечтали, за которую отчаянно боролись и ради которой едва не пожертвовали всем. Они всей душой привязались к своей земле площадью 7000 акров, превратив её в место, которое готовы защищать любой ценой. Даже в самые тяжёлые времена Бет и Рип делают всё возможное, чтобы выстоять, сохранить своё ранчо и обеспечить достойное будущее себе и своему приёмному сыну Картеру.",
-        "poster_path": "/mmxsx98NnY56CvataUqM1ktt14O.jpg",
-        "first_air_date": "2026-05-15",
-        "video": false,
-        "vote_average": 9.4,
-        "vote_count": 173,
-        "popularity": 159.4967,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7275308",
-        "kp_rating": "8.6",
-        "imdb_id": "tt34991493",
-        "status": "returning series",
-        "last_air_date": "2026-06-05",
-        "seasons": {
-          "1": 5
-        },
-        "episode": {
-          "air_date": "2026-06-05",
-          "episode_number": 5,
-          "name": "Эпизод 5",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 51,
-          "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9
-        }
-      },
-      "type": "episode",
-      "hash": "s1;e5",
-      "premiere": 0
-    },
-    {
-      "id": 2751,
-      "time": 1780671468728,
-      "card_id": "241609",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 241609,
-        "original_language": "en",
-        "name": "Друзья и соседи",
-        "original_name": "Your Friends & Neighbors",
-        "names": [
-          "Друзья и соседи",
-          "Друзья и Соседи",
-          "Your Friends & Neighbors",
-          "Your Friends and Neighbors"
-        ],
-        "overview": "После внезапного развода и потери работы крупный финансист начинает грабить богатых соседей, чтобы удержаться на плаву. Кражи у людей из того же социального слоя странным образом ободряют его, но постепенно он запутывается в смертоносной паутине.",
-        "poster_path": "/wr6dsSOfht23oiym1TcAlMN7R3k.jpg",
-        "first_air_date": "2025-04-10",
-        "video": false,
-        "vote_average": 7.6,
-        "vote_count": 231,
-        "popularity": 49.9131,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6600202",
-        "kp_rating": "7.5",
-        "imdb_id": "tt30459041",
-        "imdb_rating": "7.7",
-        "status": "returning series",
-        "last_air_date": "2026-06-05",
-        "seasons": {
-          "1": 9,
-          "2": 10
-        },
-        "episode": {
-          "air_date": "2026-06-04",
-          "episode_number": 10,
-          "name": "Ночь охотника",
-          "overview": "После очередного шокирующего скандала соседи собираются на День отца в загородном клубе.",
-          "season_number": 2,
-          "runtime": 56,
-          "still_path": "/o3c6GyTORTJeWtW8nxNqqzxdELU.jpg",
-          "vote_average": 0
-        }
-      },
-      "type": "episode",
-      "hash": "s2;e10",
-      "premiere": 0
     }
   ],
-  "duration": 4.3779377937316895
+  "duration": 6.654872894287109
 }

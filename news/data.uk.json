@@ -2,6 +2,196 @@
   "secuses": true,
   "result": [
     {
+      "id": 2803,
+      "time": 1783255502361,
+      "card_id": "125988",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 125988,
+        "original_language": "en",
+        "name": "Таємниця бункера",
+        "original_name": "Silo",
+        "names": [
+          "Таємниця бункера",
+          "Бункер",
+          "Silo",
+          "Укрытие",
+          "Таємниця бункера / Бункер",
+          "Wool"
+        ],
+        "overview": "У занапащеному й небезпечному майбутньому тисячі людей живуть у великому підземному бункері. Коли шериф порушує його основоположне правило, а жителі гинуть за загадкових обставин, інженер Джулієт береться розкривати приголомшливі таємниці й правду про бункер.",
+        "poster_path": "/fjo0lVGHPHJS2CqrXOyZN379BXK.jpg",
+        "first_air_date": "2023-05-04",
+        "video": false,
+        "vote_average": 8.164,
+        "vote_count": 2122,
+        "popularity": 64.7131,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4541515",
+        "kp_rating": "7.8",
+        "imdb_id": "tt14688458",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-05",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 2
+        },
+        "episode": {
+          "air_date": "2026-07-09",
+          "episode_number": 2,
+          "name": "Усе нормально",
+          "overview": "Біллінґс розслідує зникнення. Деніел Кін встряє в суперечку з журналісткою.",
+          "season_number": 3,
+          "runtime": 52,
+          "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
+          "vote_average": 2.8
+        },
+        "genres": [
+          "Науково фантастичний",
+          "Драма"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e2",
+      "premiere": 0
+    },
+    {
+      "id": 2802,
+      "time": 1783235702376,
+      "card_id": "253960",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/qIMNDToguvTIaVReD8GgeDgfXVr.jpg",
+        "genre_ids": [
+          10765,
+          80
+        ],
+        "id": 253960,
+        "original_language": "ja",
+        "name": "Людина-пара",
+        "original_name": "ガス人間",
+        "names": [
+          "Людина-пара",
+          "Газовый человек",
+          "Gas Ningen",
+          "Human Vapor",
+          "ガス人間",
+          "Gas Ningen / Human Vapor"
+        ],
+        "overview": "Смерть у прямому ефірі. Злочинець, що перетворюється на газ. Таємний проєкт, що використовує і позбувається уразливих людей. Детектив намагається розкрити похмуру правду.",
+        "poster_path": "/sCyaMdzj1I9d0j8Ns0SjOM1FV7a.jpg",
+        "first_air_date": "2026-07-02",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 5,
+        "popularity": 80.0844,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "JP",
+          "KR"
+        ],
+        "kinopoisk_id": "6099853",
+        "imdb_id": "tt33083249",
+        "imdb_rating": "7.0",
+        "status": "ended",
+        "last_air_date": "2026-07-04",
+        "seasons": {
+          "1": 8
+        },
+        "countries": [
+          "South Korea",
+          "Japan"
+        ],
+        "genres": [
+          "Науково фантастичний",
+          "Кримінал"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2801,
+      "time": 1783183503959,
+      "card_id": "277439",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 277439,
+        "original_language": "en",
+        "name": "Мис страху",
+        "original_name": "Cape Fear",
+        "names": [
+          "Мис страху",
+          "Мыс страха",
+          "Cape Fear"
+        ],
+        "overview": "Життя щасливого подружжя адвокатів опиняється під загрозою, коли на волю виходить небезпечний злочинець з їхнього минулого.",
+        "poster_path": "/e9XA7L1DwMzCnPZAkr3jOQ3FDcm.jpg",
+        "first_air_date": "2026-06-04",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 55,
+        "popularity": 43.3931,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6576642",
+        "kp_rating": "6.9",
+        "imdb_id": "tt34675596",
+        "status": "returning series",
+        "last_air_date": "2026-07-03",
+        "seasons": {
+          "1": 6
+        },
+        "episode": {
+          "air_date": "2026-07-02",
+          "episode_number": 6,
+          "name": "Опосум",
+          "overview": "Боудени розбираються з новим сусідом. Наталі сумнівається в своєму минулому. Сімʼя вирушає в подорож.",
+          "season_number": 1,
+          "runtime": 56,
+          "still_path": "/zA6WWkrhSoJjJuFhB0MvGXiDVLO.jpg",
+          "vote_average": 6.667
+        },
+        "genres": [
+          "Драма",
+          "Кримінал"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e6",
+      "premiere": 0
+    },
+    {
       "id": 2800,
       "time": 1783169106005,
       "card_id": "1317149",
@@ -104,7 +294,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 3.95
+          "vote_average": 4.958
         },
         "genres": [
           "Науково фантастичний",
@@ -212,9 +402,9 @@
           "name": "Серія 9",
           "overview": "",
           "season_number": 1,
-          "runtime": 59,
+          "runtime": 60,
           "still_path": "/tzlA6pW657XmVoIi1D2B5B1j81K.jpg",
-          "vote_average": 10.0
+          "vote_average": 9.333
         },
         "genres": [
           "Вестерн",
@@ -393,7 +583,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/ptYOQnNi81EHeh4LxcMRs2gfKz5.jpg",
-          "vote_average": 8.625
+          "vote_average": 8.6
         },
         "genres": [
           "Мультфільм",
@@ -647,7 +837,7 @@
           "season_number": 4,
           "runtime": 49,
           "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
-          "vote_average": 5.313
+          "vote_average": 5.196
         },
         "genres": [
           "Детектив",
@@ -877,7 +1067,7 @@
           "season_number": 1,
           "runtime": 45,
           "still_path": "/8m6dULktFqJbAaeQpcuaUb7RwRn.jpg",
-          "vote_average": 8.1
+          "vote_average": 8.2
         },
         "genres": [
           "Вестерн",
@@ -1221,7 +1411,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.397
+          "vote_average": 7.5
         },
         "genres": [
           "Науково фантастичний",
@@ -1291,7 +1481,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/8OoIdbyrUI7ymR7kYd2yipfQTJZ.jpg",
-          "vote_average": 5.9
+          "vote_average": 5.797
         },
         "genres": [
           "Детектив",
@@ -1690,7 +1880,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
         "genre_ids": [
           18,
           9648,
@@ -1735,7 +1925,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
-          "vote_average": 7.929
+          "vote_average": 7.891
         },
         "genres": [
           "Драма",
@@ -1881,7 +2071,7 @@
           "season_number": 4,
           "runtime": 58,
           "still_path": "/AaL0o5rpoFPq0hhkEGkkPZUWb8V.jpg",
-          "vote_average": 5.3
+          "vote_average": 5.161
         },
         "genres": [
           "Детектив",
@@ -1903,7 +2093,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
         "genre_ids": [
           18,
           9648,
@@ -2226,7 +2416,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
         "genre_ids": [
           18,
           9648,
@@ -2271,7 +2461,7 @@
           "season_number": 1,
           "runtime": 32,
           "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
-          "vote_average": 7.65
+          "vote_average": 7.545
         },
         "genres": [
           "Драма",
@@ -2466,7 +2656,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.269
+          "vote_average": 8.3
         },
         "genres": [
           "Мультфільм",
@@ -2584,7 +2774,7 @@
           "season_number": 4,
           "runtime": 51,
           "still_path": "/7DNvyGJsTHXX6rqjdlqcc7f7flN.jpg",
-          "vote_average": 5.4
+          "vote_average": 5.226
         },
         "genres": [
           "Детектив",
@@ -2742,185 +2932,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2753,
-      "time": 1780729071826,
-      "card_id": "1273221",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
-        "genre_ids": [
-          35
-        ],
-        "id": 1273221,
-        "original_language": "en",
-        "title": "Дуже страшне кіно",
-        "original_title": "Scary Movie",
-        "names": [
-          "Дуже страшне кіно",
-          "Очень страшное кино 6",
-          "Scary Movie 6",
-          "Очень страшное кино",
-          "Scary Movie"
-        ],
-        "overview": "Через двадцять шість років після втечі від підозріло знайомого вбивці в масці, «Основна четвірка» знову опиняється під прицілом маніяка — і кожна горор-франшиза в небезпеці.",
-        "poster_path": "/qB2efCLrUQO8Ngz0fpUGFluVoSY.jpg",
-        "release_date": "2026-06-03",
-        "video": false,
-        "vote_average": 5.5,
-        "vote_count": 26,
-        "popularity": 71.9313,
-        "PG": 18,
-        "release_quality": "ts",
-        "kinopoisk_id": "5506641",
-        "imdb_id": "tt32093575",
-        "status": "released",
-        "last_air_date": "2026-06-04",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Комедія",
-          "Жахи"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2752,
-      "time": 1780689467679,
-      "card_id": "299167",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-        "genre_ids": [
-          37,
-          18
-        ],
-        "id": 299167,
-        "original_language": "en",
-        "name": "Ранчо Даттонів",
-        "original_name": "Dutton Ranch",
-        "names": [
-          "Ранчо Даттонів",
-          "Ранчо Даттонов",
-          "Dutton Ranch",
-          "The Dutton Ranch"
-        ],
-        "overview": "Бет Даттон і Ріп Вілер борються за виживання на своєму улюбленому ранчо площею 7000 акрів в умовах важких часів і жорсткої конкуренції, водночас намагаючись допомогти юному Картеру стати тим чоловіком, яким він має бути.",
-        "poster_path": "/dtKW23O5tfxq7EXUsfeLgBx7gy1.jpg",
-        "first_air_date": "2026-05-15",
-        "video": false,
-        "vote_average": 9.4,
-        "vote_count": 173,
-        "popularity": 159.4967,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7275308",
-        "kp_rating": "8.6",
-        "imdb_id": "tt34991493",
-        "status": "returning series",
-        "last_air_date": "2026-06-05",
-        "seasons": {
-          "1": 5
-        },
-        "episode": {
-          "air_date": "2026-06-05",
-          "episode_number": 5,
-          "name": "Серія 5",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 53,
-          "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.1
-        },
-        "genres": [
-          "Вестерн",
-          "Драма"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e5",
-      "premiere": 0
-    },
-    {
-      "id": 2751,
-      "time": 1780671468728,
-      "card_id": "241609",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 241609,
-        "original_language": "en",
-        "name": "Друзі та сусіди",
-        "original_name": "Your Friends & Neighbors",
-        "names": [
-          "Друзі та сусіди",
-          "Друзья и соседи",
-          "Друзья и Соседи",
-          "Your Friends & Neighbors",
-          "Your Friends and Neighbors"
-        ],
-        "overview": "Фінансовий титан раптово розлучається, втрачає роботу і, щоб уникнути банкрутства, починає грабувати багатих сусідів. Обкрадаючи людей зі свого соціального кола, він відчуває дивне піднесення — але поступово заплутується в смертоносному павутинні.",
-        "poster_path": "/xGURzoKwTw6B4rrOOiQLOEPNEE.jpg",
-        "first_air_date": "2025-04-10",
-        "video": false,
-        "vote_average": 7.6,
-        "vote_count": 231,
-        "popularity": 49.9131,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6600202",
-        "kp_rating": "7.5",
-        "imdb_id": "tt30459041",
-        "imdb_rating": "7.7",
-        "status": "returning series",
-        "last_air_date": "2026-06-05",
-        "seasons": {
-          "1": 9,
-          "2": 10
-        },
-        "episode": {
-          "air_date": "2026-06-04",
-          "episode_number": 10,
-          "name": "Ніч Гантера",
-          "overview": "Після нового шокуючого скандалу весь район збирається на святкування Дня батька в заміському клубі.",
-          "season_number": 2,
-          "runtime": 56,
-          "still_path": "/o3c6GyTORTJeWtW8nxNqqzxdELU.jpg",
-          "vote_average": 7.786
-        },
-        "genres": [
-          "Драма",
-          "Кримінал"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e10",
-      "premiere": 0
     }
   ],
-  "duration": 4.3779377937316895
+  "duration": 6.654872894287109
 }
