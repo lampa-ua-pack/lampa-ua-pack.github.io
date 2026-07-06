@@ -2,6 +2,259 @@
   "secuses": true,
   "result": [
     {
+      "id": 2807,
+      "time": 1783345505353,
+      "card_id": "296206",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "id": 296206,
+        "original_language": "ko",
+        "name": "Агент Кім: Реактивація",
+        "original_name": "김부장",
+        "names": [
+          "Агент Кім: Реактивація",
+          "Менеджер Ким",
+          "Kim bujang",
+          "Agent Kim Reactivated / Kim-bu-jang",
+          "Агент Ким возобновил свою деятельность.",
+          "김부장",
+          "Агент Ким возобновил свою деятельность"
+        ],
+        "overview": "Коли в скромного чоловіка зникає донька, він згадує навички із часів участі в спецопераціях, щоб відшукати її, але привертає до себе небажану увагу.",
+        "poster_path": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+        "first_air_date": "2026-06-26",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 13,
+        "popularity": 224.5247,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "9027270",
+        "imdb_id": "tt42127457",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-05",
+        "seasons": {
+          "1": 4
+        },
+        "episode": {
+          "air_date": "2026-07-04",
+          "episode_number": 4,
+          "name": "Серія 4",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 61,
+          "still_path": "/8FuIiSK8fnTQny1DrOTe5jp4MB2.jpg",
+          "vote_average": 0.0
+        },
+        "genres": [
+          "Екшн і Пригоди",
+          "Кримінал",
+          "Драма"
+        ],
+        "countries": [
+          "South Korea"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e4",
+      "premiere": 0
+    },
+    {
+      "id": 2806,
+      "time": 1783343706503,
+      "card_id": "296206",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "id": 296206,
+        "original_language": "ko",
+        "name": "Агент Кім: Реактивація",
+        "original_name": "김부장",
+        "names": [
+          "Агент Кім: Реактивація",
+          "Менеджер Ким",
+          "Kim bujang",
+          "Agent Kim Reactivated / Kim-bu-jang",
+          "Агент Ким возобновил свою деятельность.",
+          "김부장",
+          "Агент Ким возобновил свою деятельность"
+        ],
+        "overview": "Коли в скромного чоловіка зникає донька, він згадує навички із часів участі в спецопераціях, щоб відшукати її, але привертає до себе небажану увагу.",
+        "poster_path": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+        "first_air_date": "2026-06-26",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 13,
+        "popularity": 224.5247,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "9027270",
+        "imdb_id": "tt42127457",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-05",
+        "seasons": {
+          "1": 4
+        },
+        "countries": [
+          "South Korea"
+        ],
+        "genres": [
+          "Екшн і Пригоди",
+          "Кримінал",
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2805,
+      "time": 1783327502563,
+      "card_id": "94997",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 94997,
+        "original_language": "en",
+        "name": "Дім дракона",
+        "original_name": "House of the Dragon",
+        "names": [
+          "Дом Дракона",
+          "House of the Dragon",
+          "Дом дракона",
+          "Дім Дракона",
+          "Дім дракона",
+          "Game of Thrones: House of the Dragon"
+        ],
+        "overview": "Члени дому Тарґарієнів залишають приречену Валірію і відправляються на захід, де знаходять величезну територію, населену ворогуючими королівствами.",
+        "poster_path": "/yaGOa7I9xIug8qsw7vXzkeMZ1mb.jpg",
+        "first_air_date": "2022-08-21",
+        "video": false,
+        "vote_average": 8.352,
+        "vote_count": 6400,
+        "popularity": 523.0711,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1316601",
+        "kp_rating": "8.1",
+        "imdb_id": "tt11198330",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-07-06",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 3
+        },
+        "episode": {
+          "air_date": "2026-07-05",
+          "episode_number": 3,
+          "name": "Серія 3",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 56,
+          "still_path": "/7W7IzIQdEKJdbWNgxIQ413TFG14.jpg",
+          "vote_average": 4.6
+        },
+        "genres": [
+          "Науково фантастичний",
+          "Драма",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e3",
+      "premiere": 0
+    },
+    {
+      "id": 2804,
+      "time": 1783325703029,
+      "card_id": "230311",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/4lO40Si9AlthOuH9YDCHQvKHPEa.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 230311,
+        "original_language": "zh",
+        "name": "爱情有烟火",
+        "original_name": "爱情有烟火",
+        "names": [
+          "Фейерверк любви",
+          "Ai qing you yan huo",
+          "Love Has Fireworks",
+          "爱情有烟火"
+        ],
+        "overview": "После разрыва с женихом Цянь Фэй решает сдать комнату молодому карьеристу, который вскоре перевернёт её жизнь.",
+        "poster_path": "/vjRI8Vnxoetq4Rkl0aJYUYZ95iN.jpg",
+        "first_air_date": "2026-06-15",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 4,
+        "popularity": 22.9495,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "CN"
+        ],
+        "kinopoisk_id": "12935648",
+        "imdb_id": "tt28131816",
+        "imdb_rating": "7.4",
+        "status": "ended",
+        "last_air_date": "2026-07-05",
+        "seasons": {
+          "1": 20
+        },
+        "countries": [
+          "China"
+        ],
+        "genres": [
+          "Драма",
+          "Комедія"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2803,
       "time": 1783255502361,
       "card_id": "125988",
@@ -56,7 +309,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 2.8
+          "vote_average": 2.5
         },
         "genres": [
           "Науково фантастичний",
@@ -95,7 +348,7 @@
           "Gas Ningen / Human Vapor"
         ],
         "overview": "Смерть у прямому ефірі. Злочинець, що перетворюється на газ. Таємний проєкт, що використовує і позбувається уразливих людей. Детектив намагається розкрити похмуру правду.",
-        "poster_path": "/sCyaMdzj1I9d0j8Ns0SjOM1FV7a.jpg",
+        "poster_path": "/2qwdD7CiLLscPZijVbRsCXILQwY.jpg",
         "first_air_date": "2026-07-02",
         "video": false,
         "vote_average": 7.8,
@@ -294,7 +547,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 4.958
+          "vote_average": 5.679
         },
         "genres": [
           "Науково фантастичний",
@@ -460,8 +713,7 @@
         "genres": [
           "Пригоди",
           "Кримінал",
-          "Детектив",
-          "Бойовик"
+          "Детектив"
         ]
       },
       "type": "uhd",
@@ -762,12 +1014,12 @@
         "episode": {
           "air_date": "2026-06-28",
           "episode_number": 2,
-          "name": "Серія 2",
-          "overview": "",
+          "name": "Пристань королеви",
+          "overview": "Поки Алісент ризикує всім, щоб виконати свою частину угоди, Рейніра мусить вирішити, чи вартий Залізний Трон таких жертв.",
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 7.3
+          "vote_average": 7.4
         },
         "genres": [
           "Науково фантастичний",
@@ -789,7 +1041,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
+        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
         "genre_ids": [
           9648,
           18,
@@ -837,7 +1089,7 @@
           "season_number": 4,
           "runtime": 49,
           "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
-          "vote_average": 5.196
+          "vote_average": 5.371
         },
         "genres": [
           "Детектив",
@@ -936,7 +1188,6 @@
           "United Kingdom"
         ],
         "genres": [
-          "Пригоди",
           "Детектив",
           "Комедія",
           "Сімейний"
@@ -1339,7 +1590,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/dQUDeY9qKrERkHwu8sB67XmG6Am.jpg",
-          "vote_average": 8.389
+          "vote_average": 8.2
         },
         "genres": [
           "Мультфільм",
@@ -1433,7 +1684,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
+        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
         "genre_ids": [
           9648,
           18,
@@ -1481,7 +1732,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/8OoIdbyrUI7ymR7kYd2yipfQTJZ.jpg",
-          "vote_average": 5.797
+          "vote_average": 5.8
         },
         "genres": [
           "Детектив",
@@ -1594,9 +1845,9 @@
           "name": "Серія 7",
           "overview": "",
           "season_number": 1,
-          "runtime": 41,
+          "runtime": 42,
           "still_path": "/yFnrtYornkPUnAcRc3rFcQ6RgYz.jpg",
-          "vote_average": 8.8
+          "vote_average": 8.5
         },
         "genres": [
           "Вестерн",
@@ -2000,7 +2251,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/kIjmRbbdZfKw6RCTxUO2zsa74x0.jpg",
-          "vote_average": 8.429
+          "vote_average": 8.3
         },
         "genres": [
           "Мультфільм",
@@ -2023,7 +2274,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
+        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
         "genre_ids": [
           9648,
           18,
@@ -2071,7 +2322,7 @@
           "season_number": 4,
           "runtime": 58,
           "still_path": "/AaL0o5rpoFPq0hhkEGkkPZUWb8V.jpg",
-          "vote_average": 5.161
+          "vote_average": 5.097
         },
         "genres": [
           "Детектив",
@@ -2530,7 +2781,7 @@
           "season_number": 1,
           "runtime": 61,
           "still_path": "/qkTZFEkWGi8GijSSwKHryagi0sZ.jpg",
-          "vote_average": 8.7
+          "vote_average": 8.625
         },
         "genres": [
           "Екшн і Пригоди",
@@ -2656,7 +2907,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.3
+          "vote_average": 8.0
         },
         "genres": [
           "Мультфільм",
@@ -2718,221 +2969,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2757,
-      "time": 1780842823100,
-      "card_id": "124364",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
-        "genre_ids": [
-          9648,
-          18,
-          10765
-        ],
-        "id": 124364,
-        "original_language": "en",
-        "name": "Ззовні",
-        "original_name": "FROM",
-        "names": [
-          "Извне",
-          "From",
-          "Ззовні",
-          "FROM"
-        ],
-        "overview": "Події серіалу відбуваються в містичному містечку, розташованому в центральній частині США. Всі, хто потрапляють туди, опиняються в пастці. Мимовільні жителі борются за збереження залишків здорового глузду та шукають вихід з кошмарної ситуації, адже щоночі їм доводиться переживати напад жахливих створінь, які виходять із заходом сонця з довколишнього лісу.",
-        "poster_path": "/rvlPBfIm6CUQTGorQvf6wK8lPDH.jpg",
-        "first_air_date": "2022-02-20",
-        "video": false,
-        "vote_average": 8.442,
-        "vote_count": 3473,
-        "popularity": 692.8228,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4476885",
-        "kp_rating": "7.6",
-        "imdb_id": "tt9813792",
-        "imdb_rating": "7.8",
-        "status": "returning series",
-        "last_air_date": "2026-06-07",
-        "seasons": {
-          "1": 10,
-          "2": 10,
-          "3": 10,
-          "4": 7
-        },
-        "episode": {
-          "air_date": "2026-06-07",
-          "episode_number": 7,
-          "name": "Найкращі плани",
-          "overview": "У міру того, як на світло випливає тривожна історія Табіти та Джейд, ситуація для ще одного мешканця містечка починає ускладнюватися. Бойд хоче перевірити небезпечну гіпотезу.",
-          "season_number": 4,
-          "runtime": 51,
-          "still_path": "/7DNvyGJsTHXX6rqjdlqcc7f7flN.jpg",
-          "vote_average": 5.226
-        },
-        "genres": [
-          "Детектив",
-          "Драма",
-          "Науково фантастичний"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s4;e7",
-      "premiere": 0
-    },
-    {
-      "id": 2756,
-      "time": 1780822667809,
-      "card_id": "1471224",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/tPgWgSS9LndIJaL8b0vYjWigLqE.jpg",
-        "genre_ids": [
-          35,
-          18,
-          80
-        ],
-        "id": 1471224,
-        "original_language": "fr",
-        "title": "Вбивство на 3-му поверсі",
-        "original_title": "Le Crime du 3e étage",
-        "names": [
-          "Вбивство на 3-му поверсі",
-          "Преступление на третьем этаже",
-          "Le crime du 3e étage",
-          "Le Crime du 3e étage"
-        ],
-        "overview": "Колетт, захоплена фанатка фільмів Гічкока, підозрює, що новий сусід вбив свою дружину. Франсуа, її чоловік і відомий автор трилерів, не в захваті від її ідей. Пара починає захопливе і ризиковане розслідування, щоб з'ясувати, чи справді в їхньому будинку сталося вбивство!",
-        "poster_path": "/kQRtuJ0ybDk5inwt9VBiySJHmmQ.jpg",
-        "release_date": "2026-03-11",
-        "video": false,
-        "vote_average": 6.583,
-        "vote_count": 36,
-        "popularity": 1.6402,
-        "PG": 0,
-        "release_quality": "ts",
-        "kinopoisk_id": "10187723",
-        "imdb_id": "tt38814447",
-        "imdb_rating": "7.0",
-        "status": "released",
-        "last_air_date": "2026-06-06",
-        "countries": [
-          "France"
-        ],
-        "genres": [
-          "Комедія",
-          "Драма",
-          "Кримінал"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2755,
-      "time": 1780765072835,
-      "card_id": "454639",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
-        "genre_ids": [
-          28,
-          14,
-          878
-        ],
-        "id": 454639,
-        "original_language": "en",
-        "title": "Володарі Всесвіту",
-        "original_title": "Masters of the Universe",
-        "names": [
-          "Володарі Всесвіту",
-          "Властелины вселенной",
-          "Masters of the Universe"
-        ],
-        "overview": "Молодий чоловік на Землі відкриває для себе фантастичну таємну спадщину як принц іншої планети й повинен віднайти чарівний меч і повернутися додому, щоб захистити своє королівство.",
-        "poster_path": "/lU8i7M8nYCCXJhzHPRZt8UUWqoq.jpg",
-        "release_date": "2026-06-03",
-        "video": false,
-        "vote_average": 7.4,
-        "vote_count": 24,
-        "popularity": 91.1325,
-        "PG": 16,
-        "release_quality": "ts",
-        "kinopoisk_id": "88124",
-        "imdb_id": "tt0427340",
-        "status": "released",
-        "last_air_date": "2026-06-05",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Бойовик",
-          "Фентезі",
-          "Фантастика"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 1
-    },
-    {
-      "id": 2754,
-      "time": 1780750667801,
-      "card_id": "1629095",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/unXrjADknsh0kiQOT7hddvoiOhj.jpg",
-        "genre_ids": [
-          35
-        ],
-        "id": 1629095,
-        "original_language": "ro",
-        "title": "Băieți de oraș: Golden Boyz",
-        "original_title": "Băieți de oraș: Golden Boyz",
-        "names": [
-          "Городские пацаны: Городские парни",
-          "City Boys: Golden Boyz",
-          "Băieți de oraș: Golden Boyz",
-          "Baieti de oras: Golden Boyz"
-        ],
-        "overview": "Фильм рассказывает о приключениях двух недалеких молодых людей - Роби Роберто и Мэлоуна. В центре сюжета оказывается Мэлоун, который неожиданно получает шанс унаследовать 9 миллионов евро после смерти дальнего родственника. Однако есть условие: чтобы забрать деньги, ему необходимо получить диплом о высшем образовании. Герои пускаются во все тяжкие, пытаясь провернуть эту аферу, сталкиваясь с реалиями современного Бухареста.",
-        "poster_path": "/msmjEUOXH05AI5c6p3oQubJ282I.jpg",
-        "release_date": "2026-02-06",
-        "video": false,
-        "vote_average": 7.6,
-        "vote_count": 5,
-        "popularity": 5.8129,
-        "PG": 0,
-        "release_quality": "webdl",
-        "kinopoisk_id": "11280735",
-        "imdb_id": "tt39195606",
-        "imdb_rating": "7.9",
-        "status": "released",
-        "last_air_date": "2026-06-05",
-        "countries": [
-          "Romania"
-        ],
-        "genres": [
-          "Комедія"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.654872894287109
+  "duration": 10.545798301696777
 }

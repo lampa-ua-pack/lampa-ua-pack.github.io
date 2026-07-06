@@ -2,6 +2,241 @@
   "secuses": true,
   "result": [
     {
+      "id": 2807,
+      "time": 1783345505353,
+      "card_id": "296206",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "id": 296206,
+        "original_language": "ko",
+        "name": "Агент Ким возобновил свою деятельность",
+        "original_name": "김부장",
+        "names": [
+          "Менеджер Ким",
+          "Kim bujang",
+          "Agent Kim Reactivated / Kim-bu-jang",
+          "Агент Ким возобновил свою деятельность.",
+          "김부장",
+          "Агент Ким возобновил свою деятельность"
+        ],
+        "overview": "Обычный семьянин, который однажды раскрывает свою личность как специального агента, чтобы найти свою пропавшую дочь Мин-джи, рискуя всем ради её спасения.",
+        "poster_path": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+        "first_air_date": "2026-06-26",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 13,
+        "popularity": 224.5247,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "9027270",
+        "imdb_id": "tt42127457",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-05",
+        "seasons": {
+          "1": 4
+        },
+        "episode": {
+          "air_date": "2026-07-04",
+          "episode_number": 4,
+          "name": "Эпизод 4",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 61,
+          "still_path": "/8FuIiSK8fnTQny1DrOTe5jp4MB2.jpg",
+          "vote_average": 0
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e4",
+      "premiere": 0
+    },
+    {
+      "id": 2806,
+      "time": 1783343706503,
+      "card_id": "296206",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "id": 296206,
+        "original_language": "ko",
+        "name": "Агент Ким возобновил свою деятельность",
+        "original_name": "김부장",
+        "names": [
+          "Менеджер Ким",
+          "Kim bujang",
+          "Agent Kim Reactivated / Kim-bu-jang",
+          "Агент Ким возобновил свою деятельность.",
+          "김부장",
+          "Агент Ким возобновил свою деятельность"
+        ],
+        "overview": "Обычный семьянин, который однажды раскрывает свою личность как специального агента, чтобы найти свою пропавшую дочь Мин-джи, рискуя всем ради её спасения.",
+        "poster_path": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+        "first_air_date": "2026-06-26",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 13,
+        "popularity": 224.5247,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "9027270",
+        "imdb_id": "tt42127457",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-05",
+        "seasons": {
+          "1": 4
+        },
+        "countries": [
+          "Южная Корея"
+        ],
+        "genres": [
+          "Боевик и Приключения",
+          "Криминал",
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2805,
+      "time": 1783327502563,
+      "card_id": "94997",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/h37hqVLmCW00ImewLAHT1DadOky.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 94997,
+        "original_language": "en",
+        "name": "Дом Дракона",
+        "original_name": "House of the Dragon",
+        "names": [
+          "Дом Дракона",
+          "House of the Dragon",
+          "Дом дракона",
+          "Дім Дракона",
+          "Дім дракона",
+          "Game of Thrones: House of the Dragon"
+        ],
+        "overview": "После смерти короля Визериса династия Таргариенов начинает бескомпромиссную борьбу за Железный трон. Предводительницей «черной» ветви становится принцесса Рейнира, а на стороне «зеленой» оказывается ее лучшая подруга и дочь десницы короля Алисента. В битве за престол соперницы заручаются поддержкой неожиданных союзников, плетут интриги — и используют разрушительную мощь драконов.",
+        "poster_path": "/hXyYN6LFo7QnKUA3QBx7B3KsnJE.jpg",
+        "first_air_date": "2022-08-21",
+        "video": false,
+        "vote_average": 8.352,
+        "vote_count": 6400,
+        "popularity": 523.0711,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1316601",
+        "kp_rating": "8.1",
+        "imdb_id": "tt11198330",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-07-06",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 3
+        },
+        "episode": {
+          "air_date": "2026-07-05",
+          "episode_number": 3,
+          "name": "Эпизод 3",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 56,
+          "still_path": "/7W7IzIQdEKJdbWNgxIQ413TFG14.jpg",
+          "vote_average": 4.9
+        }
+      },
+      "type": "episode",
+      "hash": "s3;e3",
+      "premiere": 0
+    },
+    {
+      "id": 2804,
+      "time": 1783325703029,
+      "card_id": "230311",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/2BOVqhVEYIWn7jIdVlyn7C0VJIn.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 230311,
+        "original_language": "zh",
+        "name": "Фейерверк любви",
+        "original_name": "爱情有烟火",
+        "names": [
+          "Фейерверк любви",
+          "Ai qing you yan huo",
+          "Love Has Fireworks",
+          "爱情有烟火"
+        ],
+        "overview": "После разрыва с женихом Цянь Фэй решает сдать комнату молодому карьеристу, который вскоре перевернёт её жизнь.",
+        "poster_path": "/vjRI8Vnxoetq4Rkl0aJYUYZ95iN.jpg",
+        "first_air_date": "2026-06-15",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 4,
+        "popularity": 22.9495,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "CN"
+        ],
+        "kinopoisk_id": "12935648",
+        "imdb_id": "tt28131816",
+        "imdb_rating": "7.4",
+        "status": "ended",
+        "last_air_date": "2026-07-05",
+        "seasons": {
+          "1": 20
+        },
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "Драма",
+          "Комедия"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2803,
       "time": 1783255502361,
       "card_id": "125988",
@@ -2514,211 +2749,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2757,
-      "time": 1780842823100,
-      "card_id": "124364",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
-        "genre_ids": [
-          9648,
-          18,
-          10765
-        ],
-        "id": 124364,
-        "original_language": "en",
-        "name": "Извне",
-        "original_name": "FROM",
-        "names": [
-          "Извне",
-          "From",
-          "Ззовні",
-          "FROM"
-        ],
-        "overview": "Затерянный в лесу американский городок пленяет каждого, кому не посчастливилось проехать его по пути — покинуть это место оказывается буквально невозможно. Днем невольные жители пытаются выстроить подобие нормального быта и найти способ выбраться, а по ночам спасаются от пугающих обитателей леса, которые приходят навестить горожан, как только заходит солнце.",
-        "poster_path": "/dFJ8exnjJoEfTlHoR58L4OlTSEu.jpg",
-        "first_air_date": "2022-02-20",
-        "video": false,
-        "vote_average": 8.442,
-        "vote_count": 3473,
-        "popularity": 692.8228,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4476885",
-        "kp_rating": "7.6",
-        "imdb_id": "tt9813792",
-        "imdb_rating": "7.8",
-        "status": "returning series",
-        "last_air_date": "2026-06-07",
-        "seasons": {
-          "1": 10,
-          "2": 10,
-          "3": 10,
-          "4": 7
-        },
-        "episode": {
-          "air_date": "2026-06-07",
-          "episode_number": 7,
-          "name": "Эпизод 7",
-          "overview": "",
-          "season_number": 4,
-          "runtime": 51,
-          "still_path": "/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
-          "vote_average": 6.333
-        }
-      },
-      "type": "episode",
-      "hash": "s4;e7",
-      "premiere": 0
-    },
-    {
-      "id": 2756,
-      "time": 1780822667809,
-      "card_id": "1471224",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/tPgWgSS9LndIJaL8b0vYjWigLqE.jpg",
-        "genre_ids": [
-          35,
-          18,
-          80
-        ],
-        "id": 1471224,
-        "original_language": "fr",
-        "title": "Преступление на третьем этаже",
-        "original_title": "Le Crime du 3e étage",
-        "names": [
-          "Преступление на третьем этаже",
-          "Le crime du 3e étage",
-          "Le Crime du 3e étage"
-        ],
-        "overview": "Франсуа пишет захватывающие детективы, но его реальная жизнь скучна и однообразна. Его жена Колетт мечтает об остроте чувств, показывая студентам хичкоковский кинематограф. Но всё меняется, когда Коллет начинает подозревать соседа в убийстве жены. Размеренная жизнь пары летит кувырком, а их выдохшиеся отношения внезапно оживают.",
-        "poster_path": "/3fEsnO0iNsVpPPsJDu48gOpqhNw.jpg",
-        "release_date": "2026-03-11",
-        "video": false,
-        "vote_average": 6.583,
-        "vote_count": 36,
-        "popularity": 1.6402,
-        "PG": 0,
-        "release_quality": "ts",
-        "kinopoisk_id": "10187723",
-        "imdb_id": "tt38814447",
-        "imdb_rating": "7.0",
-        "status": "released",
-        "last_air_date": "2026-06-06",
-        "countries": [
-          "Франция"
-        ],
-        "genres": [
-          "Комедия",
-          "Драма",
-          "Криминал"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2755,
-      "time": 1780765072835,
-      "card_id": "454639",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
-        "genre_ids": [
-          28,
-          14,
-          878
-        ],
-        "id": 454639,
-        "original_language": "en",
-        "title": "Властелины вселенной",
-        "original_title": "Masters of the Universe",
-        "names": [
-          "Властелины вселенной",
-          "Masters of the Universe"
-        ],
-        "overview": "Адам, 10-летний принц с планеты Этерния, терпит крушение на космическом корабле и попадает на Землю. Спустя 15 лет принц отправляется на родную планету, которая теперь находится под гнётом Скелетора. Чтобы одолеть опасного противника, Адаму предстоит раскрыть своё прошлое, объединить силы с союзниками и стать Хи-Меном — самым могущественным человеком во Вселенной.",
-        "poster_path": "/u0SxcVBFf9c5PFt9i12RYSLoQf.jpg",
-        "release_date": "2026-06-03",
-        "video": false,
-        "vote_average": 7.4,
-        "vote_count": 24,
-        "popularity": 91.1325,
-        "PG": 16,
-        "release_quality": "ts",
-        "kinopoisk_id": "88124",
-        "imdb_id": "tt0427340",
-        "status": "released",
-        "last_air_date": "2026-06-05",
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Боевик",
-          "Фэнтези",
-          "Фантастика"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 1
-    },
-    {
-      "id": 2754,
-      "time": 1780750667801,
-      "card_id": "1629095",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/unXrjADknsh0kiQOT7hddvoiOhj.jpg",
-        "genre_ids": [
-          35
-        ],
-        "id": 1629095,
-        "original_language": "ro",
-        "title": "Городские пацаны: Городские парни",
-        "original_title": "Băieți de oraș: Golden Boyz",
-        "names": [
-          "Городские пацаны: Городские парни",
-          "City Boys: Golden Boyz",
-          "Băieți de oraș: Golden Boyz",
-          "Baieti de oras: Golden Boyz"
-        ],
-        "overview": "Фильм рассказывает о приключениях двух недалеких молодых людей - Роби Роберто и Мэлоуна. В центре сюжета оказывается Мэлоун, который неожиданно получает шанс унаследовать 9 миллионов евро после смерти дальнего родственника. Однако есть условие: чтобы забрать деньги, ему необходимо получить диплом о высшем образовании. Герои пускаются во все тяжкие, пытаясь провернуть эту аферу, сталкиваясь с реалиями современного Бухареста.",
-        "poster_path": "/msmjEUOXH05AI5c6p3oQubJ282I.jpg",
-        "release_date": "2026-02-06",
-        "video": false,
-        "vote_average": 7.6,
-        "vote_count": 5,
-        "popularity": 5.8129,
-        "PG": 0,
-        "release_quality": "webdl",
-        "kinopoisk_id": "11280735",
-        "imdb_id": "tt39195606",
-        "imdb_rating": "7.9",
-        "status": "released",
-        "last_air_date": "2026-06-05",
-        "countries": [
-          "Румыния"
-        ],
-        "genres": [
-          "Комедия"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.654872894287109
+  "duration": 10.545798301696777
 }
