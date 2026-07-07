@@ -2,6 +2,73 @@
   "secuses": true,
   "result": [
     {
+      "id": 2808,
+      "time": 1783363503257,
+      "card_id": "60625",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "id": 60625,
+        "original_language": "en",
+        "name": "Рик и Морти",
+        "original_name": "Rick and Morty",
+        "names": [
+          "Рик и Морти",
+          "Rick and Morty",
+          "Рік та Морті"
+        ],
+        "overview": "Морти - самый обычный мальчик, который ничем не отличается от своих сверстников. А вот его дедуля Рик занимается необычными научными исследованиями и зачастую полностью неадекватен. Он может в любое время дня и ночи схватить внука и отправиться вместе с ним в безумные приключения с помощью построенной из разного хлама летающей тарелки, которая способна перемещаться сквозь межпространственный тоннель. Каждый раз эта парочка оказывается в самых неожиданных местах и самых нелепых ситуациях.",
+        "poster_path": "/6D1NA4IMUFI8lBNuCBUlp7eLYDP.jpg",
+        "first_air_date": "2013-12-02",
+        "video": false,
+        "vote_average": 8.677,
+        "vote_count": 11055,
+        "popularity": 152.9319,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "685246",
+        "kp_rating": "8.9",
+        "imdb_id": "tt2861424",
+        "imdb_rating": "9.0",
+        "status": "returning series",
+        "last_air_date": "2026-07-06",
+        "seasons": {
+          "1": 11,
+          "2": 10,
+          "3": 10,
+          "4": 11,
+          "5": 14,
+          "6": 10,
+          "7": 10,
+          "8": 10,
+          "9": 7
+        },
+        "episode": {
+          "air_date": "2026-07-05",
+          "episode_number": 7,
+          "name": "Эпизод 7",
+          "overview": "",
+          "season_number": 9,
+          "runtime": 22,
+          "still_path": "/6UIHqNk9f8BlNsAZb30Jb3N4YBr.jpg",
+          "vote_average": 8.167
+        }
+      },
+      "type": "episode",
+      "hash": "s9;e7",
+      "premiere": 0
+    },
+    {
       "id": 2807,
       "time": 1783345505353,
       "card_id": "296206",
@@ -2702,54 +2769,7 @@
       "type": "episode",
       "hash": "s9;e3",
       "premiere": 0
-    },
-    {
-      "id": 2758,
-      "time": 1780904023192,
-      "card_id": "1321179",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/1s1r4OOdnU8VX2inALVTA2q94uY.jpg",
-        "genre_ids": [
-          36,
-          18
-        ],
-        "id": 1321179,
-        "original_language": "ko",
-        "title": "Королевский страж",
-        "original_title": "왕과 사는 남자",
-        "names": [
-          "Королевский страж",
-          "Wanggwa saneun namja",
-          "왕과 사는 남자"
-        ],
-        "overview": "Историческая драма, действие которой происходит во времена династии Чосон.\r Староста деревни и ее жители заботятся о молодом короле, который был свергнут с престола и изгнан из дворца.",
-        "poster_path": "/kkJB3SeUJp7Y0IXXLkv5QZHJGkH.jpg",
-        "release_date": "2026-02-04",
-        "video": false,
-        "vote_average": 7.139,
-        "vote_count": 18,
-        "popularity": 15.0647,
-        "PG": 0,
-        "release_quality": "webdl",
-        "kinopoisk_id": "6452243",
-        "imdb_id": "tt38626703",
-        "imdb_rating": "7.0",
-        "status": "released",
-        "last_air_date": "2026-06-07",
-        "countries": [
-          "Южная Корея"
-        ],
-        "genres": [
-          "История",
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 10.545798301696777
+  "duration": 5.98335599899292
 }
