@@ -61,7 +61,7 @@
           "season_number": 9,
           "runtime": 22,
           "still_path": "/6UIHqNk9f8BlNsAZb30Jb3N4YBr.jpg",
-          "vote_average": 8.063
+          "vote_average": 8.458
         },
         "genres": [
           "Мультфільм",
@@ -130,7 +130,7 @@
           "overview": "",
           "season_number": 1,
           "runtime": 61,
-          "still_path": "/8FuIiSK8fnTQny1DrOTe5jp4MB2.jpg",
+          "still_path": "/2yGGXfQmvcHlxktR17CowgcxVyp.jpg",
           "vote_average": 0.0
         },
         "genres": [
@@ -261,7 +261,7 @@
           "season_number": 3,
           "runtime": 57,
           "still_path": "/7W7IzIQdEKJdbWNgxIQ413TFG14.jpg",
-          "vote_average": 5.852
+          "vote_average": 5.848
         },
         "genres": [
           "Науково фантастичний",
@@ -384,7 +384,7 @@
           "overview": "Біллінґс розслідує зникнення. Деніел Кін встряє в суперечку з журналісткою.",
           "season_number": 3,
           "runtime": 52,
-          "still_path": "/k4Vms05i05Ud4Wymg8bvcdoDryY.jpg",
+          "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
           "vote_average": 2.5
         },
         "genres": [
@@ -623,7 +623,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 5.844
+          "vote_average": 5.8
         },
         "genres": [
           "Науково фантастичний",
@@ -733,7 +733,7 @@
           "season_number": 1,
           "runtime": 60,
           "still_path": "/tzlA6pW657XmVoIi1D2B5B1j81K.jpg",
-          "vote_average": 9.3
+          "vote_average": 9.5
         },
         "genres": [
           "Вестерн",
@@ -997,7 +997,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
+        "backdrop_path": "/cbyslfazMuDUGt4W6QcO3cKq8xj.jpg",
         "genre_ids": [
           28,
           12,
@@ -1095,7 +1095,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 7.3
+          "vote_average": 7.25
         },
         "genres": [
           "Науково фантастичний",
@@ -1165,7 +1165,7 @@
           "season_number": 4,
           "runtime": 49,
           "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
-          "vote_average": 5.348
+          "vote_average": 5.3
         },
         "genres": [
           "Детектив",
@@ -1328,7 +1328,7 @@
           "season_number": 2,
           "runtime": 69,
           "still_path": "/hGpGatL0EwuGhTZjIy4m6cAXVJt.jpg",
-          "vote_average": 8.333
+          "vote_average": 7.6
         },
         "genres": [
           "Екшн і Пригоди",
@@ -1394,7 +1394,7 @@
           "season_number": 1,
           "runtime": 45,
           "still_path": "/8m6dULktFqJbAaeQpcuaUb7RwRn.jpg",
-          "vote_average": 8.429
+          "vote_average": 8.5
         },
         "genres": [
           "Вестерн",
@@ -1415,7 +1415,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/kEiQORCwEXSeoG4SK0e4sezHboJ.jpg",
+        "backdrop_path": "/doasZ6ROBhD0xIRsvAFdTeZsKhp.jpg",
         "genre_ids": [
           35,
           28
@@ -1738,7 +1738,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.5
+          "vote_average": 7.469
         },
         "genres": [
           "Науково фантастичний",
@@ -1944,7 +1944,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/z0R6ToCsMMkLwuQXjzzdd1QCdJv.jpg",
+        "backdrop_path": "/yOna5ZGXrvWO2HdOCKcahx2sCDN.jpg",
         "genre_ids": [
           18,
           9648,
@@ -2046,7 +2046,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/z0R6ToCsMMkLwuQXjzzdd1QCdJv.jpg",
+        "backdrop_path": "/yOna5ZGXrvWO2HdOCKcahx2sCDN.jpg",
         "genre_ids": [
           18,
           9648,
@@ -2541,7 +2541,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/9XwQphZxNJgGASfjL58mhIkJJpf.jpg",
+        "backdrop_path": "/tN0iXjm7qbHnGG4WGrNOGqmTMDt.jpg",
         "genre_ids": [
           28,
           80
@@ -3001,5 +3001,5 @@
       "premiere": 0
     }
   ],
-  "duration": 5.98335599899292
+  "duration": 7.7260422706604
 }
