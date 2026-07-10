@@ -2,6 +2,59 @@
   "secuses": true,
   "result": [
     {
+      "id": 2809,
+      "time": 1783691109078,
+      "card_id": "1280738",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "id": 1280738,
+        "original_language": "zh",
+        "title": "Він шалений",
+        "original_title": "火遮眼",
+        "names": [
+          "Він шалений",
+          "Живая ярость",
+          "Fo ze ngaan",
+          "火遮眼"
+        ],
+        "overview": "Батько вступає у відчайдушну боротьбу з торговцями людьми, які викрали його доньку. Разом із напарником, який також шукає дружину, вони битимуться з кожним, щоб урятувати найдорожчих!",
+        "poster_path": "/o4HLyElxG8KX1MHUeIDLfe8StAD.jpg",
+        "release_date": "2026-06-10",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 79,
+        "popularity": 95.5841,
+        "PG": 18,
+        "release_quality": "webdl",
+        "kinopoisk_id": "6292456",
+        "kp_rating": "7.3",
+        "imdb_id": "tt33311069",
+        "imdb_rating": "7.9",
+        "status": "released",
+        "last_air_date": "2026-06-13",
+        "countries": [
+          "Hong Kong",
+          "United States of America",
+          "China"
+        ],
+        "genres": [
+          "Бойовик",
+          "Кримінал",
+          "Трилер"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2808,
       "time": 1783363503257,
       "card_id": "60625",
@@ -261,7 +314,7 @@
           "season_number": 3,
           "runtime": 57,
           "still_path": "/7W7IzIQdEKJdbWNgxIQ413TFG14.jpg",
-          "vote_average": 6.097
+          "vote_average": 6.276
         },
         "genres": [
           "Науково фантастичний",
@@ -385,7 +438,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 2.5
+          "vote_average": 3.0
         },
         "genres": [
           "Науково фантастичний",
@@ -623,7 +676,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 5.912
+          "vote_average": 5.868
         },
         "genres": [
           "Науково фантастичний",
@@ -1095,7 +1148,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 7.263
+          "vote_average": 7.356
         },
         "genres": [
           "Науково фантастичний",
@@ -1264,9 +1317,9 @@
           "United Kingdom"
         ],
         "genres": [
-          "Детектив",
           "Комедія",
-          "Сімейний"
+          "Сімейний",
+          "Детектив"
         ]
       },
       "type": "now_playing",
@@ -1328,7 +1381,7 @@
           "season_number": 2,
           "runtime": 69,
           "still_path": "/hGpGatL0EwuGhTZjIy4m6cAXVJt.jpg",
-          "vote_average": 7.6
+          "vote_average": 7.667
         },
         "genres": [
           "Екшн і Пригоди",
@@ -1562,7 +1615,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+        "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
         "genre_ids": [
           16,
           10751,
@@ -1738,7 +1791,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.44
+          "vote_average": 7.471
         },
         "genres": [
           "Науково фантастичний",
@@ -2541,7 +2594,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/tN0iXjm7qbHnGG4WGrNOGqmTMDt.jpg",
+        "backdrop_path": "/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
         "genre_ids": [
           28,
           80
@@ -2923,83 +2976,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2759,
-      "time": 1780914823092,
-      "card_id": "60625",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
-        "genre_ids": [
-          16,
-          35,
-          10765,
-          10759
-        ],
-        "id": 60625,
-        "original_language": "en",
-        "name": "Рік та Морті",
-        "original_name": "Rick and Morty",
-        "names": [
-          "Рик и Морти",
-          "Rick and Morty",
-          "Рік та Морті"
-        ],
-        "overview": "Гумористично-фантастичний мультсеріал про пригоди дідуся-винахідника Ріка та його онука-школяра Морті, яких іноді супроводжують інші члени родини: батько-невдаха Джеррі, донька-школярка Саммер та закомплексована мати Бет.",
-        "poster_path": "/tnXwqcZ98EVKuMzRtcvPRJukwI3.jpg",
-        "first_air_date": "2013-12-02",
-        "video": false,
-        "vote_average": 8.678,
-        "vote_count": 10931,
-        "popularity": 146.8555,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "685246",
-        "kp_rating": "8.9",
-        "imdb_id": "tt2861424",
-        "imdb_rating": "9.0",
-        "status": "returning series",
-        "last_air_date": "2026-06-08",
-        "seasons": {
-          "1": 11,
-          "2": 10,
-          "3": 10,
-          "4": 11,
-          "5": 14,
-          "6": 10,
-          "7": 10,
-          "8": 10,
-          "9": 3
-        },
-        "episode": {
-          "air_date": "2026-06-07",
-          "episode_number": 3,
-          "name": "Серія 3",
-          "overview": "",
-          "season_number": 9,
-          "runtime": 24,
-          "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.0
-        },
-        "genres": [
-          "Мультфільм",
-          "Комедія",
-          "Науково фантастичний",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s9;e3",
-      "premiere": 0
     }
   ],
-  "duration": 5.613019943237305
+  "duration": 7.883464813232422
 }
