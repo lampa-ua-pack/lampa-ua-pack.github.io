@@ -2,6 +2,62 @@
   "secuses": true,
   "result": [
     {
+      "id": 2810,
+      "time": 1783759503988,
+      "card_id": "277439",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 277439,
+        "original_language": "en",
+        "name": "Мыс страха",
+        "original_name": "Cape Fear",
+        "names": [
+          "Мыс страха",
+          "Cape Fear"
+        ],
+        "overview": "На счастливую супружескую пару адвокатов надвигается буря, когда из тюрьмы выходит знаменитый киллер из их прошлого.",
+        "poster_path": "/a5CZ7Mh2XcEnenS9bXbWYVFKuGb.jpg",
+        "first_air_date": "2026-06-04",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 60,
+        "popularity": 43.5515,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6576642",
+        "kp_rating": "6.8",
+        "imdb_id": "tt34675596",
+        "imdb_rating": "7.2",
+        "status": "returning series",
+        "last_air_date": "2026-07-10",
+        "seasons": {
+          "1": 7
+        },
+        "episode": {
+          "air_date": "2026-07-09",
+          "episode_number": 7,
+          "name": "Дворняжка",
+          "overview": "Анна и Том приводят в действие опасный заговор против Макса. Натали отправляется в поездку в поисках ответов.",
+          "season_number": 1,
+          "runtime": 53,
+          "still_path": "/v9tWgeHzlrEFxtQoNOtKLxbP6t3.jpg",
+          "vote_average": 6.5
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e7",
+      "premiere": 0
+    },
+    {
       "id": 2809,
       "time": 1783691109078,
       "card_id": "1280738",
@@ -2704,57 +2760,7 @@
       "type": "episode",
       "hash": "s1;e10",
       "premiere": 0
-    },
-    {
-      "id": 2760,
-      "time": 1780922026107,
-      "card_id": "467914",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/nHP6HaHRZ8GHveLH5VVJSFFQ3S.jpg",
-        "genre_ids": [
-          16,
-          14,
-          10751,
-          12
-        ],
-        "id": 467914,
-        "original_language": "en",
-        "title": "Зачарованное королевство",
-        "original_title": "The Land of Sometimes",
-        "names": [
-          "Зачарованное королевство",
-          "The Land of Sometimes"
-        ],
-        "overview": "Эльфи и Элиз — близнецы, живущие в деревне вместе с родителями. Каждый год они с нетерпением ждут Рождества, но в этот раз будут отмечать праздник без отца, который не вернулся из командировки. Дети не хотят слушать маму, и она решает дать им загадочные карманные часы. С их помощью Эльфи и Элиз перемещаются в удивительную страну под названием Иногда. В путешествии их сопровождает дружелюбный волшебник, который дарит им шесть желаний. Вот только в стране Иногда за день проносятся все времена года, и близнецы должны вернутся до того, как подойдет к концу зима.",
-        "poster_path": "/zIiWCll93x3q8gEPyxSHIyEs0Du.jpg",
-        "release_date": "2026-03-20",
-        "video": false,
-        "vote_average": 6,
-        "vote_count": 1,
-        "popularity": 1.693,
-        "PG": 0,
-        "release_quality": "webdl",
-        "kinopoisk_id": "837341",
-        "imdb_id": "tt3517106",
-        "imdb_rating": "7.0",
-        "status": "released",
-        "last_air_date": "2026-06-07",
-        "countries": [
-          "Великобритания"
-        ],
-        "genres": [
-          "Мультфильм",
-          "Фэнтези",
-          "Семейный",
-          "Приключения"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.883464813232422
+  "duration": 5.823781967163086
 }
