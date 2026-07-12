@@ -2,6 +2,104 @@
   "secuses": true,
   "result": [
     {
+      "id": 2812,
+      "time": 1783838704220,
+      "card_id": "1308767",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
+        "genre_ids": [
+          36,
+          10752,
+          18
+        ],
+        "id": 1308767,
+        "original_language": "en",
+        "title": "Молодой Вашингтон",
+        "original_title": "Young Washington",
+        "names": [
+          "Молодой Вашингтон",
+          "Young Washington"
+        ],
+        "overview": "На дальних рубежах колониальной Америки разворачивается нерассказанная история юности Джорджа Вашингтона — двадцатидвухлетнего офицера, которому ещё только предстояло стать отцом нации. Задолго до Революции и Конституции одна роковая ошибка чуть не стоила ему всего. Спровоцировав начало Франко-индейской войны, Вашингтон сталкивается с личными поражениями, тяжёлыми потерями и осознанием огромной ответственности. Из этого испытания рождается не просто будущий военачальник, а человек, закалённый смирением, мужеством и внутренней верой.",
+        "poster_path": "/awPGfes46oGvGncyaW4iKbAM2Ej.jpg",
+        "release_date": "2026-07-02",
+        "video": false,
+        "vote_average": 8.022,
+        "vote_count": 23,
+        "popularity": 25.9284,
+        "PG": 13,
+        "release_quality": "ts",
+        "kinopoisk_id": "9393122",
+        "imdb_id": "tt32104007",
+        "imdb_rating": "7.3",
+        "status": "released",
+        "last_air_date": "2026-07-11",
+        "countries": [
+          "США",
+          "Ирландия"
+        ],
+        "genres": [
+          "История",
+          "Военный",
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2811,
+      "time": 1783799109133,
+      "card_id": "1108427",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+        "genre_ids": [
+          10751,
+          14,
+          35,
+          12
+        ],
+        "id": 1108427,
+        "original_language": "en",
+        "title": "Моана",
+        "original_title": "Moana",
+        "names": [
+          "Моана",
+          "Moana"
+        ],
+        "overview": "Моана откликается на зов океана. Впервые в жизни она отправляется за риф своего острова Мотунуи вместе с прославленным полубогом Мауи. Их ждёт незабываемое путешествие, которое должно вернуть процветание её народу.",
+        "poster_path": "/s7o0gbvgpjwb8S0Uc5QaEdwJntb.jpg",
+        "release_date": "2026-07-08",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 32,
+        "popularity": 98.5184,
+        "PG": 6,
+        "release_quality": "ts",
+        "kinopoisk_id": "5301021",
+        "imdb_id": "tt27419466",
+        "status": "released",
+        "last_air_date": "2026-07-10",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Семейный",
+          "Фэнтези",
+          "Комедия",
+          "Приключения"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2810,
       "time": 1783759503988,
       "card_id": "277439",
@@ -2642,125 +2740,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2762,
-      "time": 1781112823120,
-      "card_id": "270476",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
-        "genre_ids": [
-          18,
-          9648,
-          35
-        ],
-        "id": 270476,
-        "original_language": "en",
-        "name": "Уидоус-Бэй",
-        "original_name": "Widow's Bay",
-        "names": [
-          "Бухта вдов",
-          "Widow's Bay",
-          "Уидоус-Бэй",
-          "Widows Bay"
-        ],
-        "overview": "Мэр города в Новой Англии решает превратить его в новый центр притяжения туристов, несмотря на предупреждения местных о том, что он проклят.",
-        "poster_path": "/7Dc2FNMcOeNO61W2rOKgJDoVJ63.jpg",
-        "first_air_date": "2026-04-28",
-        "video": false,
-        "vote_average": 8.279,
-        "vote_count": 120,
-        "popularity": 75.0716,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6555657",
-        "kp_rating": "7.6",
-        "imdb_id": "tt33332385",
-        "status": "returning series",
-        "last_air_date": "2026-06-10",
-        "seasons": {
-          "1": 9
-        },
-        "episode": {
-          "air_date": "2026-06-09",
-          "episode_number": 9,
-          "name": "Аварийное укрытие",
-          "overview": "Просим найти укрытие, если на остров обрушится шторм с многовековой историей и погрузит вас во тьму. Скоротайте время за игрой в карты.",
-          "season_number": 1,
-          "runtime": 32,
-          "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
-          "vote_average": 0
-        }
-      },
-      "type": "episode",
-      "hash": "s1;e9",
-      "premiere": 0
-    },
-    {
-      "id": 2761,
-      "time": 1781094827622,
-      "card_id": "276161",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
-        "genre_ids": [
-          10759,
-          18,
-          35
-        ],
-        "id": 276161,
-        "original_language": "ko",
-        "name": "Пусть послужит вам уроком",
-        "original_name": "참교육",
-        "names": [
-          "Истинное образование",
-          "Chamgyoyuk",
-          "Teach You a Lesson / Преподать урок",
-          "참교육",
-          "Chamgyoyuk /  Teach You a Lesson",
-          "Истинное образование / Пусть послужит вам уроком",
-          "Пусть послужит вам уроком"
-        ],
-        "overview": "Когда в школах рушится уважение, на место выезжают необычные инспекторы, чтобы навести порядок — с помощью жестких и прагматичных уроков, которых не найдешь в учебниках.",
-        "poster_path": "/k5XFkspikw2fGcXZ1GwbTRhzJHy.jpg",
-        "first_air_date": "2026-06-05",
-        "video": false,
-        "vote_average": 9.159,
-        "vote_count": 104,
-        "popularity": 330.2432,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "KR"
-        ],
-        "kinopoisk_id": "6648249",
-        "imdb_id": "tt34809853",
-        "status": "ended",
-        "last_air_date": "2026-06-05",
-        "seasons": {
-          "1": 10
-        },
-        "episode": {
-          "air_date": "2026-06-05",
-          "episode_number": 10,
-          "name": "Эпизод 10",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 61,
-          "still_path": "/qkTZFEkWGi8GijSSwKHryagi0sZ.jpg",
-          "vote_average": 10
-        }
-      },
-      "type": "episode",
-      "hash": "s1;e10",
-      "premiere": 0
     }
   ],
-  "duration": 5.823781967163086
+  "duration": 6.453760147094727
 }
