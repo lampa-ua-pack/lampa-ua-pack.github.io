@@ -2,6 +2,220 @@
   "secuses": true,
   "result": [
     {
+      "id": 2815,
+      "time": 1783939504493,
+      "card_id": "60625",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "id": 60625,
+        "original_language": "en",
+        "name": "Рік та Морті",
+        "original_name": "Rick and Morty",
+        "names": [
+          "Рик и Морти",
+          "Rick and Morty",
+          "Рік та Морті"
+        ],
+        "overview": "Гумористично-фантастичний мультсеріал про пригоди дідуся-винахідника Ріка та його онука-школяра Морті, яких іноді супроводжують інші члени родини: батько-невдаха Джеррі, донька-школярка Саммер та закомплексована мати Бет.",
+        "poster_path": "/tnXwqcZ98EVKuMzRtcvPRJukwI3.jpg",
+        "first_air_date": "2013-12-02",
+        "video": false,
+        "vote_average": 8.679,
+        "vote_count": 11089,
+        "popularity": 166.9674,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "685246",
+        "kp_rating": "8.9",
+        "imdb_id": "tt2861424",
+        "imdb_rating": "9.0",
+        "status": "returning series",
+        "last_air_date": "2026-07-13",
+        "seasons": {
+          "1": 11,
+          "2": 10,
+          "3": 10,
+          "4": 11,
+          "5": 14,
+          "6": 10,
+          "7": 10,
+          "8": 10,
+          "9": 8
+        },
+        "episode": {
+          "air_date": "2026-07-12",
+          "episode_number": 8,
+          "name": "Серія 8",
+          "overview": "",
+          "season_number": 9,
+          "runtime": null,
+          "still_path": "/fo4rjkcVyO4YF30K67a7yy2sKhT.jpg",
+          "vote_average": 10.0
+        },
+        "genres": [
+          "Мультфільм",
+          "Комедія",
+          "Науково фантастичний",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s9;e8",
+      "premiere": 0
+    },
+    {
+      "id": 2814,
+      "time": 1783885504127,
+      "card_id": "296206",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "id": 296206,
+        "original_language": "ko",
+        "name": "Агент Кім: Реактивація",
+        "original_name": "김부장",
+        "names": [
+          "Агент Кім: Реактивація",
+          "Менеджер Ким",
+          "Kim bujang",
+          "Agent Kim Reactivated / Kim-bu-jang",
+          "Агент Ким возобновил свою деятельность.",
+          "김부장",
+          "Агент Ким возобновил свою деятельность"
+        ],
+        "overview": "Коли в скромного чоловіка зникає донька, він згадує навички із часів участі в спецопераціях, щоб відшукати її, але привертає до себе небажану увагу.",
+        "poster_path": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+        "first_air_date": "2026-06-26",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 25,
+        "popularity": 154.4532,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "9027270",
+        "imdb_id": "tt42127457",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-12",
+        "seasons": {
+          "1": 6
+        },
+        "episode": {
+          "air_date": "2026-07-11",
+          "episode_number": 6,
+          "name": "Серія 6",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 69,
+          "still_path": "/mZ0qnO3lKZsw3dyoDjfYrebLTih.jpg",
+          "vote_average": 0.0
+        },
+        "genres": [
+          "Екшн і Пригоди",
+          "Кримінал",
+          "Драма"
+        ],
+        "countries": [
+          "South Korea"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e6",
+      "premiere": 0
+    },
+    {
+      "id": 2813,
+      "time": 1783867504133,
+      "card_id": "125988",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 125988,
+        "original_language": "en",
+        "name": "Таємниця бункера",
+        "original_name": "Silo",
+        "names": [
+          "Таємниця бункера",
+          "Бункер",
+          "Silo",
+          "Укрытие",
+          "Таємниця бункера / Бункер",
+          "Wool"
+        ],
+        "overview": "У занапащеному й небезпечному майбутньому тисячі людей живуть у великому підземному бункері. Коли шериф порушує його основоположне правило, а жителі гинуть за загадкових обставин, інженер Джулієт береться розкривати приголомшливі таємниці й правду про бункер.",
+        "poster_path": "/fjo0lVGHPHJS2CqrXOyZN379BXK.jpg",
+        "first_air_date": "2023-05-04",
+        "video": false,
+        "vote_average": 8.173,
+        "vote_count": 2207,
+        "popularity": 226.2373,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4541515",
+        "kp_rating": "7.8",
+        "imdb_id": "tt14688458",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-12",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 3
+        },
+        "episode": {
+          "air_date": "2026-07-16",
+          "episode_number": 3,
+          "name": "Серія 3",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 50,
+          "still_path": "/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg",
+          "vote_average": 1.0
+        },
+        "genres": [
+          "Науково фантастичний",
+          "Драма"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e3",
+      "premiere": 0
+    },
+    {
       "id": 2812,
       "time": 1783838704220,
       "card_id": "1308767",
@@ -58,7 +272,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+        "backdrop_path": "/c6U1Te0p0FK0BOB43hiwGlBKiVY.jpg",
         "genre_ids": [
           10751,
           14,
@@ -278,7 +492,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/6UIHqNk9f8BlNsAZb30Jb3N4YBr.jpg",
-          "vote_average": 8.679
+          "vote_average": 8.656
         },
         "genres": [
           "Мультфільм",
@@ -478,7 +692,7 @@
           "season_number": 3,
           "runtime": 57,
           "still_path": "/7W7IzIQdEKJdbWNgxIQ413TFG14.jpg",
-          "vote_average": 6.188
+          "vote_average": 6.2
         },
         "genres": [
           "Науково фантастичний",
@@ -602,7 +816,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 4.688
+          "vote_average": 4.611
         },
         "genres": [
           "Науково фантастичний",
@@ -840,7 +1054,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 6.065
+          "vote_average": 6.058
         },
         "genres": [
           "Науково фантастичний",
@@ -950,7 +1164,7 @@
           "season_number": 1,
           "runtime": 60,
           "still_path": "/yR9CRcKrGM85omkkHAy35o5vSIz.jpg",
-          "vote_average": 9.0
+          "vote_average": 8.944
         },
         "genres": [
           "Вестерн",
@@ -1128,7 +1342,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/ptYOQnNi81EHeh4LxcMRs2gfKz5.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.769
         },
         "genres": [
           "Мультфільм",
@@ -1312,7 +1526,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 7.25
+          "vote_average": 7.2
         },
         "genres": [
           "Науково фантастичний",
@@ -1382,7 +1596,7 @@
           "season_number": 4,
           "runtime": 49,
           "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
-          "vote_average": 5.382
+          "vote_average": 5.449
         },
         "genres": [
           "Детектив",
@@ -1611,7 +1825,7 @@
           "season_number": 1,
           "runtime": 45,
           "still_path": "/iqR3INUH6risbYyOMAxofzwhKsJ.jpg",
-          "vote_average": 8.5
+          "vote_average": 8.45
         },
         "genres": [
           "Вестерн",
@@ -1883,7 +2097,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/dQUDeY9qKrERkHwu8sB67XmG6Am.jpg",
-          "vote_average": 8.2
+          "vote_average": 7.958
         },
         "genres": [
           "Мультфільм",
@@ -1955,7 +2169,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.395
+          "vote_average": 7.3
         },
         "genres": [
           "Науково фантастичний",
@@ -2025,7 +2239,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/8OoIdbyrUI7ymR7kYd2yipfQTJZ.jpg",
-          "vote_average": 5.614
+          "vote_average": 5.653
         },
         "genres": [
           "Детектив",
@@ -2544,7 +2758,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/kIjmRbbdZfKw6RCTxUO2zsa74x0.jpg",
-          "vote_average": 8.3
+          "vote_average": 7.909
         },
         "genres": [
           "Мультфільм",
@@ -2737,7 +2951,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/bvgUV0WmbnrCQvl6uqVZG3muaDp.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.563
         },
         "genres": [
           "Вестерн",
@@ -2801,159 +3015,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2765,
-      "time": 1781332428522,
-      "card_id": "1275779",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
-        "genre_ids": [
-          9648,
-          878,
-          53
-        ],
-        "id": 1275779,
-        "original_language": "en",
-        "title": "День істини",
-        "original_title": "Disclosure Day",
-        "names": [
-          "День істини",
-          "День разоблачения",
-          "Disclosure Day"
-        ],
-        "overview": "Якби ви дізналися, що ми не самі у Всесвіті, — якби хтось показав вам це, якби довів, — чи злякало б це вас? Цього літа правда належить семи мільярдам людей. Ми наближаємося до… Дня істини.",
-        "poster_path": "/b7OyH5StSuM8jNVU30Yi90GazGA.jpg",
-        "release_date": "2026-06-10",
-        "video": false,
-        "vote_average": 7.82,
-        "vote_count": 50,
-        "popularity": 162.3728,
-        "PG": 12,
-        "release_quality": "ts",
-        "kinopoisk_id": "4510025",
-        "imdb_id": "tt15047880",
-        "status": "released",
-        "last_air_date": "2026-06-12",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Фантастика",
-          "Трилер"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2764,
-      "time": 1781192023228,
-      "card_id": "1555331",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/l437c1NjyPl6jL1qZla7WeUlxFi.jpg",
-        "genre_ids": [
-          28,
-          35
-        ],
-        "id": 1555331,
-        "original_language": "tr",
-        "title": "D.I.S.C.O.",
-        "original_title": "D.I.S.C.O.",
-        "names": [
-          "Д.И.С.К.О.",
-          "D.I.S.C.O."
-        ],
-        "overview": "У отстранённого от работы шпиона отпуск идёт под откос, когда парикмахер раскрывает его личность и шантажом заставляет вместе завершить проваленную миссию. А тут ещё и их жёны неожиданно вступают в игру.",
-        "poster_path": "/zNjm76IFBxiXMZ7ldWrVSudWeqo.jpg",
-        "release_date": "2026-01-01",
-        "video": false,
-        "vote_average": 7.1,
-        "vote_count": 8,
-        "popularity": 8.7043,
-        "PG": 12,
-        "release_quality": "webdl",
-        "kinopoisk_id": "11091609",
-        "imdb_id": "tt39105882",
-        "imdb_rating": "7.2",
-        "status": "released",
-        "last_air_date": "2026-06-11",
-        "countries": [
-          "Turkey"
-        ],
-        "genres": [
-          "Бойовик",
-          "Комедія"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2763,
-      "time": 1781161429722,
-      "card_id": "276161",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
-        "genre_ids": [
-          10759,
-          18,
-          35
-        ],
-        "id": 276161,
-        "original_language": "ko",
-        "name": "Дам тобі науку",
-        "original_name": "참교육",
-        "names": [
-          "Дам тобі науку",
-          "Истинное образование",
-          "Chamgyoyuk",
-          "Teach You a Lesson / Преподать урок",
-          "참교육",
-          "Chamgyoyuk /  Teach You a Lesson",
-          "Истинное образование / Пусть послужит вам уроком",
-          "Пусть послужит вам уроком"
-        ],
-        "overview": "Коли в школах зникає повага, прибувають незвичайні інспектори, що наводять лад за допомогою жорстких безкомпромісних уроків, яких не знайти в підручниках.",
-        "poster_path": "/supW3Y9CjoPPBv6Ha3NOuPAV5ZV.jpg",
-        "first_air_date": "2026-06-05",
-        "video": false,
-        "vote_average": 9.159,
-        "vote_count": 104,
-        "popularity": 330.2432,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "KR"
-        ],
-        "kinopoisk_id": "6648249",
-        "imdb_id": "tt34809853",
-        "status": "ended",
-        "last_air_date": "2026-06-05",
-        "seasons": {
-          "1": 10
-        },
-        "countries": [
-          "South Korea"
-        ],
-        "genres": [
-          "Екшн і Пригоди",
-          "Драма",
-          "Комедія"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.453760147094727
+  "duration": 7.063385009765625
 }

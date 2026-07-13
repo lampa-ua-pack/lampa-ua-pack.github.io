@@ -2,6 +2,194 @@
   "secuses": true,
   "result": [
     {
+      "id": 2815,
+      "time": 1783939504493,
+      "card_id": "60625",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "id": 60625,
+        "original_language": "en",
+        "name": "Рик и Морти",
+        "original_name": "Rick and Morty",
+        "names": [
+          "Рик и Морти",
+          "Rick and Morty",
+          "Рік та Морті"
+        ],
+        "overview": "Морти - самый обычный мальчик, который ничем не отличается от своих сверстников. А вот его дедуля Рик занимается необычными научными исследованиями и зачастую полностью неадекватен. Он может в любое время дня и ночи схватить внука и отправиться вместе с ним в безумные приключения с помощью построенной из разного хлама летающей тарелки, которая способна перемещаться сквозь межпространственный тоннель. Каждый раз эта парочка оказывается в самых неожиданных местах и самых нелепых ситуациях.",
+        "poster_path": "/6D1NA4IMUFI8lBNuCBUlp7eLYDP.jpg",
+        "first_air_date": "2013-12-02",
+        "video": false,
+        "vote_average": 8.679,
+        "vote_count": 11089,
+        "popularity": 166.9674,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "685246",
+        "kp_rating": "8.9",
+        "imdb_id": "tt2861424",
+        "imdb_rating": "9.0",
+        "status": "returning series",
+        "last_air_date": "2026-07-13",
+        "seasons": {
+          "1": 11,
+          "2": 10,
+          "3": 10,
+          "4": 11,
+          "5": 14,
+          "6": 10,
+          "7": 10,
+          "8": 10,
+          "9": 8
+        },
+        "episode": {
+          "air_date": "2026-07-12",
+          "episode_number": 8,
+          "name": "Эпизод 8",
+          "overview": "",
+          "season_number": 9,
+          "runtime": null,
+          "still_path": "/fo4rjkcVyO4YF30K67a7yy2sKhT.jpg",
+          "vote_average": 0
+        }
+      },
+      "type": "episode",
+      "hash": "s9;e8",
+      "premiere": 0
+    },
+    {
+      "id": 2814,
+      "time": 1783885504127,
+      "card_id": "296206",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "id": 296206,
+        "original_language": "ko",
+        "name": "Агент Ким возобновил свою деятельность",
+        "original_name": "김부장",
+        "names": [
+          "Менеджер Ким",
+          "Kim bujang",
+          "Agent Kim Reactivated / Kim-bu-jang",
+          "Агент Ким возобновил свою деятельность.",
+          "김부장",
+          "Агент Ким возобновил свою деятельность"
+        ],
+        "overview": "Обычный семьянин, который однажды раскрывает свою личность как специального агента, чтобы найти свою пропавшую дочь Мин-джи, рискуя всем ради её спасения.",
+        "poster_path": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+        "first_air_date": "2026-06-26",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 25,
+        "popularity": 154.4532,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "9027270",
+        "imdb_id": "tt42127457",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-12",
+        "seasons": {
+          "1": 6
+        },
+        "episode": {
+          "air_date": "2026-07-11",
+          "episode_number": 6,
+          "name": "Эпизод 6",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 69,
+          "still_path": "/mZ0qnO3lKZsw3dyoDjfYrebLTih.jpg",
+          "vote_average": 0
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e6",
+      "premiere": 0
+    },
+    {
+      "id": 2813,
+      "time": 1783867504133,
+      "card_id": "125988",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 125988,
+        "original_language": "en",
+        "name": "Укрытие",
+        "original_name": "Silo",
+        "names": [
+          "Бункер",
+          "Silo",
+          "Укрытие",
+          "Таємниця бункера / Бункер",
+          "Wool"
+        ],
+        "overview": "На отравленной гибнущей планете будущего тысячи людей ютятся в огромном подземном укрытии. Нарушение шерифом основного правила и серия загадочных смертей вынуждают инженера Джульетту заняться раскрытием тайн и поиском правды о бункере.",
+        "poster_path": "/gRkvq6FgiGRdtCwhVIozaUqhoDL.jpg",
+        "first_air_date": "2023-05-04",
+        "video": false,
+        "vote_average": 8.173,
+        "vote_count": 2207,
+        "popularity": 226.2373,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4541515",
+        "kp_rating": "7.8",
+        "imdb_id": "tt14688458",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-12",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 3
+        },
+        "episode": {
+          "air_date": "2026-07-16",
+          "episode_number": 3,
+          "name": "Эпизод 3",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 50,
+          "still_path": "/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg",
+          "vote_average": 1
+        }
+      },
+      "type": "episode",
+      "hash": "s3;e3",
+      "premiere": 0
+    },
+    {
       "id": 2812,
       "time": 1783838704220,
       "card_id": "1308767",
@@ -2589,158 +2777,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2765,
-      "time": 1781332428522,
-      "card_id": "1275779",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
-        "genre_ids": [
-          9648,
-          878,
-          53
-        ],
-        "id": 1275779,
-        "original_language": "en",
-        "title": "День разоблачения",
-        "original_title": "Disclosure Day",
-        "names": [
-          "День разоблачения",
-          "Disclosure Day"
-        ],
-        "overview": "Человечество узнаёт о прибытии на Землю инопланетян, чьё существование долгое время тщательно скрывалось.",
-        "poster_path": "/wTGKPO2eFnX3CHmZke2ugqlCqQ8.jpg",
-        "release_date": "2026-06-10",
-        "video": false,
-        "vote_average": 7.82,
-        "vote_count": 50,
-        "popularity": 162.3728,
-        "PG": 12,
-        "release_quality": "ts",
-        "kinopoisk_id": "4510025",
-        "imdb_id": "tt15047880",
-        "status": "released",
-        "last_air_date": "2026-06-12",
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Боевик",
-          "Фантастика",
-          "Триллер"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2764,
-      "time": 1781192023228,
-      "card_id": "1555331",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/l437c1NjyPl6jL1qZla7WeUlxFi.jpg",
-        "genre_ids": [
-          28,
-          35
-        ],
-        "id": 1555331,
-        "original_language": "tr",
-        "title": "Д.И.С.К.О.",
-        "original_title": "D.I.S.C.O.",
-        "names": [
-          "Д.И.С.К.О.",
-          "D.I.S.C.O."
-        ],
-        "overview": "У отстранённого от работы шпиона отпуск идёт под откос, когда парикмахер раскрывает его личность и шантажом заставляет вместе завершить проваленную миссию. А тут ещё и их жёны неожиданно вступают в игру.",
-        "poster_path": "/zNjm76IFBxiXMZ7ldWrVSudWeqo.jpg",
-        "release_date": "2026-01-01",
-        "video": false,
-        "vote_average": 7.1,
-        "vote_count": 8,
-        "popularity": 8.7043,
-        "PG": 12,
-        "release_quality": "webdl",
-        "kinopoisk_id": "11091609",
-        "imdb_id": "tt39105882",
-        "imdb_rating": "7.2",
-        "status": "released",
-        "last_air_date": "2026-06-11",
-        "countries": [
-          "Турция"
-        ],
-        "genres": [
-          "Боевик",
-          "Комедия"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2763,
-      "time": 1781161429722,
-      "card_id": "276161",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
-        "genre_ids": [
-          10759,
-          18,
-          35
-        ],
-        "id": 276161,
-        "original_language": "ko",
-        "name": "Пусть послужит вам уроком",
-        "original_name": "참교육",
-        "names": [
-          "Истинное образование",
-          "Chamgyoyuk",
-          "Teach You a Lesson / Преподать урок",
-          "참교육",
-          "Chamgyoyuk /  Teach You a Lesson",
-          "Истинное образование / Пусть послужит вам уроком",
-          "Пусть послужит вам уроком"
-        ],
-        "overview": "Когда в школах рушится уважение, на место выезжают необычные инспекторы, чтобы навести порядок — с помощью жестких и прагматичных уроков, которых не найдешь в учебниках.",
-        "poster_path": "/k5XFkspikw2fGcXZ1GwbTRhzJHy.jpg",
-        "first_air_date": "2026-06-05",
-        "video": false,
-        "vote_average": 9.159,
-        "vote_count": 104,
-        "popularity": 330.2432,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "KR"
-        ],
-        "kinopoisk_id": "6648249",
-        "imdb_id": "tt34809853",
-        "status": "ended",
-        "last_air_date": "2026-06-05",
-        "seasons": {
-          "1": 10
-        },
-        "countries": [
-          "Южная Корея"
-        ],
-        "genres": [
-          "Боевик и Приключения",
-          "Драма",
-          "Комедия"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.453760147094727
+  "duration": 7.063385009765625
 }
