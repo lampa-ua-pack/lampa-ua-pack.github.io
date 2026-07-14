@@ -1,0 +1,52 @@
+name: Daily Anime Map Build
+
+on:
+  schedule:
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: anime-map-update
+  cancel-in-progress: true   # скасовує старі запуски
+
+permissions:
+  contents: write
+
+jobs:
+  update-anime-map:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch latest remote state
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+
+      - name: Build anime map
+        run: python .github/scripts/build-anime-map.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "lampa.ua.pack@proton.me"
+          git add anime/map.json anime/map.json.hash
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update anime tmdb→mal map"
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
