@@ -2,6 +2,222 @@
   "secuses": true,
   "result": [
     {
+      "id": 2819,
+      "time": 1784033109699,
+      "card_id": "1315772",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
+        "genre_ids": [
+          12,
+          16,
+          35,
+          10751,
+          14
+        ],
+        "id": 1315772,
+        "original_language": "en",
+        "title": "Миньоны и монстры",
+        "original_title": "Minions & Monsters",
+        "names": [
+          "Миньоны и монстры",
+          "Minions & Monsters"
+        ],
+        "overview": "1920-е годы. Миньоны снимаются в кино и покоряют Голливуд. Чтобы снять свой собственный фильм о монстрах, они отправляются на поиски самых пугающих существ.",
+        "poster_path": "/5Bu0nKJxTQd2bVUDF9qrpEEFt1a.jpg",
+        "release_date": "2026-06-24",
+        "video": false,
+        "vote_average": 6.388,
+        "vote_count": 139,
+        "popularity": 149.9811,
+        "PG": 6,
+        "release_quality": "webdl",
+        "kinopoisk_id": "6020597",
+        "kp_rating": "6.4",
+        "imdb_id": "tt32890033",
+        "imdb_rating": "6.5",
+        "status": "released",
+        "last_air_date": "2026-06-26",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Приключения",
+          "Мультфильм",
+          "Комедия",
+          "Семейный",
+          "Фэнтези"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2818,
+      "time": 1784020504709,
+      "card_id": "1057265",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
+        "genre_ids": [
+          28,
+          18
+        ],
+        "id": 1057265,
+        "original_language": "te",
+        "title": "Педди",
+        "original_title": "పెద్ది",
+        "names": [
+          "Педди",
+          "Peddi",
+          "పెద్ది"
+        ],
+        "overview": "В 2016 году чиновник из Министерства спорта получает выговор от министра за неудовлетворительные результаты Индии на Олимпийских играх. Во время поездки в город в Андхра-Прадеше чиновник наблюдает за местной молодежью, демонстрирующей исключительную преданность легкой атлетике. Все они считают своим вдохновителем человека по имени Педди. Заинтригованный чиновник отправляется в трудный путь через леса и холмы, чтобы добраться до отдаленной безымянной деревни на вершине холма и узнать историю Педди...",
+        "poster_path": "/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
+        "release_date": "2026-06-03",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 54,
+        "popularity": 75.7414,
+        "PG": 16,
+        "release_quality": "4K",
+        "kinopoisk_id": "12743608",
+        "imdb_id": "tt23865918",
+        "imdb_rating": "6.1",
+        "status": "released",
+        "last_air_date": "2026-07-13",
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "Боевик",
+          "Драма"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2817,
+      "time": 1784009705681,
+      "card_id": "288603",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/h1bGO8w5hyn22DGNv0MOZKTog1X.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 288603,
+        "original_language": "zh",
+        "name": "Пылающее лето",
+        "original_name": "炽夏",
+        "names": [
+          "Пылающее лето",
+          "Chi xia",
+          "Never-Ending Summer / Xi Feng Xiang Wan",
+          "炽夏"
+        ],
+        "overview": "Скромная, но невероятно стойкая отличница Чжоу Вань (Бао Шан Энь) отчаянно нуждается в деньгах на операцию для тяжелобольной бабушки. Получив отказ от бросившей её матери, девушка решает намеренно сблизиться с Лу Си Сяо (Чжоу Кэ Юй) — богатым и неуправляемым юношей, который является пасынком её матери. То, что начиналось как холодный расчет, перерастает в искреннее и глубокое чувство. Герои становятся спасением друг для друга в самые темные моменты жизни. Однако юношеский максимализм, тайны прошлого и жестокая реальность разрушают их союз, заставляя расстаться из-за болезненного недопонимания. Спустя десять лет судьба вновь сталкивает героев уже в деловом мире. Лу Си Сяо, все еще помнящий старую обиду, поначалу пытается усложнить жизнь Чжоу Вань. Но совместное расследование крупного промышленного инцидента на фабрике заставляет их раскрыть карты и понять: чувства друг к другу никогда не угасали. Экранизация романа \"Падение\" автора Sweet Vinegar Fish.",
+        "poster_path": "/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+        "first_air_date": "2026-06-16",
+        "video": false,
+        "vote_average": 9.125,
+        "vote_count": 5,
+        "popularity": 50.7398,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "CN"
+        ],
+        "kinopoisk_id": "12935649",
+        "kp_rating": "8.4",
+        "imdb_id": "tt36982964",
+        "imdb_rating": "8.7",
+        "status": "ended",
+        "last_air_date": "2026-06-28",
+        "seasons": {
+          "1": 15
+        },
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2816,
+      "time": 1783957505532,
+      "card_id": "94997",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 94997,
+        "original_language": "en",
+        "name": "Дом Дракона",
+        "original_name": "House of the Dragon",
+        "names": [
+          "Дом Дракона",
+          "House of the Dragon",
+          "Дом дракона",
+          "Дім Дракона",
+          "Дім дракона",
+          "Game of Thrones: House of the Dragon"
+        ],
+        "overview": "После смерти короля Визериса династия Таргариенов начинает бескомпромиссную борьбу за Железный трон. Предводительницей «черной» ветви становится принцесса Рейнира, а на стороне «зеленой» оказывается ее лучшая подруга и дочь десницы короля Алисента. В битве за престол соперницы заручаются поддержкой неожиданных союзников, плетут интриги — и используют разрушительную мощь драконов.",
+        "poster_path": "/hXyYN6LFo7QnKUA3QBx7B3KsnJE.jpg",
+        "first_air_date": "2022-08-21",
+        "video": false,
+        "vote_average": 8.368,
+        "vote_count": 6539,
+        "popularity": 373.6276,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1316601",
+        "kp_rating": "8.1",
+        "imdb_id": "tt11198330",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-07-13",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 4
+        },
+        "episode": {
+          "air_date": "2026-07-12",
+          "episode_number": 4,
+          "name": "Эпизод 4",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 66,
+          "still_path": "/lGpSBfJylIQJskI7RTofazLs1bT.jpg",
+          "vote_average": 1
+        }
+      },
+      "type": "episode",
+      "hash": "s3;e4",
+      "premiere": 0
+    },
+    {
       "id": 2815,
       "time": 1783939504493,
       "card_id": "60625",
@@ -2554,230 +2770,7 @@
       "type": "episode",
       "hash": "s9;e4",
       "premiere": 0
-    },
-    {
-      "id": 2769,
-      "time": 1781436823179,
-      "card_id": "124364",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
-        "genre_ids": [
-          9648,
-          18,
-          10765
-        ],
-        "id": 124364,
-        "original_language": "en",
-        "name": "Извне",
-        "original_name": "FROM",
-        "names": [
-          "Извне",
-          "From",
-          "Ззовні",
-          "FROM"
-        ],
-        "overview": "Затерянный в лесу американский городок пленяет каждого, кому не посчастливилось проехать его по пути — покинуть это место оказывается буквально невозможно. Днем невольные жители пытаются выстроить подобие нормального быта и найти способ выбраться, а по ночам спасаются от пугающих обитателей леса, которые приходят навестить горожан, как только заходит солнце.",
-        "poster_path": "/dFJ8exnjJoEfTlHoR58L4OlTSEu.jpg",
-        "first_air_date": "2022-02-20",
-        "video": false,
-        "vote_average": 8.458,
-        "vote_count": 3565,
-        "popularity": 848.6014,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4476885",
-        "kp_rating": "7.6",
-        "imdb_id": "tt9813792",
-        "imdb_rating": "7.8",
-        "status": "returning series",
-        "last_air_date": "2026-06-14",
-        "seasons": {
-          "1": 10,
-          "2": 10,
-          "3": 10,
-          "4": 8
-        },
-        "episode": {
-          "air_date": "2026-06-14",
-          "episode_number": 8,
-          "name": "Эпизод 8",
-          "overview": "",
-          "season_number": 4,
-          "runtime": 58,
-          "still_path": "/2FWcI7UnbCUK6SGJXmonEg8aY6q.jpg",
-          "vote_average": 1
-        }
-      },
-      "type": "episode",
-      "hash": "s4;e8",
-      "premiere": 0
-    },
-    {
-      "id": 2768,
-      "time": 1781431430445,
-      "card_id": "270476",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
-        "genre_ids": [
-          18,
-          9648,
-          35
-        ],
-        "id": 270476,
-        "original_language": "en",
-        "name": "Уидоус-Бэй",
-        "original_name": "Widow's Bay",
-        "names": [
-          "Бухта вдов",
-          "Widow's Bay",
-          "Уидоус-Бэй",
-          "Widows Bay"
-        ],
-        "overview": "Мэр города в Новой Англии решает превратить его в новый центр притяжения туристов, несмотря на предупреждения местных о том, что он проклят.",
-        "poster_path": "/7Dc2FNMcOeNO61W2rOKgJDoVJ63.jpg",
-        "first_air_date": "2026-04-28",
-        "video": false,
-        "vote_average": 8.3,
-        "vote_count": 132,
-        "popularity": 76.2118,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6555657",
-        "kp_rating": "7.6",
-        "imdb_id": "tt33332385",
-        "status": "returning series",
-        "last_air_date": "2026-06-10",
-        "seasons": {
-          "1": 9
-        },
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Драма",
-          "Детектив",
-          "Комедия"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2767,
-      "time": 1781346823171,
-      "card_id": "299167",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-        "genre_ids": [
-          37,
-          18
-        ],
-        "id": 299167,
-        "original_language": "en",
-        "name": "Ранчо Даттонов",
-        "original_name": "Dutton Ranch",
-        "names": [
-          "Ранчо Даттонов",
-          "Dutton Ranch",
-          "The Dutton Ranch"
-        ],
-        "overview": "Ранчо Даттонов - дом Бет и Рипа, стало символом той жизни, о которой они мечтали, за которую отчаянно боролись и ради которой едва не пожертвовали всем. Они всей душой привязались к своей земле площадью 7000 акров, превратив её в место, которое готовы защищать любой ценой. Даже в самые тяжёлые времена Бет и Рип делают всё возможное, чтобы выстоять, сохранить своё ранчо и обеспечить достойное будущее себе и своему приёмному сыну Картеру.",
-        "poster_path": "/mmxsx98NnY56CvataUqM1ktt14O.jpg",
-        "first_air_date": "2026-05-15",
-        "video": false,
-        "vote_average": 9.3,
-        "vote_count": 237,
-        "popularity": 143.0673,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7275308",
-        "kp_rating": "8.6",
-        "imdb_id": "tt34991493",
-        "status": "returning series",
-        "last_air_date": "2026-06-12",
-        "seasons": {
-          "1": 6
-        },
-        "episode": {
-          "air_date": "2026-06-12",
-          "episode_number": 6,
-          "name": "Эпизод 6",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 41,
-          "still_path": "/oiZzteUTrSJhUjZTPN4MtrWtl1a.jpg",
-          "vote_average": 8
-        }
-      },
-      "type": "episode",
-      "hash": "s1;e6",
-      "premiere": 0
-    },
-    {
-      "id": 2766,
-      "time": 1781336023258,
-      "card_id": "1280738",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
-        "genre_ids": [
-          28,
-          80
-        ],
-        "id": 1280738,
-        "original_language": "en",
-        "title": "Живая ярость",
-        "original_title": "火遮眼",
-        "names": [
-          "Живая ярость",
-          "Fo ze ngaan",
-          "火遮眼"
-        ],
-        "overview": "Когда дочь мастера-ремесленника Ван Вэя похищает преступная группировка, тот самостоятельно отправляется на поиски. Его единственным союзником становится Навин — неутомимый журналист, чья жена таинственно исчезла. Мужчинам из разных слоёв общества предстоит научиться доверять друг другу и сотрудничать, используя навыки рукопашного боя, полученные благодаря их тайному прошлому.",
-        "poster_path": "/jAN5WQstlgSMsbLISH59Sx7cYfu.jpg",
-        "release_date": "2026-06-10",
-        "video": false,
-        "vote_average": 8.6,
-        "vote_count": 7,
-        "popularity": 91.0011,
-        "PG": 18,
-        "release_quality": "ts",
-        "kinopoisk_id": "6292456",
-        "imdb_id": "tt33311069",
-        "imdb_rating": "7.9",
-        "status": "released",
-        "last_air_date": "2026-06-12",
-        "countries": [
-          "Гонконг",
-          "США",
-          "Китай"
-        ],
-        "genres": [
-          "Боевик",
-          "Криминал"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.063385009765625
+  "duration": 6.420639991760254
 }
