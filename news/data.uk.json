@@ -2,6 +2,54 @@
   "secuses": true,
   "result": [
     {
+      "id": 2820,
+      "time": 1784102193658,
+      "card_id": "1368314",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 1368314,
+        "original_language": "en",
+        "title": "Пасажир",
+        "original_title": "Passenger",
+        "names": [
+          "Пасажир",
+          "Пассажир",
+          "Passenger"
+        ],
+        "overview": "За кілька тижнів після початку подорожі молода пара стає свідками моторошної аварії, в якій гине водій. Незабаром їх починає переслідувати Пасажир — демонічний сталкер, від якого неможливо втекти, і який слідує за ними, куди б вони не вирушили.",
+        "poster_path": "/v9fndC0p2Ix5wWOZV0vD82qohEw.jpg",
+        "release_date": "2026-05-20",
+        "video": false,
+        "vote_average": 6.807,
+        "vote_count": 254,
+        "popularity": 232.1839,
+        "PG": 18,
+        "release_quality": "webdl",
+        "kinopoisk_id": "9259355",
+        "kp_rating": "5.8",
+        "imdb_id": "tt33763941",
+        "imdb_rating": "5.6",
+        "status": "released",
+        "last_air_date": "2026-05-23",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Жахи",
+          "Трилер"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2819,
       "time": 1784033109699,
       "card_id": "1315772",
@@ -210,8 +258,8 @@
           "overview": "",
           "season_number": 3,
           "runtime": 66,
-          "still_path": "/lGpSBfJylIQJskI7RTofazLs1bT.jpg",
-          "vote_average": 6.1
+          "still_path": "/kcKcglqhlje5zqIadRQgc7tvWMN.jpg",
+          "vote_average": 6.559
         },
         "genres": [
           "Науково фантастичний",
@@ -284,9 +332,9 @@
           "name": "Серія 8",
           "overview": "",
           "season_number": 9,
-          "runtime": 22,
+          "runtime": 23,
           "still_path": "/fo4rjkcVyO4YF30K67a7yy2sKhT.jpg",
-          "vote_average": 9.2
+          "vote_average": 8.857
         },
         "genres": [
           "Мультфільм",
@@ -590,7 +638,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/v9tWgeHzlrEFxtQoNOtKLxbP6t3.jpg",
-          "vote_average": 6.8
+          "vote_average": 7.167
         },
         "genres": [
           "Драма",
@@ -717,7 +765,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/6UIHqNk9f8BlNsAZb30Jb3N4YBr.jpg",
-          "vote_average": 8.735
+          "vote_average": 8.7
         },
         "genres": [
           "Мультфільм",
@@ -787,7 +835,7 @@
           "season_number": 1,
           "runtime": 61,
           "still_path": "/2yGGXfQmvcHlxktR17CowgcxVyp.jpg",
-          "vote_average": 9.0
+          "vote_average": 8.833
         },
         "genres": [
           "Екшн і Пригоди",
@@ -916,8 +964,8 @@
           "overview": "Рейніра дізнається, що ситуація в Королівській Гавані не така, як вона очікувала. Не маючи змоги виявити своїх ворогів і стикаючись із вимогами з усіх боків, Рейніра мусить дотримуватися делікатного балансу між задоволенням очікувань своїх прихильників та зміцненням своєї влади.",
           "season_number": 3,
           "runtime": 57,
-          "still_path": "/7W7IzIQdEKJdbWNgxIQ413TFG14.jpg",
-          "vote_average": 6.3
+          "still_path": "/rtSucmBIzQPcBejfWXqRC8ElcEQ.jpg",
+          "vote_average": 6.511
         },
         "genres": [
           "Науково фантастичний",
@@ -1041,7 +1089,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 5.0
+          "vote_average": 5.227
         },
         "genres": [
           "Науково фантастичний",
@@ -1279,7 +1327,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 6.268
+          "vote_average": 6.293
         },
         "genres": [
           "Науково фантастичний",
@@ -1567,7 +1615,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/ptYOQnNi81EHeh4LxcMRs2gfKz5.jpg",
-          "vote_average": 8.8
+          "vote_average": 8.533
         },
         "genres": [
           "Мультфільм",
@@ -1821,7 +1869,7 @@
           "season_number": 4,
           "runtime": 49,
           "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
-          "vote_average": 5.449
+          "vote_average": 5.488
         },
         "genres": [
           "Детектив",
@@ -2322,7 +2370,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/dQUDeY9qKrERkHwu8sB67XmG6Am.jpg",
-          "vote_average": 7.9
+          "vote_average": 7.821
         },
         "genres": [
           "Мультфільм",
@@ -2393,7 +2441,7 @@
           "overview": "Керуючись вірою в Алісент, Рейніра готується захопити Королівську Гавань, тоді як Тріархія вирушає в море, щоб дати бій Корлісу в затоці Галлет.",
           "season_number": 3,
           "runtime": 66,
-          "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
+          "still_path": "/oVawK97dRbB7zeMaC44SjXQgUr1.jpg",
           "vote_average": 7.4
         },
         "genres": [
@@ -2464,7 +2512,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/8OoIdbyrUI7ymR7kYd2yipfQTJZ.jpg",
-          "vote_average": 5.653
+          "vote_average": 5.689
         },
         "genres": [
           "Детектив",
@@ -2745,7 +2793,7 @@
           "season_number": 1,
           "runtime": 37,
           "still_path": "/TOs0PsDUEz8mlo3XKAIBKQ0SOW.jpg",
-          "vote_average": 6.5
+          "vote_average": 6.45
         },
         "genres": [
           "Драма",
@@ -2908,7 +2956,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
-          "vote_average": 7.9
+          "vote_average": 7.827
         },
         "genres": [
           "Драма",
@@ -2922,83 +2970,7 @@
       "type": "episode",
       "hash": "s1;e10",
       "premiere": 0
-    },
-    {
-      "id": 2770,
-      "time": 1781544823209,
-      "card_id": "60625",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
-        "genre_ids": [
-          16,
-          35,
-          10765,
-          10759
-        ],
-        "id": 60625,
-        "original_language": "en",
-        "name": "Рік та Морті",
-        "original_name": "Rick and Morty",
-        "names": [
-          "Рик и Морти",
-          "Rick and Morty",
-          "Рік та Морті"
-        ],
-        "overview": "Гумористично-фантастичний мультсеріал про пригоди дідуся-винахідника Ріка та його онука-школяра Морті, яких іноді супроводжують інші члени родини: батько-невдаха Джеррі, донька-школярка Саммер та закомплексована мати Бет.",
-        "poster_path": "/tnXwqcZ98EVKuMzRtcvPRJukwI3.jpg",
-        "first_air_date": "2013-12-02",
-        "video": false,
-        "vote_average": 8.678,
-        "vote_count": 10950,
-        "popularity": 144.6525,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "685246",
-        "kp_rating": "8.9",
-        "imdb_id": "tt2861424",
-        "imdb_rating": "9.0",
-        "status": "returning series",
-        "last_air_date": "2026-06-15",
-        "seasons": {
-          "1": 11,
-          "2": 10,
-          "3": 10,
-          "4": 11,
-          "5": 14,
-          "6": 10,
-          "7": 10,
-          "8": 10,
-          "9": 4
-        },
-        "episode": {
-          "air_date": "2026-06-14",
-          "episode_number": 4,
-          "name": "Серія 4",
-          "overview": "",
-          "season_number": 9,
-          "runtime": 23,
-          "still_path": "/kIjmRbbdZfKw6RCTxUO2zsa74x0.jpg",
-          "vote_average": 7.9
-        },
-        "genres": [
-          "Мультфільм",
-          "Комедія",
-          "Науково фантастичний",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s9;e4",
-      "premiere": 0
     }
   ],
-  "duration": 6.420639991760254
+  "duration": 6.535324573516846
 }
