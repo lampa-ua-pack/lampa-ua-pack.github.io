@@ -4,8 +4,10 @@ import requests
 from pathlib import Path
 
 # ------------------ Конфігурація ------------------
-MAL_URL = "https://raw.githubusercontent.com/Fribb/anime-lists/master/indices/mal_index.json"
-TMDB_URL = "https://raw.githubusercontent.com/Fribb/anime-lists/master/indices/themoviedb_index.json"
+# nattadasu/animeApi — пласка база (~40k записів). На відміну від Fribb, тримає
+# themoviedb + themoviedb_type ("movie"/"tv") окремими полями, тож фільми більше
+# не змішуються з TV-серіалами під одним tmdb id.
+SRC_URL = "https://raw.githubusercontent.com/nattadasu/animeApi/v3/database/animeapi.json"
 
 ANIME_DIR = Path("anime")
 MAP_FILE = ANIME_DIR / "map.json"
@@ -23,13 +25,12 @@ def fetch(url: str):
 def main():
     ANIME_DIR.mkdir(exist_ok=True)
 
-    print("📡 Fetching Fribb indices...")
-    mal_text, mal_index = fetch(MAL_URL)
-    tmdb_text, tmdb_index = fetch(TMDB_URL)
+    print("📡 Fetching animeApi database...")
+    src_text, records = fetch(SRC_URL)
 
-    # Хеш від вмісту обох вихідних файлів — щоб не робити зайву роботу,
+    # Хеш від вмісту вихідного файлу — щоб не робити зайву роботу,
     # коли дані в джерелі не змінилися.
-    new_hash = hashlib.sha256((mal_text + tmdb_text).encode("utf-8")).hexdigest()
+    new_hash = hashlib.sha256(src_text.encode("utf-8")).hexdigest()
     if HASH_FILE.exists() and MAP_FILE.exists():
         if HASH_FILE.read_text().strip() == new_hash:
             print("✅ Source unchanged – map.json is already up to date.")
@@ -37,21 +38,24 @@ def main():
 
     print("🔄 Building tmdb → mal map...")
 
-    # Обидва індекси посилаються на позиції в одному й тому ж anime-list-full.json.
-    # Будуємо pos → mal_id, потім через нього резолвимо mal для кожного tmdb.
-    pos2mal = {}
-    for mal_id, obj in mal_index.items():
-        for pos in obj.get("anime-list", []):
-            pos2mal[pos] = int(mal_id)
-
-    out = {}  # { "movie" | "tv": { "<tmdb_id>": [mal_id, ...] } }
-    for key, obj in tmdb_index.items():
-        mtype, _, tid = key.partition(":")  # напр. "tv:26209" -> ("tv", "26209")
-        if not tid:
+    # Кожен запис уже містить themoviedb + themoviedb_type + myanimelist.
+    # Один прохід: групуємо mal id за (тип, tmdb id). Кілька mal на один tmdb
+    # (напр. сезони серіалу) складаються в set — так само, як робив Fribb-білд.
+    out = {"movie": {}, "tv": {}}  # { "movie" | "tv": { "<tmdb_id>": {mal_id, ...} } }
+    for rec in records:
+        tid = rec.get("themoviedb")
+        mtype = rec.get("themoviedb_type")  # "movie" | "tv" | None
+        mal = rec.get("myanimelist")
+        if tid is None or mal is None or mtype not in ("movie", "tv"):
             continue
-        mal_ids = sorted({pos2mal[p] for p in obj.get("anime-list", []) if p in pos2mal})
-        if mal_ids:
-            out.setdefault(mtype, {})[tid] = mal_ids
+        out[mtype].setdefault(str(tid), set()).add(int(mal))
+
+    # set -> відсортований список; порожні секції прибираємо.
+    out = {
+        mtype: {tid: sorted(mals) for tid, mals in buckets.items()}
+        for mtype, buckets in out.items()
+        if buckets
+    }
 
     # Впорядковуємо ключі за зростанням числового tmdb id — стабільні diff'и та кращий gzip.
     ordered = {
