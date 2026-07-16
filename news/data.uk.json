@@ -2,6 +2,57 @@
   "secuses": true,
   "result": [
     {
+      "id": 2821,
+      "time": 1784123788640,
+      "card_id": "1397201",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/eeiZikJBrnx5H5AQOaTD9Lt6DU3.jpg",
+        "genre_ids": [
+          28,
+          12,
+          36
+        ],
+        "id": 1397201,
+        "original_language": "ja",
+        "title": "ゴールデンカムイ 網走監獄襲撃編",
+        "original_title": "ゴールデンカムイ 網走監獄襲撃編",
+        "names": [
+          "Золотое божество: Нападение на тюрьму Абасири",
+          "Golden Kamuy: Abashiri Kangoku Shûgeki-henэ",
+          "ゴールデンカムイ 網走監獄襲撃編",
+          "Golden Kamuy: Abashiri Kangoku Shugeki-hen"
+        ],
+        "overview": "Сюжет фокусируется на одной из самых культовых и напряженных арок истории — штурме тюрьмы Абасири. Главные герои, ветеран русско-японской войны Саити «Бессмертный» Сугимото и юная девушка-айну Асирпа, отправляются прямиком в укрепленную тюрьму. Их цель — найти загадочного заключенного Ноппэра-бо, который скрывает тайну золота айнов и может оказаться отцом Асирпы. На пути к истине им предстоит столкнуться в жестоком трехстороннем противостоянии с беглыми смертниками и безжалостной 7-й дивизией императорской армии под командованием лейтенанта Цуруми.",
+        "poster_path": "/lcBrjK1mnPrrpLk6VtlVMMCfsLS.jpg",
+        "release_date": "2026-03-13",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 6,
+        "popularity": 18.1924,
+        "PG": 17,
+        "release_quality": "webdl",
+        "kinopoisk_id": "10435589",
+        "imdb_id": "tt38109660",
+        "imdb_rating": "7.7",
+        "status": "released",
+        "last_air_date": "2026-07-15",
+        "countries": [
+          "Japan"
+        ],
+        "genres": [
+          "Бойовик",
+          "Драма",
+          "Історичний",
+          "Пригоди"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2820,
       "time": 1784102193658,
       "card_id": "1368314",
@@ -257,9 +308,9 @@
           "name": "Серія 4",
           "overview": "",
           "season_number": 3,
-          "runtime": 66,
+          "runtime": 62,
           "still_path": "/kcKcglqhlje5zqIadRQgc7tvWMN.jpg",
-          "vote_average": 6.559
+          "vote_average": 6.325
         },
         "genres": [
           "Науково фантастичний",
@@ -334,7 +385,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/fo4rjkcVyO4YF30K67a7yy2sKhT.jpg",
-          "vote_average": 8.857
+          "vote_average": 8.625
         },
         "genres": [
           "Мультфільм",
@@ -545,7 +596,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/c6U1Te0p0FK0BOB43hiwGlBKiVY.jpg",
+        "backdrop_path": "/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
         "genre_ids": [
           10751,
           14,
@@ -638,7 +689,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/v9tWgeHzlrEFxtQoNOtKLxbP6t3.jpg",
-          "vote_average": 7.167
+          "vote_average": 7.625
         },
         "genres": [
           "Драма",
@@ -765,7 +816,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/6UIHqNk9f8BlNsAZb30Jb3N4YBr.jpg",
-          "vote_average": 8.7
+          "vote_average": 8.5
         },
         "genres": [
           "Мультфільм",
@@ -835,7 +886,7 @@
           "season_number": 1,
           "runtime": 61,
           "still_path": "/2yGGXfQmvcHlxktR17CowgcxVyp.jpg",
-          "vote_average": 8.833
+          "vote_average": 8.8
         },
         "genres": [
           "Екшн і Пригоди",
@@ -965,7 +1016,7 @@
           "season_number": 3,
           "runtime": 57,
           "still_path": "/rtSucmBIzQPcBejfWXqRC8ElcEQ.jpg",
-          "vote_average": 6.511
+          "vote_average": 6.389
         },
         "genres": [
           "Науково фантастичний",
@@ -1089,7 +1140,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 5.227
+          "vote_average": 5.458
         },
         "genres": [
           "Науково фантастичний",
@@ -1210,7 +1261,7 @@
           "season_number": 1,
           "runtime": 56,
           "still_path": "/zA6WWkrhSoJjJuFhB0MvGXiDVLO.jpg",
-          "vote_average": 6.9
+          "vote_average": 7.3
         },
         "genres": [
           "Драма",
@@ -1327,7 +1378,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 6.293
+          "vote_average": 6.383
         },
         "genres": [
           "Науково фантастичний",
@@ -1799,7 +1850,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/6qXcvZEnD9InL1itud7eK88CDzC.jpg",
-          "vote_average": 7.3
+          "vote_average": 7.25
         },
         "genres": [
           "Науково фантастичний",
@@ -2442,7 +2493,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/oVawK97dRbB7zeMaC44SjXQgUr1.jpg",
-          "vote_average": 7.4
+          "vote_average": 7.367
         },
         "genres": [
           "Науково фантастичний",
@@ -2903,74 +2954,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2771,
-      "time": 1781706823199,
-      "card_id": "270476",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
-        "genre_ids": [
-          18,
-          9648,
-          35
-        ],
-        "id": 270476,
-        "original_language": "en",
-        "name": "Відоус-Бей",
-        "original_name": "Widow's Bay",
-        "names": [
-          "Відоус-Бей",
-          "Бухта вдов",
-          "Widow's Bay",
-          "Уидоус-Бэй",
-          "Widows Bay"
-        ],
-        "overview": "Мер містечка в Новій Англії має намір перетворити його на туристичну принаду, попри застереження місцевих про те, що це місце прокляте.",
-        "poster_path": "/r9LY3JmgL8CcUKDOEKQZHsOaIcP.jpg",
-        "first_air_date": "2026-04-28",
-        "video": false,
-        "vote_average": 8.3,
-        "vote_count": 132,
-        "popularity": 76.2118,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6555657",
-        "kp_rating": "7.6",
-        "imdb_id": "tt33332385",
-        "status": "returning series",
-        "last_air_date": "2026-06-17",
-        "seasons": {
-          "1": 10
-        },
-        "episode": {
-          "air_date": "2026-06-16",
-          "episode_number": 10,
-          "name": "Маємо надію, що вам тут сподобалося!",
-          "overview": "Ми розуміємо, що довелося зробити важкий вибір, і ми вже не будемо такі, як були колись, але маємо надію, що ви знов до нас завітаєте!",
-          "season_number": 1,
-          "runtime": 49,
-          "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
-          "vote_average": 7.827
-        },
-        "genres": [
-          "Драма",
-          "Комедія",
-          "Детектив"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e10",
-      "premiere": 0
     }
   ],
-  "duration": 6.535324573516846
+  "duration": 6.878068923950195
 }

@@ -2,6 +2,57 @@
   "secuses": true,
   "result": [
     {
+      "id": 2821,
+      "time": 1784123788640,
+      "card_id": "1397201",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/eeiZikJBrnx5H5AQOaTD9Lt6DU3.jpg",
+        "genre_ids": [
+          28,
+          12,
+          36
+        ],
+        "id": 1397201,
+        "original_language": "ja",
+        "title": "Золотое божество: Нападение на тюрьму Абасири",
+        "original_title": "ゴールデンカムイ 網走監獄襲撃編",
+        "names": [
+          "Золотое божество: Нападение на тюрьму Абасири",
+          "Golden Kamuy: Abashiri Kangoku Shûgeki-henэ",
+          "ゴールデンカムイ 網走監獄襲撃編",
+          "Golden Kamuy: Abashiri Kangoku Shugeki-hen"
+        ],
+        "overview": "Сюжет фокусируется на одной из самых культовых и напряженных арок истории — штурме тюрьмы Абасири. Главные герои, ветеран русско-японской войны Саити «Бессмертный» Сугимото и юная девушка-айну Асирпа, отправляются прямиком в укрепленную тюрьму. Их цель — найти загадочного заключенного Ноппэра-бо, который скрывает тайну золота айнов и может оказаться отцом Асирпы. На пути к истине им предстоит столкнуться в жестоком трехстороннем противостоянии с беглыми смертниками и безжалостной 7-й дивизией императорской армии под командованием лейтенанта Цуруми.",
+        "poster_path": "/kFIs85TGQrrUqOvyYuC1ezkRO8x.jpg",
+        "release_date": "2026-03-13",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 6,
+        "popularity": 18.1924,
+        "PG": 17,
+        "release_quality": "webdl",
+        "kinopoisk_id": "10435589",
+        "imdb_id": "tt38109660",
+        "imdb_rating": "7.7",
+        "status": "released",
+        "last_air_date": "2026-07-15",
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "Драма",
+          "История",
+          "Боевик",
+          "Приключения"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2820,
       "time": 1784102193658,
       "card_id": "1368314",
@@ -2692,65 +2743,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2771,
-      "time": 1781706823199,
-      "card_id": "270476",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
-        "genre_ids": [
-          18,
-          9648,
-          35
-        ],
-        "id": 270476,
-        "original_language": "en",
-        "name": "Уидоус-Бэй",
-        "original_name": "Widow's Bay",
-        "names": [
-          "Бухта вдов",
-          "Widow's Bay",
-          "Уидоус-Бэй",
-          "Widows Bay"
-        ],
-        "overview": "Мэр города в Новой Англии решает превратить его в новый центр притяжения туристов, несмотря на предупреждения местных о том, что он проклят.",
-        "poster_path": "/7Dc2FNMcOeNO61W2rOKgJDoVJ63.jpg",
-        "first_air_date": "2026-04-28",
-        "video": false,
-        "vote_average": 8.3,
-        "vote_count": 132,
-        "popularity": 76.2118,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6555657",
-        "kp_rating": "7.6",
-        "imdb_id": "tt33332385",
-        "status": "returning series",
-        "last_air_date": "2026-06-17",
-        "seasons": {
-          "1": 10
-        },
-        "episode": {
-          "air_date": "2026-06-16",
-          "episode_number": 10,
-          "name": "Надеемся, вам понравилось!",
-          "overview": "Мы понимаем, что пришлось принимать трудные решения, и, возможно, мы уже никогда не будем прежними, но надеемся, что вы приедете еще!",
-          "season_number": 1,
-          "runtime": 48,
-          "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
-          "vote_average": 9
-        }
-      },
-      "type": "episode",
-      "hash": "s1;e10",
-      "premiere": 0
     }
   ],
-  "duration": 6.535324573516846
+  "duration": 6.878068923950195
 }
