@@ -1,0 +1,59 @@
+name: Daily Mood Collections
+
+on:
+  schedule:
+    # GitHub cron — тільки UTC, без переходу на літній час.
+    # Kyiv = UTC+2 (зима) / UTC+3 (літо) → 22:00 UTC ≈ 00:00 Kyiv взимку, 01:00 влітку.
+    - cron: '0 22 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: mood-update
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  update-mood:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch latest remote state
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+
+      - name: Generate mood collections
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          OPENCODE_URL: ${{ secrets.OPENCODE_URL }}
+          OPENCODE_MODEL: ${{ secrets.OPENCODE_MODEL }}
+          OPENCODE_TOKEN: ${{ secrets.OPENCODE_TOKEN }}
+        run: python .github/scripts/update-mood.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "lampa.ua.pack@proton.me"
+          git add mood/
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update mood collections"
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
