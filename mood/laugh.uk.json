@@ -3,166 +3,173 @@
   "emoji": "😂",
   "title": "Сміхота",
   "lang": "uk",
-  "updated_at": "2026-07-17T16:30:26Z",
+  "updated_at": "2026-07-17T16:40:51Z",
   "items": [
     {
-      "id": 402897,
+      "id": 813,
       "media_type": "movie",
-      "title": "Смерть Сталіна",
-      "original_title": "The Death of Stalin",
-      "overview": "Сатирична комедія Армандо Яннуччі, знята по однойменному коміксі двох французьких карикатуристів Фаб’єна Нурі і Тьєррі Робіна. Дія картини розгортається в СРСР на початку 1950-х років. Смерть Йосипа Сталіна призводить до шаленої боротьби представників радянської політичної еліти за владу. СРСР занурюється в хаос ...",
-      "poster_path": "/pZWxXmspKdgKG5xQopbGqAjB4M7.jpg",
-      "backdrop_path": "/x2FqFdUxRekbNdow3vZdtDqL96z.jpg",
-      "genre_ids": [
-        35,
-        18,
-        36
-      ],
-      "vote_average": 7.015,
-      "vote_count": 2157,
-      "release_date": "2017-10-20"
-    },
-    {
-      "id": 11830,
-      "media_type": "movie",
-      "title": "タンポポ",
-      "original_title": "タンポポ",
-      "overview": "",
-      "poster_path": "/3qeVNWVR7UzZ6d9a2cdUSooTITY.jpg",
-      "backdrop_path": "/oq8HM9TOSbH54Xy0OBJGzYrtUC7.jpg",
+      "title": "Аероплан",
+      "original_title": "Airplane!",
+      "overview": "Колишній військовий льотчик опинився на борту літака, екіпаж якого через харчове отруєння виявився не в змозі кермувати аеробусом. Він разом зі стюардесою змушений стати рятівником строкатої компанії пасажирів, що опинилися на межі загибелі. Новоявленого пілота і його помічницю чекають немислимі труднощі й неймовірні пригоди.",
+      "poster_path": "/t6w99CFaYMgw9FkzlaQHciwAbVJ.jpg",
+      "backdrop_path": "/wQyvrsNSTzFVEGgarZbFkFyIciy.jpg",
       "genre_ids": [
         35
       ],
-      "vote_average": 7.8,
-      "vote_count": 438,
-      "release_date": "1985-11-23"
+      "vote_average": 7.306,
+      "vote_count": 5125,
+      "release_date": "1980-06-27"
     },
     {
-      "id": 10794,
+      "id": 2493,
       "media_type": "movie",
-      "title": "Вечірка",
-      "original_title": "The Party",
-      "overview": "Містера Хрунді Ві Бакши запросили зніматися в кіно. Він був злегка неуважний і випадково наступив на важіль, що призвело до вибуху дорогої декорації фортеці.\r Запрошення на вечерю, яке так само випадково прийшло на його адресу, призводить Бакши в будинок директора постраждалої кіностудії.\r У цьому шикарному особняку з басейном і садом починається «чудова» вечірка, про яку ніколи не забудуть всі її учасники.",
-      "poster_path": "/nWZ9rrbMoHHgsvYNdng2EhbjeLf.jpg",
-      "backdrop_path": "/dNKRoMyjqzFIJ1HtqR6qMZyrvtj.jpg",
+      "title": "Принцеса-наречена",
+      "original_title": "The Princess Bride",
+      "overview": "Ласкаво просимо у фантастичний світ прекрасних замків, страшних підземель, безкрайніх океанів, лісів і гір. Щоб врятувати свою кохану, прекрасну наречену, відважний герой долає немислимі перешкоди і здійснює неймовірні подвиги.",
+      "poster_path": "/nmcJHxuHzn4pVWzhoKPvVhXfl.jpg",
+      "backdrop_path": "/2CisgvF2HcIVnbMZbSjASCtSgEb.jpg",
       "genre_ids": [
+        12,
+        14,
+        10749,
+        10751,
         35
       ],
-      "vote_average": 7.294,
-      "vote_count": 869,
-      "release_date": "1968-04-04"
+      "vote_average": 7.703,
+      "vote_count": 5164,
+      "release_date": "1987-09-25"
     },
     {
-      "id": 339,
+      "id": 137,
       "media_type": "movie",
-      "title": "Ніч на Землі",
-      "original_title": "Night on Earth",
-      "overview": "П'ять таксистських історій трапилися за одну ніч в п'яти мегаполісах світу. Кожна має свою особливу тему, властиву місцю дії. Суть кар'єри з'ясовується в серці американської мрії Лос-Анжелесі. Зустріч Старого Світла з Новим відбувається у вируючому казані Нью-Йорка. Про зір і сліпоту краще всього знають в столиці світової краси Парижі, а питання життя і смерті - у вічному місті Римі. Тема занедбаності людини ніде не виглядає переконливіше, ніж на засніжених просторах Хельсінкі.",
-      "poster_path": "/7VsstldIXdviQcQXXdn0Q6v4wxK.jpg",
-      "backdrop_path": "/xOeGBXInQnwV9BGlneL8r65nL3q.jpg",
+      "title": "День бабака",
+      "original_title": "Groundhog Day",
+      "overview": "Телеоглядач Філ Коннорс щороку їздить у невелике містечко на святкування Дня бабака. Проте тільки цього разу щось пішло не так і 2 лютого стало повторюватися по колу. Філ не розуміє, що відбувається, і нічого не може змінити, єдине чого він по-справжньому хоче — це 3 лютого.",
+      "poster_path": "/4jayAIQoVsvPcuRp70IM3mfBHuO.jpg",
+      "backdrop_path": "/4W6RYDNe4OByNryOCvJprrutm9h.jpg",
       "genre_ids": [
-        35,
-        18
-      ],
-      "vote_average": 7.515,
-      "vote_count": 1060,
-      "release_date": "1991-12-12"
-    },
-    {
-      "id": 144789,
-      "media_type": "movie",
-      "title": "Los amantes pasajeros",
-      "original_title": "Los amantes pasajeros",
-      "overview": "",
-      "poster_path": "/9EzUcIprNb7JR4pNBSQXmljIMjr.jpg",
-      "backdrop_path": "/EccrWxeF28GeGLSSuDOU9suom5.jpg",
-      "genre_ids": [
+        10749,
+        14,
         35
       ],
-      "vote_average": 5.702,
-      "vote_count": 720,
-      "release_date": "2013-03-08"
+      "vote_average": 7.633,
+      "vote_count": 8980,
+      "release_date": "1993-02-11"
     },
     {
-      "id": 254320,
+      "id": 747,
       "media_type": "movie",
-      "title": "Лобстер",
-      "original_title": "The Lobster",
-      "overview": "Історія кохання, що розгортається в найближчому майбутньому, де самотніх людей арештовують і відправляють в моторошний готель. Там вони зобов’язані знайти собі пару за 45 днів. Якщо їм це не вдається, то їх перетворюють на тварин і відпускають до лісу.",
-      "poster_path": "/xvRXMldrR0Noj4R1F40mx4TFa2s.jpg",
-      "backdrop_path": "/iH2esZUZvt8qlJgu74WBvibDnfF.jpg",
+      "title": "Зомбі на ім’я Шон",
+      "original_title": "Shaun of the Dead",
+      "overview": "У простого продавця Шона видався нелегкий тиждень! Подружка кинула його, вітчим намагається ним керувати, а кращий друг виводить із себе всіх навколишніх. Але ж для повного щастя Шону багато не треба - посидіти в улюбленому пабі та пограти на приставці... Та спокійного життя нашому героєві не побачити. Лондон опиняється у владі зомбі, і тепер Шон має вирішувати всі проблеми, паралельно рятуючи друзів від живих мерців.",
+      "poster_path": "/j73ZSpwvv9a7Juu74JRFngGmRsZ.jpg",
+      "backdrop_path": "/wb34q3VgzHgL8frVMywrN3wXmqx.jpg",
       "genre_ids": [
-        35,
-        18,
-        10749
-      ],
-      "vote_average": 7.024,
-      "vote_count": 6942,
-      "release_date": "2015-10-15"
-    },
-    {
-      "id": 778,
-      "media_type": "movie",
-      "title": "Відпочинок мсьє Юло",
-      "original_title": "Les vacances de Monsieur Hulot",
-      "overview": "Мсьє Юло їде на море, щоб відпочити. І схоже, що він чи не єдина людина, здатна насолоджуватися відпочинком.",
-      "poster_path": "/j0GAK1wTNs6kK09fwZoBkhqiiED.jpg",
-      "backdrop_path": "/dK6s1EMpMcUwBHpiYVMBiTdgdvy.jpg",
-      "genre_ids": [
+        27,
         35
       ],
-      "vote_average": 6.933,
-      "vote_count": 536,
-      "release_date": "1953-02-25"
+      "vote_average": 7.545,
+      "vote_count": 9438,
+      "release_date": "2004-04-09"
     },
     {
-      "id": 67070,
-      "media_type": "tv",
-      "title": "Погань",
-      "original_title": "Fleabag",
-      "overview": "Сюжет розвивається навколо молодої дівчини, яка постійно потрапляє в неприємності. Головна героїня з усіх сил прагне змінити щось в цьому світі, але категорично не здатна приймати допомогу і поради оточуючих. Події серіалу відбуваються в сучасному Лондоні.",
-      "poster_path": "/ufpidoMxDxbbeN2hAQskti3RIme.jpg",
-      "backdrop_path": "/hXdQ4MWsEOX6qg6VydKrLb3YJ4g.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "vote_average": 8.278,
-      "vote_count": 1866,
-      "release_date": "2016-07-21"
-    },
-    {
-      "id": 33922,
-      "media_type": "tv",
-      "title": "Portlandia",
-      "original_title": "Portlandia",
-      "overview": "",
-      "poster_path": "/pfaxCP6YqlFHCL3QytnTanwRTL5.jpg",
-      "backdrop_path": "/kCOLltSpNznhpdHhxCsky3eU1jI.jpg",
-      "genre_ids": [
-        35
-      ],
-      "vote_average": 6.946,
-      "vote_count": 175,
-      "release_date": "2011-01-21"
-    },
-    {
-      "id": 15152,
+      "id": 4638,
       "media_type": "movie",
-      "title": "Агент 117: Каїр — шпигунське гніздо",
-      "original_title": "OSS 117 : Le Caire, nid d'espions",
-      "overview": "Безстрашний, але злегка тупуватий агент секретної розвідки Юбер де Ла Бат, він же агент 117, стоїть на варті ладу рідної Франції та всього світу. І хай Юбер де Ла Бат не такий розумний і винахідливий, як Джеймс Бонд, він умудряється ловити негідників, розкривати підлі змови та смішити всіх довкола. Адже якщо за справу береться агент 117, то ніколи не знаєш, чого чекати…",
-      "poster_path": "/mlqMBk7Z2x9vdCcFUfqbXfd22K8.jpg",
-      "backdrop_path": "/mrRzR4Xbt64heUQF5YBMMfdMEXu.jpg",
+      "title": "Круті фараони",
+      "original_title": "Hot Fuzz",
+      "overview": "Лондон. Ніколас Анджел - найсумлінніший поліцейський. Настільки сумлінний, що його колегам він як кістка в горлі. Тому ті влаштовують йому  \"підвищення\".  Ніколаса відправляють у глухе село Сендфорд, де він отримує в напарники повного ідіота. Проте саме в такому тандемі головному героєві вдається натрапити на слід справжнього злочину.",
+      "poster_path": "/vB9q4ZQ1rxeMbnzij4BSiWH3K8o.jpg",
+      "backdrop_path": "/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
       "genre_ids": [
         80,
         28,
-        12,
         35
       ],
-      "vote_average": 7.229,
-      "vote_count": 1864,
-      "release_date": "2006-04-19"
+      "vote_average": 7.567,
+      "vote_count": 8420,
+      "release_date": "2007-02-14"
+    },
+    {
+      "id": 48891,
+      "media_type": "tv",
+      "title": "Бруклін 9-9",
+      "original_title": "Brooklyn Nine-Nine",
+      "overview": "Сюжет серіалу оповідає про детектива, на долю якого в один момент випали серйозні зміни. Зовсім недавно він не виявляв до своєї роботи ніякої серйозності, але тепер, коли його штаб очолив новий керівник, детективу доведеться кардинально поміняти своє професійне життя і стати героєм неймовірних історій.",
+      "poster_path": "/a9gmarnmzyd7Q7XkyLxvZvK3jNP.jpg",
+      "backdrop_path": "/9AeiA1XtP5sel2tAf9LaGeUjhDb.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "vote_average": 8.211,
+      "vote_count": 4026,
+      "release_date": "2013-09-17"
+    },
+    {
+      "id": 83631,
+      "media_type": "tv",
+      "title": "Чим ми займаємося в тінях",
+      "original_title": "What We Do in the Shadows",
+      "overview": "Дія розгортається в Нью-Йорку на острові Стейтен. У центрі сюжету опиняються три вампіра, які живуть разом в старому особняку більше сотні років. Нандор, виходець з Османської імперії, вважає себе лідером групи. З ним живе Лазло, колишній англійський дворянин, і Надья, яка звернула його і зробила своїм коханцем. Але тепер вампірша перемкнула увагу на смертного, дуже схожого на її колишнього, і вірить в те, що це його реінкарнація. Несподівано вони отримують лист, в якому повідомляється про швидкий візит стародавнього вампіра, після чого їх життя перестає бути нудним...",
+      "poster_path": "/znxgOY6q4eb9jNRK6TEJxgip594.jpg",
+      "backdrop_path": "/mKikck71CvVISUSTLk29fwRbH4y.jpg",
+      "genre_ids": [
+        35,
+        10765
+      ],
+      "vote_average": 8.002,
+      "vote_count": 1015,
+      "release_date": "2019-03-27"
+    },
+    {
+      "id": 8363,
+      "media_type": "movie",
+      "title": "Супер перці",
+      "original_title": "Superbad",
+      "overview": "Сет, Фоґель та Еван — класичні невдахи-ботани. Вони готові на все, аби тільки заволодіти увагою протилежної статі. Свої плани хлопці хочуть втілити підчас вечірки з приводу закінчення школи. Підробивши документи, вони приносять алкоголь на вечірку. Але замість п’яних, готових на все випускниць, нещасні отримують купу проблем.",
+      "poster_path": "/yjIsckNSCV1gmGYu6NNF3oIgaQ2.jpg",
+      "backdrop_path": "/coru98UcFBzJIU7bxZguxaePgu0.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.269,
+      "vote_count": 8174,
+      "release_date": "2007-08-17"
+    },
+    {
+      "id": 7446,
+      "media_type": "movie",
+      "title": "Грім у тропіках",
+      "original_title": "Tropic Thunder",
+      "overview": "У джунглях йдуть зйомки високобюджетного бойовика, головні ролі в якому виконують зірка екшн Тагг Спідмен, комік Джефф, лауреат усіх можливих премій Кірк Лазарус, який спеціально для ролі негра перефарбував шкіру, та темношкірий репер Альпа Чіно. Сюрпризи починаються, коли невдоволений режисер вирішує зняти “справжній” фільм про війну...",
+      "poster_path": "/w9mHuNP8NccMwT2ftjDgyZof0gy.jpg",
+      "backdrop_path": "/4pLi4QMm0MZ9TSoF3l8qQmY9HNO.jpg",
+      "genre_ids": [
+        28,
+        35,
+        10752
+      ],
+      "vote_average": 6.721,
+      "vote_count": 7044,
+      "release_date": "2008-08-09"
+    },
+    {
+      "id": 854,
+      "media_type": "movie",
+      "title": "Маска",
+      "original_title": "The Mask",
+      "overview": "Сором'язливий банківський службовець Стенлі відчуває себе дуже невпевнено в компанії дівчат. Його постійно всі принижують: і суворий начальник, і домовласниця, і навіть автомеханіки. Єдині друзі скромного юнака - колега Чарлі і пес Майло ... Одного разу волею долі в руки до Стенлі потрапляє старовинна маска, яка виявляється чарівної. Надівши її, герой із невпевненого тихоні перетворюється на мультяшну істоту, хулігана і супергероя в одній особі ...",
+      "poster_path": "/v0mptZw5Zxf0KfF96JsZEBxBtzZ.jpg",
+      "backdrop_path": "/bQlw59HncOXX9alFlOYKHAvSnm.jpg",
+      "genre_ids": [
+        35,
+        14,
+        80,
+        10749
+      ],
+      "vote_average": 6.994,
+      "vote_count": 11379,
+      "release_date": "1994-07-29"
     }
   ]
 }

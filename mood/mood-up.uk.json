@@ -3,166 +3,173 @@
   "emoji": "✨",
   "title": "Заряд позитиву",
   "lang": "uk",
-  "updated_at": "2026-07-17T16:30:12Z",
+  "updated_at": "2026-07-17T16:40:41Z",
   "items": [
     {
-      "id": 228194,
+      "id": 346648,
       "media_type": "movie",
-      "title": "Прянощі та пристрасті",
-      "original_title": "The Hundred-Foot Journey",
-      "overview": "Родина індійських емігрантів, яких доля закинула в маленьке містечко в Провансі, вирішує відкрити кав’ярню зі східною кухнею... прямо навпроти відомого на весь округ ресторану \"Плакуча верба\", бастіону французьких кулінарних традицій, господиня якого, Мадам Малорі, більше за все на світі пишається тим, що її заклад удостоєно зірки в каталозі \"Мішлен\". Спочатку Мадам Малорі не приховує своєї огиди галасливими сусідами і їхніми екзотичними звичками, але поступово війна за клієнтів між двома ресторанами змінюється хитким перемир’ям, особливо, коли з'ясовується, що юний кухар-емігрант Гассан має досконалий смак, і рецепти французької кухні підкорюються йому так само легко, як таємниці індійських прянощів.",
-      "poster_path": "/p2ghsoo9mMwqJK4wSedVBHW98s3.jpg",
-      "backdrop_path": "/jUaZAbdpNl33VHprUl4qEohXn8q.jpg",
+      "title": "Пригоди Паддінґтона 2",
+      "original_title": "Paddington 2",
+      "overview": "Продовження пригод ведмежати на ім'я Паддінґтон.",
+      "poster_path": "/f4IDGS1531P7ZCq9zYRRAhXS3mj.jpg",
+      "backdrop_path": "/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
+      "genre_ids": [
+        12,
+        35,
+        10751
+      ],
+      "vote_average": 7.478,
+      "vote_count": 2823,
+      "release_date": "2017-11-09"
+    },
+    {
+      "id": 2493,
+      "media_type": "movie",
+      "title": "Принцеса-наречена",
+      "original_title": "The Princess Bride",
+      "overview": "Ласкаво просимо у фантастичний світ прекрасних замків, страшних підземель, безкрайніх океанів, лісів і гір. Щоб врятувати свою кохану, прекрасну наречену, відважний герой долає немислимі перешкоди і здійснює неймовірні подвиги.",
+      "poster_path": "/nmcJHxuHzn4pVWzhoKPvVhXfl.jpg",
+      "backdrop_path": "/2CisgvF2HcIVnbMZbSjASCtSgEb.jpg",
+      "genre_ids": [
+        12,
+        14,
+        10749,
+        10751,
+        35
+      ],
+      "vote_average": 7.703,
+      "vote_count": 5164,
+      "release_date": "1987-09-25"
+    },
+    {
+      "id": 97546,
+      "media_type": "tv",
+      "title": "Тед Лассо",
+      "original_title": "Ted Lasso",
+      "overview": "Тед Лассо, американський тренер з футболу, переїжджає до Англії, коли його найняли керувати футбольною командою — незважаючи на відсутність досвіду. З цинічними гравцями та сумнівним містечком, чи змусить він їх побачити Шлях Теда Лассо?",
+      "poster_path": "/8G5pL6yWDs8jXKBV7K9Unm1vsxd.jpg",
+      "backdrop_path": "/gEQkOMmnJcoh9Hh1vk7fpVYnksR.jpg",
       "genre_ids": [
         18,
         35
       ],
-      "vote_average": 7.268,
-      "vote_count": 1560,
-      "release_date": "2014-08-06"
+      "vote_average": 8.347,
+      "vote_count": 2430,
+      "release_date": "2020-08-14"
     },
     {
-      "id": 89233,
+      "id": 369557,
+      "media_type": "movie",
+      "title": "Сінґ Стріт",
+      "original_title": "Sing Street",
+      "overview": "Ностальгічна музична драма про дорослішання. Коли економічна криза 1980-х вдаряє по родині Конора, його переводять з престижної приватної школи в державну. Підліток стикається з грубістю і невіглаством нового середовища і, крім того, закохується в недосяжну красуню. Бажаючи вразити дівчину, Конор збирає рок-гурт.",
+      "poster_path": "/wVooPiwY95OOe3YOb5tc1pixW4L.jpg",
+      "backdrop_path": "/zArKQrtZRb4lqjYXepBMLdegiDz.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        10402,
+        35
+      ],
+      "vote_average": 7.859,
+      "vote_count": 2467,
+      "release_date": "2016-03-11"
+    },
+    {
+      "id": 212778,
+      "media_type": "movie",
+      "title": "Повар на колесах",
+      "original_title": "Chef",
+      "overview": "Карл Каспер – неперевершений кухар, але у нього не склалися стосунки в сім'ї і власник ресторану не дає йому жодної свободи. Він вирішує покинути роботу і купити харчовий фургон, де він зможе готувати власні страви. На хвилі ентузіазму і оптимістичного погляду в майбутнє він спробує повернути прихильність своїх близьких.",
+      "poster_path": "/dM6ldPN0aDQtcyLQMZwjz8ICc5a.jpg",
+      "backdrop_path": "/igVNCpS132rOqrnDsrVYW5HCIsM.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.112,
+      "vote_count": 3681,
+      "release_date": "2014-05-08"
+    },
+    {
+      "id": 66573,
       "media_type": "tv",
-      "title": "Вдалині",
-      "original_title": "Away",
-      "overview": "Американська астронавтка сумнівається, чи правильно вчинила, покинувши чоловіка й доньку та вирушивши на небезпечну місію з міжнародною космічною командою.",
-      "poster_path": "/lkT776mSvQ9wZ8wkYsnpQuogp10.jpg",
-      "backdrop_path": "/vn0QIrNW5suBiF8BXnbp1r27guN.jpg",
+      "title": "У кращому світі",
+      "original_title": "The Good Place",
+      "overview": "Навіжена Елеонор з Нью Джерсі потрапляє туди, де їй наочно пояснюють, що все своє життя вона була вкрай поганою людиною. Головній героїні належить навчитися відрізняти хороше від поганого і допомогти їй дорости до хорошої людини візьметься наставник на ім'я Майкл.",
+      "poster_path": "/iZd6jJEzT7sszoFLd5XsYXgctfq.jpg",
+      "backdrop_path": "/tZmlWeFEMvxrjJhBJJcLNXpSRiG.jpg",
       "genre_ids": [
         10765,
-        18
+        35
       ],
-      "vote_average": 6.545,
-      "vote_count": 367,
-      "release_date": "2020-09-04"
+      "vote_average": 7.972,
+      "vote_count": 1998,
+      "release_date": "2016-09-19"
     },
     {
-      "id": 116745,
+      "id": 371645,
       "media_type": "movie",
-      "title": "Таємне життя Волтера Мітті",
-      "original_title": "The Secret Life of Walter Mitty",
-      "overview": "Волтер Мітті - співробітник фотослужби журналу «Life», якому загрожує реорганізація в онлайн і скороченя співробітників. Знаменитий фотограф Шон О`Коннел надсилає плівку, один з кадрів повинен піти на обкладинку останнього паперового номера журналу. Проте саме цей кадр загадковим чином зникає. Тоді скромний і непомітний фоторедактор Мітті відправляється у подорож на край світу на пошуки загубленого негативу ...",
-      "poster_path": "/pNgx4WzFnE35w8jkZulmtr1W6dM.jpg",
-      "backdrop_path": "/pzMrxeP9XkKOtQVUBPTq5yk4ck5.jpg",
+      "title": "Полювання на дикунів",
+      "original_title": "Hunt for the Wilderpeople",
+      "overview": "Сирота Ріккі Бейкер – невиправний хуліган. Співробітниця соціальної служби Пола Голл відвозить підлітка в сільську місцевість, де живе єдина сім'я, яка готова його прийняти, – Белла та її відлюдькуватий чоловік Гек. Коли Белла вмирає і соціальний захист збирається забрати Ріккі, хлопець тікає в неозорий новозеландський буш. Гек відправляється за ним. Навіжена Пола оголошує загальнонаціональне полювання на втікачів ...",
+      "poster_path": "/tmxTu7rM3Kfnoc95dpY9LzV9HCf.jpg",
+      "backdrop_path": "/ixpUtvrZNwk6LBObXaNH8fh4FYf.jpg",
       "genre_ids": [
+        12,
         35,
-        18,
-        14
+        18
+      ],
+      "vote_average": 7.6,
+      "vote_count": 2326,
+      "release_date": "2016-01-22"
+    },
+    {
+      "id": 497582,
+      "media_type": "movie",
+      "title": "Енола Холмс",
+      "original_title": "Enola Holmes",
+      "overview": "У пошуках зниклої матері смілива дівчина Енола Голмс застосовує свої детективні навички, щоб перехитрити старшого брата Шерлока і допомогти лорду-втікачеві.",
+      "poster_path": "/y4vcxg0PkXPCC8NmQsyKYHSKcQi.jpg",
+      "backdrop_path": "/kMe4TKMDNXTKptQPAdOF0oZHq3V.jpg",
+      "genre_ids": [
+        12,
+        9648,
+        80
       ],
       "vote_average": 7.226,
-      "vote_count": 8332,
-      "release_date": "2013-12-18"
+      "vote_count": 6684,
+      "release_date": "2020-09-22"
     },
     {
-      "id": 191714,
+      "id": 13751,
       "media_type": "movie",
-      "title": "The Lunchbox",
-      "original_title": "The Lunchbox",
+      "title": "Akeelah and the Bee",
+      "original_title": "Akeelah and the Bee",
       "overview": "",
-      "poster_path": "/eZvdKgnFLjkxe9rpYZhRMLE0X0U.jpg",
-      "backdrop_path": "/lgrgEf43kYFm9mh6pj8ArcaxUbd.jpg",
+      "poster_path": "/tLejxaLJu8Qh5F2VKacWniMSZ3v.jpg",
+      "backdrop_path": "/5cQG6wbizKfADPCNp4Tm801VMxH.jpg",
       "genre_ids": [
-        18,
-        10749
+        18
       ],
-      "vote_average": 7.384,
-      "vote_count": 827,
-      "release_date": "2013-09-20"
+      "vote_average": 7.0,
+      "vote_count": 353,
+      "release_date": "2006-04-28"
     },
     {
-      "id": 61662,
+      "id": 61350,
       "media_type": "tv",
-      "title": "Шіттс Крік",
-      "original_title": "Schitt's Creek",
-      "overview": "Серіал розповідає про сімейство Роузів: Джонні Роуз — мільярдер, який заробив статок на мережі відеосалонів, його дружина — актриса мильних опер, і двоє дітей — гіпстер Девід та світська левиця Алексіс. Після того, як бізнес Джонні зазнає краху, все сімейство змушене переїхати жити в невелику сільську громаду Шіттс Крік, яку вони придбали кілька років тому заради розваги.",
-      "poster_path": "/3UuaOsE12RIN0IixGRYhh0asao.jpg",
-      "backdrop_path": "/ftNmVV8LuNVmtB8mzoUTucozVKE.jpg",
-      "genre_ids": [
-        35
-      ],
-      "vote_average": 7.783,
-      "vote_count": 712,
-      "release_date": "2015-01-13"
-    },
-    {
-      "id": 77338,
-      "media_type": "movie",
-      "title": "1+1",
-      "original_title": "Intouchables",
-      "overview": "Ставши інвалідом унаслідок нещасного випадку, багатій Філіп наймає в помічники людину, що менше всього підходить для цієї роботи — молодого мешканця нетрів Дрісса, який щойно звільнився з в’язниці. Незважаючи на те, що Філіп прикутий до інвалідного крісла, Дріссу вдається привнести в розмірене існування багатія дух пригод та жагу життя.",
-      "poster_path": "/zH6pl2chTsiO8MXRSLrYySUNSGD.jpg",
-      "backdrop_path": "/cK070s3Qdn1Ib7Gq8RgIyJKgvu3.jpg",
+      "title": "Please Like Me",
+      "original_title": "Please Like Me",
+      "overview": "",
+      "poster_path": "/dgzpboEMxpHVI3Isy5lZOCP2e6X.jpg",
+      "backdrop_path": "/hMYiGlPVRaZgL2Tu2ol5mHcChRr.jpg",
       "genre_ids": [
         18,
         35
       ],
-      "vote_average": 8.273,
-      "vote_count": 18572,
-      "release_date": "2011-11-02"
-    },
-    {
-      "id": 432226,
-      "media_type": "movie",
-      "title": "Моя щаслива родина",
-      "original_title": "ჩემი ბედნიერი ოჯახი",
-      "overview": "Картина в якій автори з нового ракурсу піднімають звичну тему батьків, дітей та кризи середнього віку.",
-      "poster_path": "/reDC0jftzFxiJvWZ95joSKWvHDg.jpg",
-      "backdrop_path": "/u7sGmPyEp5zKAufIHb2p8zu11Zx.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 7.388,
-      "vote_count": 85,
-      "release_date": "2017-05-10"
-    },
-    {
-      "id": 545611,
-      "media_type": "movie",
-      "title": "Все завжди і водночас",
-      "original_title": "Everything Everywhere All at Once",
-      "overview": "Немолода китайська іммігрантка захоплюється шаленою пригодою, в якій вона сама може врятувати світ, досліджуючи інші всесвіти, пов’язані з життям, яке вона могла би прожити.",
-      "poster_path": "/cCHzdPueHrDUc58cAf5p9tmf0IM.jpg",
-      "backdrop_path": "/ss0Os3uWJfQAENILHZUdX8Tt1OC.jpg",
-      "genre_ids": [
-        28,
-        12,
-        878
-      ],
-      "vote_average": 7.716,
-      "vote_count": 8123,
-      "release_date": "2022-03-24"
-    },
-    {
-      "id": 68106,
-      "media_type": "tv",
-      "title": "Kim's Convenience",
-      "original_title": "Kim's Convenience",
-      "overview": "",
-      "poster_path": "/82Vue6MPuYZzlpggR65cvWdBdy.jpg",
-      "backdrop_path": "/oh5ZkLhrrt1EmGfRZ4qqm743X6b.jpg",
-      "genre_ids": [
-        35
-      ],
-      "vote_average": 7.657,
-      "vote_count": 175,
-      "release_date": "2016-10-11"
-    },
-    {
-      "id": 120467,
-      "media_type": "movie",
-      "title": "Готель «Ґранд Будапешт»",
-      "original_title": "The Grand Budapest Hotel",
-      "overview": "Картина розповість про легендарного конс'єржа популярного європейського готелю і простежить за його життям між двома світовими війнами, а також за його дружбою з юною співробітницею, яка стає його протеже.  Сюжет включає в себе крадіжку безцінної картини епохи Відродження, боротьбу за величезний спадок і потрясіння, що спіткали Європу під час першої половини XX століття...",
-      "poster_path": "/u0bKng2BVQe7IOaJqoHwxnDx679.jpg",
-      "backdrop_path": "/9udCLTxTFl28RxnK8Q05E154ZGa.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "vote_average": 8.027,
-      "vote_count": 16222,
-      "release_date": "2014-02-26"
+      "vote_average": 7.6,
+      "vote_count": 157,
+      "release_date": "2013-02-28"
     }
   ]
 }

@@ -3,132 +3,149 @@
   "emoji": "🎞️",
   "title": "Естетика кадру",
   "lang": "uk",
-  "updated_at": "2026-07-17T16:30:28Z",
+  "updated_at": "2026-07-17T16:40:51Z",
   "items": [
     {
-      "id": 15318,
+      "id": 2002,
       "media_type": "movie",
-      "title": "Смак чаю",
-      "original_title": "茶の味",
-      "overview": "Сім’я Харуно мешкає в сільській місцині на північ від Токіо. Чоловік працює гіпнотерапевтом і повертається додому пізно. Жінка на ім’я Йошіко хоче повернутися до роботи художника аніме. Їхній син Хаджіме, якому виповнилося 16, страждає від власної нерішучості, яка не дозволяє йому навіть поговорити зі своїм першим коханням. 6-літню доньку на ім’я Сачіко переслідує уява власного гігантських розмірів образу. З Токіо приїздить дядечко Аяно.  Звичайне життя звичайних людей сповнене химерних, часом смішних, часом сумних подій.",
-      "poster_path": "/j4PqyrYfGFkCxuXmQ2FPD36kB0Q.jpg",
-      "backdrop_path": "/kmPpgz9TNhQO8IQcZMtmznRtgKg.jpg",
-      "genre_ids": [
-        35,
-        18,
-        14
-      ],
-      "vote_average": 7.5,
-      "vote_count": 171,
-      "release_date": "2004-07-17"
-    },
-    {
-      "id": 43423,
-      "media_type": "movie",
-      "title": "باد ما را خواهد برد",
-      "original_title": "باد ما را خواهد برد",
-      "overview": "",
-      "poster_path": "/fBFquwGxQIXtfj8KyC8IXUAVKDd.jpg",
-      "backdrop_path": "/b9UPNXGV7mEUmLejR8caJIJijow.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 7.107,
-      "vote_count": 197,
-      "release_date": "1999-09-12"
-    },
-    {
-      "id": 414453,
-      "media_type": "movie",
-      "title": "Columbus",
-      "original_title": "Columbus",
-      "overview": "",
-      "poster_path": "/3ZE5Wl3CdfUH4BkWRmyMKPHkWHx.jpg",
-      "backdrop_path": "/xN88RKXxjPAcQsdBz6XavZ00PFh.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 7.09,
-      "vote_count": 481,
-      "release_date": "2017-08-04"
-    },
-    {
-      "id": 81401,
-      "media_type": "movie",
-      "title": "Туринський кінь",
-      "original_title": "A torinói ló",
-      "overview": "У 1889 році на вулиці італійського міста Турин сталося дивна пригода. Кучер шмагав батогом свою стару коняку, яка відмовлялася рушити з місця. Несподівано до воза підбіг добре одягнений пан з пишними вусами і обняв тварину за шию, при цьому гірко заридав. Це був не хто інший, як всесвітньо відомий філософ Фрідріх Ніцше. Його насилу відвели від коня, а коли привели додому, з'ясувалося, що він не в собі. Ніцше помістили в лікарню для душевнохворих, де він провів решту життя... Але що ж сталося з конем і його господарем? Про це і розповість фільм.",
-      "poster_path": "/k5Nj2GcU8RwU53GhMZjyxQyemGF.jpg",
-      "backdrop_path": "/eMgNa5dbU34qyF0KA9DMA4TrEzn.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 7.566,
-      "vote_count": 422,
-      "release_date": "2011-03-31"
-    },
-    {
-      "id": 2346,
-      "media_type": "movie",
-      "title": "Натюрморт",
-      "original_title": "三峡好人",
-      "overview": "Після будівництва греблі древнє місто Фэнцзе у нового потужного гідровузла Санься майже затоплене, кругом ведеться знос покинутих будинків, люди переселяються в масовому порядку. В цей час і в це місце приїжджає шахтар Хань Саньмин, щоб розшукати колишню дружину, яка родом звідси, але її будинок вже давно під водою. Хань Саньмин приєднується до бригади по зносу будинків і продовжує пошуки.",
-      "poster_path": "/eVzopt6c7HmT6vS3JhkbIhTnjGy.jpg",
-      "backdrop_path": "/8TIRO8lxg3yGRqQNIAE11FFfWZS.jpg",
+      "title": "Таємна коханка",
+      "original_title": "Une vieille maîtresse",
+      "overview": "Маркіза Флер вирішує видати свою внучку, перлину знатного аристократичного роду, за дворянина Ріно де Маріньї. Той щиро закоханий у чарівне створіння, але разом з тим не пропускає ні однієї гарної спідниці.  Маркіза довідується таємницю Ріно: цей непоправний донжуан є таємним коханцем і жертвою скандальної куртизанки, дочки герцогині й тореадора...",
+      "poster_path": "/fJbNBmnTlxYPxpex2iFiV9Hx96h.jpg",
+      "backdrop_path": "/8rl2FnibCaAgn8LlkljVBayLwbU.jpg",
       "genre_ids": [
         18,
         10749
       ],
-      "vote_average": 7.2,
-      "vote_count": 174,
-      "release_date": "2006-11-16"
+      "vote_average": 5.764,
+      "vote_count": 74,
+      "release_date": "2007-05-30"
     },
     {
-      "id": 44018,
+      "id": 72852,
       "media_type": "movie",
-      "title": "Без даху, поза законом",
-      "original_title": "Sans toit ni loi",
-      "overview": "Наймит із ферми знаходить у канаві труп замерзлої жінки зі скуйовдженим волоссям, в зношеній шкіряній куртці і брудних джинсах. Це була Мона, затята незалежна бурлака, чиї останні тижні відтворюються в спогадах тих, хто зустрівся їй на шляху. Незабаром стає зрозуміло, що особливо ніхто її й не знав.",
-      "poster_path": "/ryS8cvSPX5dXmyE64dDXbQ8JFns.jpg",
-      "backdrop_path": "/tKsFh8qpYyi2AMg5O8QTVdChm4k.jpg",
+      "title": "Hadewijch",
+      "original_title": "Hadewijch",
+      "overview": "",
+      "poster_path": "/mACiJ0Gsq4BxEzNWD2xCy7eBeJZ.jpg",
+      "backdrop_path": "/htzZCK8c6DEkR1QyM0fiBTkhapx.jpg",
       "genre_ids": [
         18
       ],
-      "vote_average": 7.35,
-      "vote_count": 366,
-      "release_date": "1985-12-04"
+      "vote_average": 6.4,
+      "vote_count": 66,
+      "release_date": "2009-11-25"
     },
     {
-      "id": 503919,
+      "id": 31414,
       "media_type": "movie",
-      "title": "Маяк",
-      "original_title": "The Lighthouse",
-      "overview": "Маяк оповідає про пригоди двох доглядачів маяка, коли вони стикаються з самотністю, дружбою та своїми найгіршими страхами.",
-      "poster_path": "/mNg5YHO5cmXEigDuua1ZoXKB6DH.jpg",
-      "backdrop_path": "/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg",
+      "title": "Сатантанго",
+      "original_title": "Sátántangó",
+      "overview": "",
+      "poster_path": "/hySy5g6xncM3U1iRsdPgYyahXM0.jpg",
+      "backdrop_path": "/5a4Gmk2HNeefI4Rmwdmbyoy79oy.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 8.0,
+      "vote_count": 310,
+      "release_date": "1994-02-08"
+    },
+    {
+      "id": 47244,
+      "media_type": "movie",
+      "title": "La Captive",
+      "original_title": "La Captive",
+      "overview": "",
+      "poster_path": "/lHG211uvSaCsMCvLTAd51pesfiy.jpg",
+      "backdrop_path": "/A73L43TlR4ISUn4B9b6EGcoEcpm.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "vote_average": 5.713,
+      "vote_count": 68,
+      "release_date": "2000-09-27"
+    },
+    {
+      "id": 81857,
+      "media_type": "movie",
+      "title": "АЛЬПИ",
+      "original_title": "Άλπεις",
+      "overview": "Група ентузіастів, що називає себе \"АЛЬПИ\", наймає себе в якості замінників нещодавно померлих людей. Вони з'являються в будинку померлого, переодягаються в одяг зниклої людини і переймають характерні звички та розмови, поки сім'я не звикне до думки про смерть. Незважаючи на суворий кодекс поведінки, одна з чотирьох поступово починає стосунки з клієнтом, ризикуючи всім.",
+      "poster_path": "/m3KmoBIzMOBryZycAKWwgm5Mtsp.jpg",
+      "backdrop_path": "/tXkqc1qUPtQAmqmvxFvS23O1z1o.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 6.215,
+      "vote_count": 349,
+      "release_date": "2011-09-01"
+    },
+    {
+      "id": 26302,
+      "media_type": "movie",
+      "title": "Колір граната",
+      "original_title": "Նռան գույնը",
+      "overview": "Фільм розбитий на кілька новел, і в кожній з того чи іншого боку показані життя та ставлення до нього відомого середньовічного вірменського поета Саят-Нови. Глядач побачить історію кохання героя й подивиться через призму його сприйняття на релігійні та соціальні проблеми того часу.",
+      "poster_path": "/hNLI2g9jWkv2GKbbnTknOkCvZvm.jpg",
+      "backdrop_path": "/xd4P9EIV3T2Keh3aGnuEVWt5lh4.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "vote_average": 7.4,
+      "vote_count": 338,
+      "release_date": "1969-10-01"
+    },
+    {
+      "id": 458737,
+      "media_type": "movie",
+      "title": "Перша реформатська церква",
+      "original_title": "First Reformed",
+      "overview": "Армійський священик Толлер, що оплакує загибель сина-солдата, шукає розради під склепіннями церкви. Тут він знайомиться з молодою прихожанкою Мері, дружиною завзятого захисника природи. Коли еколог-активіст кінчає життя самогубством, Толлер і нещасна вдова відкривають правду про корупційний змову, в якому замішані найповажніші особи, включаючи священнослужителів.",
+      "poster_path": "/8Sg3yODCDN3PnaGBBayXblL4Ag2.jpg",
+      "backdrop_path": "/mLwIDLa1FMkbKLteZRTatyvWLHX.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 6.967,
+      "vote_count": 1468,
+      "release_date": "2018-05-18"
+    },
+    {
+      "id": 511819,
+      "media_type": "movie",
+      "title": "Пам’ять",
+      "original_title": "Memoria",
+      "overview": "Жінка з Шотландії навідує свою хвору сестру в Боготі. Знаходячись там, вона знайомиться з археологом і молодим музикантом. Ночами жінка починає чути дивні звуки й намагається з’ясувати їхнє походження.",
+      "poster_path": "/7lQF2CZSmzSpCFzdzpDQWhDmPNh.jpg",
+      "backdrop_path": "/nvTD2DO96mEwOga34lQZgBKpdEQ.jpg",
+      "genre_ids": [
+        18,
+        878,
+        9648
+      ],
+      "vote_average": 6.002,
+      "vote_count": 278,
+      "release_date": "2021-09-30"
+    },
+    {
+      "id": 428449,
+      "media_type": "movie",
+      "title": "Історія примари",
+      "original_title": "A Ghost Story",
+      "overview": "Історія про передчасно померлого чоловіка, який не пішов у світ інших, а залишився прив'язаний до свого колишнього дому до кінця віків.",
+      "poster_path": "/ighJTHM0Z2SxJee9cVzYHY2bbRP.jpg",
+      "backdrop_path": "/2y2aqaScd7jsUee0ddI1iRNgwGq.jpg",
       "genre_ids": [
         18,
         14,
-        53
+        10749
       ],
-      "vote_average": 7.5,
-      "vote_count": 5607,
-      "release_date": "2019-10-18"
-    },
-    {
-      "id": 336222,
-      "media_type": "movie",
-      "title": "Барани",
-      "original_title": "Hrútar",
-      "overview": "У віддаленій Ісландській долині двоє братів, Гуммі й Кідд, живуть на одній землі та мають спільні звички, але не розмовляють один з одним вже сорок років. Хвороба барана Кідді ставить під загрозу всіх навколо. Брати мусять об’єднатися, щоб урятувати спеціальну породу, яка передавалася в спадок, та самих себе від смерті.",
-      "poster_path": "/v0t3oXbcRnRSSI73RVGIZ4iD5xD.jpg",
-      "backdrop_path": "/eAgKvahrg6EY521kEA11GwGvjY2.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 6.962,
-      "vote_count": 303,
-      "release_date": "2015-05-28"
+      "vote_average": 7.063,
+      "vote_count": 2517,
+      "release_date": "2017-04-24"
     },
     {
       "id": 843,
@@ -145,23 +162,6 @@
       "vote_average": 8.087,
       "vote_count": 3296,
       "release_date": "2000-09-29"
-    },
-    {
-      "id": 3175,
-      "media_type": "movie",
-      "title": "Баррі Ліндон",
-      "original_title": "Barry Lyndon",
-      "overview": "Історія життя простого ірландського хлопця Редмонда Баррі. Ще зовсім юним, він вбиває на дуелі офіцера англійської армії. Щоб не потрапити в руки поліції, він змушений покинути рідний дім і відправляється мандрувати Ірландією. Але мандрівка була недовгою. Віддавши грабіжникам усі гроші, коня та зброю, він записується в ряди англійської армії. Пройшовши підготовку, Редмонд потрапляє в Європу, де в цей час йде Семилітня війна. Надивившись на всі страхіття війни, він вирішує дезертирувати.",
-      "poster_path": "/sOFXICvqUPwgR8M7kpRiAiKNb4G.jpg",
-      "backdrop_path": "/ef6SvWbSfCFlKodJZqpIaTvsRRP.jpg",
-      "genre_ids": [
-        18,
-        10752,
-        36
-      ],
-      "vote_average": 7.993,
-      "vote_count": 3215,
-      "release_date": "1975-12-16"
     }
   ]
 }

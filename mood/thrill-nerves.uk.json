@@ -3,170 +3,169 @@
   "emoji": "👻",
   "title": "Мурахи по шкірі",
   "lang": "uk",
-  "updated_at": "2026-07-17T16:30:20Z",
+  "updated_at": "2026-07-17T16:40:46Z",
   "items": [
     {
-      "id": 10972,
+      "id": 493922,
       "media_type": "movie",
-      "title": "Session 9",
-      "original_title": "Session 9",
-      "overview": "",
-      "poster_path": "/A3Au37c3KJX29BDvldzGiYtaU5B.jpg",
-      "backdrop_path": "/q00YpCIaO4ke4qstYnds9PtAz3t.jpg",
+      "title": "Спадковість",
+      "original_title": "Hereditary",
+      "overview": "Коли Еллен йде з життя, її рідні доньки починають поступово дізнаватися і розгадувати жахливі таємниці свого походження. І чим більше вони дізнаються, тим сильніше бажання змінити свою зловісну долю, яка дісталася їм у спадок.",
+      "poster_path": "/gAbcz0riMCn9JtPgouuZFdVW3Gi.jpg",
+      "backdrop_path": "/gJbTXKNTL6O7r7PzF6ZRkJGBlPp.jpg",
       "genre_ids": [
         27,
         9648,
+        53
+      ],
+      "vote_average": 7.297,
+      "vote_count": 8688,
+      "release_date": "2018-06-07"
+    },
+    {
+      "id": 310131,
+      "media_type": "movie",
+      "title": "Відьма: Нова англійська казка",
+      "original_title": "The Witch",
+      "overview": "Нова Англія, 1630-ті роки. Вільям і Кетрін з п'ятьма дітьми живуть на самотній фермі на узліссі стародавнього лісу. Сім'я починає руйнуватися від невідомого зла, коли їх новонароджений син таємничо зникає, врожай гине, а їхня донька підозрюється в чаклунстві.",
+      "poster_path": "/wOaw1cIdf5zhioOEOX9BvRbb9f6.jpg",
+      "backdrop_path": "/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg",
+      "genre_ids": [
+        27
+      ],
+      "vote_average": 7.0,
+      "vote_count": 7722,
+      "release_date": "2016-02-19"
+    },
+    {
+      "id": 97370,
+      "media_type": "movie",
+      "title": "Опинись у моїй шкірі",
+      "original_title": "Under the Skin",
+      "overview": "Ця фатальна красуня надто байдужа, так що ж штовхає її регулярно виїжджати на трасу в своєму старому фургончику і підбирати зовсім незнайомих чоловіків? При цьому, дівчина зовсім не повія, а особина інопланетного походження. Але зовнішність оманлива. Головне її завдання - це викрадення чоловіків.  Фільм знятий за однойменним романом Мішеля Фабера. Прем’єра картини відбулась 29 серпня 2013 року на кінофестивалі в Теллурі. Пізніше, фільм був показаний в рамках 70-го Венеціанського кінофестивалю, а також на 38-му кінофестивалі в Торонто.",
+      "poster_path": "/55wmcXJIDYITr7JDijJTdvwSaAv.jpg",
+      "backdrop_path": "/eS5OdKN3kRZXQbWRSSCJ4Gh0z26.jpg",
+      "genre_ids": [
+        53,
+        878,
         18
       ],
       "vote_average": 6.138,
-      "vote_count": 1040,
-      "release_date": "2001-08-10"
+      "vote_count": 3852,
+      "release_date": "2014-03-14"
     },
     {
-      "id": 242224,
+      "id": 27374,
       "media_type": "movie",
-      "title": "Бабадук",
-      "original_title": "The Babadook",
-      "overview": "Шість років тому Амелія в один день втратила чоловіка і народила сина. Семуелю йде вже сьомий рік, але йому скрізь ввижаються чудовиська. Одного разу перед сном хлопчик просить маму почитати йому знайдену книгу про жахливого монстра. З цього моменту його страхи отримують фізичне втілення в моторошному Бабадуці — і він, і Амелія перестають відрізняти свої фантазії від реальності.",
-      "poster_path": "/aYG4J3ULZPGKh6tIxQBMGJY36UW.jpg",
-      "backdrop_path": "/t18ocAG0cpgC1AP288SseqmXqB5.jpg",
-      "genre_ids": [
-        18,
-        27
-      ],
-      "vote_average": 6.5,
-      "vote_count": 6463,
-      "release_date": "2014-05-22"
-    },
-    {
-      "id": 293670,
-      "media_type": "movie",
-      "title": "Виття",
-      "original_title": "곡성",
-      "overview": "Незнайомець приїжджає до невеликого села, і незабаром після того починає поширюватися загадкова хвороба. Поліцейський розслідує інцидент і змушений розкрити таємницю, щоб врятувати свою дочку.",
-      "poster_path": "/yjMjnzE8OV1a9eofq8KA3XSAtLk.jpg",
-      "backdrop_path": "/9qxBNfI1QFbiZS62fsgaUd563t2.jpg",
-      "genre_ids": [
-        27,
-        9648
-      ],
-      "vote_average": 7.37,
-      "vote_count": 2086,
-      "release_date": "2016-05-12"
-    },
-    {
-      "id": 547565,
-      "media_type": "movie",
-      "title": "Нічний будинок",
-      "original_title": "The Night House",
-      "overview": "Шокована неочікуваною смертю чоловіка, Бет проводить час на самоті в будиночку біля озера, який він побудував для неї. Жінка намагається тримати себе в руках, але ситуація погіршується, коли вона починає бачити жахіття. Страхітливі видіння кличуть і зачаровують її. Бет починає шукати відповіді на свої запитання в речах покійного чоловіка, хоча її друзі радять цього не робити. Те, що вона знаходить, є водночас дивним і тривожним — це таємниця, яку вона мусить розкрити.",
-      "poster_path": "/7A55AMgZ0tRHod8KONQXtIbRuCZ.jpg",
-      "backdrop_path": "/qbQ219gsHpdx33WSfdCgG9I2Xg5.jpg",
-      "genre_ids": [
-        27,
-        9648
-      ],
-      "vote_average": 6.553,
-      "vote_count": 1348,
-      "release_date": "2021-07-15"
-    },
-    {
-      "id": 864370,
-      "media_type": "movie",
-      "title": "Закляття",
-      "original_title": "咒",
-      "overview": "Шість років тому Лі Ронан була проклята, порушивши релігійне табу. Тепер вона має захистити свою дочку від наслідків своїх дій.",
-      "poster_path": "/fLA1yvDwH1JxiiJW0ObOxkrkusR.jpg",
-      "backdrop_path": "/vqEX1uF3Spl12rOACQ3gJ6j4MSR.jpg",
-      "genre_ids": [
-        27
-      ],
-      "vote_average": 6.839,
-      "vote_count": 844,
-      "release_date": "2022-03-18"
-    },
-    {
-      "id": 2667,
-      "media_type": "movie",
-      "title": "Відьма з Блер: Курсова з того світу",
-      "original_title": "The Blair Witch Project",
-      "overview": "Троє студентів-кінематографістів вирушають до лісу, щоб зняти документальний фільм про легендарну відьму, якій приписують серію вбивств, скоєних 200 років тому.",
-      "poster_path": "/prZriHyMaW1t9jW8bo70YfNVLrc.jpg",
-      "backdrop_path": "/1JnemtgRmn3vcVE4GEzUkJVuL8B.jpg",
-      "genre_ids": [
-        27,
-        9648
-      ],
-      "vote_average": 6.366,
-      "vote_count": 5510,
-      "release_date": "1999-07-14"
-    },
-    {
-      "id": 6537,
-      "media_type": "movie",
-      "title": "Притулок",
-      "original_title": "El orfanato",
+      "title": "Lake Mungo",
+      "original_title": "Lake Mungo",
       "overview": "",
-      "poster_path": "/wk95EOzZKd74NFzVVkHBo1UW46o.jpg",
-      "backdrop_path": "/g6pNnKmvTkNlEvn0ScwstYvhFE.jpg",
+      "poster_path": "/g0zCELYfBfSv8TOGC13buABVN53.jpg",
+      "backdrop_path": "/5eaS62YjA5Z7WPcf4quyZa5VpeO.jpg",
       "genre_ids": [
         27,
-        18,
         53
       ],
-      "vote_average": 7.233,
-      "vote_count": 3146,
-      "release_date": "2007-05-20"
+      "vote_average": 6.17,
+      "vote_count": 698,
+      "release_date": "2009-07-30"
     },
     {
-      "id": 409297,
+      "id": 10234,
       "media_type": "movie",
-      "title": "Пісня диявола",
-      "original_title": "A Dark Song",
-      "overview": "Софія орендує заміський особняк в глушині і запрошує туди для якогось темного обряду окультиста Джозефа. Спочатку той відмовляється проводити обряд, але дізнавшись, що жінка втратила сина і хоче таким чином з ним поспілкуватися, погоджується. Софія закуповується їжею на півроку, окультист запечатує соляним кругом будинок, і тепер дороги назад немає — що б не сталося, вони повинні довести розпочате до кінця, перш ніж вийти назовні.",
-      "poster_path": "/8eJe6SEvTlkXVzyHhUc3vAmAJPl.jpg",
-      "backdrop_path": "/sac5saRWC8zV8GFHL4D45TuUr3s.jpg",
+      "title": "Веселі ігри",
+      "original_title": "Funny Games",
+      "overview": "Заможна австрійська сім'я - чоловік Ґеорґ і дружина Анна з маленьким сином Ґеорґом - приїжджає влітку на дачу. Незабаром до оселі прийшов молодик Пітер і просить чотири яйця для сусідки.",
+      "poster_path": "/pnxGJSR4ZD6jKEj61GfJaaeZVzR.jpg",
+      "backdrop_path": "/79SBe1bU30Dy6QPwJ2KQ3LTr1lr.jpg",
+      "genre_ids": [
+        18,
+        27,
+        53
+      ],
+      "vote_average": 7.312,
+      "vote_count": 2106,
+      "release_date": "1997-09-11"
+    },
+    {
+      "id": 306947,
+      "media_type": "movie",
+      "title": "Запрошення",
+      "original_title": "The Invitation",
+      "overview": "Уілл відправляється на вечірку до своєї колишньої дружини, де незабаром приходить до висновку, що його екс-дружина щось приховує. Разом з компанією своїх нових друзів вона готується до здійснення таємничого і жахливого плану.",
+      "poster_path": "/otZMaGHWnKPgOODF6SSVNGqbI4X.jpg",
+      "backdrop_path": "/UT0FaX3djSmvphvDopomPNWXIQ.jpg",
+      "genre_ids": [
+        53,
+        27
+      ],
+      "vote_average": 6.419,
+      "vote_count": 2891,
+      "release_date": "2016-04-08"
+    },
+    {
+      "id": 516632,
+      "media_type": "movie",
+      "title": "Порожнеча",
+      "original_title": "The Empty Man",
+      "overview": "У пошуках зниклої дівчини колишній поліцейський виходить на слід таємної групи, члени якої одержимі ідеєю призвати в наш світ якусь надприродну сутність.",
+      "poster_path": "/u1hNl8rzw5wM0YBLIiwM0yzHbD1.jpg",
+      "backdrop_path": "/hwpbTeZEaKKUfiUjc2FJZpv7uAI.jpg",
       "genre_ids": [
         27,
-        14,
         9648
       ],
-      "vote_average": 6.3,
-      "vote_count": 566,
-      "release_date": "2016-07-08"
+      "vote_average": 6.159,
+      "vote_count": 1044,
+      "release_date": "2020-10-22"
     },
     {
-      "id": 1933,
+      "id": 207774,
       "media_type": "movie",
-      "title": "Інші",
-      "original_title": "The Others",
-      "overview": "Події розгортаються в 1947 році на британському острові Джерсі. Війна давно закінчилася, у відокремленому від світу маєтку молода жінка Грейс сама виховує дітей в дусі власних релігійних принципів. Її донька та син страждають дивним захворюванням: вони не виносять прямого денного світла. Коли в будинку з'являються нові слуги, вони повинні вивчити важливі правила: всі кімнати завжди повинні бути у мороці, а ще не можна відкривати двері, поки не замкнено попередню. Але суворому порядку, встановленому Грейс, буде кинуто виклик…",
-      "poster_path": "/qpLLCoQe0c6HnkfHsVPrT78zjKv.jpg",
-      "backdrop_path": "/rbBe9WQ1OqCxzgwskOTnaY6JdUA.jpg",
+      "title": "The Borderlands",
+      "original_title": "The Borderlands",
+      "overview": "",
+      "poster_path": "/dNtkysYSyE3FcUGbdkooDckD16Y.jpg",
+      "backdrop_path": "/j6xyaXJO4oaE99QJGxggpeLbJ7j.jpg",
+      "genre_ids": [
+        27
+      ],
+      "vote_average": 5.532,
+      "vote_count": 312,
+      "release_date": "2014-03-28"
+    },
+    {
+      "id": 121606,
+      "media_type": "movie",
+      "title": "Ломка",
+      "original_title": "Resolution",
+      "overview": "Коли герой стрічки отримав від друга благання про допомогу для позбавлення від наркозалежності, наш персонаж і не підозрював, з чим йому доведеться зіткнутися. А ще через деякий час в його житті з'являються дивні особистості, чиї наміри неможливо передбачити і зрозуміти. І в такій ситуації наркотики здадуться чимось добрим, адже справжній страх уже підкрався і чекає свого часу...",
+      "poster_path": "/uEXyKsm0Q0zSbT5CH8VzByWEme1.jpg",
+      "backdrop_path": "/fF5XLTGoZEsP84wcDF3HtGNp5zm.jpg",
       "genre_ids": [
         27,
-        9648,
-        53
+        53,
+        9648
       ],
-      "vote_average": 7.617,
-      "vote_count": 7255,
-      "release_date": "2001-08-02"
+      "vote_average": 6.352,
+      "vote_count": 470,
+      "release_date": "2013-01-25"
     },
     {
-      "id": 72844,
-      "media_type": "tv",
-      "title": "Привиди будинку на пагорбі",
-      "original_title": "The Haunting of Hill House",
-      "overview": "Минуле й сьогодення переплітається, нещасну сім’ю переслідують спогади про старий дім і жахливі події, через які вона його покинула.",
-      "poster_path": "/roPaZZnwTOkfamRy20btRxaA4s1.jpg",
-      "backdrop_path": "/dQF17lG4OZ3pC4QD9iNjaMS96gO.jpg",
+      "id": 397243,
+      "media_type": "movie",
+      "title": "Демон всередині",
+      "original_title": "The Autopsy of Jane Doe",
+      "overview": "Трунар маленького містечка отримує тіло жертви таємничого вбивства - красивої і молодої Джейн Доу. Він намагається з'ясувати, хто вона і як померла, виявляючи все більш вигадливі підказки, які ведуть до жахливих таємниць її смерті.",
+      "poster_path": "/sA5Ux7CcDlr7RFITMrgAHMLJLas.jpg",
+      "backdrop_path": "/2pOd80PQSJ9cUbli7PDeX59q3vQ.jpg",
       "genre_ids": [
-        9648,
-        18
+        27,
+        9648
       ],
-      "vote_average": 8.106,
-      "vote_count": 2754,
-      "release_date": "2018-10-12"
+      "vote_average": 6.836,
+      "vote_count": 4775,
+      "release_date": "2016-12-21"
     }
   ]
 }

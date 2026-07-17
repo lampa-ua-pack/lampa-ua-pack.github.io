@@ -3,164 +3,168 @@
   "emoji": "😢",
   "title": "До сліз",
   "lang": "uk",
-  "updated_at": "2026-07-17T16:30:06Z",
+  "updated_at": "2026-07-17T16:40:37Z",
   "items": [
     {
-      "id": 378064,
+      "id": 258230,
       "media_type": "movie",
-      "title": "Форма голосу",
-      "original_title": "映画 聲の形",
-      "overview": "В молодшій школі хлопець на ім’я Шьоя перетворював життя однокласниці Шьоко на пекло. Лише тому, що та була глуха, не як усі. І тепер, через декілька років, хлопець зрозумів: щоб сказати дещо важливе тому, хто не може тебе почути, не обов’язково використовувати голос.",
-      "poster_path": "/nfXwfcU9srlohAY5uQoqXVPPTJ4.jpg",
-      "backdrop_path": "/5lAMQMWpXMsirvtLLvW7cJgEPkU.jpg",
+      "title": "Голос монстра",
+      "original_title": "A Monster Calls",
+      "overview": "Вражаюча уяву історія про хлопчика Коннора і монстра з його снів. Коли Коннору особливо важко, відбувається щось неймовірне - старе Тисовий дерево за вікном оживає і перетворюється на величезне чудовисько. Ночами монстр розповідає Коннору історії, які допоможуть йому зрозуміти, що навіть коли весь світ валиться, можна знайти в собі сили і не впадати у відчай.",
+      "poster_path": "/dswQtiC2BG5krLRvRont8Qc3zam.jpg",
+      "backdrop_path": "/9iz9NrxldLvJof2133xvQH5vvhh.jpg",
       "genre_ids": [
-        16,
-        18,
-        10749
+        14,
+        12,
+        10751
       ],
-      "vote_average": 8.394,
-      "vote_count": 4557,
-      "release_date": "2016-09-17"
+      "vote_average": 7.305,
+      "vote_count": 3585,
+      "release_date": "2016-10-07"
     },
     {
-      "id": 315846,
+      "id": 525183,
       "media_type": "movie",
-      "title": "海街diary",
-      "original_title": "海街diary",
+      "title": "Паддлтон",
+      "original_title": "Paddleton",
       "overview": "",
-      "poster_path": "/nTRdnuqkSXbo9ZxR8BMQbZRGwkv.jpg",
-      "backdrop_path": "/b0Xdh15XGZbKON9CbFVB5sTqrSJ.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 7.561,
-      "vote_count": 567,
-      "release_date": "2015-06-13"
-    },
-    {
-      "id": 67136,
-      "media_type": "tv",
-      "title": "Це ми",
-      "original_title": "This Is Us",
-      "overview": "18 мільйонів людей, що нині живуть у світі, одночасно відзначають власний день народження. Але однакова святкова дата — не єдина обставина, що об'єднує їх при всій несхожості. Хтось тільки що народився, але так і не побачив свою померлу мати, залишаючись з переживаючим трагедію батьком. Хтось у день народження вирішив знайти свого батька, який кинув його багато років тому. А хтось всерйоз комплексує від ожиріння і переїдання — і більшої проблеми в світі для нього не існує.",
-      "poster_path": "/huxmY6Dmzwpv5Q2hnNft0UMK7vf.jpg",
-      "backdrop_path": "/frNEERYvgDAThEcCR5FKzggktsR.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 8.2,
-      "vote_count": 1635,
-      "release_date": "2016-09-20"
-    },
-    {
-      "id": 354912,
-      "media_type": "movie",
-      "title": "Коко",
-      "original_title": "Coco",
-      "overview": "Мігель живе в мексиканському селі в родині шевців і дуже хоче стати музикантом. Щоб здійснити мрію, хлопець має розгадати давню таємницю свого роду, заховану у Країні Мертвих. Отож, взявши в напарники скелета-провідника та дивакуватого пса Данте, Мігель вирушає в потойбіччя…",
-      "poster_path": "/eQqi1KtE5arIwyzYdBluKozIj9t.jpg",
-      "backdrop_path": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
-      "genre_ids": [
-        10751,
-        16,
-        10402,
-        12
-      ],
-      "vote_average": 8.198,
-      "vote_count": 21119,
-      "release_date": "2017-10-27"
-    },
-    {
-      "id": 283552,
-      "media_type": "movie",
-      "title": "Світло між двох океанів",
-      "original_title": "The Light Between Oceans",
-      "overview": "Історія розгортається на віддаленому від великої суші австралійському острові після закінчення Першої світової війни. Доглядач маяка і його дружина стикаються з моральною дилемою, коли знаходять в човні новонароджену дитину і мертвого чоловіка. Пара вирішує виховати дитину як свою власну, не уявляючи, наскільки руйнівними будуть наслідки їхнього вибору.",
-      "poster_path": "/qreyKsnwYjh6yzYNDDLRIP0eJbM.jpg",
-      "backdrop_path": "/s72jkxT7xPbfGxnE1lETq5OywvY.jpg",
-      "genre_ids": [
-        18,
-        10749
-      ],
-      "vote_average": 7.067,
-      "vote_count": 1431,
-      "release_date": "2016-09-02"
-    },
-    {
-      "id": 492188,
-      "media_type": "movie",
-      "title": "Шлюбна історія",
-      "original_title": "Marriage Story",
-      "overview": "Подружжя — театральний режисер Чарлі і актриса його театру Ніколь — знаходяться в процесі розлучення. Чарлі все влаштовувало в їхньому шлюбі, але Ніколь вважає, що втратила себе, і, забравши сина, переїжджає до мами в Лос-Анджелес. Там їй вже запропонували роль в серіалі і порадили висококласного адвоката по розлученнях. Тепер Чарлі теж доведеться шукати адвоката, а також розриватися між західним і східним узбережжями, щоб продовжувати працювати і проводити час з сином.",
-      "poster_path": "/hZU95VffUahAM1gcP5ButSvNRUy.jpg",
-      "backdrop_path": "/wDwQXLDUuiEaaiuWIDBpbqnwYGX.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 7.732,
-      "vote_count": 7465,
-      "release_date": "2019-09-28"
-    },
-    {
-      "id": 79410,
-      "media_type": "tv",
-      "title": "По той бік життя",
-      "original_title": "After Life",
-      "overview": "У Тоні було ідеальне життя. Але після того, як його дружина Ліза раптово помирає, Тоні змінюється. Розмірковуючи про те, щоб накласти на себе руки, він вирішує натомість прожити достатньо довго, щоб покарати світ, відтепер говорячи та роблячи все, що йому заманеться.",
-      "poster_path": "/53GCQINqM3YbzoWaIZDKoD9Jrcx.jpg",
-      "backdrop_path": "/AeVleqwWBMkiliVw6lFZICTTMiO.jpg",
+      "poster_path": "/gtssTSvNgY8132hPRtp1DbciYJ6.jpg",
+      "backdrop_path": "/maoFnW8j7thGdiplQgT5UGNlbHo.jpg",
       "genre_ids": [
         35,
         18
       ],
-      "vote_average": 7.9,
-      "vote_count": 1092,
-      "release_date": "2019-03-08"
+      "vote_average": 6.961,
+      "vote_count": 311,
+      "release_date": "2019-02-01"
     },
     {
-      "id": 600354,
+      "id": 565310,
       "media_type": "movie",
-      "title": "Батько",
-      "original_title": "The Father",
-      "overview": "Ентоні, незважаючи на похилий вік, мешкає сам у Лондоні, у своїй шикарній квартирі. Та відкидає усі спроби доньки облаштувати його повсякденне життя. Однак, дочка не поспішає здаватися. Вона стає дедалі наполегливішою у своїх намаганнях покращити життя батька, який починає сумніватися у своїх близьких, власному розумі та у реальності, що його оточує...",
-      "poster_path": "/1mPGwVwyIDCLYXjhyeSDoVWGQiI.jpg",
-      "backdrop_path": "/h3weAFgg06GqchI2xDfufBgSFTj.jpg",
+      "title": "Прощання",
+      "original_title": "The Farewell",
+      "overview": "Американка китайського походження повертається до Китаю, коли їй улюбленій бабусі ставлять смертельний діагноз. Біллі бореться з рішенням сім'ї тримати бабусю в невіданні щодо її власної хвороби, коли всі вони влаштовують імпровізоване весілля, щоб побачити бабусю востаннє.",
+      "poster_path": "/7ht2IMGynDSVQGvAXhAb83DLET8.jpg",
+      "backdrop_path": "/5INPBiKVRsyp9kgHfsC0cTfvKFH.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "vote_average": 7.41,
+      "vote_count": 1558,
+      "release_date": "2019-07-12"
+    },
+    {
+      "id": 28178,
+      "media_type": "movie",
+      "title": "Хатіко: Вірний друг",
+      "original_title": "Hachi: A Dog's Tale",
+      "overview": "Фільм заснований на реальній історії, яка сталася в Японії. Міцна дружба університетського професора з собакою почалася з тих пір як він підібрав її на вулиці. Навіть після смерті друга Хатіко приходив на вокзал зустрічати господаря і чекав його до останнього поїзда.",
+      "poster_path": "/hwl3QgtvqvdmXRzpiWQBZf9i2gx.jpg",
+      "backdrop_path": "/a5pOEjOLvr04Hr8qktIDM75OZi0.jpg",
+      "genre_ids": [
+        18,
+        10751
+      ],
+      "vote_average": 8.006,
+      "vote_count": 7231,
+      "release_date": "2009-06-08"
+    },
+    {
+      "id": 127373,
+      "media_type": "movie",
+      "title": "Розлучення у великому місті",
+      "original_title": "What Maisie Knew",
+      "overview": "Батьки шестирічної Мейзі, мама — рок-зірка і тато — арт-дилер, розлучилися. У кожного свої турботи і справи, що вони зовсім забувають про те, що у них є дочка. Її потрібно забирати з садка, сидіти з нею, коли вона захворіє, укладати її спати, батькам не до неї. І на кого ж залишити крихітку Мейзі? Звичайно на колишню няню — нинішню дружину тата, Марго, і на нового чоловіка мами — бармена Лінкольна …",
+      "poster_path": "/A3BswTnugjEW2EhW8Tn1FUuZuZB.jpg",
+      "backdrop_path": "/kk1MMdWF9Z4vBMM0ebBjD7G5zFf.jpg",
       "genre_ids": [
         18
       ],
-      "vote_average": 8.1,
-      "vote_count": 3674,
-      "release_date": "2020-12-23"
+      "vote_average": 7.118,
+      "vote_count": 449,
+      "release_date": "2013-05-02"
     },
     {
-      "id": 319373,
+      "id": 110416,
       "media_type": "movie",
-      "title": "あん",
-      "original_title": "あん",
+      "title": "Пісня моря",
+      "original_title": "Song of the Sea",
+      "overview": "Маленька дівчинка на ім’я Сірша, яка вміє перетворюватися на тюленя, вирушає у подорож разом із братом, аби врятувати світ духів та інших чарівних істот, як і вона.",
+      "poster_path": "/4SGxx2JFftI3FGhJppWNaMXJLNN.jpg",
+      "backdrop_path": "/mVLZvSe1Aa8CFKx0cInTamVZJrW.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        14
+      ],
+      "vote_average": 7.991,
+      "vote_count": 1596,
+      "release_date": "2014-06-23"
+    },
+    {
+      "id": 86391,
+      "media_type": "movie",
+      "title": "Et si on vivait tous ensemble ?",
+      "original_title": "Et si on vivait tous ensemble ?",
       "overview": "",
-      "poster_path": "/2zlJUEKagZ7IBJInozM7N1RcikF.jpg",
-      "backdrop_path": "/m2YuVWnbZH1pkxbBhNx4BR5F99n.jpg",
+      "poster_path": "/5trJayhXhgRks9fdbwltmO8mirP.jpg",
+      "backdrop_path": "/2x1Jinf7X5hIwHnu6izGW1jhjMr.jpg",
       "genre_ids": [
+        35,
         18
       ],
-      "vote_average": 7.45,
-      "vote_count": 608,
-      "release_date": "2015-05-30"
+      "vote_average": 6.338,
+      "vote_count": 108,
+      "release_date": "2012-01-18"
     },
     {
-      "id": 89905,
-      "media_type": "tv",
-      "title": "Нормальні люди",
-      "original_title": "Normal People",
-      "overview": "Старшокласник Коннелл — один з найпопулярніших хлопців у школі, зірка місцевої футбольної команди, Маріанна — тиха і сором’язлива учениця. Підлітки з різних соціальних груп несподівано один для одного сходяться, але через помилку, зробленою Коннеллом напередодні випускного, їх чекає важкий розрив. Пізніше доля підносить їм ще один шанс, а потім ще один — чи зможуть вони бути щасливі разом?",
-      "poster_path": "/7IRYYTOVxLTjsnrUuuYCVJ2idM9.jpg",
-      "backdrop_path": "/w8rTBScgj2MON7eGN7raoU5qChJ.jpg",
+      "id": 399057,
+      "media_type": "movie",
+      "title": "Вбивство священного оленя",
+      "original_title": "The Killing of a Sacred Deer",
+      "overview": "Стівен Мерфі – звичайний кардіохірург з неймовірною харизмою. Він щасливо живе зі своєю прекрасною дружиною Анною та чудовими дітьми Кім і Бобом. Стівен прихистив також дивного підлітка на ім'я Мартін. На вигляд він не несе ніякої небезпеки, але його настрій і поведінка можуть призвести до неймовірних наслідків. Життя чоловіка починає рушитися і, врешті-решт, він повинен зробити величезну жертву, щоб все хоч трохи налагодилося. Питання тільки в тому, чи здатний Стівен на таку жертву?",
+      "poster_path": "/d3N5xekv7ZyKeeiP5VTxGG2lqBn.jpg",
+      "backdrop_path": "/kJwQXgAk440l2vZOspUJee6inim.jpg",
+      "genre_ids": [
+        18,
+        53,
+        9648
+      ],
+      "vote_average": 7.005,
+      "vote_count": 4484,
+      "release_date": "2017-10-20"
+    },
+    {
+      "id": 74308,
+      "media_type": "movie",
+      "title": "Учитель на заміну",
+      "original_title": "Detachment",
+      "overview": "Позаштатний вчитель, маневруючи між класними кімнатами, намагається знайти підхід до учнів і колег. Раніше не затримуючись ні в одному місці надовго, він захищає себе від емоційної прихильності. Але на цей раз його почуття пробуджує знайомство з трьома жіночими персонажами...",
+      "poster_path": "/ebsnuQVUpI4lFTcyzMbhU70RjDo.jpg",
+      "backdrop_path": "/iJwtR94Yq9U83ET0TzirsGWTewH.jpg",
       "genre_ids": [
         18
       ],
-      "vote_average": 8.117,
-      "vote_count": 1359,
-      "release_date": "2020-04-26"
+      "vote_average": 7.625,
+      "vote_count": 2033,
+      "release_date": "2011-04-24"
+    },
+    {
+      "id": 191714,
+      "media_type": "movie",
+      "title": "The Lunchbox",
+      "original_title": "The Lunchbox",
+      "overview": "",
+      "poster_path": "/eZvdKgnFLjkxe9rpYZhRMLE0X0U.jpg",
+      "backdrop_path": "/lgrgEf43kYFm9mh6pj8ArcaxUbd.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "vote_average": 7.384,
+      "vote_count": 827,
+      "release_date": "2013-09-20"
     }
   ]
 }
