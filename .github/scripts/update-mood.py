@@ -194,10 +194,17 @@ def ai_suggest_batch(batch: list) -> dict:
         '"title" (original English or international title), '
         '"year" (release year as integer), '
         '"media_type" ("movie" or "tv"). '
-        "Favor diversity across decades and countries. Avoid the same tired top-list "
-        "picks everyone names first; include lesser-known gems that still fit each mood. "
         "Give a FRESH selection: prefer titles you would not list first, and do NOT repeat "
         "any titles named in the theme's 'AVOID' list. "
+        "Quality rules for EVERY list: "
+        "(1) at most ONE title per franchise or a director's recurring series; "
+        "(2) balance widely-loved anchors with lesser-known gems, roughly half and half; "
+        "(3) mix eras — include a few titles from the last ~5 years alongside older ones, "
+        "UNLESS the theme restricts the era; "
+        "(4) span different countries and languages, not only English-language cinema; "
+        "(5) include TV series where the mood suits episodic viewing, and films where it is "
+        "inherently cinematic; "
+        "(6) order each list from the STRONGEST mood-fit first to the weakest last. "
         "CRITICAL: pick titles by how well they match the MOOD, not by shared genre tags. "
         "Exclude a famous title if its actual mood is wrong (e.g. a bleak thriller does not "
         "belong in a comedy mood, a crime saga does not belong in a tearjerker mood)."
@@ -551,9 +558,10 @@ def collect_candidates(theme: dict, suggestions: list) -> dict:
         lambda s: tmdb_search(s["title"], s["year"], s["media_type"]),
         suggestions,
     )
-    for cand in resolved:
+    for i, cand in enumerate(resolved):
         if cand and cand.get("id") is not None:
-            candidates[(cand["media_type"], cand["id"])] = cand
+            cand["ai_order"] = i   # кураторський порядок ІІ (менше = вище пріоритет)
+            candidates.setdefault((cand["media_type"], cand["id"]), cand)
 
     # 2. discover-пул
     for cand in tmdb_discover(theme):
@@ -609,9 +617,11 @@ def process_theme(theme: dict, suggestions: list, global_used) -> dict:
     filtered = [c for k, c in candidates.items()
                 if passes_filters(c, theme) and global_used[k] < MAX_THEME_REUSE]
 
-    # ранжування: ІІ-добірка (розуміє настрій) — попереду; discover/prev — лише добивання до TARGET
+    # ранжування: ІІ-добірка попереду, У КУРАТОРСЬКОМУ ПОРЯДКУ ІІ (не за популярністю),
+    # лише ультра-блокбастери зсуваємо в хвіст; discover/prev — на добивання до TARGET
     ai_ranked = prioritize_obvious(
-        sorted((c for c in filtered if c["source"] == "ai"), key=rank_key, reverse=True))
+        sorted((c for c in filtered if c["source"] == "ai"),
+               key=lambda c: c.get("ai_order", 10**6)))
     other_ranked = sorted((c for c in filtered if c["source"] != "ai"),
                           key=rank_key, reverse=True)
     ranked = ai_ranked + other_ranked
