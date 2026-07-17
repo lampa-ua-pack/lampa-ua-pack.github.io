@@ -17,6 +17,7 @@ permissions:
 jobs:
   update-mood:
     runs-on: ubuntu-latest
+    timeout-minutes: 20   # жорсткий запобіжник: GitHub акуратно вб'є, а не зависне
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -44,7 +45,7 @@ jobs:
           OPENCODE_MODEL: ${{ vars.OPENCODE_MODEL || secrets.OPENCODE_MODEL }}
           # токен — лише секрет
           OPENCODE_TOKEN: ${{ secrets.OPENCODE_TOKEN }}
-        run: python .github/scripts/update-mood.py
+        run: python -u .github/scripts/update-mood.py   # -u = живий (небуферизований) лог
 
       - name: Commit and push changes
         run: |

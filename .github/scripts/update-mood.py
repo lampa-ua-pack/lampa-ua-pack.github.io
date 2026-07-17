@@ -62,23 +62,26 @@ OPENCODE_TOKEN = os.environ.get("OPENCODE_TOKEN", "").strip()
 TMDB_BASE_URL = "https://api.themoviedb.org/3"
 MOOD_DIR = Path("mood")
 TIMEOUT = 15
-OPENCODE_TIMEOUT = 90
-OPENCODE_RETRIES = int(os.environ.get("OPENCODE_RETRIES", "2"))  # додаткові спроби на таймаут/помилку
+OPENCODE_TIMEOUT = int(os.environ.get("OPENCODE_TIMEOUT", "60"))  # швидкий відказ на завислий запит
+OPENCODE_RETRIES = int(os.environ.get("OPENCODE_RETRIES", "1"))  # додаткові спроби (менше = без штормів)
 OPENCODE_TEMPERATURE = float(os.environ.get("OPENCODE_TEMPERATURE", "0.9"))  # вище = різноманітніше
 OPENCODE_SEED = os.environ.get("OPENCODE_SEED", "").strip()  # порожньо = без seed (свіжа вибірка щоразу)
+AI_BUDGET_SEC = int(os.environ.get("AI_BUDGET_SEC", "300"))  # ліміт часу на ВСЮ ІІ-фазу; після нього
+                                                            # нові ІІ-запити не робляться (теми -> stale)
+_AI_START = time.monotonic()  # старт відліку бюджету ІІ (звичайний скрипт — time доступний)
 
 MAX_WORKERS = int(os.environ.get("MAX_WORKERS", "16"))   # паралелізм TMDb
-AI_WORKERS = int(os.environ.get("AI_WORKERS", "2"))      # паралелізм OpenCode (малий: тяжкі
-                                                         # відповіді ділять пропускну здатність free-моделі)
-AI_BATCH_SIZE = int(os.environ.get("AI_BATCH_SIZE", "2"))  # скільки тем в одному запиті до ІІ.
-                                                           # Мало титрів/запит -> вкладаємось у таймаут
-                                                           # без ретраїв. (14 = один запит на всі теми)
+AI_WORKERS = int(os.environ.get("AI_WORKERS", "2"))      # паралелізм OpenCode
+AI_BATCH_SIZE = int(os.environ.get("AI_BATCH_SIZE", "1"))  # тем на запит. 1 = легкий надійний запит
+                                                           # (single-key fallback є). (14 = один запит на всі)
 
 TARGET_COUNT = int(os.environ.get("TARGET_COUNT", "10"))        # фінальних тайтлів на тему
-AI_REQUEST_COUNT = int(os.environ.get("AI_REQUEST_COUNT", "15"))  # назв просимо в ІІ (запас ~1.5x
-                                                                 # на резолв/дедуп; ІІ — головне джерело)
-DISCOVER_PAGES = int(os.environ.get("DISCOVER_PAGES", "2"))  # сторінок /discover на кожен тип
-VOTE_COUNT_MIN = 150         # поріг популярності (відсікає мотлох/неіснуюче)
+AI_REQUEST_COUNT = int(os.environ.get("AI_REQUEST_COUNT", "15"))  # назв просимо в ІІ (запас на резолв/дедуп;
+                                                                 # ІІ — ЄДИНЕ джерело наповнення)
+DISCOVER_PAGES = int(os.environ.get("DISCOVER_PAGES", "0"))  # 0 = discover вимкнено (контент лише від ІІ)
+VOTE_COUNT_MIN = 150         # поріг популярності для discover-кандидатів (відсікає мотлох)
+AI_VOTE_COUNT_MIN = int(os.environ.get("AI_VOTE_COUNT_MIN", "50"))  # м'якший поріг для ІІ-пиків
+                                                                    # (пускає артхаус-рідкості, ловить хибні матчі)
 OBVIOUS_VOTE_COUNT = 15000   # «занадто очевидні» блокбастери
 OBVIOUS_MAX = 4              # скільки «очевидних» брати ПЕРШИМИ (решта — у хвіст, не викидаються)
 MAX_THEME_REUSE = int(os.environ.get("MAX_THEME_REUSE", "2"))  # у скількох темах може бути один тайтл
@@ -163,6 +166,9 @@ def _opencode_chat(system_prompt: str, user_prompt: str, label: str):
 
     attempts = OPENCODE_RETRIES + 1
     for attempt in range(1, attempts + 1):
+        if time.monotonic() - _AI_START > AI_BUDGET_SEC:
+            print(f"[warn] OpenCode {label}: AI time budget ({AI_BUDGET_SEC}s) exhausted, skipping")
+            return None
         try:
             resp = session.post(endpoint, json=payload, headers=headers, timeout=OPENCODE_TIMEOUT)
             if resp.status_code == 200:
@@ -187,42 +193,28 @@ def ai_suggest_batch(batch: list) -> dict:
         return {s: [] for s in slugs}
 
     system_prompt = (
-        "You are a seasoned film and TV curator with broad, non-mainstream taste. "
-        "You return ONLY a JSON object, no prose, no markdown fences. "
-        "The keys are EXACTLY the theme ids given to you in square brackets. "
-        "Each value is a JSON array of objects with keys: "
-        '"title" (original English or international title), '
-        '"year" (release year as integer), '
-        '"media_type" ("movie" or "tv"). '
-        "Give a FRESH selection: prefer titles you would not list first, and do NOT repeat "
-        "any titles named in the theme's 'AVOID' list. "
-        "Quality rules for EVERY list: "
-        "(1) at most ONE title per franchise or a director's recurring series; "
-        "(2) balance widely-loved anchors with lesser-known gems, roughly half and half; "
-        "(3) mix eras — include a few titles from the last ~5 years alongside older ones, "
-        "UNLESS the theme restricts the era; "
-        "(4) span different countries and languages, not only English-language cinema; "
-        "(5) include TV series where the mood suits episodic viewing, and films where it is "
-        "inherently cinematic; "
-        "(6) order each list from the STRONGEST mood-fit first to the weakest last. "
-        "CRITICAL: pick titles by how well they match the MOOD, not by shared genre tags. "
-        "Exclude a famous title if its actual mood is wrong (e.g. a bleak thriller does not "
-        "belong in a comedy mood, a crime saga does not belong in a tearjerker mood)."
+        "Film/TV curator with broad, non-mainstream taste. "
+        "Return ONLY a JSON object (no prose, no fences): keys = the exact theme ids in "
+        'brackets, each value = array of {"title","year"(int),"media_type":"movie"|"tv"}. '
+        "Match the MOOD, not shared genre tags; drop famous titles whose real mood is wrong. "
+        "Fresh picks: avoid obvious first-listers and anything in a theme's AVOID list. "
+        "Per list: <=1 per franchise; ~half loved anchors + half lesser-known gems; "
+        "mix eras incl. recent (unless the theme restricts era); vary countries/languages; "
+        "add TV where episodic fits; order by strongest mood-fit first."
     )
 
     def block(t):
-        line = f"[{t['slug']}] {t['title_ru']} - {t['prompt']}"
+        line = f"[{t['slug']}] {t['title_ru']}: {t['prompt']}"
         avoid = read_prev_titles(t["slug"])
         if avoid:
-            line += " | AVOID (recently shown): " + ", ".join(avoid)
+            line += " AVOID: " + ", ".join(avoid)
         return line
 
     theme_blocks = "\n".join(block(t) for t in batch)
     user_prompt = (
         f"Themes:\n{theme_blocks}\n\n"
-        f"For EACH theme id above return {AI_REQUEST_COUNT} titles that genuinely fit THAT "
-        f"theme. Mix movies and TV series where appropriate. Respond with a single JSON "
-        f"object keyed by the exact theme ids."
+        f"For EACH theme id return {AI_REQUEST_COUNT} titles that fit THAT mood. "
+        f"JSON object keyed by the exact ids."
     )
 
     content = _opencode_chat(system_prompt, user_prompt, "batch:" + ",".join(slugs))
@@ -458,11 +450,15 @@ def build_item(tmdb_id: int, media_type: str, language: str):
 def passes_filters(cand: dict, theme: dict) -> bool:
     if cand.get("id") is None:
         return False
-    if (cand.get("vote_count") or 0) < VOTE_COUNT_MIN:
+    is_ai = cand.get("source") in ("ai", "prev")  # ІІ-курованим темам довіряємо настрій
+    vote_floor = AI_VOTE_COUNT_MIN if is_ai else VOTE_COUNT_MIN
+    if (cand.get("vote_count") or 0) < vote_floor:
         return False
-    genre_ids = set(cand.get("genre_ids") or [])
-    if not genre_ids & theme["genre_whitelist"]:
-        return False
+    # whitelist жанрів — лише для discover (санітар попси); ІІ обирає за настроєм, не за тегом
+    if not is_ai:
+        genre_ids = set(cand.get("genre_ids") or [])
+        if not genre_ids & theme["genre_whitelist"]:
+            return False
     max_year = theme.get("max_year")
     if max_year and cand.get("year") and cand["year"] > max_year:
         return False
@@ -524,7 +520,7 @@ def read_prev_keys(slug: str) -> list:
             if it.get("id") is not None]
 
 
-def read_prev_titles(slug: str, limit: int = 15) -> list:
+def read_prev_titles(slug: str, limit: int = 8) -> list:
     """Оригінальні назви з попереднього прогону — щоб просити в ІІ уникати повторів."""
     out = []
     for it in _read_prev_items(slug):
@@ -628,8 +624,10 @@ def process_theme(theme: dict, suggestions: list, global_used) -> dict:
     ranked_keys = [(c["media_type"], c["id"]) for c in ranked]
     print(f"  after filters: {len(ranked_keys)} (ai={len(ai_ranked)}, other={len(other_ranked)})")
 
-    if not ranked_keys:
-        raise RuntimeError(f"no candidates survived filters for '{slug}'")
+    # контент лише від ІІ: якщо ІІ нічого не дав — НЕ наповнюємо з prev/discover,
+    # а лишаємо попередній хороший файл (stale). Так у підбірку не потрапляє не-ІІ мотлох.
+    if not ai_ranked:
+        raise RuntimeError(f"AI returned no usable candidates for '{slug}' - keeping previous file")
 
     # ротація: спершу свіжі тайтли, торішні — лише на добивання
     prev_keys = read_prev_keys(slug)

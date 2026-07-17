@@ -31,9 +31,8 @@ THEMES = [
         "title_uk": "Мозок на паузі",
         "title_ru": "Мозг на паузе",
         "prompt": (
-            "Brain-off popcorn: broad comedies, buddy/heist capers, easy action-adventure, "
-            "crowd-pleasers. INCLUDE fun, breezy, easy-to-follow films. EXCLUDE anything "
-            "dark, heavy, emotionally draining, or with twisty/complex plots that demand attention."
+            "Brain-off popcorn, breezy and easy to follow. INCLUDE broad comedies, "
+            "buddy/heist capers, light action-adventure. EXCLUDE dark, heavy, or twisty plots."
         ),
         "genre_whitelist": {35, 12, 10751, 10759},
         "discover_movie": [12, 35],
@@ -45,10 +44,8 @@ THEMES = [
         "title_uk": "Зламаєш голову",
         "title_ru": "Голову сломаешь",
         "prompt": (
-            "Puzzle-box cinema: time loops, unreliable narrators, reality-bending premises, "
-            "non-linear structure that rewards a rewatch. INCLUDE clever, twist-driven, "
-            "mind-bending stories. EXCLUDE straightforward blockbusters and space operas "
-            "even if they are sci-fi/action."
+            "Puzzle-box: time loops, unreliable narrators, reality-bending, rewatch-worthy "
+            "twists. EXCLUDE straightforward blockbusters and space operas even if sci-fi."
         ),
         "genre_whitelist": {9648, 878, 53, 10765},
         "discover_movie": [878, 9648],
@@ -60,10 +57,8 @@ THEMES = [
         "title_uk": "До сліз",
         "title_ru": "В слёзы",
         "prompt": (
-            "Tearjerkers and emotional gut-punches about love, loss, family and sacrifice — "
-            "films that genuinely make people cry. INCLUDE deeply moving, heartfelt dramas. "
-            "EXCLUDE crime sagas or war epics that are merely 'serious' rather than "
-            "tear-inducing. TV series welcome if truly moving."
+            "Tearjerkers about love, loss, family, sacrifice that genuinely make you cry. "
+            "EXCLUDE crime sagas or war epics that are merely 'serious'. TV ok if truly moving."
         ),
         "genre_whitelist": {18, 10749},
         "discover_movie": [18],
@@ -75,9 +70,8 @@ THEMES = [
         "title_uk": "Плед і какао",
         "title_ru": "Плед и какао",
         "prompt": (
-            "Gentle, low-stakes comfort watches with a warm, soft, soothing atmosphere. "
-            "INCLUDE calm feel-cozy films, gentle animation, slice-of-life. EXCLUDE tension, "
-            "violence, loud spectacle or anything stressful. Perfect under a blanket on a rainy day."
+            "Gentle low-stakes comfort with a warm, soothing feel. INCLUDE calm films, "
+            "slice-of-life, gentle animation. EXCLUDE tension, violence, loud spectacle."
         ),
         "genre_whitelist": {16, 10751, 10402, 35},
         "discover_movie": [16, 10751],
@@ -89,9 +83,8 @@ THEMES = [
         "title_uk": "Повний газ",
         "title_ru": "Полный газ",
         "prompt": (
-            "Relentless action and tension: chases, heists, survival, ticking-clock "
-            "thrillers that keep the pulse up from start to finish. INCLUDE fast, intense, "
-            "high-stakes films. EXCLUDE slow burns and talky dramas."
+            "Relentless action and tension — chases, heists, survival, ticking-clock "
+            "thrillers. EXCLUDE slow burns and talky dramas."
         ),
         "genre_whitelist": {28, 53, 12, 10759},
         "discover_movie": [28],
@@ -103,9 +96,8 @@ THEMES = [
         "title_uk": "Заряд позитиву",
         "title_ru": "Заряд позитива",
         "prompt": (
-            "Feel-good films that leave you smiling — warmth, hope, underdog triumphs, "
-            "good-hearted humor. INCLUDE uplifting, life-affirming stories with a satisfying, "
-            "happy ending. EXCLUDE bittersweet or downer endings."
+            "Feel-good, uplifting, life-affirming with a happy ending. INCLUDE warmth, hope, "
+            "underdog wins, good-hearted humor. EXCLUDE bittersweet or downer endings."
         ),
         "genre_whitelist": {10402, 10749, 35, 10751},
         "discover_movie": [10402, 10749],
@@ -117,9 +109,8 @@ THEMES = [
         "title_uk": "Нуар і тіні",
         "title_ru": "Нуар и тени",
         "prompt": (
-            "Bleak, morally grey, oppressive cinema — noir, psychological, disturbing, heavy "
-            "by design. INCLUDE unsettling, ambiguous, atmospheric films. EXCLUDE merely "
-            "'serious' prestige dramas that aren't actually dark. TV series welcome if genuinely bleak."
+            "Bleak, morally grey, oppressive — noir, psychological, disturbing. EXCLUDE merely "
+            "'serious' prestige dramas that aren't actually dark. TV ok if genuinely bleak."
         ),
         "genre_whitelist": {80, 53, 18, 9648},
         "discover_movie": [80],
@@ -131,9 +122,8 @@ THEMES = [
         "title_uk": "Для двох",
         "title_ru": "Для двоих",
         "prompt": (
-            "Romantic films made for two: chemistry, longing, charming rom-coms and swooning "
-            "love stories. INCLUDE warm, crowd-pleasing romances. EXCLUDE bleak or tragic "
-            "romances that would kill the mood."
+            "Romantic films for two — chemistry, longing, charming rom-coms, swoony love "
+            "stories. EXCLUDE bleak or tragic romances that would kill the mood."
         ),
         "genre_whitelist": {10749, 35, 18},
         "discover_movie": [10749],
@@ -145,9 +135,8 @@ THEMES = [
         "title_uk": "Ретро",
         "title_ru": "Ретро",
         "prompt": (
-            "Beloved classics from roughly the 1980s-2000s that people grew up with and love "
-            "to revisit. INCLUDE iconic, warmly familiar, endlessly rewatchable titles. "
-            "EXCLUDE recent films and obscure deep cuts — this mood is about shared memory."
+            "Beloved iconic classics (~1980s-2000s) people grew up with and rewatch. "
+            "EXCLUDE recent films and obscure deep cuts — this mood is shared memory."
         ),
         "genre_whitelist": {12, 14, 10751, 878, 28, 35, 18},
         "discover_movie": [12, 14],
@@ -160,9 +149,8 @@ THEMES = [
         "title_uk": "Під справи",
         "title_ru": "Под дела",
         "prompt": (
-            "Easy, low-attention TV you can half-watch while doing chores: sitcoms, cozy "
-            "procedurals, episodic comfort shows. INCLUDE light, self-contained, always-on "
-            "series. EXCLUDE dense serialized dramas that demand full attention. TV series only."
+            "Easy low-attention TV to half-watch while doing chores — sitcoms, cozy "
+            "procedurals, episodic comfort shows. EXCLUDE dense serialized dramas. TV only."
         ),
         "genre_whitelist": {35, 80, 18, 10759},
         "discover_movie": [],
@@ -174,9 +162,8 @@ THEMES = [
         "title_uk": "Мурахи по шкірі",
         "title_ru": "Мурашки по коже",
         "prompt": (
-            "Real horror and suspense — dread, tension, jump scares, creeping unease, from "
-            "goosebumps to genuinely terrifying. INCLUDE scary films built to unnerve. "
-            "EXCLUDE action movies with monsters that aren't actually scary."
+            "Real horror and suspense — dread, tension, scares, from goosebumps to "
+            "terrifying. EXCLUDE action movies with monsters that aren't actually scary."
         ),
         "genre_whitelist": {27, 53, 9648, 10765},
         "discover_movie": [27],
@@ -188,9 +175,8 @@ THEMES = [
         "title_uk": "Великий екран",
         "title_ru": "Большой экран",
         "prompt": (
-            "Grand-scale spectacle: sweeping sagas, vast worlds, war and history on a huge "
-            "canvas, made for the big screen. INCLUDE ambitious, large-scope, visually massive "
-            "films. EXCLUDE small, intimate, chamber pieces."
+            "Grand-scale spectacle — sweeping sagas, vast worlds, war and history on a huge "
+            "canvas, for the big screen. EXCLUDE small, intimate chamber pieces."
         ),
         "genre_whitelist": {12, 14, 878, 10752, 36, 28, 10759, 10765, 10768},
         "discover_movie": [36, 10752, 14],
@@ -202,9 +188,8 @@ THEMES = [
         "title_uk": "Сміхота",
         "title_ru": "Умора",
         "prompt": (
-            "Films that make you laugh out loud — sharp comedies, gags, satire, absurdist and "
-            "deadpan humor. INCLUDE films where comedy is the whole point. EXCLUDE dramas with "
-            "a few funny moments."
+            "Laugh-out-loud comedy — gags, satire, absurdist and deadpan humor; comedy is the "
+            "whole point. EXCLUDE dramas with just a few funny moments."
         ),
         "genre_whitelist": {35},
         "discover_movie": [35],
@@ -216,9 +201,8 @@ THEMES = [
         "title_uk": "Естетика кадру",
         "title_ru": "Эстетика кадра",
         "prompt": (
-            "Visually ravishing slow cinema — painterly cinematography, contemplative pace, "
-            "atmosphere and mood over plot. INCLUDE auteur/arthouse films of exceptional "
-            "beauty. EXCLUDE fast-paced or plot-driven films."
+            "Visually ravishing slow cinema — painterly, contemplative, mood over plot. "
+            "INCLUDE auteur/arthouse of exceptional beauty. EXCLUDE fast, plot-driven films."
         ),
         "genre_whitelist": {18, 36, 10749, 14},
         "discover_movie": [36, 18],
