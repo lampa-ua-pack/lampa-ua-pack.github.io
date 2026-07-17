@@ -1,0 +1,42 @@
+{
+  "slug": "adrenaline",
+  "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><polygon fill=\"currentColor\" points=\"300,32 116,296 236,296 212,480 396,216 276,216\"/></svg>",
+  "title": "Адреналин",
+  "lang": "ru",
+  "updated_at": "2026-07-17T18:56:19Z",
+  "items": [
+    {
+      "id": 25376,
+      "media_type": "movie",
+      "title": "Тайна в его глазах",
+      "original_title": "El secreto de sus ojos",
+      "overview": "Бенхамин Эспосито — судебный служащий, который решает написать роман об одном уголовном деле, в котором он был свидетелем и главным действующим лицом…",
+      "poster_path": "/oLOdob9MHNcDcw1MyfmIyjQOJW9.jpg",
+      "backdrop_path": "/fNHCogWhABNAmzk0IFdzQP5XLYj.jpg",
+      "genre_ids": [
+        9648,
+        53,
+        18
+      ],
+      "vote_average": 7.975,
+      "vote_count": 2892,
+      "release_date": "2009-08-13"
+    },
+    {
+      "id": 80184,
+      "media_type": "movie",
+      "title": "Бункер",
+      "original_title": "La cara oculta",
+      "overview": "Официантка Фабиана знакомится с одним из случайных посетителей, переживающим сложный период в жизни. Между ними вспыхивает страсть. Для девушки все кажется идеальным: ее любимый работает дирижером оркестра филармонии в Боготе и владеет огромным особняком. Однако вскоре появляются непредвиденные сложности. Полиция расследует таинственное исчезновения бывшей невесты и подруги дирижера, а сама девушка начинает чувствовать, что в доме происходит нечто странное.",
+      "poster_path": "/cQ6GCDwE2MZu5YQKRlZn9uD2azR.jpg",
+      "backdrop_path": "/ez0zntkwczsv1d1n8WFhMe5rtq5.jpg",
+      "genre_ids": [
+        53,
+        9648
+      ],
+      "vote_average": 7.303,
+      "vote_count": 1147,
+      "release_date": "2011-09-16"
+    }
+  ]
+}

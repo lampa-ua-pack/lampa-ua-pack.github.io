@@ -1,0 +1,171 @@
+{
+  "slug": "cozy-rain",
+  "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"104\" y=\"176\" width=\"216\" height=\"208\" rx=\"28\" fill=\"currentColor\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"28\" d=\"M320 224h28a52 52 0 0 1 0 104h-28\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"20\" stroke-linecap=\"round\" d=\"M168 92c-18 22 18 40 0 60M248 92c-18 22 18 40 0 60\"/></svg>",
+  "title": "Плед і какао",
+  "lang": "uk",
+  "updated_at": "2026-07-17T18:56:18Z",
+  "items": [
+    {
+      "id": 116745,
+      "media_type": "movie",
+      "title": "Таємне життя Волтера Мітті",
+      "original_title": "The Secret Life of Walter Mitty",
+      "overview": "Волтер Мітті - співробітник фотослужби журналу «Life», якому загрожує реорганізація в онлайн і скороченя співробітників. Знаменитий фотограф Шон О`Коннел надсилає плівку, один з кадрів повинен піти на обкладинку останнього паперового номера журналу. Проте саме цей кадр загадковим чином зникає. Тоді скромний і непомітний фоторедактор Мітті відправляється у подорож на край світу на пошуки загубленого негативу ...",
+      "poster_path": "/pNgx4WzFnE35w8jkZulmtr1W6dM.jpg",
+      "backdrop_path": "/pzMrxeP9XkKOtQVUBPTq5yk4ck5.jpg",
+      "genre_ids": [
+        35,
+        18,
+        14
+      ],
+      "vote_average": 7.226,
+      "vote_count": 8332,
+      "release_date": "2013-12-18"
+    },
+    {
+      "id": 24803,
+      "media_type": "movie",
+      "title": "Джулі та Джулія",
+      "original_title": "Julie & Julia",
+      "overview": "Душевна історія про Джулі Павелл, яка вирішує урізноманітнити своє нудне життя, приготувавши всі 524 страви з класичної книги рецептів від Джулії Чайлд.",
+      "poster_path": "/aWm7WBkuuqxH2CFOn4p0kaAuV1m.jpg",
+      "backdrop_path": "/1tWpsnSelznXfkdssCWQGgavRZM.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "vote_average": 6.712,
+      "vote_count": 2226,
+      "release_date": "2009-08-06"
+    },
+    {
+      "id": 346648,
+      "media_type": "movie",
+      "title": "Пригоди Паддінґтона 2",
+      "original_title": "Paddington 2",
+      "overview": "Продовження пригод ведмежати на ім'я Паддінґтон.",
+      "poster_path": "/f4IDGS1531P7ZCq9zYRRAhXS3mj.jpg",
+      "backdrop_path": "/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
+      "genre_ids": [
+        12,
+        35,
+        10751
+      ],
+      "vote_average": 7.478,
+      "vote_count": 2824,
+      "release_date": "2017-11-09"
+    },
+    {
+      "id": 167073,
+      "media_type": "movie",
+      "title": "Бруклін",
+      "original_title": "Brooklyn",
+      "overview": "Історія Елліс Лейсі, яка неохоче покидає своє рідне ірландське містечко і вирушає на пошуки роботи до Америки. Вона поселяється в Брукліні, поступово виліковується від ностальгії і починає насолоджуватися повітрям свободи. До всього іншого Елліс закохується, але трагічні новини з батьківщини змушують її повернутися до Ірландії, де вона зустрічає іншого чоловіка і в результаті змушена робити нелегкий вибір.",
+      "poster_path": "/pagrbjTRzrQEZG6N15vtcq3UHGD.jpg",
+      "backdrop_path": "/2T4bqHgYfzXNQoALJsvhW40kDTg.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        36
+      ],
+      "vote_average": 7.297,
+      "vote_count": 3283,
+      "release_date": "2015-10-20"
+    },
+    {
+      "id": 391713,
+      "media_type": "movie",
+      "title": "Леді Бьорд",
+      "original_title": "Lady Bird",
+      "overview": "Фільм розповість про пригоди молодої дівчини, яка живе в маленькому містечку Північної Каліфорнії і мріє поїхати у Нью-Йорк.",
+      "poster_path": "/tcQX1nK10nTRZf5u0IRrYEtEpZt.jpg",
+      "backdrop_path": "/jwBiY1kE5089i2WpfS1MHDYp3VO.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "vote_average": 7.3,
+      "vote_count": 9070,
+      "release_date": "2017-09-01"
+    },
+    {
+      "id": 331482,
+      "media_type": "movie",
+      "title": "Маленькі жінки",
+      "original_title": "Little Women",
+      "overview": "Фільм розповідає про життя чотирьох сестер Марч, які дорослішають, розплутують сімейні проблеми і вчаться будувати стосунки на тлі Громадянської війни в США.",
+      "poster_path": "/sik1pUjbJv4b7yIpupA9kHZm2iM.jpg",
+      "backdrop_path": "/lqxxwTRk0l7CubY6JkJdhnwJEkn.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "vote_average": 7.85,
+      "vote_count": 6885,
+      "release_date": "2019-12-25"
+    },
+    {
+      "id": 66573,
+      "media_type": "tv",
+      "title": "У кращому світі",
+      "original_title": "The Good Place",
+      "overview": "Навіжена Елеонор з Нью Джерсі потрапляє туди, де їй наочно пояснюють, що все своє життя вона була вкрай поганою людиною. Головній героїні належить навчитися відрізняти хороше від поганого і допомогти їй дорости до хорошої людини візьметься наставник на ім'я Майкл.",
+      "poster_path": "/iZd6jJEzT7sszoFLd5XsYXgctfq.jpg",
+      "backdrop_path": "/tZmlWeFEMvxrjJhBJJcLNXpSRiG.jpg",
+      "genre_ids": [
+        10765,
+        35
+      ],
+      "vote_average": 7.972,
+      "vote_count": 1998,
+      "release_date": "2016-09-19"
+    },
+    {
+      "id": 70785,
+      "media_type": "tv",
+      "title": "Енн",
+      "original_title": "Anne with an E",
+      "overview": "13-річна сирота Енн помилково потрапляє в сім'ю прийомних батьків, де перед нею відкривається нове життя з новими складнощами.",
+      "poster_path": "/7iDVJ2ASaU3OYdZOGgf8ucYBo0E.jpg",
+      "backdrop_path": "/ywQtHG17LZhAFZyZtBflhtFMtJ7.jpg",
+      "genre_ids": [
+        18,
+        10751
+      ],
+      "vote_average": 8.652,
+      "vote_count": 4952,
+      "release_date": "2017-03-19"
+    },
+    {
+      "id": 124834,
+      "media_type": "tv",
+      "title": "Коли завмирає серце",
+      "original_title": "Heartstopper",
+      "overview": "У цьому серіалі про дорослішання підлітки Чарлі й Нік пізнають шкільне життя та перше кохання, а також усвідомлюють, що їх поєднує дещо більше, ніж незвична дружба.",
+      "poster_path": "/8ByezQdVeKfZB2ZFyUXByFePCwm.jpg",
+      "backdrop_path": "/eGYnmsEs5cutoPQKf2QUlT4RgCH.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 8.577,
+      "vote_count": 1731,
+      "release_date": "2022-04-22"
+    },
+    {
+      "id": 128883,
+      "media_type": "tv",
+      "title": "Ча-ча-ча на узбережжі",
+      "original_title": "갯마을 차차차",
+      "overview": "Стоматологиня з великого міста починає працювати в дружньому приморському селищі, де живе красень-майстер, що має абсолютно інші погляди на життя.",
+      "poster_path": "/ub2ZaobABSYtkWKaEycWmMjkorP.jpg",
+      "backdrop_path": "/2avhn5tACIdOp9F5EhNytbChJib.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "vote_average": 8.185,
+      "vote_count": 650,
+      "release_date": "2021-08-28"
+    }
+  ]
+}

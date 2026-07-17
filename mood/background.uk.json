@@ -1,0 +1,165 @@
+{
+  "slug": "background",
+  "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"32\" d=\"M104 288v-24a152 152 0 0 1 304 0v24\"/><rect x=\"80\" y=\"280\" width=\"72\" height=\"128\" rx=\"28\" fill=\"currentColor\"/><rect x=\"360\" y=\"280\" width=\"72\" height=\"128\" rx=\"28\" fill=\"currentColor\"/></svg>",
+  "title": "Під справи",
+  "lang": "uk",
+  "updated_at": "2026-07-17T18:56:27Z",
+  "items": [
+    {
+      "id": 66573,
+      "media_type": "tv",
+      "title": "У кращому світі",
+      "original_title": "The Good Place",
+      "overview": "Навіжена Елеонор з Нью Джерсі потрапляє туди, де їй наочно пояснюють, що все своє життя вона була вкрай поганою людиною. Головній героїні належить навчитися відрізняти хороше від поганого і допомогти їй дорости до хорошої людини візьметься наставник на ім'я Майкл.",
+      "poster_path": "/iZd6jJEzT7sszoFLd5XsYXgctfq.jpg",
+      "backdrop_path": "/tZmlWeFEMvxrjJhBJJcLNXpSRiG.jpg",
+      "genre_ids": [
+        10765,
+        35
+      ],
+      "vote_average": 7.972,
+      "vote_count": 1998,
+      "release_date": "2016-09-19"
+    },
+    {
+      "id": 61662,
+      "media_type": "tv",
+      "title": "Шіттс Крік",
+      "original_title": "Schitt's Creek",
+      "overview": "Серіал розповідає про сімейство Роузів: Джонні Роуз — мільярдер, який заробив статок на мережі відеосалонів, його дружина — актриса мильних опер, і двоє дітей — гіпстер Девід та світська левиця Алексіс. Після того, як бізнес Джонні зазнає краху, все сімейство змушене переїхати жити в невелику сільську громаду Шіттс Крік, яку вони придбали кілька років тому заради розваги.",
+      "poster_path": "/3UuaOsE12RIN0IixGRYhh0asao.jpg",
+      "backdrop_path": "/ftNmVV8LuNVmtB8mzoUTucozVKE.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.783,
+      "vote_count": 712,
+      "release_date": "2015-01-13"
+    },
+    {
+      "id": 48891,
+      "media_type": "tv",
+      "title": "Бруклін 9-9",
+      "original_title": "Brooklyn Nine-Nine",
+      "overview": "Сюжет серіалу оповідає про детектива, на долю якого в один момент випали серйозні зміни. Зовсім недавно він не виявляв до своєї роботи ніякої серйозності, але тепер, коли його штаб очолив новий керівник, детективу доведеться кардинально поміняти своє професійне життя і стати героєм неймовірних історій.",
+      "poster_path": "/a9gmarnmzyd7Q7XkyLxvZvK3jNP.jpg",
+      "backdrop_path": "/9AeiA1XtP5sel2tAf9LaGeUjhDb.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "vote_average": 8.211,
+      "vote_count": 4026,
+      "release_date": "2013-09-17"
+    },
+    {
+      "id": 8592,
+      "media_type": "tv",
+      "title": "Парки та зони відпочинку",
+      "original_title": "Parks and Recreation",
+      "overview": "Проста чиновниця Леслі Ноуп якось зрозуміла, що її робота не дає суспільству жодної користі. Вона вирішує перетворити покинутий кар’єр на парк. Перепонами на її шляху стануть негнучка бюрократична система, егоїстичні сусіди, які не бажають змін навіть на краще, та забудовники, що відразу зацікавилися непотрібною їм досі ділянкою. Але Леслі просто так не здасться…",
+      "poster_path": "/t1CnVOaLEdS9ZRMAEIpFf7DiDlC.jpg",
+      "backdrop_path": "/frwl2zBNAl5ZbFDJGoJv0mYo0rF.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 8.0,
+      "vote_count": 1854,
+      "release_date": "2009-04-09"
+    },
+    {
+      "id": 128883,
+      "media_type": "tv",
+      "title": "Ча-ча-ча на узбережжі",
+      "original_title": "갯마을 차차차",
+      "overview": "Стоматологиня з великого міста починає працювати в дружньому приморському селищі, де живе красень-майстер, що має абсолютно інші погляди на життя.",
+      "poster_path": "/ub2ZaobABSYtkWKaEycWmMjkorP.jpg",
+      "backdrop_path": "/2avhn5tACIdOp9F5EhNytbChJib.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "vote_average": 8.185,
+      "vote_count": 650,
+      "release_date": "2021-08-28"
+    },
+    {
+      "id": 77791,
+      "media_type": "tv",
+      "title": "Ось як треба!",
+      "original_title": "Nailed It!",
+      "overview": "Пекарі-аматори з жахливою кулінарною репутацією намагаються відтворити їстівні шедеври й виграти 10 000 доларів у конкурсі, що часто нагадує кондитерське побоїще.",
+      "poster_path": "/3wLAkbQu2Ld1rjiEeFvHnqmO5zN.jpg",
+      "backdrop_path": "/vxa8VrOpHgIBxXIVHmhe6SoEjVn.jpg",
+      "genre_ids": [
+        10764
+      ],
+      "vote_average": 7.12,
+      "vote_count": 75,
+      "release_date": "2018-03-09"
+    },
+    {
+      "id": 60957,
+      "media_type": "tv",
+      "title": "Ти прийшов із зірок",
+      "original_title": "별에서 온 그대",
+      "overview": "Історія про людину з іншої планети, що володіє незвичайними здібностями, який прибув на Землю 400 років тому за часів династії Чосон. 4 століття по тому, він зустрічає самозакохану актрису, після чого його життя вже не буде таким звичайним і спокійним.",
+      "poster_path": "/x2PJLhpjlJpAflUpzcBnzDaNOmE.jpg",
+      "backdrop_path": "/ayOqM9CJxqB3ChvR6pNSYqe02Sn.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "vote_average": 8.3,
+      "vote_count": 818,
+      "release_date": "2013-12-18"
+    },
+    {
+      "id": 76557,
+      "media_type": "tv",
+      "title": "Сміх у «Вайкікі»",
+      "original_title": "으라차차 와이키키",
+      "overview": "Кан Дон-Гу мріє стати режисером, але він цинічний через невдачі. Чон Джун-Кі хотів піти по стопах свого батька і стати актором, але зараз він просто актор другорядних ролей. Бонг Ду-Сік приїхав до Сеула, щоб стати сценаристом, але справи йдуть для нього не легко.",
+      "poster_path": "/bet9deBJxeC73e7d77AsO43OHUP.jpg",
+      "backdrop_path": "/6dxB0dFDeBwB3jwhKlLdPEKYFD6.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "vote_average": 7.837,
+      "vote_count": 104,
+      "release_date": "2018-02-05"
+    },
+    {
+      "id": 79434,
+      "media_type": "tv",
+      "title": "Що не так з секретаркою Кім?",
+      "original_title": "김비서가 왜 그럴까",
+      "overview": "Лі Йон Джун - ідеальний керівник «Юмьон Груп». А ще він безмежно самозакохана особа та страшенний «перфекціоніст». Працювати на таку людину зможе не кожен, та працьовитій і завжди усміхненій Кім Мі Со не лячно виконувати цю важку роботу. За довгих 9 років служби вона цілковито віддалася роботі і стала незамінною помічницею для свого керівника. І ось на 10-му році плідної і злагодженої співпраці Кім раптом каже, що звільняється. Її керівникові залишається лише гадати: \"Що коїться, помічнице Кім?\"",
+      "poster_path": "/tUYTLQjHPetcS6DRKUJoWenxZlQ.jpg",
+      "backdrop_path": "/kKlzA0owtx63wxpiYxgzSXrx6yz.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "vote_average": 8.306,
+      "vote_count": 712,
+      "release_date": "2018-06-06"
+    },
+    {
+      "id": 96571,
+      "media_type": "tv",
+      "title": "На шляху до раю",
+      "original_title": "무브 투 헤븐: 나는 유품정리사입니다",
+      "overview": "Шукаючи життя у всьому, що залишилося позаду, пильний прибиральник за покійними та його відлюдькуватий дядько передають родичам померлих нерозказані досі історії.",
+      "poster_path": "/drEK6iGpzQBzFCmiT5KiG3s8ktO.jpg",
+      "backdrop_path": "/tsdhmP9H7ZDveYDE0wkh90tjX3S.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 8.0,
+      "vote_count": 376,
+      "release_date": "2021-05-14"
+    }
+  ]
+}
