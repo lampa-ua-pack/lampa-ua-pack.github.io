@@ -150,17 +150,33 @@ def day_rng(slug: str) -> random.Random:
 # добірки, менше повторів. Настрій — головний, саб-жанр — вторинна лінза (див. RULES).
 def daily_style(theme: dict) -> str:
     """Один сильний ротирующий саб-жанр на день, підпорядкований настрою теми.
-    Порожньо, якщо у теми немає `styles`."""
+    Порожньо, якщо у теми немає `styles`.
+
+    Вибір НЕ випадковий незалежно щодня (тоді сусідні дні можуть збігтися — день1==день3),
+    а перебір ПЕРЕМІШАНОЇ перестановки за порядковим номером дня: у межах циклу з len(styles)
+    днів кожен стиль трапляється рівно раз → сусідні дні й день1/день3 НІКОЛИ не повторюють
+    стиль. Кожен новий цикл перемішується інакше (сид від номера циклу)."""
     styles = theme.get("styles") or []
     if not styles:
         return ""
-    style = day_rng("style|" + theme["slug"]).choice(styles)
+    n = len(styles)
+    try:
+        ordinal = datetime.strptime(today_str(), "%Y-%m-%d").toordinal()
+    except Exception:
+        ordinal = 0
+    # СТАБІЛЬНА перестановка на тему + крок +1 щодня: 3 підряд дні дають ordinal%n, (o+1)%n,
+    # (o+2)%n — при n>=3 завжди РІЗНІ індекси, тож сусідні дні й день1/день3 НІКОЛИ не збігаються
+    # (без reshuffle на границі циклу, який раніше давав повтори). Період повного циклу = n днів.
+    order = list(range(n))
+    random.Random("styleorder|" + theme["slug"]).shuffle(order)
+    style = styles[order[ordinal % n]]
     return (
-        f" THIS RUN, lean hard into a specific sub-style: {style}. "
-        f"RULES: (1) EVERY pick must still genuinely fit the core mood above — if this sub-style "
-        f"would pull in titles that don't fit the mood, DROP them (mood beats sub-style); "
-        f"(2) prefer lesser-known but well-made examples within this sub-style; "
-        f"(3) do NOT just name the single most obvious title everyone thinks of."
+        f" THIS RUN, lean hard into ONE specific sub-style: {style}. "
+        f"RULES: (1) COMMIT to this sub-style — MOST of the list must clearly BE this sub-style, "
+        f"not generic go-to picks for the mood; do NOT retreat to the usual crowd-pleasers. "
+        f"(2) Still keep the core mood above — if a specific sub-style title breaks the mood, drop "
+        f"THAT title (but do NOT abandon the sub-style). "
+        f"(3) Prefer lesser-known but well-made examples; never just name the most obvious titles."
     )
 
 
@@ -308,6 +324,18 @@ def ai_suggest_batch(batch: list) -> dict:
     # single-theme fallback: одна тема, один ключ у відповіді — беремо його попри розбіжність назви
     if len(slugs) == 1 and not result[slugs[0]] and len(obj) == 1:
         result[slugs[0]] = next(iter(obj.values()))
+    # дедуп повторів усередині відповіді: деякі моделі зациклюються і повторюють один тайтл
+    # десятки разів — прибираємо дублі за нормалізованою назвою, зберігаючи порядок
+    for s in slugs:
+        seen, dd = set(), []
+        for it in result[s]:
+            if not isinstance(it, dict):
+                continue
+            key = normalize_title(it.get("title") or "")
+            if key and key not in seen:
+                seen.add(key)
+                dd.append(it)
+        result[s] = dd
     for s in slugs:
         print(f"  ai[{s}]: {len(result[s])} titles")
     return result

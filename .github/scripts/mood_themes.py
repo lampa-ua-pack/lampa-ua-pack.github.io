@@ -219,17 +219,18 @@ THEMES = [
             "stories. EXCLUDE bleak or tragic romances that would kill the mood."
         ),
         "styles": [
-            "charming modern rom-coms", "swoony period romances",
-            "second-chance rekindled love", "opposites-attract chemistry",
-            "slow-burn will-they-won't-they", "romantic musicals",
-            "romances abroad / travel love", "friends-to-lovers",
-            "witty screwball-style banter romances", "holiday romances",
-            "romantic dramedies", "charming foreign-language romances",
-            "unlikely-pair romances (tasteful)",
+            "classic Old-Hollywood romances (1930s-50s)",
+            "sweeping historical / costume period romances", "romantic musicals",
+            "charming foreign-language romances (French, Korean, Italian, etc.)",
+            "epic romantic dramas", "screwball & witty-banter romances",
+            "holiday & seasonal romances", "second-chance & later-in-life romances",
+            "opposites-attract rom-coms", "friends-to-lovers stories",
+            "dance & music-driven romances", "literary-adaptation romances (Austen & co.)",
+            "road-trip & travel romances", "teen & coming-of-age romances",
         ],
         "craft": (
             "Charming, warm chemistry that plays for two; keep it swoony and light, never "
-            "tragic; witty and stylish preferred."
+            "tragic; span eras and styles — do NOT default to recent indie rom-coms."
         ),
         "genre_whitelist": {10749, 35, 18},
         "discover_movie": [10749],
