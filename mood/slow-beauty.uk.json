@@ -3,162 +3,170 @@
   "emoji": "🎞️",
   "title": "Естетика кадру",
   "lang": "uk",
-  "updated_at": "2026-07-17T17:13:52Z",
+  "updated_at": "2026-07-17T17:32:10Z",
   "items": [
     {
-      "id": 8967,
+      "id": 843,
       "media_type": "movie",
-      "title": "Древо життя",
-      "original_title": "The Tree of Life",
-      "overview": "Ми спостерігаємо за розвитком 11-річного Джека, одного з трьох братів. Спочатку дитині все здається дивним. Очима своєї душі він спостерігає за вчинками мами. Вона являє собою любов і милосердя в той час як батько намагається навчити сина, що в реальному світі на перше місце необхідно завжди ставити себе. Кожен з батьків намагається переманити Джека на свій бік, і він повинен примиритися з їх домаганнями. Дійсність хмурнішає, коли головному герою вперше доводиться зіткнутися з болем, стражданнями і смертю. Колись абсолютно ясний світ перетворюється на лабіринт.",
-      "poster_path": "/d7vweHegRylNlMGBls0PqMzI6RJ.jpg",
-      "backdrop_path": "/xq1HIwZq9VbuvMQELAua1nqEkH.jpg",
+      "title": "Любовний настрій",
+      "original_title": "花樣年華",
+      "overview": "Гонконг, 1962 рік. Дві подружні пари, пан Чоу з дружиною і пані Су з чоловіком, одночасно поселяються в сусідніх квартирах. Поки їхні половинки пропадають на роботі чи в закордонних відрядженнях, Чоу і Су проводять багато часу на самоті і спілкуються одне з одним як звичайні сусіди. Все змінюється, коли вони дізнаються, що їхні партнери — коханці.",
+      "poster_path": "/r2fYVKSlK3DKtdMbVxvIHHTfS2L.jpg",
+      "backdrop_path": "/ffQFnAUm2Uu4RU0nijpjPRf9TBT.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "vote_average": 8.087,
+      "vote_count": 3296,
+      "release_date": "2000-09-29"
+    },
+    {
+      "id": 5801,
+      "media_type": "movie",
+      "title": "Пісня дороги",
+      "original_title": "পথের পাঁচালী",
+      "overview": "Історія про щоденній боротьбі за виживання і поступовий занепад бідної сім’ї, що живе в бенгальської селі. Батько, письменник-початківець, відправляється в місто на заробітки, залишивши дружину піклуватися про дітей і старої тітоньки. Через натиск постійних нападок сусідів, злиднів і необхідності шукати їжу глядачеві показана справжня краса людського побуту, сімейних традицій і любові до природи.",
+      "poster_path": "/9zDYaaWrIVQ0VlB0RcOkkAjHj5n.jpg",
+      "backdrop_path": "/wadoNHCMPElgYuOqLxqDQqXpTMx.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "vote_average": 7.8,
+      "vote_count": 496,
+      "release_date": "1955-08-26"
+    },
+    {
+      "id": 253450,
+      "media_type": "movie",
+      "title": "Вбивця",
+      "original_title": "刺客聶隱娘",
+      "overview": "Китай, час правління династії Танг. Головна героїня - вбивця, яка закохалася в чоловіка, якого їй наказано вбити.",
+      "poster_path": "/7cFx665GKJ9YZGgKW2UVXcsLw37.jpg",
+      "backdrop_path": "/18J7JnWOb9UqfQZHrTCLPz4CeyO.jpg",
+      "genre_ids": [
+        18,
+        28
+      ],
+      "vote_average": 6.382,
+      "vote_count": 559,
+      "release_date": "2015-08-27"
+    },
+    {
+      "id": 3175,
+      "media_type": "movie",
+      "title": "Баррі Ліндон",
+      "original_title": "Barry Lyndon",
+      "overview": "Історія життя простого ірландського хлопця Редмонда Баррі. Ще зовсім юним, він вбиває на дуелі офіцера англійської армії. Щоб не потрапити в руки поліції, він змушений покинути рідний дім і відправляється мандрувати Ірландією. Але мандрівка була недовгою. Віддавши грабіжникам усі гроші, коня та зброю, він записується в ряди англійської армії. Пройшовши підготовку, Редмонд потрапляє в Європу, де в цей час йде Семилітня війна. Надивившись на всі страхіття війни, він вирішує дезертирувати.",
+      "poster_path": "/sOFXICvqUPwgR8M7kpRiAiKNb4G.jpg",
+      "backdrop_path": "/ef6SvWbSfCFlKodJZqpIaTvsRRP.jpg",
+      "genre_ids": [
+        18,
+        10752,
+        36
+      ],
+      "vote_average": 7.993,
+      "vote_count": 3215,
+      "release_date": "1975-12-16"
+    },
+    {
+      "id": 84175,
+      "media_type": "movie",
+      "title": "Звiрi дикого Пiвдня",
+      "original_title": "Beasts of the Southern Wild",
+      "overview": "Шестирічна Хашпаппі живе з батьком Вінком в громаді на краю світу. Вони проводять свої дні, плаваючи в пошуках риби в якійсь подобі човна, зробленого з пікапа. І нехай Вінк суворий батько, зате його дочка буде готова ​​до виживання наодинці з природою, коли його не стане. Одного разу Вінка скошує незрозуміла хвороба, а природа сходить з розуму: тануть льодовики, піднімається вода, з'являється армія доісторичних тварин. Здоров'я Вінка все гірше, і Хашпаппі вирішує податися на пошуки своєї мами...",
+      "poster_path": "/nQJmWekGYlXhezGUb21xFfEfwhH.jpg",
+      "backdrop_path": "/7LWLPvyfLSb2oOlgWwAwUqA8uKo.jpg",
+      "genre_ids": [
+        18,
+        14,
+        12
+      ],
+      "vote_average": 6.842,
+      "vote_count": 1155,
+      "release_date": "2012-06-29"
+    },
+    {
+      "id": 1791,
+      "media_type": "movie",
+      "title": "Піаністка",
+      "original_title": "La Pianiste",
+      "overview": "Головна героїня Еріка — професорка Віденської консерваторії.  Вона вчить молодь чудової музики Шуберта, натомість сама – страшно далека від гармонії небесних сфер. Позбавлена навіть натяку на особисте життя, вона по-дитячому ділить ложе зі старою мегерою-матусею. Після занять вона таємно відвідує порномагазини і під ліжком тримає набір садомазохістських іграшок. Коли ж у неї закохується один з її учнів, вона шокує його абсолютно дикими реакціями на юнацьке почуття.",
+      "poster_path": "/cQ6v5qj4CP0MudMHc2lMZZvf6Ak.jpg",
+      "backdrop_path": "/tEhvOU8nJp4v9goYwrJTASJJD3C.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "vote_average": 7.26,
+      "vote_count": 1290,
+      "release_date": "2001-09-05"
+    },
+    {
+      "id": 25538,
+      "media_type": "movie",
+      "title": "Один і два",
+      "original_title": "一一",
+      "overview": "ЕнДжею вже за сорок, і він стривожений. До того ж до проблем на роботі його сім'я перетворилася на клубок проблем — теща в комі, дружина переживає душевну кризу, дочка вперше закохалася, а син занадто мудрий для своїх восьми років. Раптова зустріч з давньою коханою Шеррі, яку ЕнДжей кинув багато років тому, дає йому шанс почати нове життя. Знову ставши романтиком, ЕнДжей потайки відправляється з Шеррі в Японію, щоб спробувати виправити свої помилки.",
+      "poster_path": "/uiCcDkz7mcL3upCUmKW4yEYWs8w.jpg",
+      "backdrop_path": "/x903dx8Km6XNLFEmvbXc98vePSV.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 7.949,
+      "vote_count": 679,
+      "release_date": "2000-09-20"
+    },
+    {
+      "id": 531428,
+      "media_type": "movie",
+      "title": "Портрет дівчини у вогні",
+      "original_title": "Portrait de la jeune fille en feu",
+      "overview": "Бретань, 1770 рік. Художниці Маріанн доручають зробити весільний портрет Елоїз — молодої жінки, яка щойно залишила монастир. Елоїз не надто прагне бути нареченою, а Маріанн не повинна казати їй про портрет. Вона спостерігає за нею вдень аби таємно малювати вночі.",
+      "poster_path": "/zkckXGVJve80g0IcbL99PQGzC8M.jpg",
+      "backdrop_path": "/ivJ5UzT6IzucLVfbZwCCwiJJoBz.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "vote_average": 8.095,
+      "vote_count": 2960,
+      "release_date": "2019-09-06"
+    },
+    {
+      "id": 337703,
+      "media_type": "movie",
+      "title": "Червона черепаха",
+      "original_title": "La tortue rouge",
+      "overview": "Історія людини, що зазнала корабельної трощi і опинилась на тропічному острові, де тільки небо, хмари, птахи... Як у вічності - немає ні минулого, ні майбутнього... Це поетична, тонка і хвилююча, романтична і сентиментальна iсторiя про головні віхи в житті людини, про страхи, любов, боротьбу за життя і смерті.",
+      "poster_path": "/q6bQZcZLMH7logU7TbhzBGy2yaN.jpg",
+      "backdrop_path": "/dotEMpAXmAp6lAYulMVK4lqKFiX.jpg",
+      "genre_ids": [
+        16,
+        18,
+        14,
+        10751
+      ],
+      "vote_average": 7.431,
+      "vote_count": 1381,
+      "release_date": "2016-03-27"
+    },
+    {
+      "id": 1600,
+      "media_type": "movie",
+      "title": "Подвійне життя Вероніки",
+      "original_title": "La Double Vie de Véronique",
+      "overview": "Дві паралельні історії про двох схожих жінок. Одна живе в Польщі, інша у Франції. Вони не знайомі між собою, але все їхнє життя глибоко пов’язане.",
+      "poster_path": "/opBS1MCXShQCdxP9OQwCuMkcefA.jpg",
+      "backdrop_path": "/vjsFyeCf5W5rxCFpS9MIAEZJkIG.jpg",
       "genre_ids": [
         18,
         14
       ],
-      "vote_average": 6.723,
-      "vote_count": 3356,
-      "release_date": "2011-05-17"
-    },
-    {
-      "id": 23160,
-      "media_type": "movie",
-      "title": "Гармонії Веркмейстера",
-      "original_title": "Werckmeister harmóniák",
-      "overview": "Провінційне містечко серед угорських рівнин. Страшенно холодно, але сніг не падає. Сотні спантеличених чоловіків зібралися біля циркового фургона, в очікуванні на опудало кита. Взаємостосунки змінюються — амбіційніші люди ладні скористатися ситуацією, в той час, як пасивні продовжують втрачати впевненість. Але неминучий апокаліпсис нікого не пощадить.",
-      "poster_path": "/vTKu9wMom1uNXpQqeB4Ba3sM0R7.jpg",
-      "backdrop_path": "/pyCUjcPHZrMY125lWpWAxEexe7C.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 7.832,
-      "vote_count": 384,
-      "release_date": "2001-02-01"
-    },
-    {
-      "id": 414453,
-      "media_type": "movie",
-      "title": "Columbus",
-      "original_title": "Columbus",
-      "overview": "",
-      "poster_path": "/3ZE5Wl3CdfUH4BkWRmyMKPHkWHx.jpg",
-      "backdrop_path": "/xN88RKXxjPAcQsdBz6XavZ00PFh.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 7.09,
-      "vote_count": 481,
-      "release_date": "2017-08-04"
-    },
-    {
-      "id": 43423,
-      "media_type": "movie",
-      "title": "باد ما را خواهد برد",
-      "original_title": "باد ما را خواهد برد",
-      "overview": "",
-      "poster_path": "/fBFquwGxQIXtfj8KyC8IXUAVKDd.jpg",
-      "backdrop_path": "/b9UPNXGV7mEUmLejR8caJIJijow.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 7.107,
-      "vote_count": 197,
-      "release_date": "1999-09-12"
-    },
-    {
-      "id": 664413,
-      "media_type": "movie",
-      "title": "365 днів",
-      "original_title": "365 dni",
-      "overview": "Жінка стає жертвою владного мафіозі, який бере її в полон і дає рік, щоб покохати його.",
-      "poster_path": "/yXXrRrIZaqUlriQz7PaMQOUj6qG.jpg",
-      "backdrop_path": "/29mZ5bR5m2w3xuvwJH7BHMFQQwH.jpg",
-      "genre_ids": [
-        10749,
-        18,
-        80
-      ],
-      "vote_average": 6.992,
-      "vote_count": 9549,
-      "release_date": "2020-02-07"
-    },
-    {
-      "id": 377151,
-      "media_type": "movie",
-      "title": "Море у вогні",
-      "original_title": "Fuocoammare",
-      "overview": "Фільм про життя італійського острова Лампедуза, який став перевалочним пунктом для біженців з країн Північної Африки.",
-      "poster_path": "/sLOnVJsJnFQ67nofe3hrSfi65Wx.jpg",
-      "backdrop_path": "/chEF9JE4fsS6sfgHjcqlXD2nGJ8.jpg",
-      "genre_ids": [
-        99
-      ],
-      "vote_average": 6.6,
-      "vote_count": 248,
-      "release_date": "2016-02-18"
-    },
-    {
-      "id": 128216,
-      "media_type": "movie",
-      "title": "Історії, які ми розповідаємо",
-      "original_title": "Stories We Tell",
-      "overview": "Режисер Сара Поллі бере інтерв'ю у членів її сім'ї про події, які траплялися раніше.",
-      "poster_path": "/aVDtDW3qP0je1Cy87GDfijG9W4c.jpg",
-      "backdrop_path": "/fm0DYaSpo86VPxw2BU93w237WIl.jpg",
-      "genre_ids": [
-        99
-      ],
-      "vote_average": 7.115,
-      "vote_count": 230,
-      "release_date": "2012-10-12"
-    },
-    {
-      "id": 81401,
-      "media_type": "movie",
-      "title": "Туринський кінь",
-      "original_title": "A torinói ló",
-      "overview": "У 1889 році на вулиці італійського міста Турин сталося дивна пригода. Кучер шмагав батогом свою стару коняку, яка відмовлялася рушити з місця. Несподівано до воза підбіг добре одягнений пан з пишними вусами і обняв тварину за шию, при цьому гірко заридав. Це був не хто інший, як всесвітньо відомий філософ Фрідріх Ніцше. Його насилу відвели від коня, а коли привели додому, з'ясувалося, що він не в собі. Ніцше помістили в лікарню для душевнохворих, де він провів решту життя... Але що ж сталося з конем і його господарем? Про це і розповість фільм.",
-      "poster_path": "/k5Nj2GcU8RwU53GhMZjyxQyemGF.jpg",
-      "backdrop_path": "/eMgNa5dbU34qyF0KA9DMA4TrEzn.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 7.566,
-      "vote_count": 422,
-      "release_date": "2011-03-31"
-    },
-    {
-      "id": 339877,
-      "media_type": "movie",
-      "title": "З любов'ю, Вінсент",
-      "original_title": "Loving Vincent",
-      "overview": "Стрічка є кінематографічною розповіддю про життя і загадкову смерть нідерландського художника Вінсента ван Гога, переданою за допомогою картин, намальованих у техніці самого художника.",
-      "poster_path": "/zplCeWYcvYskVMBg5BfwcPpZEKA.jpg",
-      "backdrop_path": "/KKrsUGDXZfpeL3ddXTeGibmUHS.jpg",
-      "genre_ids": [
-        16,
-        18,
-        36
-      ],
-      "vote_average": 7.985,
-      "vote_count": 2618,
-      "release_date": "2017-06-22"
-    },
-    {
-      "id": 438634,
-      "media_type": "movie",
-      "title": "Estiu 1993",
-      "original_title": "Estiu 1993",
-      "overview": "",
-      "poster_path": "/xvAMrzuvHUeou0eIQlLuJ2hcIrg.jpg",
-      "backdrop_path": "/dH86aTG4xBe7lzyky4NGktehOKa.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 7.044,
-      "vote_count": 226,
-      "release_date": "2017-03-24"
+      "vote_average": 7.487,
+      "vote_count": 903,
+      "release_date": "1991-05-15"
     }
   ]
 }

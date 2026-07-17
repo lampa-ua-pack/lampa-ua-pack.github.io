@@ -3,162 +3,161 @@
   "emoji": "🎧",
   "title": "Під справи",
   "lang": "uk",
-  "updated_at": "2026-07-17T17:13:48Z",
+  "updated_at": "2026-07-17T17:31:58Z",
   "items": [
     {
-      "id": 34549,
+      "id": 66573,
       "media_type": "tv",
-      "title": "The Great British Bake Off",
-      "original_title": "The Great British Bake Off",
-      "overview": "",
-      "poster_path": "/bNa02AorKSBRfWfVPmsL7SJrdfs.jpg",
-      "backdrop_path": "/7rB1VhVXtLFTnOCY1Hz7ZEIz7CO.jpg",
+      "title": "У кращому світі",
+      "original_title": "The Good Place",
+      "overview": "Навіжена Елеонор з Нью Джерсі потрапляє туди, де їй наочно пояснюють, що все своє життя вона була вкрай поганою людиною. Головній героїні належить навчитися відрізняти хороше від поганого і допомогти їй дорости до хорошої людини візьметься наставник на ім'я Майкл.",
+      "poster_path": "/iZd6jJEzT7sszoFLd5XsYXgctfq.jpg",
+      "backdrop_path": "/tZmlWeFEMvxrjJhBJJcLNXpSRiG.jpg",
       "genre_ids": [
-        10764
+        10765,
+        35
       ],
-      "vote_average": 7.5,
-      "vote_count": 101,
-      "release_date": "2010-08-17"
+      "vote_average": 7.972,
+      "vote_count": 1998,
+      "release_date": "2016-09-19"
     },
     {
-      "id": 32726,
+      "id": 61662,
       "media_type": "tv",
-      "title": "Закусочна Боба",
-      "original_title": "Bob's Burgers",
-      "overview": "Закусочна Боба - це американський анімаційний телевізійний ситком створений Лореном Бочардом для телекомпанії Fox. Це шоу, відповідно до реклами сайту Fox, про людину, яка готує гамбургери, і його родину. Незважаючи на паршиве місце розташування його забігайлівки, а іноді і паскудного сервісу, Боб і його химерна сім'я впевнені в успіху. Шоу зосереджується на сім'ї, яка працює в гамбургер-ресторані. При цьому з ними відбуваються різні цікаві ситуації.",
-      "poster_path": "/cJb7fnCMAdtitfz5mvQMGGjxiry.jpg",
-      "backdrop_path": "/rUABoTPO0OLq2wlHiFWezxpV6fo.jpg",
+      "title": "Шіттс Крік",
+      "original_title": "Schitt's Creek",
+      "overview": "Серіал розповідає про сімейство Роузів: Джонні Роуз — мільярдер, який заробив статок на мережі відеосалонів, його дружина — актриса мильних опер, і двоє дітей — гіпстер Девід та світська левиця Алексіс. Після того, як бізнес Джонні зазнає краху, все сімейство змушене переїхати жити в невелику сільську громаду Шіттс Крік, яку вони придбали кілька років тому заради розваги.",
+      "poster_path": "/3UuaOsE12RIN0IixGRYhh0asao.jpg",
+      "backdrop_path": "/ftNmVV8LuNVmtB8mzoUTucozVKE.jpg",
       "genre_ids": [
+        35
+      ],
+      "vote_average": 7.783,
+      "vote_count": 712,
+      "release_date": "2015-01-13"
+    },
+    {
+      "id": 18347,
+      "media_type": "tv",
+      "title": "Спільнота",
+      "original_title": "Community",
+      "overview": "Серіал розповідає про студентське співтовариство, яке складається з шкільних лузерів, нещодавно розлучених домогосподарок і людей похилого віку, що намагаються зберегти тверезий розум.",
+      "poster_path": "/lmSrgcD3sydNEvvxlhWDyx48RKJ.jpg",
+      "backdrop_path": "/1xRfgONYmK3T6FSmbtcuo8eyxVt.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.997,
+      "vote_count": 2102,
+      "release_date": "2009-09-17"
+    },
+    {
+      "id": 456,
+      "media_type": "tv",
+      "title": "Сімпсони",
+      "original_title": "The Simpsons",
+      "overview": "Американський анімаційний серіал, створений Меттом Ґрейнінґом для компанії Fox. Мультсеріал — сатирична пародія на стиль життя середнього класу США, втілена в сім'ї Сімпсонів, яка складається з Гомера, Мардж, Барта, Ліси та Меґґі. Більшість подій відбуваються у вигаданому містечку Спрингфілді. Шоу висміює численні аспекти життя людей, американську культуру, суспільство, навіть американське телебачення.",
+      "poster_path": "/aNFV1eTckRkyGyCsXkWiEOSeM8X.jpg",
+      "backdrop_path": "/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+      "genre_ids": [
+        10751,
         16,
         35
       ],
-      "vote_average": 7.841,
-      "vote_count": 1100,
-      "release_date": "2011-01-09"
+      "vote_average": 8.019,
+      "vote_count": 10872,
+      "release_date": "1989-12-17"
     },
     {
-      "id": 35058,
+      "id": 1668,
       "media_type": "tv",
-      "title": "Property Brothers",
-      "original_title": "Property Brothers",
-      "overview": "",
-      "poster_path": "/ccggWzKxSao1VNaVFJNLkZG96Fb.jpg",
-      "backdrop_path": "/4yE7q1MwvM4JLlBH9WcmP2GY26l.jpg",
-      "genre_ids": [
-        10764
-      ],
-      "vote_average": 7.7,
-      "vote_count": 98,
-      "release_date": "2011-01-04"
-    },
-    {
-      "id": 12786,
-      "media_type": "tv",
-      "title": "Загадки Мердока",
-      "original_title": "Murdoch Mysteries",
-      "overview": "Детективний серіал \"Загадки Мердока\", відзнятий за романами Морін Дженнінгс.\n\nХитромудрі злочини розплутує поліцейський Вільям Мердок. Його характеризують як людину з допитливим розумом, уважну до дрібниць і новинок технічного прогресу. Детективу Мердоку допомагає лікар Джейн Огден, якій ані юний вік, ані гарне виховання леді не заважають професійно виконувати обов'язки патанатома і експерта в новій галузі юриспруденції XIX століття – криміналістиці.",
-      "poster_path": "/1S8gnT06MDkAmHmzDLSVughE0t0.jpg",
-      "backdrop_path": "/hYmHyUlJMQgeazELoHnORrEQ0vE.jpg",
-      "genre_ids": [
-        9648,
-        18
-      ],
-      "vote_average": 7.7,
-      "vote_count": 291,
-      "release_date": "2008-01-24"
-    },
-    {
-      "id": 2996,
-      "media_type": "tv",
-      "title": "Офіс",
-      "original_title": "The Office",
-      "overview": "",
-      "poster_path": "/iFRje2VxsSVv7ZYoMoSzrtcx9uP.jpg",
-      "backdrop_path": "/9GWU1AyNqUYIUl1tU7CvXEHUVs9.jpg",
+      "title": "Друзі",
+      "original_title": "Friends",
+      "overview": "У центрі подій опиняються найкращі друзі — Моніка, Рейчел, Фібі, Джої, Росс і Чендлер. Шестеро героїв живуть неподалік одне від одного, разом проводять вільний час і намагаються пережити труднощі, що виникають. Вони діляться своїми таємницями та влаштовують особисте життя.",
+      "poster_path": "/eGjjrOMUZFlKfDBL7JAq9kP8Gik.jpg",
+      "backdrop_path": "/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
       "genre_ids": [
         35
       ],
-      "vote_average": 7.8,
-      "vote_count": 965,
-      "release_date": "2001-07-09"
+      "vote_average": 8.414,
+      "vote_count": 9207,
+      "release_date": "1994-09-22"
     },
     {
-      "id": 764,
+      "id": 3452,
       "media_type": "tv",
-      "title": "Суто англійські вбивства",
-      "original_title": "Midsomer Murders",
-      "overview": "Суто англійський серіал за суто англійським романом Кароліни Грем. Від зміни місць доданків сума англійського детективу не змінюється, і час не владний над істинними цінностями. Манірні остров’яни, як і раніше здійснюють найвитонченіші злочини, за ними з ґрунтовним і шанобливим виглядом слідують елегантні нишпорки, а тлом для цих стриманих пристрастей залишаються зелені галявини й тінисті алеї, похмурі кабінети й холодні спальні. Майже вся дія відбувається в селах невеликого, зразково безтурботного графства Мідсамер. Іноді на цьому пасторальному тлі відбувається таке, чого і в столицях не бачили. А службу, яка небезпечна і важка, сільські поліціанти не вибирають.",
-      "poster_path": "/xH80GCTzxTrQ3LETSrCl0DC6uXA.jpg",
-      "backdrop_path": "/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
-      "genre_ids": [
-        80,
-        18,
-        9648
-      ],
-      "vote_average": 7.469,
-      "vote_count": 360,
-      "release_date": "1997-03-23"
-    },
-    {
-      "id": 68106,
-      "media_type": "tv",
-      "title": "Kim's Convenience",
-      "original_title": "Kim's Convenience",
-      "overview": "",
-      "poster_path": "/82Vue6MPuYZzlpggR65cvWdBdy.jpg",
-      "backdrop_path": "/oh5ZkLhrrt1EmGfRZ4qqm743X6b.jpg",
-      "genre_ids": [
-        35
-      ],
-      "vote_average": 7.657,
-      "vote_count": 175,
-      "release_date": "2016-10-11"
-    },
-    {
-      "id": 1831,
-      "media_type": "tv",
-      "title": "Grand Designs",
-      "original_title": "Grand Designs",
-      "overview": "",
-      "poster_path": "/4UiJCgR77N7cd8eJ4tolxhs8fGX.jpg",
-      "backdrop_path": "/vMH57KXBgkASnpEJOv4fyzJKrQj.jpg",
-      "genre_ids": [
-        99
-      ],
-      "vote_average": 7.1,
-      "vote_count": 55,
-      "release_date": "1999-04-29"
-    },
-    {
-      "id": 48891,
-      "media_type": "tv",
-      "title": "Бруклін 9-9",
-      "original_title": "Brooklyn Nine-Nine",
-      "overview": "Сюжет серіалу оповідає про детектива, на долю якого в один момент випали серйозні зміни. Зовсім недавно він не виявляв до своєї роботи ніякої серйозності, але тепер, коли його штаб очолив новий керівник, детективу доведеться кардинально поміняти своє професійне життя і стати героєм неймовірних історій.",
-      "poster_path": "/a9gmarnmzyd7Q7XkyLxvZvK3jNP.jpg",
-      "backdrop_path": "/9AeiA1XtP5sel2tAf9LaGeUjhDb.jpg",
+      "title": "Фрейзер",
+      "original_title": "Frasier",
+      "overview": "Після розлучення відомий бостонський психіатр Фрейзер Крейн приїжджає в рідний Сієтл, щоб почати життя заново. Його батько Мартін, поліцейський у відставці, брат Найлс і собака Едді раді поверненню Фрейзера. Ще його чекає нова робота ефірного радіо-психіатра, який відгукується на ім’я «Я Слухаю», і маса позаштатних і комічних ситуацій на роботі і вдома.",
+      "poster_path": "/hsBbAMf6jZB4Gd6l1FTJGYpg9pA.jpg",
+      "backdrop_path": "/4FqKFhF4BrNsrK3EdRpVJofVqCp.jpg",
       "genre_ids": [
         35,
-        80
+        10751
       ],
-      "vote_average": 8.211,
-      "vote_count": 4026,
-      "release_date": "2013-09-17"
+      "vote_average": 7.685,
+      "vote_count": 895,
+      "release_date": "1993-09-16"
     },
     {
-      "id": 8592,
+      "id": 1400,
       "media_type": "tv",
-      "title": "Парки та зони відпочинку",
-      "original_title": "Parks and Recreation",
-      "overview": "Проста чиновниця Леслі Ноуп якось зрозуміла, що її робота не дає суспільству жодної користі. Вона вирішує перетворити покинутий кар’єр на парк. Перепонами на її шляху стануть негнучка бюрократична система, егоїстичні сусіди, які не бажають змін навіть на краще, та забудовники, що відразу зацікавилися непотрібною їм досі ділянкою. Але Леслі просто так не здасться…",
-      "poster_path": "/t1CnVOaLEdS9ZRMAEIpFf7DiDlC.jpg",
-      "backdrop_path": "/frwl2zBNAl5ZbFDJGoJv0mYo0rF.jpg",
+      "title": "Сайнфелд",
+      "original_title": "Seinfeld",
+      "overview": "Поневіряння міського невротика, стенд-ап коміка Джеррі Сайнфелда та його настільки ж неврастенічних нью-йоркських друзів.",
+      "poster_path": "/2roqp3NfMeJhO5XnpjOMHcy6njF.jpg",
+      "backdrop_path": "/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
       "genre_ids": [
         35
       ],
-      "vote_average": 8.0,
-      "vote_count": 1854,
-      "release_date": "2009-04-09"
+      "vote_average": 8.258,
+      "vote_count": 2381,
+      "release_date": "1989-07-05"
+    },
+    {
+      "id": 1100,
+      "media_type": "tv",
+      "title": "Як я зустрів вашу маму",
+      "original_title": "How I Met Your Mother",
+      "overview": "Коли давні друзі Теда вирішили одружитися, він зрозумів, що йому теж не завадило б обзавестиcя родиною. Раптом Тед бачить дівчину своєї мрії, відразу запрошує її на побачення й... освідчується. Проте виявляється, що завоювати дівчину, в яку закоханий по-справжньому, ще й із першого погляду, – дуже непросто.",
+      "poster_path": "/fjJf3wWEv0QhxiwmyJP8fSUVdRO.jpg",
+      "backdrop_path": "/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 8.129,
+      "vote_count": 5796,
+      "release_date": "2005-09-19"
+    },
+    {
+      "id": 1418,
+      "media_type": "tv",
+      "title": "Теорія великого вибуху",
+      "original_title": "The Big Bang Theory",
+      "overview": "Леонард і Шелдон — блискучі фізики, розумники, що знаються на тому, як \"працює всесвіт\". Але геніальність ані трішечки не допомагає їм у спілкуванні з людьми, особливо жінками. Шелдон взагалі вважає, що чоловіки та жінки належать до різних біологічних видів. Все починає змінюватися, коли по сусідству поселяється красуня Пенні.",
+      "poster_path": "/juLHeioV7M92wcUKCsESMb5VwuG.jpg",
+      "backdrop_path": "/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.92,
+      "vote_count": 12583,
+      "release_date": "2007-09-24"
+    },
+    {
+      "id": 1421,
+      "media_type": "tv",
+      "title": "Американська сімейка",
+      "original_title": "Modern Family",
+      "overview": "Історія про три абсолютно різні американські сім’ї: Клер — мати-домогосподарка у звичайній традиційній сім’ї, її батько Джей одружений із жінкою, що майже у два рази молодша за нього та брат Мітчелл який разом зі своїм партнером удочерили в’єтнамську дитину.",
+      "poster_path": "/sfkx2c5DyfumT7vnNvnxbL1h7VU.jpg",
+      "backdrop_path": "/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.9,
+      "vote_count": 3420,
+      "release_date": "2009-09-23"
     }
   ]
 }
