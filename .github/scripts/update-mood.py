@@ -28,6 +28,8 @@ ENV:
   OPENCODE_RETRIES  — (опц.) додаткові спроби ІІ-запиту на таймаут/помилку (дефолт 2)
   DISCOVER_PAGES    — (опц.) сторінок /discover на кожен тип (дефолт 2)
   MAX_THEME_REUSE   — (опц.) у скількох темах може зустрічатись один тайтл (дефолт 2)
+  TARGET_COUNT      — (опц.) фінальних тайтлів на тему (дефолт 10)
+  AI_REQUEST_COUNT  — (опц.) скільки назв просити в ІІ (дефолт 15)
 """
 
 import os
@@ -68,8 +70,9 @@ AI_BATCH_SIZE = int(os.environ.get("AI_BATCH_SIZE", "2"))  # скільки те
                                                            # Мало титрів/запит -> вкладаємось у таймаут
                                                            # без ретраїв. (14 = один запит на всі теми)
 
-TARGET_COUNT = 10            # тайтлів на тему
-AI_REQUEST_COUNT = 25        # скільки назв просимо в ІІ (ІІ — головне джерело добірки)
+TARGET_COUNT = int(os.environ.get("TARGET_COUNT", "10"))        # фінальних тайтлів на тему
+AI_REQUEST_COUNT = int(os.environ.get("AI_REQUEST_COUNT", "15"))  # назв просимо в ІІ (запас ~1.5x
+                                                                 # на резолв/дедуп; ІІ — головне джерело)
 DISCOVER_PAGES = int(os.environ.get("DISCOVER_PAGES", "2"))  # сторінок /discover на кожен тип
 VOTE_COUNT_MIN = 150         # поріг популярності (відсікає мотлох/неіснуюче)
 OBVIOUS_VOTE_COUNT = 15000   # «занадто очевидні» блокбастери
