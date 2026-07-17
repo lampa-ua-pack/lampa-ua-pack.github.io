@@ -1,0 +1,169 @@
+{
+  "slug": "cozy-rain",
+  "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"104\" y=\"176\" width=\"216\" height=\"208\" rx=\"28\" fill=\"currentColor\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"28\" d=\"M320 224h28a52 52 0 0 1 0 104h-28\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"20\" stroke-linecap=\"round\" d=\"M168 92c-18 22 18 40 0 60M248 92c-18 22 18 40 0 60\"/></svg>",
+  "title": "Плед і какао",
+  "lang": "uk",
+  "updated_at": "2026-07-17T21:51:56Z",
+  "items": [
+    {
+      "id": 15244,
+      "media_type": "movie",
+      "title": "Засуджений до смерті втік",
+      "original_title": "Un condamné à mort s'est échappé",
+      "overview": "Полонений боєць французького Опору під час Другої світової війни готує свою втечу з в'язниці.",
+      "poster_path": "/utjBSa7w9zqtxyTPKEwIQsWbCi9.jpg",
+      "backdrop_path": "/lNe2z2qQf0G5gzM51ZyJD0zCDVk.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "vote_average": 7.947,
+      "vote_count": 618,
+      "release_date": "1956-11-11"
+    },
+    {
+      "id": 48831,
+      "media_type": "movie",
+      "title": "Ніч у Мод",
+      "original_title": "Ma nuit chez Maud",
+      "overview": "Якщо Ви — неодружені і досить довго жили далеко від дому, то по поверненню на батьківщину у вас може, як у героя фільму, виникнути бажання осісти і завести сім’ю. І ось наш герой в тиші Академістечка, в недільний день при відвідинах церкви зустрічає юну блондинку, в якій вже бачить свою майбутню дружину. Але не тут — то було! Несподівана зустріч з колишнім однокурсником і події, що послідували за нею, в Різдвяну ніч приводять його до Мод…",
+      "poster_path": "/70HeSPLO98Xnke1b0KlBYfrvF5G.jpg",
+      "backdrop_path": "/zNMMKmyZ2W5viK2iqbsRfaQIa2u.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ],
+      "vote_average": 7.63,
+      "vote_count": 359,
+      "release_date": "1969-06-04"
+    },
+    {
+      "id": 1600,
+      "media_type": "movie",
+      "title": "Подвійне життя Вероніки",
+      "original_title": "La Double Vie de Véronique",
+      "overview": "Дві паралельні історії про двох схожих жінок. Одна живе в Польщі, інша у Франції. Вони не знайомі між собою, але все їхнє життя глибоко пов’язане.",
+      "poster_path": "/opBS1MCXShQCdxP9OQwCuMkcefA.jpg",
+      "backdrop_path": "/vjsFyeCf5W5rxCFpS9MIAEZJkIG.jpg",
+      "genre_ids": [
+        18,
+        14
+      ],
+      "vote_average": 7.487,
+      "vote_count": 903,
+      "release_date": "1991-05-15"
+    },
+    {
+      "id": 11934,
+      "media_type": "movie",
+      "title": "Підставна особа",
+      "original_title": "The Hudsucker Proxy",
+      "overview": "Безробітний хлопчина з провінції опиняється в самому центрі Америки - Нью-Йорку, в пошуках роботи. Завдяки щасливому збігу обставин, його зараховують у число клерків однієї з найбільших компаній. З цього моменту новоспеченому клерку починає везти.  У результаті чиновницьких інтриг, хлопець із провінції виявляється головою компанії, і цей поворот долі різко міняє його життя. Але слава і гроші, про які колись мріяв герой, можуть не тільки возвеличити, але і порядком зіпсувати йому життя.",
+      "poster_path": "/lcKHkI1cievtrw7Tk65th8CNH91.jpg",
+      "backdrop_path": "/gXo423uIRgBOsfQrrqJfVVcySif.jpg",
+      "genre_ids": [
+        35,
+        18,
+        14
+      ],
+      "vote_average": 7.075,
+      "vote_count": 1202,
+      "release_date": "1994-03-11"
+    },
+    {
+      "id": 309,
+      "media_type": "movie",
+      "title": "Свято",
+      "original_title": "Festen",
+      "overview": "У шикарному заміському особняку має відбутися гостина. На ювілей поважного батька великого сімейства з'їжджаються діти та родичі. В залі накрито дивовижний стіл, відкорковано вишукані вина. За столом немає лише однієї з дочок ювіляра, що наклала на себе руки при таємничих обставинах. Свято починається. Старший син виголошує перший тост. Ніхто не підозрює, що нарядним гостям, які тут зібралися, належить почути шокуючу та страшну правду...",
+      "poster_path": "/kgrY0PZQuusSIAtbyGQL5EDjZum.jpg",
+      "backdrop_path": "/yCtgdv7TfgZLHj6R9IQKD5TjljP.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 7.689,
+      "vote_count": 1280,
+      "release_date": "1998-06-19"
+    },
+    {
+      "id": 394117,
+      "media_type": "movie",
+      "title": "Проект «Флорида»",
+      "original_title": "The Florida Project",
+      "overview": "Халлі - молода мати-бунтарка 6-річної дівчинки Муні. Вони вже довгий час живуть у бюджетному мотелі «Магічний замок». Маленька Муні, як і будь-яка дитина, сповнена енергії, завзяття та неймовірних ідей. Вона вміє провести кожен день незабутньо. Компанію в цьому дівчинці складає Дженсен — хлопчик, який зовсім недавно прибув у це начебто похмуре і жорстоке місце. Діти живуть своїми прекрасними життями, навіть не підозрюючи, на які жертви йдуть їхні батьки, щоб дати своїм улюбленим синам і дочкам найкраще.",
+      "poster_path": "/jva7xWVMumoqCcLa4gkdCOjBG6f.jpg",
+      "backdrop_path": "/GOwNU7Z9G3ORjNxdZnURfuIGS6.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 7.427,
+      "vote_count": 3121,
+      "release_date": "2017-10-06"
+    },
+    {
+      "id": 965150,
+      "media_type": "movie",
+      "title": "Після сонця",
+      "original_title": "Aftersun",
+      "overview": "Софі згадує канікули біля моря, які вона провела з батьком двадцять років тому, коли їй було тринадцять.",
+      "poster_path": "/obWYWkSkX9vygfktVD1rLwKWZ1s.jpg",
+      "backdrop_path": "/4jdduww9j5RyzO4ITRcuBFhqNN1.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 7.647,
+      "vote_count": 1889,
+      "release_date": "2022-10-21"
+    },
+    {
+      "id": 666277,
+      "media_type": "movie",
+      "title": "Минулі життя",
+      "original_title": "Past Lives",
+      "overview": "Нора та Хе-сон були друзями дитинства, але їхній зв’язок перервався, коли дівчина переїхала до Канади з батьками. Через 20 років вони відновлюють спілкування — спочатку у соціальних мережах, а потім проводять разом тиждень у Нью-Йорку.",
+      "poster_path": "/s4ADRgM4r3TmFRC6bKpXagcsFAC.jpg",
+      "backdrop_path": "/7HR38hMBl23lf38MAN63y4pKsHz.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "vote_average": 7.699,
+      "vote_count": 2365,
+      "release_date": "2023-06-02"
+    },
+    {
+      "id": 964960,
+      "media_type": "movie",
+      "title": "Смак пристрасті",
+      "original_title": "La Passion de Dodin Bouffant",
+      "overview": "1885 рік. Незрівнянна кухарка Євгенія останні 20 років працювала на відомого гурмана Додіна. З часом гастрономічна практика та взаємне захоплення перетворилися на романтичні стосунки. Особливий зв’язок кухарки та гурмана породжує вишукані страви, які вражають навіть найвідоміших шеф-кухарів світу. Незважаючи на своє кохання, Євгенія любить свободу і не планує виходити заміж за Додіна. Щоб змінити її думку, він вирішує зробити те, чого ніколи раніше не робив — готувати для неї.",
+      "poster_path": "/acXRiuA3nDk39M1sFTYLI3w2L2j.jpg",
+      "backdrop_path": "/yDA4vgY6Thi8jflN94kHa05mqjj.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "vote_average": 7.09,
+      "vote_count": 394,
+      "release_date": "2023-11-08"
+    },
+    {
+      "id": 467244,
+      "media_type": "movie",
+      "title": "Зона інтересу",
+      "original_title": "The Zone of Interest",
+      "overview": "Чоловік із дружиною будують оселю мрії — з затишним садом, дорогими пожитками, родинними вечорами за читанням із дітьми. І тільки високий паркан нагадує, що поруч з їхнім райським куточком стоїть концтабір, де чоловік працює комендантом.",
+      "poster_path": "/5tlvcz9CHzxJ6AUUaTNaoLdDxb4.jpg",
+      "backdrop_path": "/pnTSOKcYnvdpQNQElAtJM1rWOxH.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "vote_average": 7.014,
+      "vote_count": 2657,
+      "release_date": "2023-12-15"
+    }
+  ]
+}

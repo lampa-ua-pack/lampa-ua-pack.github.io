@@ -1,0 +1,172 @@
+{
+  "slug": "date-night",
+  "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"currentColor\" d=\"M256 464C120 360 48 288 48 200c0-60 48-104 104-104 40 0 76 24 104 64 28-40 64-64 104-64 56 0 104 44 104 104 0 88-72 160-208 264z\"/></svg>",
+  "title": "Для двох",
+  "lang": "uk",
+  "updated_at": "2026-07-17T21:52:05Z",
+  "items": [
+    {
+      "id": 597219,
+      "media_type": "movie",
+      "title": "Половина всього",
+      "original_title": "The Half of It",
+      "overview": "Сором'язливу, студентку відмінницю Еллі наймає милий, але косноязикий качок Пол, якому потрібна допомога в тому, щоб завоювати найпопулярнішу дівчину в школі. Але їх нова і малоймовірна дружба стає хисткою, коли Еллі виявить, що у неї є почуття до тієї самої дівчини.",
+      "poster_path": "/jC1PNXGET1ZZQyrJvdFhPfXdPP1.jpg",
+      "backdrop_path": "/8YSpQBdGvuvSj9pLsY2yoUb9fZn.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "vote_average": 7.085,
+      "vote_count": 1604,
+      "release_date": "2020-05-01"
+    },
+    {
+      "id": 621013,
+      "media_type": "movie",
+      "title": "Хімічні серця",
+      "original_title": "Chemical Hearts",
+      "overview": "17-річний Генрі Пейдж — самопроголошений романтик, який ще ніколи не закохувався. Він чекає свою єдину, а поки весь вільний час присвячує шкільній газеті. Одного разу в школі з’являється новенька Ґрейс Таун, і Генрі розуміє, що в недалекому майбутньому його життя зміниться назавжди.",
+      "poster_path": "/q1MNlZYqhoD4U7sd7pjxD6SUf4z.jpg",
+      "backdrop_path": "/pGTXJcZQIgqzFZlWy6KxlamlTHK.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "vote_average": 7.306,
+      "vote_count": 1165,
+      "release_date": "2020-08-21"
+    },
+    {
+      "id": 616251,
+      "media_type": "movie",
+      "title": "Галерея розбитих сердець",
+      "original_title": "The Broken Hearts Gallery",
+      "overview": "Головна героїня – дівчина на ім’я Люсі, яка не поспішає дорослішати, живе легко та невимушено, регулярно потрапляючи у  різні неприємності. А ще вона важко переживає розриви стосунків, тому залишає собі на згадку різні сувеніри з минулого. Вона вже зневірилася знайти  справжнє кохання, але одного дня зустрічає Ніка, який допомагає їй розібратися з минулим і організувати «Галерею розбитих сердець» - відкритий простір, де кожен бажаючий може залишити предмети, пов'язані з невдалими стосунками в минулому...",
+      "poster_path": "/m5TYQCsYQGXA8mvYgAQNssY1hJU.jpg",
+      "backdrop_path": "/ahW9vTY0ZM5OaFOV40EhxDOxmbF.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "vote_average": 7.1,
+      "vote_count": 343,
+      "release_date": "2020-09-11"
+    },
+    {
+      "id": 615665,
+      "media_type": "movie",
+      "title": "Пара на свята",
+      "original_title": "Holidate",
+      "overview": "Їм набридли свята наодинці із собою, тож двоє незнайомців вирішують протягом року відзначати їх разом. Дуже скоро платонічні стосунки переростають у щось більше.",
+      "poster_path": "/gSCr70e4rfssaK4S7VtSi25Aq6c.jpg",
+      "backdrop_path": "/8veOfB9RbSzFki0Rq3IQIGsFfhC.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "vote_average": 6.97,
+      "vote_count": 2378,
+      "release_date": "2020-10-27"
+    },
+    {
+      "id": 623195,
+      "media_type": "movie",
+      "title": "Зустрінемося наступного Різдва",
+      "original_title": "Falling Inn Love",
+      "overview": "У прагненні знову зустріти чоловіка своєї мрії Лейла намагається знайти в Нью-Йорку квиток на різдвяний концерт гурту Pentatonix.",
+      "poster_path": "/4bzu5k5vwLKgwap6pHXlCY8nlh3.jpg",
+      "backdrop_path": "/lVJdFZc8hBJRVnOIay60tl04Qjv.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "vote_average": 6.522,
+      "vote_count": 1211,
+      "release_date": "2019-08-29"
+    },
+    {
+      "id": 342470,
+      "media_type": "movie",
+      "title": "Усі яскраві місця",
+      "original_title": "All the Bright Places",
+      "overview": "Головні герої фільму, такі молоді, розумні та вродливі, випадково зустрічаються на виступі шкільної дзвіниці, за крок до вічної безодні.",
+      "poster_path": "/f19bBlpeygilMu1brKIzMJma7Bt.jpg",
+      "backdrop_path": "/tcrNJfyNEIqaBR8Ogkgnq5xQJnf.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "vote_average": 7.631,
+      "vote_count": 3035,
+      "release_date": "2020-02-28"
+    },
+    {
+      "id": 614409,
+      "media_type": "movie",
+      "title": "Усім хлопцям: Назавжди твоя",
+      "original_title": "To All the Boys: Always and Forever",
+      "overview": "Починається останній навчальний рік у школі. Лара-Джин повертається з родинної подорожі до Кореї, розмірковує про вступ до коледжу та їхнє з Пітером майбутнє.",
+      "poster_path": "/dU22VBCmFxzWKvlnFrV6DPS1tLf.jpg",
+      "backdrop_path": "/qjhcTGnjxYJqwBGlDzZkYWmne6e.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ],
+      "vote_average": 7.5,
+      "vote_count": 2077,
+      "release_date": "2021-02-12"
+    },
+    {
+      "id": 18240,
+      "media_type": "movie",
+      "title": "Освідчення",
+      "original_title": "The Proposal",
+      "overview": "Деспотична начальниця опиняється перед загрозою втратити візу США і бути депортованою назад до рідної Канади. Аби уникнути такого ганебного закінчення блискучої кар’єри вона пропонує своєму молодому помічникові-початківцю взяти фіктивний шлюб, ненавмисне даючи йому до рук владу над собою, як офіційною дружиною.",
+      "poster_path": "/dueDvTuEd6PsXnRIStnekK4uAfo.jpg",
+      "backdrop_path": "/ojgXOhVi9Yk8irDpRfDkIzdD1LK.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "vote_average": 7.174,
+      "vote_count": 7626,
+      "release_date": "2009-06-02"
+    },
+    {
+      "id": 25195,
+      "media_type": "movie",
+      "title": "Заміж у високосний рік",
+      "original_title": "Leap Year",
+      "overview": "Згідно з ірландською легендою, раз на чотири роки, у високосний рік, 29 лютого, дівчина, яка опинилась в Ірландії з коханим, котрий ніяк не наважиться освідчитись їй, може сама запропонувати йому руку й серце. Саме це вирішує зробити декоратор квартир Анна Бреді, яка їде за коханим з Бостона в Дублін...",
+      "poster_path": "/kCFExCPohlgwu5imBM67Tztqq43.jpg",
+      "backdrop_path": "/6wlM6qQIiB7nb9mUYX95XjDLikX.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "vote_average": 6.896,
+      "vote_count": 2181,
+      "release_date": "2010-01-08"
+    },
+    {
+      "id": 22897,
+      "media_type": "movie",
+      "title": "Як все заплутано",
+      "original_title": "It's Complicated",
+      "overview": "Уже не молода, розлучена матір Джейн стає «зовсім іншою жінкою» в очах свого колишнього чоловіка, коли заводить роман з архітектором. Мати трьох дорослих дітей, власниця успішного ресторану несподіванно опиняється у банальному любовному трикутнику і розривається між колишнім чоловіком та новим другом. Невже нове кохання солодше чи просто пара не зуміла зберегти те, що мала на початку? Як все заплутано!",
+      "poster_path": "/cyIlpSDjYyYpyMvz4S9BFaS8Zh3.jpg",
+      "backdrop_path": "/vp0Hy2M1Y0cmf8sEhoRBgjxyPYy.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "vote_average": 6.5,
+      "vote_count": 1533,
+      "release_date": "2009-12-23"
+    }
+  ]
+}

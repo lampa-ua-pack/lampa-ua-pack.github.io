@@ -1,0 +1,169 @@
+{
+  "slug": "thrill-nerves",
+  "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M256 64C158 64 88 138 88 236c0 55 24 98 56 122v46c0 20 16 36 36 36h152c20 0 36-16 36-36v-46c32-24 56-67 56-122 0-98-70-172-168-172zM136 236a44 48 0 1 0 88 0 44 48 0 1 0-88 0zM288 236a44 48 0 1 0 88 0 44 48 0 1 0-88 0zM256 300l30 54h-60z\"/></svg>",
+  "title": "Мурахи по шкірі",
+  "lang": "uk",
+  "updated_at": "2026-07-17T21:52:09Z",
+  "items": [
+    {
+      "id": 310131,
+      "media_type": "movie",
+      "title": "Відьма: Нова англійська казка",
+      "original_title": "The Witch",
+      "overview": "Нова Англія, 1630-ті роки. Вільям і Кетрін з п'ятьма дітьми живуть на самотній фермі на узліссі стародавнього лісу. Сім'я починає руйнуватися від невідомого зла, коли їх новонароджений син таємничо зникає, врожай гине, а їхня донька підозрюється в чаклунстві.",
+      "poster_path": "/wOaw1cIdf5zhioOEOX9BvRbb9f6.jpg",
+      "backdrop_path": "/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg",
+      "genre_ids": [
+        27
+      ],
+      "vote_average": 7.0,
+      "vote_count": 7722,
+      "release_date": "2016-02-19"
+    },
+    {
+      "id": 270303,
+      "media_type": "movie",
+      "title": "Воно",
+      "original_title": "It Follows",
+      "overview": "Після сексуального зв’язку 19-річну дівчину на ім’я Джей починають мучити дивні видіння і непереборне відчуття того, що хтось або щось за нею стежить.",
+      "poster_path": "/od2sNPBC5Oj4Yjqb6ZaXGfqUwY0.jpg",
+      "backdrop_path": "/ikaRI4yMxKOje5SmOlAhOBUnicL.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "vote_average": 6.584,
+      "vote_count": 6988,
+      "release_date": "2015-02-04"
+    },
+    {
+      "id": 242224,
+      "media_type": "movie",
+      "title": "Бабадук",
+      "original_title": "The Babadook",
+      "overview": "Шість років тому Амелія в один день втратила чоловіка і народила сина. Семуелю йде вже сьомий рік, але йому скрізь ввижаються чудовиська. Одного разу перед сном хлопчик просить маму почитати йому знайдену книгу про жахливого монстра. З цього моменту його страхи отримують фізичне втілення в моторошному Бабадуці — і він, і Амелія перестають відрізняти свої фантазії від реальності.",
+      "poster_path": "/aYG4J3ULZPGKh6tIxQBMGJY36UW.jpg",
+      "backdrop_path": "/t18ocAG0cpgC1AP288SseqmXqB5.jpg",
+      "genre_ids": [
+        18,
+        27
+      ],
+      "vote_average": 6.5,
+      "vote_count": 6463,
+      "release_date": "2014-05-22"
+    },
+    {
+      "id": 530385,
+      "media_type": "movie",
+      "title": "Сонцестояння",
+      "original_title": "Midsommar",
+      "overview": "Молода пара відправляється відпочити влітку в Швецію. Попутно вони відвідують старого приятеля в невеликому селі, де якраз проходить місцевий фестиваль. Однак незабаром з’ясовується, що за святом сонцестояння Мідсоммар ховається загадковий язичницький культ.",
+      "poster_path": "/A68EGr4WVlQdZcXAfyqFzzWP0Ua.jpg",
+      "backdrop_path": "/pYgj8e2Y6RufnSyOA6OnzmxFXxZ.jpg",
+      "genre_ids": [
+        27,
+        18,
+        9648
+      ],
+      "vote_average": 7.148,
+      "vote_count": 8191,
+      "release_date": "2019-07-03"
+    },
+    {
+      "id": 503919,
+      "media_type": "movie",
+      "title": "Маяк",
+      "original_title": "The Lighthouse",
+      "overview": "Маяк оповідає про пригоди двох доглядачів маяка, коли вони стикаються з самотністю, дружбою та своїми найгіршими страхами.",
+      "poster_path": "/mNg5YHO5cmXEigDuua1ZoXKB6DH.jpg",
+      "backdrop_path": "/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg",
+      "genre_ids": [
+        18,
+        14,
+        53
+      ],
+      "vote_average": 7.5,
+      "vote_count": 5607,
+      "release_date": "2019-10-18"
+    },
+    {
+      "id": 1008042,
+      "media_type": "movie",
+      "title": "Говори до мене",
+      "original_title": "Talk to Me",
+      "overview": "Коли група друзів дізнається, як викликати духів за допомогою забальзамованої руки, вони починають захоплюватися новою розвагою, поки один з них не заходить надто далеко і не звільняє надприродні сили.",
+      "poster_path": "/mG4CMCC7eSMRNpmWYnBGYW4Rxhv.jpg",
+      "backdrop_path": "/46Os8U0DEPmI0OnvKDxucl6SLVZ.jpg",
+      "genre_ids": [
+        27
+      ],
+      "vote_average": 7.142,
+      "vote_count": 3816,
+      "release_date": "2023-07-26"
+    },
+    {
+      "id": 547565,
+      "media_type": "movie",
+      "title": "Нічний будинок",
+      "original_title": "The Night House",
+      "overview": "Шокована неочікуваною смертю чоловіка, Бет проводить час на самоті в будиночку біля озера, який він побудував для неї. Жінка намагається тримати себе в руках, але ситуація погіршується, коли вона починає бачити жахіття. Страхітливі видіння кличуть і зачаровують її. Бет починає шукати відповіді на свої запитання в речах покійного чоловіка, хоча її друзі радять цього не робити. Те, що вона знаходить, є водночас дивним і тривожним — це таємниця, яку вона мусить розкрити.",
+      "poster_path": "/7A55AMgZ0tRHod8KONQXtIbRuCZ.jpg",
+      "backdrop_path": "/qbQ219gsHpdx33WSfdCgG9I2Xg5.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "vote_average": 6.553,
+      "vote_count": 1348,
+      "release_date": "2021-07-15"
+    },
+    {
+      "id": 71859,
+      "media_type": "movie",
+      "title": "Щось не так з Кевіном",
+      "original_title": "We Need to Talk About Kevin",
+      "overview": "Коли жорстокість її 15-річного сина призводить до насильства, мати задається питанням про свою провину.",
+      "poster_path": "/aGtQqanbFHt1Y3MlmdLyUJHWsSc.jpg",
+      "backdrop_path": "/k7lwdrpZ92BDahx6TLdkPE65cpJ.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "vote_average": 7.535,
+      "vote_count": 3130,
+      "release_date": "2011-09-28"
+    },
+    {
+      "id": 284303,
+      "media_type": "movie",
+      "title": "Я бачу, Я бачу",
+      "original_title": "Ich seh, Ich seh",
+      "overview": "Близнюки Еліас і Лукас не розуміють, що трапилось з мамою після пластичної операції. Вона змінила не тільки зовнішність, але й ставлення до дітей. Відчужена й холодна, вона відштовхує від себе синів і старається ізолювати сім’ю від зовнішнього світу. Хлопці починають сумніватись, що ця жінка їх мама, і намагаються з’ясувати правду.",
+      "poster_path": "/n4lJKIzySbvUI0bG1WmOJBk1pla.jpg",
+      "backdrop_path": "/g2fziL6LeOSnCCR8zEthQjj5EvO.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "vote_average": 6.679,
+      "vote_count": 1713,
+      "release_date": "2015-01-08"
+    },
+    {
+      "id": 489430,
+      "media_type": "movie",
+      "title": "Заціпенілі від страху",
+      "original_title": "Aterrados",
+      "overview": "Моторошні події сколихнули передмістя Буенос-Айреса. Невідома і невидима сила по-звірячому вбиває жінку на очах її чоловіка. Вночі біля ліжка його сусіда з’являється жахливий монстр. А хлопчик з будинку навпроти, що загинув під колесами авто, повертається з цвинтаря і сідає за кухонний стіл. Шукати причину незрозумілих кошмарів беруться три фахівці з паранормальних явищ та детектив з відділу розслідування вбивств.",
+      "poster_path": "/mlOrjON3zO9IxVYj3J7mIKkifi.jpg",
+      "backdrop_path": "/wCCvFSOlzgWCySJH3HUHcEbAexa.jpg",
+      "genre_ids": [
+        27
+      ],
+      "vote_average": 6.731,
+      "vote_count": 836,
+      "release_date": "2018-05-03"
+    }
+  ]
+}
