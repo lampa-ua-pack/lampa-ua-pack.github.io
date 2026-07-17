@@ -3,176 +3,167 @@
   "emoji": "☕",
   "title": "Плед і какао",
   "lang": "uk",
-  "updated_at": "2026-07-17T14:29:17Z",
+  "updated_at": "2026-07-17T16:30:07Z",
   "items": [
     {
-      "id": 120467,
+      "id": 8392,
       "media_type": "movie",
-      "title": "Готель «Ґранд Будапешт»",
-      "original_title": "The Grand Budapest Hotel",
-      "overview": "Картина розповість про легендарного конс'єржа популярного європейського готелю і простежить за його життям між двома світовими війнами, а також за його дружбою з юною співробітницею, яка стає його протеже.  Сюжет включає в себе крадіжку безцінної картини епохи Відродження, боротьбу за величезний спадок і потрясіння, що спіткали Європу під час першої половини XX століття...",
-      "poster_path": "/u0bKng2BVQe7IOaJqoHwxnDx679.jpg",
-      "backdrop_path": "/9udCLTxTFl28RxnK8Q05E154ZGa.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "vote_average": 8.027,
-      "vote_count": 16222,
-      "release_date": "2014-02-26"
-    },
-    {
-      "id": 10315,
-      "media_type": "movie",
-      "title": "Незрівнянний містер Фокс",
-      "original_title": "Fantastic Mr. Fox",
-      "overview": "Розлючені фермери, втомлені від постійних нападів \"хитрого лиса\" на курники, готуються знищити свого ворога та його \"хитру\" родину. Що вийде з цього протистояння?",
-      "poster_path": "/kduzG33eOgzXyG8WB2jEGVZsYh4.jpg",
-      "backdrop_path": "/xRxSLhhjPG2D8l0BXi0KdN4IvPt.jpg",
-      "genre_ids": [
-        12,
-        16,
-        35,
-        10751
-      ],
-      "vote_average": 7.823,
-      "vote_count": 6171,
-      "release_date": "2009-10-14"
-    },
-    {
-      "id": 83666,
-      "media_type": "movie",
-      "title": "Королiвство повного мiсяця",
-      "original_title": "Moonrise Kingdom",
-      "overview": "Десь на острівку біля берегів Нової Англії влітку 1965 року парочка двенадцятирічних підлітків закохується одне в одного, укладає таємний союз і вдвох відправляється кудись у глухомань. Поки представники різних інстанцій відловлюють дітей, на морі зріє буря, і тихий острівний світ перевертається вверх дном.",
-      "poster_path": "/ixAg3EfGIenT48gLKTzujx2wBjZ.jpg",
-      "backdrop_path": "/bsYv9IFIGfpAV0oUbe7YTiyxhox.jpg",
-      "genre_ids": [
-        35,
-        18,
-        10749
-      ],
-      "vote_average": 7.678,
-      "vote_count": 6382,
-      "release_date": "2012-05-16"
-    },
-    {
-      "id": 246741,
-      "media_type": "movie",
-      "title": "Чим ми займаємося в тінях",
-      "original_title": "What We Do in the Shadows",
-      "overview": "Віаґо, Дікон і Владислав — вампіри, яким доводиться призвичаюватися до сьогодення, що висуває свої вимоги до сплачування житлово-комунальних послуг, прибирання у будинку, відвідування нічних клубів і спільного життя в одному приміщенні.",
-      "poster_path": "/tq3c9gLTwciaOOuNuoIQvJsUtly.jpg",
-      "backdrop_path": "/utjThRtcnsj0GrDwNudjGdfmHfq.jpg",
-      "genre_ids": [
-        35,
-        27
-      ],
-      "vote_average": 7.547,
-      "vote_count": 3975,
-      "release_date": "2014-06-19"
-    },
-    {
-      "id": 51739,
-      "media_type": "movie",
-      "title": "Позичайка Аріетті",
-      "original_title": "借りぐらしのアリエッティ",
-      "overview": "Арріетті, крихітна але смілива дівчинка 14-ти років, яка живе зі своїми батьками під будинком у передмісті, лишаючись непомітною для власників будинку. Як і всі ліліпути, Арріетті ховається від людського ока, проявляючи себе лише під час \"позичання\" різноманітних продуктів та матеріалів у своїх людей-хазяїв. Та одного дня про її існування дізнається звичайний дванадцятирічний хлопчик Шьо. Між ними виникає таємна дружба, яка може поставити під небезпеку спокійне буття родини Арріетті...",
-      "poster_path": "/jALN6PtSW1FwgyrcR12Fy5KNfca.jpg",
-      "backdrop_path": "/7Z7WVzJsSReG8B0CaPk0bvWD7tK.jpg",
+      "title": "Мій сусід Тоторо",
+      "original_title": "となりのトトロ",
+      "overview": "Дві сестри переїжджають разом із батьком на літо до японського села. Там вони заводять дружбу із чарівними істотами, що мешкають у лісі неподалік.",
+      "poster_path": "/m0yS5wGtZkIX0chMarijkQsUKC2.jpg",
+      "backdrop_path": "/zkThiZAaAie8Lw7RAc5yPTOewBV.jpg",
       "genre_ids": [
         14,
         16,
         10751
       ],
-      "vote_average": 7.674,
-      "vote_count": 3212,
-      "release_date": "2010-07-16"
+      "vote_average": 8.065,
+      "vote_count": 8907,
+      "release_date": "1988-04-16"
     },
     {
-      "id": 15080,
+      "id": 294682,
       "media_type": "movie",
-      "title": "Краплі спогадів",
-      "original_title": "おもひでぽろぽろ",
-      "overview": "Це історія про Таеко, яка працює на гарній роботі в Токіо середини 80-их. Сільська романтика вабила її ще з дитинства. Тому вона бере відпустку і вирушає збирати сафлор. Але ця пригода розворошує у пам'яті дитинство, і ті дрібні нещастя, які зараз здаються смішними. Але в дитячих спогадах лежить ключ до її дорослого щастя.",
-      "poster_path": "/jo4XqO65BsCDse0aM4cFjWO7qsH.jpg",
-      "backdrop_path": "/jsIxoKIuH6lLt4Y3NW7Tf1BwcIO.jpg",
+      "title": "Маленький ліс: літо/осінь",
+      "original_title": "リトル・フォレスト 夏・秋",
+      "overview": "",
+      "poster_path": "/8O5h2aSJsJCLeHM6O8jZYGvzdHd.jpg",
+      "backdrop_path": "/1bAE9YexmEfAanXKaO1d9Ms4qKm.jpg",
       "genre_ids": [
-        16,
+        18
+      ],
+      "vote_average": 7.8,
+      "vote_count": 120,
+      "release_date": "2014-08-30"
+    },
+    {
+      "id": 9726,
+      "media_type": "movie",
+      "title": "Хороший рік",
+      "original_title": "A Good Year",
+      "overview": "Макс Скіннер – справжня акула лондонської фінансової біржі, який не гребує заради прибутку ніякими забороненими прийомами. Але він не завжди був таким. Давним-давно, Макс був чарівним маленьким хлопцем, який проводив час на прованському винограднику свого дядечка Генрі, грав у шахи, пірнав з трампліну в басейн і вивчав виноробні премудрості, які часто оберталися законами життя в цілому…",
+      "poster_path": "/oQzbHcmG8YMOjsugX6NxgKN7Rqg.jpg",
+      "backdrop_path": "/dV5AKLfihrUTfAqh7dj9MG3OUWl.jpg",
+      "genre_ids": [
+        35,
         18,
         10749
       ],
-      "vote_average": 7.39,
-      "vote_count": 1263,
-      "release_date": "1991-07-20"
+      "vote_average": 6.689,
+      "vote_count": 1653,
+      "release_date": "2006-09-09"
     },
     {
-      "id": 61828,
-      "media_type": "tv",
-      "title": "Detectorists",
-      "original_title": "Detectorists",
+      "id": 1581,
+      "media_type": "movie",
+      "title": "Відпочинок за обміном",
+      "original_title": "The Holiday",
+      "overview": "Дві незнайомі дівчини, Айріс і Аманда, знайомляться в інтернеті і зважуються на сміливий вчинок — на 2 тижні помінятися місцями проживання. Тепер Айріс переїде до сонячної Каліфорнії, а Аманда — до засніженої англійської провінції. Чим закінчиться така незвичайна відпустка для дівчат?",
+      "poster_path": "/8sTBiZFLN4QCyC0ZHMjTM9Gzvf4.jpg",
+      "backdrop_path": "/9Ebn8atCcGk5OZrx4xmoTobAxoh.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "vote_average": 7.102,
+      "vote_count": 5667,
+      "release_date": "2006-12-05"
+    },
+    {
+      "id": 319373,
+      "media_type": "movie",
+      "title": "あん",
+      "original_title": "あん",
       "overview": "",
-      "poster_path": "/5BCQaZ8HrLjq6diLsIQxZuzXqiK.jpg",
-      "backdrop_path": "/AcwI0dQaPEiU4a4l3kQqUI1070.jpg",
+      "poster_path": "/2zlJUEKagZ7IBJInozM7N1RcikF.jpg",
+      "backdrop_path": "/m2YuVWnbZH1pkxbBhNx4BR5F99n.jpg",
       "genre_ids": [
-        35
-      ],
-      "vote_average": 8.138,
-      "vote_count": 181,
-      "release_date": "2014-10-02"
-    },
-    {
-      "id": 324857,
-      "media_type": "movie",
-      "title": "Людина-павук: Навколо всесвіту",
-      "original_title": "Spider-Man: Into the Spider-Verse",
-      "overview": "Культовий супергерой відтепер у анімації нового покоління! Підліток із Нью-Йорка живе у світі безмежних можливостей Людини-павука, де костюм супергероя носить не лише він.",
-      "poster_path": "/lKG7LEVxSSKUJp1zdsPnZV6X1oB.jpg",
-      "backdrop_path": "/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
-      "genre_ids": [
-        16,
-        28,
-        12,
-        878
-      ],
-      "vote_average": 8.392,
-      "vote_count": 17420,
-      "release_date": "2018-12-06"
-    },
-    {
-      "id": 8587,
-      "media_type": "movie",
-      "title": "Король Лев",
-      "original_title": "The Lion King",
-      "overview": "У величного Короля-Лева Муфаси народжується спадкоємець на ім'я Сімба. Вже в дитинстві допитливе маля стає жертвою інтриг свого дядька Шрама, який мріє про владу. Сімба пізнає горе втрати, зраду і вигнання, але врешті-решт знаходить вірних друзів і кохану. Загартований випробуваннями, він в нелегкій боротьбі відвойовує своє законне місце в \"Колі життя\", усвідомивши, що означає бути справжнім Королем.",
-      "poster_path": "/3BF1CYHaMhdnzSBjExxyy2gr2XW.jpg",
-      "backdrop_path": "/q00H8EqULYSK74lgevMkhmGGLHn.jpg",
-      "genre_ids": [
-        16,
-        10751,
         18
       ],
-      "vote_average": 8.254,
-      "vote_count": 19839,
-      "release_date": "1994-06-15"
+      "vote_average": 7.45,
+      "vote_count": 608,
+      "release_date": "2015-05-30"
     },
     {
-      "id": 354912,
+      "id": 191714,
       "media_type": "movie",
-      "title": "Коко",
-      "original_title": "Coco",
-      "overview": "Мігель живе в мексиканському селі в родині шевців і дуже хоче стати музикантом. Щоб здійснити мрію, хлопець має розгадати давню таємницю свого роду, заховану у Країні Мертвих. Отож, взявши в напарники скелета-провідника та дивакуватого пса Данте, Мігель вирушає в потойбіччя…",
-      "poster_path": "/eQqi1KtE5arIwyzYdBluKozIj9t.jpg",
-      "backdrop_path": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+      "title": "The Lunchbox",
+      "original_title": "The Lunchbox",
+      "overview": "",
+      "poster_path": "/eZvdKgnFLjkxe9rpYZhRMLE0X0U.jpg",
+      "backdrop_path": "/lgrgEf43kYFm9mh6pj8ArcaxUbd.jpg",
       "genre_ids": [
-        10751,
-        16,
-        10402,
-        12
+        18,
+        10749
       ],
-      "vote_average": 8.198,
-      "vote_count": 21119,
-      "release_date": "2017-10-27"
+      "vote_average": 7.384,
+      "vote_count": 827,
+      "release_date": "2013-09-20"
+    },
+    {
+      "id": 315846,
+      "media_type": "movie",
+      "title": "海街diary",
+      "original_title": "海街diary",
+      "overview": "",
+      "poster_path": "/nTRdnuqkSXbo9ZxR8BMQbZRGwkv.jpg",
+      "backdrop_path": "/b0Xdh15XGZbKON9CbFVB5sTqrSJ.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 7.561,
+      "vote_count": 567,
+      "release_date": "2015-06-13"
+    },
+    {
+      "id": 66134,
+      "media_type": "tv",
+      "title": "Даррелли",
+      "original_title": "The Durrells",
+      "overview": "Родина Даррелів, після смерті батька переселяються з Англії до Греції у пошуках кращого та дешевшого життя.",
+      "poster_path": "/eoLkAPfki2bqvEniuD9bdN7Nmfk.jpg",
+      "backdrop_path": "/lkb3NBvByVWBvr63wE4weHVFz4i.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10751
+      ],
+      "vote_average": 7.402,
+      "vote_count": 122,
+      "release_date": "2016-04-03"
+    },
+    {
+      "id": 336222,
+      "media_type": "movie",
+      "title": "Барани",
+      "original_title": "Hrútar",
+      "overview": "У віддаленій Ісландській долині двоє братів, Гуммі й Кідд, живуть на одній землі та мають спільні звички, але не розмовляють один з одним вже сорок років. Хвороба барана Кідді ставить під загрозу всіх навколо. Брати мусять об’єднатися, щоб урятувати спеціальну породу, яка передавалася в спадок, та самих себе від смерті.",
+      "poster_path": "/v0t3oXbcRnRSSI73RVGIZ4iD5xD.jpg",
+      "backdrop_path": "/eAgKvahrg6EY521kEA11GwGvjY2.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 6.962,
+      "vote_count": 303,
+      "release_date": "2015-05-28"
+    },
+    {
+      "id": 416477,
+      "media_type": "movie",
+      "title": "Кохання – хвороба",
+      "original_title": "The Big Sick",
+      "overview": "У міру розвитку стосунків закоханій парі доводиться зіткнутися зі своїми культурними відмінностями.",
+      "poster_path": "/9fJTT8pBxxQsFILJHTtHhdYFr77.jpg",
+      "backdrop_path": "/fYI8WX2DquAHMqwh5mOMxc6RU5j.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "vote_average": 7.323,
+      "vote_count": 2652,
+      "release_date": "2017-03-30"
     }
   ]
 }

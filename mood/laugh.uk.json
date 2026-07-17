@@ -3,167 +3,166 @@
   "emoji": "😂",
   "title": "Сміхота",
   "lang": "uk",
-  "updated_at": "2026-07-17T14:29:33Z",
+  "updated_at": "2026-07-17T16:30:26Z",
   "items": [
     {
-      "id": 747,
+      "id": 402897,
       "media_type": "movie",
-      "title": "Зомбі на ім’я Шон",
-      "original_title": "Shaun of the Dead",
-      "overview": "У простого продавця Шона видався нелегкий тиждень! Подружка кинула його, вітчим намагається ним керувати, а кращий друг виводить із себе всіх навколишніх. Але ж для повного щастя Шону багато не треба - посидіти в улюбленому пабі та пограти на приставці... Та спокійного життя нашому героєві не побачити. Лондон опиняється у владі зомбі, і тепер Шон має вирішувати всі проблеми, паралельно рятуючи друзів від живих мерців.",
-      "poster_path": "/j73ZSpwvv9a7Juu74JRFngGmRsZ.jpg",
-      "backdrop_path": "/wb34q3VgzHgL8frVMywrN3wXmqx.jpg",
-      "genre_ids": [
-        27,
-        35
-      ],
-      "vote_average": 7.545,
-      "vote_count": 9438,
-      "release_date": "2004-04-09"
-    },
-    {
-      "id": 762,
-      "media_type": "movie",
-      "title": "Монті Пайтон і Священний Грааль",
-      "original_title": "Monty Python and the Holy Grail",
-      "overview": "Легендарний (без перебільшень) король Артур вкупі зі своїми відданими лицарями вирушає на пошуки Священного Грааля, адже у цю важливу подорож їх відрядив сам Господь. І дарма що замість справжніх коней – лише звук від кокосових шкаралуп.",
-      "poster_path": "/lfyXxztP72Jqi456eafVJAtQ67k.jpg",
-      "backdrop_path": "/1KgXxv6tHXOnakqYvMPvFwYKWiw.jpg",
-      "genre_ids": [
-        12,
-        35,
-        14
-      ],
-      "vote_average": 7.806,
-      "vote_count": 6465,
-      "release_date": "1975-04-03"
-    },
-    {
-      "id": 239,
-      "media_type": "movie",
-      "title": "У джазі тільки дівчата",
-      "original_title": "Some Like It Hot",
-      "overview": "Коли чиказькі музики Джо і Джері випадково стають свідками бандитського перестрілювання, вони, не нехтуючи часом, дають драла на поїзді до Флориди, переодягнувшись жінками. Тепер вони - Джозефіна і Дафна, новенькі й гарненькі інструменталістки жіночого джаз-бенду.  До певного часу їхнє маскування спрацьовує. Але незабаром велелюбна солістка «западає» на чоловіка, що перевдягнений у Джозефіну, старий плейбой закохується в Дафну, а бос мафії, розгадавши таємницю маскараду, вирішує терміново розправитися зі свідками...",
-      "poster_path": "/1yv3bwhV1DntUPmvvnlNFB9P0By.jpg",
-      "backdrop_path": "/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
+      "title": "Смерть Сталіна",
+      "original_title": "The Death of Stalin",
+      "overview": "Сатирична комедія Армандо Яннуччі, знята по однойменному коміксі двох французьких карикатуристів Фаб’єна Нурі і Тьєррі Робіна. Дія картини розгортається в СРСР на початку 1950-х років. Смерть Йосипа Сталіна призводить до шаленої боротьби представників радянської політичної еліти за владу. СРСР занурюється в хаос ...",
+      "poster_path": "/pZWxXmspKdgKG5xQopbGqAjB4M7.jpg",
+      "backdrop_path": "/x2FqFdUxRekbNdow3vZdtDqL96z.jpg",
       "genre_ids": [
         35,
-        10749,
-        80
+        18,
+        36
       ],
-      "vote_average": 8.078,
-      "vote_count": 3918,
-      "release_date": "1959-03-19"
+      "vote_average": 7.015,
+      "vote_count": 2157,
+      "release_date": "2017-10-20"
     },
     {
-      "id": 290250,
+      "id": 11830,
       "media_type": "movie",
-      "title": "Круті чуваки",
-      "original_title": "The Nice Guys",
-      "overview": "Лос-Анджелес, 1970-ті роки. Найманий охоронець Джексон Хілі і приватний детектив Холланд Марч змушені працювати в парі, щоб розплутати нікчемну справу про зниклу дівчину, яка обертається злочином століття. Детективам потрібно не тільки звикнути до нестандартних професійних методів один одного, але і залишитися в живих серед пострілів і вибухів.",
-      "poster_path": "/ofUWSpDkpM2ysOwzReY4qmGw5TR.jpg",
-      "backdrop_path": "/yxYUN3fBPJdTNdXC1l8L24XFPhX.jpg",
-      "genre_ids": [
-        35,
-        80,
-        28
-      ],
-      "vote_average": 7.132,
-      "vote_count": 8740,
-      "release_date": "2016-05-15"
-    },
-    {
-      "id": 246741,
-      "media_type": "movie",
-      "title": "Чим ми займаємося в тінях",
-      "original_title": "What We Do in the Shadows",
-      "overview": "Віаґо, Дікон і Владислав — вампіри, яким доводиться призвичаюватися до сьогодення, що висуває свої вимоги до сплачування житлово-комунальних послуг, прибирання у будинку, відвідування нічних клубів і спільного життя в одному приміщенні.",
-      "poster_path": "/tq3c9gLTwciaOOuNuoIQvJsUtly.jpg",
-      "backdrop_path": "/utjThRtcnsj0GrDwNudjGdfmHfq.jpg",
-      "genre_ids": [
-        35,
-        27
-      ],
-      "vote_average": 7.547,
-      "vote_count": 3975,
-      "release_date": "2014-06-19"
-    },
-    {
-      "id": 813,
-      "media_type": "movie",
-      "title": "Аероплан",
-      "original_title": "Airplane!",
-      "overview": "Колишній військовий льотчик опинився на борту літака, екіпаж якого через харчове отруєння виявився не в змозі кермувати аеробусом. Він разом зі стюардесою змушений стати рятівником строкатої компанії пасажирів, що опинилися на межі загибелі. Новоявленого пілота і його помічницю чекають немислимі труднощі й неймовірні пригоди.",
-      "poster_path": "/t6w99CFaYMgw9FkzlaQHciwAbVJ.jpg",
-      "backdrop_path": "/wQyvrsNSTzFVEGgarZbFkFyIciy.jpg",
+      "title": "タンポポ",
+      "original_title": "タンポポ",
+      "overview": "",
+      "poster_path": "/3qeVNWVR7UzZ6d9a2cdUSooTITY.jpg",
+      "backdrop_path": "/oq8HM9TOSbH54Xy0OBJGzYrtUC7.jpg",
       "genre_ids": [
         35
       ],
-      "vote_average": 7.306,
-      "vote_count": 5125,
-      "release_date": "1980-06-27"
+      "vote_average": 7.8,
+      "vote_count": 438,
+      "release_date": "1985-11-23"
     },
     {
-      "id": 37136,
+      "id": 10794,
       "media_type": "movie",
-      "title": "Голий пістолет: Із файлів поліційного відділку",
-      "original_title": "The Naked Gun: From the Files of Police Squad!",
-      "overview": "Найнекомпетентніший поліцейський, лейтенант Френк Дребін, повиннен один протистояти міжнародній змові, мета якої - погубити королеву Єлизавету II. До загального здивування і радості, найбезглуздіший лейтенант Дребін розбереться зі всіма ворогами Її Величності так відважно, як не снилося і знаменитому агентові 007.",
-      "poster_path": "/nt5Be8GTDly2itZv7rEkOx82WG5.jpg",
-      "backdrop_path": "/qpjuVCGZvNsbDa4UyxrbAa4Dno3.jpg",
-      "genre_ids": [
-        35,
-        80
-      ],
-      "vote_average": 7.284,
-      "vote_count": 4554,
-      "release_date": "1988-12-02"
-    },
-    {
-      "id": 9421,
-      "media_type": "movie",
-      "title": "Вечеря з недоуком",
-      "original_title": "Le Dîner de cons",
-      "overview": "Заможній видавець П'єр Брошан раз на тиждень розважається з друзями-аристократами. Кожен має привести у середу на вечерю недоука, над яким протягом вечері мають всі зловтішатися.  Як і притаманно стрічкам Вебера недоук — Франсуа Піньйон. Брошану здається, що його недоук «чемпіон світу» і буде фаворитом на вечері. Однак кумедні обставини, спровоковані імпульсивністю Піньйона перевертають довкола Брошана все з ніг на голову, як у нього вдома, так і в житті.",
-      "poster_path": "/7ukFDHExWul2Zz3L0OH8CaZCp2Z.jpg",
-      "backdrop_path": "/fxXwBvym6DkqkO4AWn8OjwMfMc1.jpg",
+      "title": "Вечірка",
+      "original_title": "The Party",
+      "overview": "Містера Хрунді Ві Бакши запросили зніматися в кіно. Він був злегка неуважний і випадково наступив на важіль, що призвело до вибуху дорогої декорації фортеці.\r Запрошення на вечерю, яке так само випадково прийшло на його адресу, призводить Бакши в будинок директора постраждалої кіностудії.\r У цьому шикарному особняку з басейном і садом починається «чудова» вечірка, про яку ніколи не забудуть всі її учасники.",
+      "poster_path": "/nWZ9rrbMoHHgsvYNdng2EhbjeLf.jpg",
+      "backdrop_path": "/dNKRoMyjqzFIJ1HtqR6qMZyrvtj.jpg",
       "genre_ids": [
         35
       ],
-      "vote_average": 7.761,
-      "vote_count": 2072,
-      "release_date": "1998-04-15"
+      "vote_average": 7.294,
+      "vote_count": 869,
+      "release_date": "1968-04-04"
     },
     {
-      "id": 2207,
+      "id": 339,
+      "media_type": "movie",
+      "title": "Ніч на Землі",
+      "original_title": "Night on Earth",
+      "overview": "П'ять таксистських історій трапилися за одну ніч в п'яти мегаполісах світу. Кожна має свою особливу тему, властиву місцю дії. Суть кар'єри з'ясовується в серці американської мрії Лос-Анжелесі. Зустріч Старого Світла з Новим відбувається у вируючому казані Нью-Йорка. Про зір і сліпоту краще всього знають в столиці світової краси Парижі, а питання життя і смерті - у вічному місті Римі. Тема занедбаності людини ніде не виглядає переконливіше, ніж на засніжених просторах Хельсінкі.",
+      "poster_path": "/7VsstldIXdviQcQXXdn0Q6v4wxK.jpg",
+      "backdrop_path": "/xOeGBXInQnwV9BGlneL8r65nL3q.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "vote_average": 7.515,
+      "vote_count": 1060,
+      "release_date": "1991-12-12"
+    },
+    {
+      "id": 144789,
+      "media_type": "movie",
+      "title": "Los amantes pasajeros",
+      "original_title": "Los amantes pasajeros",
+      "overview": "",
+      "poster_path": "/9EzUcIprNb7JR4pNBSQXmljIMjr.jpg",
+      "backdrop_path": "/EccrWxeF28GeGLSSuDOU9suom5.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 5.702,
+      "vote_count": 720,
+      "release_date": "2013-03-08"
+    },
+    {
+      "id": 254320,
+      "media_type": "movie",
+      "title": "Лобстер",
+      "original_title": "The Lobster",
+      "overview": "Історія кохання, що розгортається в найближчому майбутньому, де самотніх людей арештовують і відправляють в моторошний готель. Там вони зобов’язані знайти собі пару за 45 днів. Якщо їм це не вдається, то їх перетворюють на тварин і відпускають до лісу.",
+      "poster_path": "/xvRXMldrR0Noj4R1F40mx4TFa2s.jpg",
+      "backdrop_path": "/iH2esZUZvt8qlJgu74WBvibDnfF.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "vote_average": 7.024,
+      "vote_count": 6942,
+      "release_date": "2015-10-15"
+    },
+    {
+      "id": 778,
+      "media_type": "movie",
+      "title": "Відпочинок мсьє Юло",
+      "original_title": "Les vacances de Monsieur Hulot",
+      "overview": "Мсьє Юло їде на море, щоб відпочити. І схоже, що він чи не єдина людина, здатна насолоджуватися відпочинком.",
+      "poster_path": "/j0GAK1wTNs6kK09fwZoBkhqiiED.jpg",
+      "backdrop_path": "/dK6s1EMpMcUwBHpiYVMBiTdgdvy.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 6.933,
+      "vote_count": 536,
+      "release_date": "1953-02-25"
+    },
+    {
+      "id": 67070,
       "media_type": "tv",
-      "title": "Готель \"Башти Фолті\"",
-      "original_title": "Fawlty Towers",
-      "overview": "Некомпетентність власника готелю Безіла Фолті, його неврівноваженість і самовпевненість створюють комбінацію, що гарантує появу інцидентів та неприємностей.",
-      "poster_path": "/tvTYIjujN87dcKAmSLqcvAahykH.jpg",
-      "backdrop_path": "/3G1uNDOGJWLNTOzjkdVphVlRmli.jpg",
+      "title": "Погань",
+      "original_title": "Fleabag",
+      "overview": "Сюжет розвивається навколо молодої дівчини, яка постійно потрапляє в неприємності. Головна героїня з усіх сил прагне змінити щось в цьому світі, але категорично не здатна приймати допомогу і поради оточуючих. Події серіалу відбуваються в сучасному Лондоні.",
+      "poster_path": "/ufpidoMxDxbbeN2hAQskti3RIme.jpg",
+      "backdrop_path": "/hXdQ4MWsEOX6qg6VydKrLb3YJ4g.jpg",
       "genre_ids": [
-        35
+        35,
+        18
       ],
       "vote_average": 8.278,
-      "vote_count": 824,
-      "release_date": "1975-09-19"
+      "vote_count": 1866,
+      "release_date": "2016-07-21"
     },
     {
-      "id": 11031,
-      "media_type": "movie",
-      "title": "Це — Spinal Tap",
-      "original_title": "This Is Spinal Tap",
-      "overview": "У фільмі показується декілька місяців з життя неіснуючої групи «важкого» року. Це розповідь про старіючу британську групу \"Spinal Tap\" яка поступово скочується з висот колишньої слави на саме дно музичного світу під час останнього турне по Сполученим Штатам.",
-      "poster_path": "/b3lllDltoBws5uKZzBYVSjpjjJx.jpg",
-      "backdrop_path": "/a3FaHEGActk76BeCBingyOvEqnm.jpg",
+      "id": 33922,
+      "media_type": "tv",
+      "title": "Portlandia",
+      "original_title": "Portlandia",
+      "overview": "",
+      "poster_path": "/pfaxCP6YqlFHCL3QytnTanwRTL5.jpg",
+      "backdrop_path": "/kCOLltSpNznhpdHhxCsky3eU1jI.jpg",
       "genre_ids": [
-        35,
-        10402
+        35
       ],
-      "vote_average": 7.406,
-      "vote_count": 1651,
-      "release_date": "1984-03-02"
+      "vote_average": 6.946,
+      "vote_count": 175,
+      "release_date": "2011-01-21"
+    },
+    {
+      "id": 15152,
+      "media_type": "movie",
+      "title": "Агент 117: Каїр — шпигунське гніздо",
+      "original_title": "OSS 117 : Le Caire, nid d'espions",
+      "overview": "Безстрашний, але злегка тупуватий агент секретної розвідки Юбер де Ла Бат, він же агент 117, стоїть на варті ладу рідної Франції та всього світу. І хай Юбер де Ла Бат не такий розумний і винахідливий, як Джеймс Бонд, він умудряється ловити негідників, розкривати підлі змови та смішити всіх довкола. Адже якщо за справу береться агент 117, то ніколи не знаєш, чого чекати…",
+      "poster_path": "/mlqMBk7Z2x9vdCcFUfqbXfd22K8.jpg",
+      "backdrop_path": "/mrRzR4Xbt64heUQF5YBMMfdMEXu.jpg",
+      "genre_ids": [
+        80,
+        28,
+        12,
+        35
+      ],
+      "vote_average": 7.229,
+      "vote_count": 1864,
+      "release_date": "2006-04-19"
     }
   ]
 }

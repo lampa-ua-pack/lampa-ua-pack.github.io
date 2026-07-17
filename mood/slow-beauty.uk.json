@@ -3,8 +3,133 @@
   "emoji": "🎞️",
   "title": "Естетика кадру",
   "lang": "uk",
-  "updated_at": "2026-07-17T14:29:35Z",
+  "updated_at": "2026-07-17T16:30:28Z",
   "items": [
+    {
+      "id": 15318,
+      "media_type": "movie",
+      "title": "Смак чаю",
+      "original_title": "茶の味",
+      "overview": "Сім’я Харуно мешкає в сільській місцині на північ від Токіо. Чоловік працює гіпнотерапевтом і повертається додому пізно. Жінка на ім’я Йошіко хоче повернутися до роботи художника аніме. Їхній син Хаджіме, якому виповнилося 16, страждає від власної нерішучості, яка не дозволяє йому навіть поговорити зі своїм першим коханням. 6-літню доньку на ім’я Сачіко переслідує уява власного гігантських розмірів образу. З Токіо приїздить дядечко Аяно.  Звичайне життя звичайних людей сповнене химерних, часом смішних, часом сумних подій.",
+      "poster_path": "/j4PqyrYfGFkCxuXmQ2FPD36kB0Q.jpg",
+      "backdrop_path": "/kmPpgz9TNhQO8IQcZMtmznRtgKg.jpg",
+      "genre_ids": [
+        35,
+        18,
+        14
+      ],
+      "vote_average": 7.5,
+      "vote_count": 171,
+      "release_date": "2004-07-17"
+    },
+    {
+      "id": 43423,
+      "media_type": "movie",
+      "title": "باد ما را خواهد برد",
+      "original_title": "باد ما را خواهد برد",
+      "overview": "",
+      "poster_path": "/fBFquwGxQIXtfj8KyC8IXUAVKDd.jpg",
+      "backdrop_path": "/b9UPNXGV7mEUmLejR8caJIJijow.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 7.107,
+      "vote_count": 197,
+      "release_date": "1999-09-12"
+    },
+    {
+      "id": 414453,
+      "media_type": "movie",
+      "title": "Columbus",
+      "original_title": "Columbus",
+      "overview": "",
+      "poster_path": "/3ZE5Wl3CdfUH4BkWRmyMKPHkWHx.jpg",
+      "backdrop_path": "/xN88RKXxjPAcQsdBz6XavZ00PFh.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 7.09,
+      "vote_count": 481,
+      "release_date": "2017-08-04"
+    },
+    {
+      "id": 81401,
+      "media_type": "movie",
+      "title": "Туринський кінь",
+      "original_title": "A torinói ló",
+      "overview": "У 1889 році на вулиці італійського міста Турин сталося дивна пригода. Кучер шмагав батогом свою стару коняку, яка відмовлялася рушити з місця. Несподівано до воза підбіг добре одягнений пан з пишними вусами і обняв тварину за шию, при цьому гірко заридав. Це був не хто інший, як всесвітньо відомий філософ Фрідріх Ніцше. Його насилу відвели від коня, а коли привели додому, з'ясувалося, що він не в собі. Ніцше помістили в лікарню для душевнохворих, де він провів решту життя... Але що ж сталося з конем і його господарем? Про це і розповість фільм.",
+      "poster_path": "/k5Nj2GcU8RwU53GhMZjyxQyemGF.jpg",
+      "backdrop_path": "/eMgNa5dbU34qyF0KA9DMA4TrEzn.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 7.566,
+      "vote_count": 422,
+      "release_date": "2011-03-31"
+    },
+    {
+      "id": 2346,
+      "media_type": "movie",
+      "title": "Натюрморт",
+      "original_title": "三峡好人",
+      "overview": "Після будівництва греблі древнє місто Фэнцзе у нового потужного гідровузла Санься майже затоплене, кругом ведеться знос покинутих будинків, люди переселяються в масовому порядку. В цей час і в це місце приїжджає шахтар Хань Саньмин, щоб розшукати колишню дружину, яка родом звідси, але її будинок вже давно під водою. Хань Саньмин приєднується до бригади по зносу будинків і продовжує пошуки.",
+      "poster_path": "/eVzopt6c7HmT6vS3JhkbIhTnjGy.jpg",
+      "backdrop_path": "/8TIRO8lxg3yGRqQNIAE11FFfWZS.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "vote_average": 7.2,
+      "vote_count": 174,
+      "release_date": "2006-11-16"
+    },
+    {
+      "id": 44018,
+      "media_type": "movie",
+      "title": "Без даху, поза законом",
+      "original_title": "Sans toit ni loi",
+      "overview": "Наймит із ферми знаходить у канаві труп замерзлої жінки зі скуйовдженим волоссям, в зношеній шкіряній куртці і брудних джинсах. Це була Мона, затята незалежна бурлака, чиї останні тижні відтворюються в спогадах тих, хто зустрівся їй на шляху. Незабаром стає зрозуміло, що особливо ніхто її й не знав.",
+      "poster_path": "/ryS8cvSPX5dXmyE64dDXbQ8JFns.jpg",
+      "backdrop_path": "/tKsFh8qpYyi2AMg5O8QTVdChm4k.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 7.35,
+      "vote_count": 366,
+      "release_date": "1985-12-04"
+    },
+    {
+      "id": 503919,
+      "media_type": "movie",
+      "title": "Маяк",
+      "original_title": "The Lighthouse",
+      "overview": "Маяк оповідає про пригоди двох доглядачів маяка, коли вони стикаються з самотністю, дружбою та своїми найгіршими страхами.",
+      "poster_path": "/mNg5YHO5cmXEigDuua1ZoXKB6DH.jpg",
+      "backdrop_path": "/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg",
+      "genre_ids": [
+        18,
+        14,
+        53
+      ],
+      "vote_average": 7.5,
+      "vote_count": 5607,
+      "release_date": "2019-10-18"
+    },
+    {
+      "id": 336222,
+      "media_type": "movie",
+      "title": "Барани",
+      "original_title": "Hrútar",
+      "overview": "У віддаленій Ісландській долині двоє братів, Гуммі й Кідд, живуть на одній землі та мають спільні звички, але не розмовляють один з одним вже сорок років. Хвороба барана Кідді ставить під загрозу всіх навколо. Брати мусять об’єднатися, щоб урятувати спеціальну породу, яка передавалася в спадок, та самих себе від смерті.",
+      "poster_path": "/v0t3oXbcRnRSSI73RVGIZ4iD5xD.jpg",
+      "backdrop_path": "/eAgKvahrg6EY521kEA11GwGvjY2.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 6.962,
+      "vote_count": 303,
+      "release_date": "2015-05-28"
+    },
     {
       "id": 843,
       "media_type": "movie",
@@ -37,134 +162,6 @@
       "vote_average": 7.993,
       "vote_count": 3215,
       "release_date": "1975-12-16"
-    },
-    {
-      "id": 65494,
-      "media_type": "tv",
-      "title": "Корона",
-      "original_title": "The Crown",
-      "overview": "Драматичний серіал за мотивами реальних подій розповідає про життя королеви Єлизавети II, а також про політичні й особисті події, які вплинули на її правління.",
-      "poster_path": "/zqV5bGK6eXxkBR8qmofFSMeC4Fo.jpg",
-      "backdrop_path": "/8VXhcrl5z2I1zEU9X3pkkNrZlD.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 8.188,
-      "vote_count": 2369,
-      "release_date": "2016-11-04"
-    },
-    {
-      "id": 1398,
-      "media_type": "movie",
-      "title": "Сталкер",
-      "original_title": "Сталкер",
-      "overview": "Фільм за мотивами повісті братів Стругацьких \"Пікнік на узбіччі\".  Дії відбуваються в деякій забороненій Зоні, де, згідно чуток, існує кімната, де виконуються найзаповітніші мрії. До цієї кімнаті відправляються модний Письменник та авторитетний Професор - кожен зі своєю ціллю, про яку намагаються не говорити. А веде їх туди Сталкер - провідник по Зоні - чи то юродивий, чи то апостол нової віри...",
-      "poster_path": "/mzJxTxIODATNaYUwyJ2C2XPkhXW.jpg",
-      "backdrop_path": "/6yrbWzzrPp7pwz6zHdifspJk8t3.jpg",
-      "genre_ids": [
-        878,
-        18
-      ],
-      "vote_average": 8.087,
-      "vote_count": 2523,
-      "release_date": "1979-05-25"
-    },
-    {
-      "id": 655,
-      "media_type": "movie",
-      "title": "Париж, Техас",
-      "original_title": "Paris, Texas",
-      "overview": "Тревіс знає, що у нього є сім'я, але не знає, що з моменту його зникнення пройшло чотири роки. Несамовиті пошуки самого себе в глухій американській глибинці супроводжуються гіпнотичною музикою Рая Кудера, зірка якого по-справжньому зійшла саме над містечком Париж в штаті Техас.",
-      "poster_path": "/1hPS6IUZwoUogQ2507HQWCQQE4D.jpg",
-      "backdrop_path": "/fWrq3u16gaBJ6nYNWcR3XaOhQPq.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 8.1,
-      "vote_count": 2245,
-      "release_date": "1984-07-16"
-    },
-    {
-      "id": 144,
-      "media_type": "movie",
-      "title": "Небо над Берліном",
-      "original_title": "Der Himmel über Berlin",
-      "overview": "Невидимі людям ангели фланірують по розділеному стіною Берліну, заглядаючи в будинки, думки і душі його мешканців. Один з них готовий проміняти вічність у раю на любов акробатки з цирку. Але чи під силу небесному створінню витримати земні почуття?",
-      "poster_path": "/xgPuxj2BHLQ4tPyLwsBr1Jk3sBr.jpg",
-      "backdrop_path": "/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
-      "genre_ids": [
-        18,
-        14,
-        10749
-      ],
-      "vote_average": 7.8,
-      "vote_count": 1504,
-      "release_date": "1987-09-23"
-    },
-    {
-      "id": 1396,
-      "media_type": "movie",
-      "title": "Дзеркало",
-      "original_title": "Зеркало",
-      "overview": "Герой картини болісно боїться втратити любов і розуміння близьких людей: матері, коханої жінки, сина. І відчуває, що життя з кожним днем все далі відводить їх один від одного. Намагаючись зберегти сім'ю, він звертається пам’яттю до найсильніших вражень свого дитинства, намагаючись у тому, дитячому, світосприйнятті знайти опору і виправдання своїм сьогоднішнім переживанням.",
-      "poster_path": "/hLzhdirfOApuoXoS8SnGNotu1bf.jpg",
-      "backdrop_path": "/9UAcMhSCDJ2OCo5QdPpSERjhMA1.jpg",
-      "genre_ids": [
-        18,
-        36
-      ],
-      "vote_average": 7.953,
-      "vote_count": 1100,
-      "release_date": "1975-03-07"
-    },
-    {
-      "id": 428449,
-      "media_type": "movie",
-      "title": "Історія примари",
-      "original_title": "A Ghost Story",
-      "overview": "Історія про передчасно померлого чоловіка, який не пішов у світ інших, а залишився прив'язаний до свого колишнього дому до кінця віків.",
-      "poster_path": "/ighJTHM0Z2SxJee9cVzYHY2bbRP.jpg",
-      "backdrop_path": "/2y2aqaScd7jsUee0ddI1iRNgwGq.jpg",
-      "genre_ids": [
-        18,
-        14,
-        10749
-      ],
-      "vote_average": 7.063,
-      "vote_count": 2517,
-      "release_date": "2017-04-24"
-    },
-    {
-      "id": 8967,
-      "media_type": "movie",
-      "title": "Древо життя",
-      "original_title": "The Tree of Life",
-      "overview": "Ми спостерігаємо за розвитком 11-річного Джека, одного з трьох братів. Спочатку дитині все здається дивним. Очима своєї душі він спостерігає за вчинками мами. Вона являє собою любов і милосердя в той час як батько намагається навчити сина, що в реальному світі на перше місце необхідно завжди ставити себе. Кожен з батьків намагається переманити Джека на свій бік, і він повинен примиритися з їх домаганнями. Дійсність хмурнішає, коли головному герою вперше доводиться зіткнутися з болем, стражданнями і смертю. Колись абсолютно ясний світ перетворюється на лабіринт.",
-      "poster_path": "/d7vweHegRylNlMGBls0PqMzI6RJ.jpg",
-      "backdrop_path": "/xq1HIwZq9VbuvMQELAua1nqEkH.jpg",
-      "genre_ids": [
-        18,
-        14
-      ],
-      "vote_average": 6.723,
-      "vote_count": 3356,
-      "release_date": "2011-05-17"
-    },
-    {
-      "id": 895,
-      "media_type": "movie",
-      "title": "Андрій Рубльов",
-      "original_title": "Андрей Рублёв",
-      "overview": "",
-      "poster_path": "/3aodTV8q8iIRtaw9dxeU8DuKlta.jpg",
-      "backdrop_path": "/jqha8JCXm0aJ5SJ03Jd0JmGgWRs.jpg",
-      "genre_ids": [
-        18,
-        36
-      ],
-      "vote_average": 7.9,
-      "vote_count": 956,
-      "release_date": "1966-12-16"
     }
   ]
 }

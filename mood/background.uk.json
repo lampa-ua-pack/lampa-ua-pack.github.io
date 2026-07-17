@@ -3,8 +3,133 @@
   "emoji": "🎧",
   "title": "Під справи",
   "lang": "uk",
-  "updated_at": "2026-07-17T14:29:27Z",
+  "updated_at": "2026-07-17T16:30:19Z",
   "items": [
+    {
+      "id": 61828,
+      "media_type": "tv",
+      "title": "Detectorists",
+      "original_title": "Detectorists",
+      "overview": "",
+      "poster_path": "/5BCQaZ8HrLjq6diLsIQxZuzXqiK.jpg",
+      "backdrop_path": "/AcwI0dQaPEiU4a4l3kQqUI1070.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 8.138,
+      "vote_count": 181,
+      "release_date": "2014-10-02"
+    },
+    {
+      "id": 34549,
+      "media_type": "tv",
+      "title": "The Great British Bake Off",
+      "original_title": "The Great British Bake Off",
+      "overview": "",
+      "poster_path": "/bNa02AorKSBRfWfVPmsL7SJrdfs.jpg",
+      "backdrop_path": "/7rB1VhVXtLFTnOCY1Hz7ZEIz7CO.jpg",
+      "genre_ids": [
+        10764
+      ],
+      "vote_average": 7.5,
+      "vote_count": 101,
+      "release_date": "2010-08-17"
+    },
+    {
+      "id": 2430,
+      "media_type": "tv",
+      "title": "Doc Martin",
+      "original_title": "Doc Martin",
+      "overview": "",
+      "poster_path": "/zmd4ZpdXWnjKVrenqvYyYstOkwK.jpg",
+      "backdrop_path": "/g0LCSXvweUAMW8jB3O2ECMwDAua.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "vote_average": 8.27,
+      "vote_count": 141,
+      "release_date": "2004-09-02"
+    },
+    {
+      "id": 61511,
+      "media_type": "tv",
+      "title": "Отець Браун",
+      "original_title": "Father Brown",
+      "overview": "Отець Браун - непримітного вигляду священик, який володіє влучним оком, здатним помічати найдрібніші хвилювання в душах людей, які приходять до нього за порадою і підтримкою.",
+      "poster_path": "/p7vhDIkPVySMBGsPnAQXIiC6OsB.jpg",
+      "backdrop_path": "/96v57BttdxvquxnVozkQUsGvawQ.jpg",
+      "genre_ids": [
+        18,
+        80,
+        9648
+      ],
+      "vote_average": 7.601,
+      "vote_count": 139,
+      "release_date": "2013-01-14"
+    },
+    {
+      "id": 764,
+      "media_type": "tv",
+      "title": "Суто англійські вбивства",
+      "original_title": "Midsomer Murders",
+      "overview": "Суто англійський серіал за суто англійським романом Кароліни Грем. Від зміни місць доданків сума англійського детективу не змінюється, і час не владний над істинними цінностями. Манірні остров’яни, як і раніше здійснюють найвитонченіші злочини, за ними з ґрунтовним і шанобливим виглядом слідують елегантні нишпорки, а тлом для цих стриманих пристрастей залишаються зелені галявини й тінисті алеї, похмурі кабінети й холодні спальні. Майже вся дія відбувається в селах невеликого, зразково безтурботного графства Мідсамер. Іноді на цьому пасторальному тлі відбувається таке, чого і в столицях не бачили. А службу, яка небезпечна і важка, сільські поліціанти не вибирають.",
+      "poster_path": "/xH80GCTzxTrQ3LETSrCl0DC6uXA.jpg",
+      "backdrop_path": "/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "vote_average": 7.469,
+      "vote_count": 360,
+      "release_date": "1997-03-23"
+    },
+    {
+      "id": 2180,
+      "media_type": "tv",
+      "title": "Open All Hours",
+      "original_title": "Open All Hours",
+      "overview": "",
+      "poster_path": "/uHjQwVkQRJW12yz3Wg74QdQq90j.jpg",
+      "backdrop_path": "/rgHUZpOcq1LgukYQ7EAxgkJfxVX.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.897,
+      "vote_count": 58,
+      "release_date": "1976-02-20"
+    },
+    {
+      "id": 76922,
+      "media_type": "tv",
+      "title": "Queer Eye",
+      "original_title": "Queer Eye",
+      "overview": "",
+      "poster_path": "/zyuQwYNTkiPpyqiA9XAZuToZRhN.jpg",
+      "backdrop_path": "/7pCQzxyOOB4lyUuffvVzWOAqlYJ.jpg",
+      "genre_ids": [
+        10764
+      ],
+      "vote_average": 7.429,
+      "vote_count": 154,
+      "release_date": "2018-02-07"
+    },
+    {
+      "id": 2767,
+      "media_type": "tv",
+      "title": "The Vicar of Dibley",
+      "original_title": "The Vicar of Dibley",
+      "overview": "",
+      "poster_path": "/oSMljUndA07O8eMCSwaal4kcWoq.jpg",
+      "backdrop_path": "/wYTv1Zy3WFNi63lxwpBQ61Yrgj0.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.3,
+      "vote_count": 111,
+      "release_date": "1994-11-10"
+    },
     {
       "id": 456,
       "media_type": "tv",
@@ -36,134 +161,6 @@
       "vote_average": 8.589,
       "vote_count": 5303,
       "release_date": "2005-03-24"
-    },
-    {
-      "id": 615,
-      "media_type": "tv",
-      "title": "Футурама",
-      "original_title": "Futurama",
-      "overview": "Серіал розпочинається з того, що розвізник піци з Нью-Йорка Філіп Джей Фрай випадково був заморожений у кріогенній камері 31 грудня 1999 року і розморожений тисячу років потому, в місті Новий Нью-Йорк. Фрай намагається уникнути примусового призначення на роботу посильним, і це закінчується його влаштуванням на роботу (все ж таки посильним) у невелику компанію Міжпланетний експрес, яка займається міжгалактичними перевезеннями вантажів. Серіал демонструє пригоди Фрая і його колег під час доставки вантажів, а також у повсякденному житті.",
-      "poster_path": "/ihYhOg7t2cPYjFatEhhTXpbbulC.jpg",
-      "backdrop_path": "/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-      "genre_ids": [
-        16,
-        35,
-        10765
-      ],
-      "vote_average": 8.366,
-      "vote_count": 3788,
-      "release_date": "1999-03-28"
-    },
-    {
-      "id": 48891,
-      "media_type": "tv",
-      "title": "Бруклін 9-9",
-      "original_title": "Brooklyn Nine-Nine",
-      "overview": "Сюжет серіалу оповідає про детектива, на долю якого в один момент випали серйозні зміни. Зовсім недавно він не виявляв до своєї роботи ніякої серйозності, але тепер, коли його штаб очолив новий керівник, детективу доведеться кардинально поміняти своє професійне життя і стати героєм неймовірних історій.",
-      "poster_path": "/a9gmarnmzyd7Q7XkyLxvZvK3jNP.jpg",
-      "backdrop_path": "/9AeiA1XtP5sel2tAf9LaGeUjhDb.jpg",
-      "genre_ids": [
-        35,
-        80
-      ],
-      "vote_average": 8.211,
-      "vote_count": 4026,
-      "release_date": "2013-09-17"
-    },
-    {
-      "id": 1421,
-      "media_type": "tv",
-      "title": "Американська сімейка",
-      "original_title": "Modern Family",
-      "overview": "Історія про три абсолютно різні американські сім’ї: Клер — мати-домогосподарка у звичайній традиційній сім’ї, її батько Джей одружений із жінкою, що майже у два рази молодша за нього та брат Мітчелл який разом зі своїм партнером удочерили в’єтнамську дитину.",
-      "poster_path": "/sfkx2c5DyfumT7vnNvnxbL1h7VU.jpg",
-      "backdrop_path": "/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
-      "genre_ids": [
-        35
-      ],
-      "vote_average": 7.9,
-      "vote_count": 3420,
-      "release_date": "2009-09-23"
-    },
-    {
-      "id": 8592,
-      "media_type": "tv",
-      "title": "Парки та зони відпочинку",
-      "original_title": "Parks and Recreation",
-      "overview": "Проста чиновниця Леслі Ноуп якось зрозуміла, що її робота не дає суспільству жодної користі. Вона вирішує перетворити покинутий кар’єр на парк. Перепонами на її шляху стануть негнучка бюрократична система, егоїстичні сусіди, які не бажають змін навіть на краще, та забудовники, що відразу зацікавилися непотрібною їм досі ділянкою. Але Леслі просто так не здасться…",
-      "poster_path": "/t1CnVOaLEdS9ZRMAEIpFf7DiDlC.jpg",
-      "backdrop_path": "/frwl2zBNAl5ZbFDJGoJv0mYo0rF.jpg",
-      "genre_ids": [
-        35
-      ],
-      "vote_average": 8.043,
-      "vote_count": 1854,
-      "release_date": "2009-04-09"
-    },
-    {
-      "id": 2490,
-      "media_type": "tv",
-      "title": "Айтішники",
-      "original_title": "The IT Crowd",
-      "overview": "Дія відбувається в офісах „Рейнхолм Індастріз“ — вигаданій  британській корпорації, розташованій в центрі Лондону. Сюжет  розвивається навколо витівок команди технічної підтримки, що складається  з 3 чоловік і працює в брудному підвалі, що сильно контрастує з блиском  сучасної архітектури і прекрасними видами Лондона, доступних решті працівників організації.",
-      "poster_path": "/xC2mwwN0BLBMb1sF9IboKpmBRZg.jpg",
-      "backdrop_path": "/erljE3cOZ4eyISQunUYmKZ0q7cu.jpg",
-      "genre_ids": [
-        35
-      ],
-      "vote_average": 8.158,
-      "vote_count": 1634,
-      "release_date": "2006-02-03"
-    },
-    {
-      "id": 1695,
-      "media_type": "tv",
-      "title": "Монк",
-      "original_title": "Monk",
-      "overview": "Здається, ніщо не в змозі перешкодити стрімкому сходженню до вершин кар'єри детектива Едріана Монка. Але нерозкрите вбивство коханої дружини - Труді - стало занадто сильним ударом для суперпрофесіонала. Драма, яку він пережив, призвела до серйозних психологічних розладів, абсолютно несумісних з роботою у поліції. І він був змушений покинути службу. Поряд з Монком тепер постійно знаходиться медсестра Шарона, яка намагається йому допомогти відновити втрачені душевні і фізичні сили. І поступово Шарона стає для Монка кимось на зразок доктора Ватсона для Шерлока Холмса. А тим часом поліцейський департамент намагається розкрити чергову заплутану справу і, в решті решт, усвідомлює необхідність підключення Монка в якості приватного консультанта до розслідування.",
-      "poster_path": "/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
-      "backdrop_path": "/dMY7XUfEAK0Rl8hsgc8ufEOaiZ2.jpg",
-      "genre_ids": [
-        18,
-        35,
-        80,
-        9648
-      ],
-      "vote_average": 7.95,
-      "vote_count": 1274,
-      "release_date": "2002-07-12"
-    },
-    {
-      "id": 4586,
-      "media_type": "tv",
-      "title": "Дівчата Гілмор",
-      "original_title": "Gilmore Girls",
-      "overview": "Ласкаво просимо до Старс Холлоу! Маленьке мальовниче містечко знаходиться неподалік від Гарварду. З населенням всього в дев'ять тисяч осіб, одним готелем, маленькими магазинчиками, кількома ресторанами, середньою школою, танцювальною студією, відео салоном і єдиним у місті ... світлофором.\n\nТут і протікає життя самотньої молодої мами, тридцяти двох років, і її шістнадцятирічної дочки. Хоча на перший погляд їх можна прийняти за сестер. Вони найкращі подруги, розділяють практично все від поглядів на світ до смаків на їжу, музику і кіно. Картинка з життя Лорелай і Рорі дуже насичена, непередбачувана і неординарна. І будьте впевнені в тому, що з дівчатками Гілмор вам ніколи не буде нудно!",
-      "poster_path": "/8y9GYgmzb5xqSJ6aUg2Omkc97nW.jpg",
-      "backdrop_path": "/8U2ndZrneigI2zkvGuTJtt1ZsxK.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "vote_average": 7.893,
-      "vote_count": 1265,
-      "release_date": "2000-10-05"
-    },
-    {
-      "id": 32726,
-      "media_type": "tv",
-      "title": "Закусочна Боба",
-      "original_title": "Bob's Burgers",
-      "overview": "Закусочна Боба - це американський анімаційний телевізійний ситком створений Лореном Бочардом для телекомпанії Fox. Це шоу, відповідно до реклами сайту Fox, про людину, яка готує гамбургери, і його родину. Незважаючи на паршиве місце розташування його забігайлівки, а іноді і паскудного сервісу, Боб і його химерна сім'я впевнені в успіху. Шоу зосереджується на сім'ї, яка працює в гамбургер-ресторані. При цьому з ними відбуваються різні цікаві ситуації.",
-      "poster_path": "/cJb7fnCMAdtitfz5mvQMGGjxiry.jpg",
-      "backdrop_path": "/rUABoTPO0OLq2wlHiFWezxpV6fo.jpg",
-      "genre_ids": [
-        16,
-        35
-      ],
-      "vote_average": 7.841,
-      "vote_count": 1100,
-      "release_date": "2011-01-09"
     }
   ]
 }
