@@ -8,8 +8,8 @@
      1. TMDB /search резолвить назви у реальні ID (паралельно, fuzzy: title + year)
         + /discover як додатковий пул кандидатів (змішаний пул)
      2. детерміновані фільтри анти-слопу (vote_count, збіг жанру, дедуп, ліміт очевидного)
-     3. стабілізація (bounded churn відносно попереднього файлу)
-     4. гідрація фінальних ~20 тайтлів мовами uk та ru (паралельно)
+     3. ротація: спершу тайтли, яких не було минулого прогону (заради свіжості)
+     4. гідрація фінальних тайтлів мовами uk та ru (паралельно)
      5. запис mood/{slug}.uk.json та mood/{slug}.ru.json
 Наприкінці — mood/index.json (маніфест). Збій однієї теми не рушить увесь ран:
 її попередній файл лишається, у маніфесті ставиться "stale": true.
@@ -30,6 +30,8 @@ ENV:
   MAX_THEME_REUSE   — (опц.) у скількох темах може зустрічатись один тайтл (дефолт 2)
   TARGET_COUNT      — (опц.) фінальних тайтлів на тему (дефолт 10)
   AI_REQUEST_COUNT  — (опц.) скільки назв просити в ІІ (дефолт 15)
+  OPENCODE_TEMPERATURE — (опц.) температура ІІ; вище = різноманітніше (дефолт 0.9)
+  OPENCODE_SEED     — (опц.) seed ІІ; порожньо = без seed, свіжа вибірка щоразу
 """
 
 import os
@@ -62,6 +64,8 @@ MOOD_DIR = Path("mood")
 TIMEOUT = 15
 OPENCODE_TIMEOUT = 90
 OPENCODE_RETRIES = int(os.environ.get("OPENCODE_RETRIES", "2"))  # додаткові спроби на таймаут/помилку
+OPENCODE_TEMPERATURE = float(os.environ.get("OPENCODE_TEMPERATURE", "0.9"))  # вище = різноманітніше
+OPENCODE_SEED = os.environ.get("OPENCODE_SEED", "").strip()  # порожньо = без seed (свіжа вибірка щоразу)
 
 MAX_WORKERS = int(os.environ.get("MAX_WORKERS", "16"))   # паралелізм TMDb
 AI_WORKERS = int(os.environ.get("AI_WORKERS", "2"))      # паралелізм OpenCode (малий: тяжкі
@@ -147,9 +151,10 @@ def _opencode_chat(system_prompt: str, user_prompt: str, label: str):
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
         ],
-        "temperature": 0.3,
-        "seed": 42,
+        "temperature": OPENCODE_TEMPERATURE,
     }
+    if OPENCODE_SEED:
+        payload["seed"] = int(OPENCODE_SEED)   # опційно — для відтворюваності
     headers = {
         "Authorization": f"Bearer {OPENCODE_TOKEN}",
         "Content-Type": "application/json",
@@ -191,11 +196,21 @@ def ai_suggest_batch(batch: list) -> dict:
         '"media_type" ("movie" or "tv"). '
         "Favor diversity across decades and countries. Avoid the same tired top-list "
         "picks everyone names first; include lesser-known gems that still fit each mood. "
+        "Give a FRESH selection: prefer titles you would not list first, and do NOT repeat "
+        "any titles named in the theme's 'AVOID' list. "
         "CRITICAL: pick titles by how well they match the MOOD, not by shared genre tags. "
         "Exclude a famous title if its actual mood is wrong (e.g. a bleak thriller does not "
         "belong in a comedy mood, a crime saga does not belong in a tearjerker mood)."
     )
-    theme_blocks = "\n".join(f"[{t['slug']}] {t['title_ru']} - {t['prompt']}" for t in batch)
+
+    def block(t):
+        line = f"[{t['slug']}] {t['title_ru']} - {t['prompt']}"
+        avoid = read_prev_titles(t["slug"])
+        if avoid:
+            line += " | AVOID (recently shown): " + ", ".join(avoid)
+        return line
+
+    theme_blocks = "\n".join(block(t) for t in batch)
     user_prompt = (
         f"Themes:\n{theme_blocks}\n\n"
         f"For EACH theme id above return {AI_REQUEST_COUNT} titles that genuinely fit THAT "
@@ -453,34 +468,43 @@ def prioritize_obvious(ranked: list) -> list:
     return head + tail
 
 
-def stabilize(prev_keys: list, ranked_keys: list, target: int) -> list:
+def rotate_select(prev_keys: list, ranked_keys: list, target: int) -> list:
     """
-    Стабільність без «залипання мотлоху»: тримаємо позицію лише за тими попередніми тайтлами,
-    що й ЗАРАЗ входять у свіжий топ-`target`. Решту беремо зі свіжого рейтингу (у його порядку).
-    Так добірка мало смикається між ранами, але тайтли, які випали з топа, не зберігаються.
+    Ротація заради свіжості: спершу беремо кандидатів, яких НЕ було минулого прогону,
+    і лише якщо не набрали target — добиваємо тими, що вже були (у порядку рейтингу).
+    Так добірка щоразу оновлюється, циклічно проходячи пул теми.
     """
-    fresh = ranked_keys[:target]
-    if not prev_keys:
-        return fresh
-    fresh_set = set(fresh)
-    kept = [k for k in prev_keys if k in fresh_set]         # прев, що досі в топі — у старому порядку
-    kept_set = set(kept)
-    rest = [k for k in fresh if k not in kept_set]          # нові — у свіжому порядку
-    return (kept + rest)[:target]
+    prev_set = set(prev_keys)
+    fresh = [k for k in ranked_keys if k not in prev_set]   # нові тайтли — у пріоритеті
+    seen = [k for k in ranked_keys if k in prev_set]        # торішні — лише на добивання
+    return (fresh + seen)[:target]
 
 
 # ------------------ Файли ------------------
-def read_prev_keys(slug: str) -> list:
-    """Ключі (media_type, id) із попереднього uk-файлу теми, у збереженому порядку."""
+def _read_prev_items(slug: str) -> list:
     path = MOOD_DIR / f"{slug}.uk.json"
     if not path.exists():
         return []
     try:
-        data = json.loads(path.read_text(encoding="utf-8"))
-        return [(it.get("media_type"), it.get("id")) for it in data.get("items", [])
-                if it.get("id") is not None]
+        return json.loads(path.read_text(encoding="utf-8")).get("items", [])
     except Exception:
         return []
+
+
+def read_prev_keys(slug: str) -> list:
+    """Ключі (media_type, id) із попереднього uk-файлу теми, у збереженому порядку."""
+    return [(it.get("media_type"), it.get("id")) for it in _read_prev_items(slug)
+            if it.get("id") is not None]
+
+
+def read_prev_titles(slug: str, limit: int = 15) -> list:
+    """Оригінальні назви з попереднього прогону — щоб просити в ІІ уникати повторів."""
+    out = []
+    for it in _read_prev_items(slug):
+        name = it.get("original_title") or it.get("title")
+        if name:
+            out.append(name)
+    return out[:limit]
 
 
 def write_theme_file(theme: dict, lang_short: str, items: list):
@@ -577,9 +601,9 @@ def process_theme(theme: dict, suggestions: list, global_used) -> dict:
     if not ranked_keys:
         raise RuntimeError(f"no candidates survived filters for '{slug}'")
 
-    # стабілізація
+    # ротація: спершу свіжі тайтли, торішні — лише на добивання
     prev_keys = read_prev_keys(slug)
-    final_keys = stabilize(prev_keys, ranked_keys, TARGET_COUNT)
+    final_keys = rotate_select(prev_keys, ranked_keys, TARGET_COUNT)
     if len(final_keys) < TARGET_COUNT:
         print(f"  [note] only {len(final_keys)}/{TARGET_COUNT} candidates available for '{slug}'")
 
