@@ -3,7 +3,7 @@
   "emoji": "🎧",
   "title": "Під справи",
   "lang": "uk",
-  "updated_at": "2026-07-17T13:44:18Z",
+  "updated_at": "2026-07-17T13:55:55Z",
   "items": [
     {
       "id": 71446,
@@ -87,86 +87,86 @@
       "release_date": "2007-09-24"
     },
     {
-      "id": 19885,
+      "id": 69050,
       "media_type": "tv",
-      "title": "Шерлок",
-      "original_title": "Sherlock",
-      "overview": "2010 рік. Військовий лікар Джон Ватсон повертається до Лондона після служби в Афганістані. Він став інвалідом після отриманого поранення й абсолютно не уявляє, як прожити на військову пенсію, а тим паче зняти квартиру. Приятель радить Джону розділити витрати зі знімання квартири з ким-небудь іще. Він зводить його з ексцентричним приватним детективом на імʼя Шерлок, який грає на скрипці й може розповісти про співрозмовника все після двох хвилин спілкування...",
-      "poster_path": "/xXRXLDNoLbWpYHzeVgCsHuKtho1.jpg",
-      "backdrop_path": "/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
+      "title": "Рівердейл",
+      "original_title": "Riverdale",
+      "overview": "Серіал розповість про життя та пригоди життєрадісного підлітка Арчі Ендрюса, а також Бетті Купер, Вероніки Лодж і їх друзів з Рівердейл. Події відбуваються в сучасному світі, а головні герої вирішують досліджувати приховану від сторонніх сторону життя маленького містечка з усіма його дивацтвами і таємницями, що ховаються за святковим фасадом.",
+      "poster_path": "/iz5wKG6kAYWpDOEPNXMPeO4vGba.jpg",
+      "backdrop_path": "/kb9XvtEnDhBVVit4eeKygqll4EA.jpg",
       "genre_ids": [
         80,
         18,
         9648
       ],
-      "vote_average": 8.5,
-      "vote_count": 6517,
-      "release_date": "2010-07-25"
+      "vote_average": 8.403,
+      "vote_count": 13748,
+      "release_date": "2017-01-26"
     },
     {
-      "id": 2316,
+      "id": 60574,
       "media_type": "tv",
-      "title": "Офіс",
-      "original_title": "The Office",
-      "overview": "Серіал розповідає про трудові будні невеликого регіонального офісу паперової компанії Dunder Mifflin у Скрентоні, Пенсильванія, працівники якого цілими днями повинні терпіти закидони свого непутящого боса.",
-      "poster_path": "/1j4Jh3MDjf2zMOnXaTHqU3ojQjc.jpg",
-      "backdrop_path": "/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
+      "title": "Гострі картузи",
+      "original_title": "Peaky Blinders",
+      "overview": "Британський серіал про кримінальний світ Бірмінгема 20-х років минулого століття, в якому багатолюдна родина Шелбі стала однією з найбільш жорстоких і впливових гангстерських банд післявоєнного часу. Фірмовим знаком угруповання, що займалася пограбуваннями та азартними іграми, стали зашиті в козирки леза.",
+      "poster_path": "/p31236J7inywGNh1uY1bR0RlQU7.jpg",
+      "backdrop_path": "/dzq83RHwQcnP6WGJ6YkenIqeaa5.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "vote_average": 8.5,
+      "vote_count": 11210,
+      "release_date": "2013-09-12"
+    },
+    {
+      "id": 119051,
+      "media_type": "tv",
+      "title": "Венздей",
+      "original_title": "Wednesday",
+      "overview": "Розумна, саркастична й трохи мертва в душі Венздей Аддамс розслідує заплутані вбивства й знаходить нових друзів і ворогів в академії «Невермор».",
+      "poster_path": "/fxdmavV2ojr73fXRHtBytWHit3g.jpg",
+      "backdrop_path": "/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+      "genre_ids": [
+        10765,
+        9648,
+        35
+      ],
+      "vote_average": 8.341,
+      "vote_count": 10642,
+      "release_date": "2022-11-23"
+    },
+    {
+      "id": 1668,
+      "media_type": "tv",
+      "title": "Друзі",
+      "original_title": "Friends",
+      "overview": "У центрі подій опиняються найкращі друзі — Моніка, Рейчел, Фібі, Джої, Росс і Чендлер. Шестеро героїв живуть неподалік одне від одного, разом проводять вільний час і намагаються пережити труднощі, що виникають. Вони діляться своїми таємницями та влаштовують особисте життя.",
+      "poster_path": "/eGjjrOMUZFlKfDBL7JAq9kP8Gik.jpg",
+      "backdrop_path": "/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
       "genre_ids": [
         35
       ],
-      "vote_average": 8.589,
-      "vote_count": 5303,
-      "release_date": "2005-03-24"
+      "vote_average": 8.414,
+      "vote_count": 9207,
+      "release_date": "1994-09-22"
     },
     {
-      "id": 81356,
+      "id": 37854,
       "media_type": "tv",
-      "title": "Сексуальна освіта",
-      "original_title": "Sex Education",
-      "overview": "Завдяки матері, секс-терапевтці, невпевнений у собі Отіс знає відповіді на всі запитання про статеве життя. Тож бунтарка Мейв пропонує йому відкрити клініку сексотерапії.",
-      "poster_path": "/5wVlWrT8kybabjBo4QO3oJDCQCw.jpg",
-      "backdrop_path": "/u23G9KZregWHs1use6ir1fX27gl.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "vote_average": 8.2,
-      "vote_count": 7904,
-      "release_date": "2019-01-11"
-    },
-    {
-      "id": 76669,
-      "media_type": "tv",
-      "title": "Еліта",
-      "original_title": "Élite",
-      "overview": "Коли троє підлітків із небагатих сімей вступають до елітної приватної школи в Іспанії, конфлікт між ними та заможними студентами закінчується вбивством.",
-      "poster_path": "/mubVef6hBFpDXTfUFTPX7NLRPHR.jpg",
-      "backdrop_path": "/1qOA3kMtQO8bjnW8M2smjA8tp10.jpg",
-      "genre_ids": [
-        80,
-        9648,
-        18
-      ],
-      "vote_average": 8.0,
-      "vote_count": 9385,
-      "release_date": "2018-10-05"
-    },
-    {
-      "id": 77169,
-      "media_type": "tv",
-      "title": "Кобра Кай",
-      "original_title": "Cobra Kai",
-      "overview": "Запеклі вороги. Протиборчі додзьо. Нова кров. Давнє суперництво Західної Долини знову спалахує між Деніелом і Джонні в цьому продовженні фільмів «Малюк-каратист».",
-      "poster_path": "/j87uocziVefhqrTli9PsFCYnjxq.jpg",
-      "backdrop_path": "/5NrSIzfcBOFI9HRGV4nRYgMGhDU.jpg",
+      "title": "ВАН ПІС (ЄДИНИЙ СКАРБ)",
+      "original_title": "ワンピース",
+      "overview": "Перед смертю король піратів, у якого було все - багатство, слава і влада - заховав скарб під назвою «Ван Піс». Хлопчик на ім'я Луффі вирушає у подорож по океану в надії знайти його. У відкритому морі він знайомиться з друзями, і вони потрапляють у безліч пригод, долаючи всі перешкоди в гонитві за своєю мрією",
+      "poster_path": "/nkFxg5yzeX015iYzZLaduJt2xlw.jpg",
+      "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
       "genre_ids": [
         10759,
-        18,
-        35
+        35,
+        16
       ],
-      "vote_average": 8.202,
-      "vote_count": 6939,
-      "release_date": "2018-05-02"
+      "vote_average": 8.746,
+      "vote_count": 5415,
+      "release_date": "1999-10-20"
     }
   ]
 }
