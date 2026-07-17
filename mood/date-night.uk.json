@@ -1,0 +1,175 @@
+{
+  "slug": "date-night",
+  "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"currentColor\" d=\"M256 464C120 360 48 288 48 200c0-60 48-104 104-104 40 0 76 24 104 64 28-40 64-64 104-64 56 0 104 44 104 104 0 88-72 160-208 264z\"/></svg>",
+  "title": "Для двох",
+  "lang": "uk",
+  "updated_at": "2026-07-17T19:37:45Z",
+  "items": [
+    {
+      "id": 531428,
+      "media_type": "movie",
+      "title": "Портрет дівчини у вогні",
+      "original_title": "Portrait de la jeune fille en feu",
+      "overview": "Бретань, 1770 рік. Художниці Маріанн доручають зробити весільний портрет Елоїз — молодої жінки, яка щойно залишила монастир. Елоїз не надто прагне бути нареченою, а Маріанн не повинна казати їй про портрет. Вона спостерігає за нею вдень аби таємно малювати вночі.",
+      "poster_path": "/zkckXGVJve80g0IcbL99PQGzC8M.jpg",
+      "backdrop_path": "/ivJ5UzT6IzucLVfbZwCCwiJJoBz.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "vote_average": 8.095,
+      "vote_count": 2960,
+      "release_date": "2019-09-06"
+    },
+    {
+      "id": 11104,
+      "media_type": "movie",
+      "title": "Чунцінський експрес",
+      "original_title": "重慶森林",
+      "overview": "Кожен день ми проходимо повз велику кількість людей. Людей, яких ми ніколи не зустрінемо більше, або повз тих, хто міг би стати нашим другом. І як знати, може бути, що єдине наше велике кохання знаходиться десь за міліметр від нас і для того, щоб з'єднати самотні серця, досить простої випадковості?",
+      "poster_path": "/sFSg5QQt3YDLiZi4woxXaiiRato.jpg",
+      "backdrop_path": "/vuglA60RqvpHK9rIcG8sXaiWw1L.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10749
+      ],
+      "vote_average": 7.972,
+      "vote_count": 2223,
+      "release_date": "1994-07-14"
+    },
+    {
+      "id": 38,
+      "media_type": "movie",
+      "title": "Вічне сяйво чистого розуму",
+      "original_title": "Eternal Sunshine of the Spotless Mind",
+      "overview": "Дізнавшись, що його колишня дівчина пройшла через експериментальну процедуру, щоб позбутися спогадів про нього, чоловік вирішує зробити так само зі спогадами про неї.",
+      "poster_path": "/aGH2YhGAcA5VAlz4LsmKDAkjAfz.jpg",
+      "backdrop_path": "/W1ffLQGHoxfAOq0ZYdPtJlvAdb.jpg",
+      "genre_ids": [
+        878,
+        18,
+        10749
+      ],
+      "vote_average": 8.09,
+      "vote_count": 16464,
+      "release_date": "2004-03-19"
+    },
+    {
+      "id": 843,
+      "media_type": "movie",
+      "title": "Любовний настрій",
+      "original_title": "花樣年華",
+      "overview": "Гонконг, 1962 рік. Дві подружні пари, пан Чоу з дружиною і пані Су з чоловіком, одночасно поселяються в сусідніх квартирах. Поки їхні половинки пропадають на роботі чи в закордонних відрядженнях, Чоу і Су проводять багато часу на самоті і спілкуються одне з одним як звичайні сусіди. Все змінюється, коли вони дізнаються, що їхні партнери — коханці.",
+      "poster_path": "/r2fYVKSlK3DKtdMbVxvIHHTfS2L.jpg",
+      "backdrop_path": "/ffQFnAUm2Uu4RU0nijpjPRf9TBT.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "vote_average": 8.087,
+      "vote_count": 3297,
+      "release_date": "2000-09-29"
+    },
+    {
+      "id": 153,
+      "media_type": "movie",
+      "title": "Труднощі перекладу",
+      "original_title": "Lost in Translation",
+      "overview": "Нещасна в шлюбі дружина фотографа. Нікому не потрібний актор. Дві загублені душі зустрічаються в Токіо і знаходять розраду одне в одному.",
+      "poster_path": "/50UUVKv2abXG7GeNIe7jdjcOeD3.jpg",
+      "backdrop_path": "/6ITVHoipvxAS8luzKtHTbPaHLtT.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10749
+      ],
+      "vote_average": 7.381,
+      "vote_count": 8161,
+      "release_date": "2003-09-18"
+    },
+    {
+      "id": 18240,
+      "media_type": "movie",
+      "title": "Освідчення",
+      "original_title": "The Proposal",
+      "overview": "Деспотична начальниця опиняється перед загрозою втратити візу США і бути депортованою назад до рідної Канади. Аби уникнути такого ганебного закінчення блискучої кар’єри вона пропонує своєму молодому помічникові-початківцю взяти фіктивний шлюб, ненавмисне даючи йому до рук владу над собою, як офіційною дружиною.",
+      "poster_path": "/dueDvTuEd6PsXnRIStnekK4uAfo.jpg",
+      "backdrop_path": "/ojgXOhVi9Yk8irDpRfDkIzdD1LK.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "vote_average": 7.2,
+      "vote_count": 7625,
+      "release_date": "2009-06-02"
+    },
+    {
+      "id": 639,
+      "media_type": "movie",
+      "title": "Коли Гаррі зустрів Саллі",
+      "original_title": "When Harry Met Sally...",
+      "overview": "Гаррі і Саллі знайомі з часів створення світу. Вони разом навчались, приходять одне одному на допомогу під час будь-яких життєвих незгод, допомагають у пошуках близької людини. Навіть коли вони втрачають одне одного з поля зору, доля знову зводить їх разом. Вони найкращі друзі ось уже тисячу років. Проте їхня дружба опинилась під загрозою. Обидва переймаються питанням чи не варто їм стати чимось більшим, аніж друзі? Чи можуть чоловік і жінка дружити по-справжньому? Чи така дружба, рано чи пізно, неминуче завершиться більш тісними стосунками?",
+      "poster_path": "/aQexcifuNxAJ94RHGEmlx2mHlPT.jpg",
+      "backdrop_path": "/i8aIbji5vcPoHwcLBZYQSniGkAI.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "vote_average": 7.404,
+      "vote_count": 4638,
+      "release_date": "1989-07-12"
+    },
+    {
+      "id": 466282,
+      "media_type": "movie",
+      "title": "Усім хлопцям, яких я кохала раніше",
+      "original_title": "To All the Boys I've Loved Before",
+      "overview": "Спокійне шкільне життя Лари-Джин перевертається з ніг на голову, коли її таємні любовні листи п’ятьом хлопцям якимось чином виявляються відправленими.",
+      "poster_path": "/hKHZhUbIyUAjcSrqJThFGYIR6kI.jpg",
+      "backdrop_path": "/xXhta1NIKn09IXy0mfp68cabdWS.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "vote_average": 7.593,
+      "vote_count": 8734,
+      "release_date": "2018-08-17"
+    },
+    {
+      "id": 122906,
+      "media_type": "movie",
+      "title": "Коханий з майбутнього",
+      "original_title": "About Time",
+      "overview": "Ви вірите в кохання з першого погляду? І Тім вірить. Але головне, щоби перших поглядів було якомога більше. Молодий перспективний адвокат може все, включаючи переміщення в часі. І він має серйозний намір підкорити кохану дівчину з першого разу… Нехай і не з першої спроби!",
+      "poster_path": "/vECPYkDPSoPiG0D2wg1Swrde1Go.jpg",
+      "backdrop_path": "/einbto9qLXFx9QXxEHylaxDbKPx.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        14
+      ],
+      "vote_average": 7.9,
+      "vote_count": 9350,
+      "release_date": "2013-09-04"
+    },
+    {
+      "id": 455207,
+      "media_type": "movie",
+      "title": "Шалені багатії",
+      "original_title": "Crazy Rich Asians",
+      "overview": "Екранізація бестселлера Кевіна Квана про нечувано багату азіатську сім'ю зі старомодними принципами. Її спадкоємець Нік Янг привозить з Нью-Йорку свою кохану Рейчел, яка навіть не підозрювала про його походження. Проста американка потрапляє до світу величезних грошей і незвичайних китайських традицій, де їй зовсім не раді.",
+      "poster_path": "/8Qh8aQEXQztbHwP0xuNaPRhSLKM.jpg",
+      "backdrop_path": "/zeHB7aP46Xs3u4aFLuAq2GFeUGb.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "vote_average": 7.05,
+      "vote_count": 3984,
+      "release_date": "2018-08-15"
+    }
+  ]
+}

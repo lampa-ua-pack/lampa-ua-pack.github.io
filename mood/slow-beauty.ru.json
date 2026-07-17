@@ -1,0 +1,25 @@
+{
+  "slug": "slow-beauty",
+  "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"88\" y=\"96\" width=\"336\" height=\"320\" rx=\"16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"26\"/><g fill=\"currentColor\"><rect x=\"120\" y=\"128\" width=\"36\" height=\"36\" rx=\"6\"/><rect x=\"120\" y=\"238\" width=\"36\" height=\"36\" rx=\"6\"/><rect x=\"120\" y=\"348\" width=\"36\" height=\"36\" rx=\"6\"/><rect x=\"356\" y=\"128\" width=\"36\" height=\"36\" rx=\"6\"/><rect x=\"356\" y=\"238\" width=\"36\" height=\"36\" rx=\"6\"/><rect x=\"356\" y=\"348\" width=\"36\" height=\"36\" rx=\"6\"/></g></svg>",
+  "title": "Эстетика кадра",
+  "lang": "ru",
+  "updated_at": "2026-07-17T19:37:55Z",
+  "items": [
+    {
+      "id": 5801,
+      "media_type": "movie",
+      "title": "Песнь дороги",
+      "original_title": "পথের পাঁচালী",
+      "overview": "История о каждодневной борьбе за выживание и постепенном упадке бедной семьи, живущей в бенгальской деревне. Отец, начинающий писатель, отправляется в город на заработки, оставив жену заботиться о детях и престарелой тётушке. Через натиск постоянных нападок соседей, нищеты и необходимости искать пропитание зрителю показана истинная красота человеческого быта, семейных традиций и любви к природе.",
+      "poster_path": "/hQRIz9Q85Lbgp4TDYJ5SFgDIgKy.jpg",
+      "backdrop_path": "/wadoNHCMPElgYuOqLxqDQqXpTMx.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "vote_average": 7.8,
+      "vote_count": 496,
+      "release_date": "1955-08-26"
+    }
+  ]
+}
