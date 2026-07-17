@@ -1,0 +1,172 @@
+{
+  "slug": "background",
+  "emoji": "🎧",
+  "title": "Під справи",
+  "lang": "uk",
+  "updated_at": "2026-07-17T13:44:18Z",
+  "items": [
+    {
+      "id": 71446,
+      "media_type": "tv",
+      "title": "Паперовий будинок",
+      "original_title": "La casa de papel",
+      "overview": "Щоб здійснити найбільше пограбування в історії таємничий Професор знаходить вісім грабіжників, яким нічого втрачати. П’ять місяців підготовки й тренувань, щоб пограбувати одне з найбільш захищених місць Іспанії — Національний монетний двір. Потрібно всього лише протриматися 11 днів в оточенні поліції й спецназу.",
+      "poster_path": "/1TTWSVJX6kqPbyPMPUy3iXAfWMv.jpg",
+      "backdrop_path": "/gFZriCkpJYsApPZEF3jhxL4yLzG.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "vote_average": 8.231,
+      "vote_count": 19544,
+      "release_date": "2017-05-02"
+    },
+    {
+      "id": 63174,
+      "media_type": "tv",
+      "title": "Люцифер",
+      "original_title": "Lucifer",
+      "overview": "Знудившись у пеклі, володар пекла переїжджає до Лос-Анджелеса, де відкриває нічний клуб і знайомиться з працівницею відділу розслідування вбивств.",
+      "poster_path": "/kdLZ6aGgHDSk13kJvMloIpiXrui.jpg",
+      "backdrop_path": "/mAXOCbZzvmDa6PCh5dcIPOB51Qc.jpg",
+      "genre_ids": [
+        80,
+        10765
+      ],
+      "vote_average": 8.432,
+      "vote_count": 15552,
+      "release_date": "2016-01-25"
+    },
+    {
+      "id": 60059,
+      "media_type": "tv",
+      "title": "Краще подзвоніть Солу",
+      "original_title": "Better Call Saul",
+      "overview": "Історія про випробування та негаразди, які доводиться подолати Солу Гудману, адвокату у кримінальних справах, в той період, коли він намагається відкрити свою власну адвокатську контору в Альбукерке, штат Нью-Мексико.",
+      "poster_path": "/3vEJ21DnLpojV3xvOQk4fHdCiOK.jpg",
+      "backdrop_path": "/og2jKploGHYnCz68vV1nRSEE0xV.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "vote_average": 8.71,
+      "vote_count": 6643,
+      "release_date": "2015-02-08"
+    },
+    {
+      "id": 70523,
+      "media_type": "tv",
+      "title": "Dark",
+      "original_title": "Dark",
+      "overview": "Історія чотирьох сімей, які живуть спокійним і розміреним життям в маленькому німецькому містечку. Видима ідилія порушується, коли безслідно зникають двоє дітей і воскресають темні таємниці минулого.",
+      "poster_path": "/5BXLmCA0VU7wyLXd8YflPcShhl0.jpg",
+      "backdrop_path": "/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
+      "genre_ids": [
+        80,
+        18,
+        10765,
+        9648
+      ],
+      "vote_average": 8.4,
+      "vote_count": 7678,
+      "release_date": "2017-12-01"
+    },
+    {
+      "id": 1418,
+      "media_type": "tv",
+      "title": "Теорія великого вибуху",
+      "original_title": "The Big Bang Theory",
+      "overview": "Леонард і Шелдон — блискучі фізики, розумники, що знаються на тому, як \"працює всесвіт\". Але геніальність ані трішечки не допомагає їм у спілкуванні з людьми, особливо жінками. Шелдон взагалі вважає, що чоловіки та жінки належать до різних біологічних видів. Все починає змінюватися, коли по сусідству поселяється красуня Пенні.",
+      "poster_path": "/juLHeioV7M92wcUKCsESMb5VwuG.jpg",
+      "backdrop_path": "/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.92,
+      "vote_count": 12581,
+      "release_date": "2007-09-24"
+    },
+    {
+      "id": 19885,
+      "media_type": "tv",
+      "title": "Шерлок",
+      "original_title": "Sherlock",
+      "overview": "2010 рік. Військовий лікар Джон Ватсон повертається до Лондона після служби в Афганістані. Він став інвалідом після отриманого поранення й абсолютно не уявляє, як прожити на військову пенсію, а тим паче зняти квартиру. Приятель радить Джону розділити витрати зі знімання квартири з ким-небудь іще. Він зводить його з ексцентричним приватним детективом на імʼя Шерлок, який грає на скрипці й може розповісти про співрозмовника все після двох хвилин спілкування...",
+      "poster_path": "/xXRXLDNoLbWpYHzeVgCsHuKtho1.jpg",
+      "backdrop_path": "/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "vote_average": 8.5,
+      "vote_count": 6517,
+      "release_date": "2010-07-25"
+    },
+    {
+      "id": 2316,
+      "media_type": "tv",
+      "title": "Офіс",
+      "original_title": "The Office",
+      "overview": "Серіал розповідає про трудові будні невеликого регіонального офісу паперової компанії Dunder Mifflin у Скрентоні, Пенсильванія, працівники якого цілими днями повинні терпіти закидони свого непутящого боса.",
+      "poster_path": "/1j4Jh3MDjf2zMOnXaTHqU3ojQjc.jpg",
+      "backdrop_path": "/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 8.589,
+      "vote_count": 5303,
+      "release_date": "2005-03-24"
+    },
+    {
+      "id": 81356,
+      "media_type": "tv",
+      "title": "Сексуальна освіта",
+      "original_title": "Sex Education",
+      "overview": "Завдяки матері, секс-терапевтці, невпевнений у собі Отіс знає відповіді на всі запитання про статеве життя. Тож бунтарка Мейв пропонує йому відкрити клініку сексотерапії.",
+      "poster_path": "/5wVlWrT8kybabjBo4QO3oJDCQCw.jpg",
+      "backdrop_path": "/u23G9KZregWHs1use6ir1fX27gl.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "vote_average": 8.2,
+      "vote_count": 7904,
+      "release_date": "2019-01-11"
+    },
+    {
+      "id": 76669,
+      "media_type": "tv",
+      "title": "Еліта",
+      "original_title": "Élite",
+      "overview": "Коли троє підлітків із небагатих сімей вступають до елітної приватної школи в Іспанії, конфлікт між ними та заможними студентами закінчується вбивством.",
+      "poster_path": "/mubVef6hBFpDXTfUFTPX7NLRPHR.jpg",
+      "backdrop_path": "/1qOA3kMtQO8bjnW8M2smjA8tp10.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        18
+      ],
+      "vote_average": 8.0,
+      "vote_count": 9385,
+      "release_date": "2018-10-05"
+    },
+    {
+      "id": 77169,
+      "media_type": "tv",
+      "title": "Кобра Кай",
+      "original_title": "Cobra Kai",
+      "overview": "Запеклі вороги. Протиборчі додзьо. Нова кров. Давнє суперництво Західної Долини знову спалахує між Деніелом і Джонні в цьому продовженні фільмів «Малюк-каратист».",
+      "poster_path": "/j87uocziVefhqrTli9PsFCYnjxq.jpg",
+      "backdrop_path": "/5NrSIzfcBOFI9HRGV4nRYgMGhDU.jpg",
+      "genre_ids": [
+        10759,
+        18,
+        35
+      ],
+      "vote_average": 8.202,
+      "vote_count": 6939,
+      "release_date": "2018-05-02"
+    }
+  ]
+}

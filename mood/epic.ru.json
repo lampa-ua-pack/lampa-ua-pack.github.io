@@ -1,0 +1,177 @@
+{
+  "slug": "epic",
+  "emoji": "🏔️",
+  "title": "Большой экран",
+  "lang": "ru",
+  "updated_at": "2026-07-17T13:44:19Z",
+  "items": [
+    {
+      "id": 121,
+      "media_type": "movie",
+      "title": "Властелин колец: Две крепости",
+      "original_title": "The Lord of the Rings: The Two Towers",
+      "overview": "Братство распалось, но Кольцо Всевластья должно быть уничтожено. Фродо и Сэм вынуждены довериться Голлуму, который взялся провести их к вратам Мордора. Громадная армия Сарумана приближается: члены братства и их союзники готовы принять бой. Битва за Средиземье продолжается.",
+      "poster_path": "/hh34FOvoru2ulC5bXU9cYUEuSkB.jpg",
+      "backdrop_path": "/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "vote_average": 8.422,
+      "vote_count": 24137,
+      "release_date": "2002-12-18"
+    },
+    {
+      "id": 497,
+      "media_type": "movie",
+      "title": "Зелёная миля",
+      "original_title": "The Green Mile",
+      "overview": "Пол Эджкомб — начальник блока смертников в тюрьме «Холодная гора», каждый из узников которого однажды проходит «зеленую милю» по пути к месту казни. Пол повидал много заключённых и надзирателей за время работы. Однако гигант Джон Коффи, обвинённый в страшном преступлении, стал одним из самых необычных обитателей блока.",
+      "poster_path": "/lHxe8t4B0CKv4DO0C0B4rsuiG95.jpg",
+      "backdrop_path": "/b6HWTOxn1xevvyHU2K9ICvaRU6g.jpg",
+      "genre_ids": [
+        14,
+        18,
+        80
+      ],
+      "vote_average": 8.506,
+      "vote_count": 19436,
+      "release_date": "1999-12-10"
+    },
+    {
+      "id": 129,
+      "media_type": "movie",
+      "title": "Унесённые призраками",
+      "original_title": "千と千尋の神隠し",
+      "overview": "Тихиро с мамой и папой переезжает в новый дом. Заблудившись по дороге, они оказываются в странном пустынном городе, где их ждет великолепный пир. Родители с жадностью набрасываются на еду и к ужасу девочки превращаются в свиней, став пленниками злой колдуньи Юбабы. Теперь, оказавшись одна среди волшебных существ и загадочных видений, Тихиро должна придумать, как избавить своих родителей от чар коварной старухи.",
+      "poster_path": "/5TC0SLHRu19fHdigQnxONjwq1iE.jpg",
+      "backdrop_path": "/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14
+      ],
+      "vote_average": 8.535,
+      "vote_count": 18539,
+      "release_date": "2001-07-20"
+    },
+    {
+      "id": 424,
+      "media_type": "movie",
+      "title": "Список Шиндлера",
+      "original_title": "Schindler's List",
+      "overview": "Оскар Шиндлер, член национал-социалистической немецкой рабочей партии и преуспевающий промышленник, во время Второй мировой войны спасает евреев от ужасной смерти в концлагерях.",
+      "poster_path": "/dB7edCQIuExWErWXFVqR7ORnZRS.jpg",
+      "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "vote_average": 8.57,
+      "vote_count": 17608,
+      "release_date": "1993-12-15"
+    },
+    {
+      "id": 324786,
+      "media_type": "movie",
+      "title": "По соображениям совести",
+      "original_title": "Hacksaw Ridge",
+      "overview": "Медик американской армии времён Второй мировой войны Десмонд Досс, который служил во время битвы за Окинаву, отказывается убивать людей и становится первым идейным уклонистом в американской истории, удостоенным Медали Почёта.",
+      "poster_path": "/A4Q3CdaQzbPwDI1gnE7WX5585rJ.jpg",
+      "backdrop_path": "/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "vote_average": 8.192,
+      "vote_count": 14990,
+      "release_date": "2016-10-07"
+    },
+    {
+      "id": 44217,
+      "media_type": "tv",
+      "title": "Викинги",
+      "original_title": "Vikings",
+      "overview": "Сериал рассказывает об отряде викингов Рагнара Лодброка. Он восстал, чтобы стать королём племён викингов. Норвежская легенда гласит, что он был прямым потомком Одина, бога войны и воинов.",
+      "poster_path": "/1de3R902B5EEMmohBQsExd5V87Y.jpg",
+      "backdrop_path": "/13kblIK8DnxMurcRDkeyy2sGR7v.jpg",
+      "genre_ids": [
+        10759,
+        18,
+        10768
+      ],
+      "vote_average": 8.096,
+      "vote_count": 7717,
+      "release_date": "2013-03-03"
+    },
+    {
+      "id": 4613,
+      "media_type": "tv",
+      "title": "Братья по оружию",
+      "original_title": "Band of Brothers",
+      "overview": "История о боевом пути роты E («Easy») 2-го батальона 506-го парашютно-десантного полка 101-й воздушно-десантной дивизии США от тренировочного лагеря в Таккоа, штат Джорджия, через высадку в Нормандии, Голландскую операцию и осаду Бастони до окончания Второй мировой войны.",
+      "poster_path": "/3IghRHb3ZHVO6x1dRDaRyCMJxRn.jpg",
+      "backdrop_path": "/2yDV0xLyqW88dn5qE7YCRnoYmfy.jpg",
+      "genre_ids": [
+        18,
+        10768
+      ],
+      "vote_average": 8.592,
+      "vote_count": 4239,
+      "release_date": "2001-09-09"
+    },
+    {
+      "id": 126308,
+      "media_type": "tv",
+      "title": "Shōgun",
+      "original_title": "Shōgun",
+      "overview": "Япония, начало XVII века. Английский штурман Джон Блэкторн терпит крушение и попадает в закрытую для европейцев Страну восходящего солнца, где проходит путь от пленника на грани жизни и смерти до правой руки борющегося за власть самурая Торанаги.",
+      "poster_path": "/cOKLRblbdBtcuf4TkAzsyJpZr23.jpg",
+      "backdrop_path": "/6Tb87q9Tog30F5AAHh1gyDT2Vve.jpg",
+      "genre_ids": [
+        18,
+        10768
+      ],
+      "vote_average": 8.42,
+      "vote_count": 1799,
+      "release_date": "2024-02-27"
+    },
+    {
+      "id": 63333,
+      "media_type": "tv",
+      "title": "Последнее королевство",
+      "original_title": "The Last Kingdom",
+      "overview": "Сериал рассказывает о временах правления короля Уэссекса Альфреда Великого, сумевшего отвоевать английские земли у датских викингов — заморских захватчиков. Главным героем повествования выступает ещё в младенчестве похищенный данами Утред — потомок благородного саксонского рода. Воспитанный как викинг, в очень непростой момент жизненного выбора молодой воин должен будет решить для себя, чью сторону он примет в решающих сражениях за судьбу древней Британии.",
+      "poster_path": "/eXRWYkffOq0be8hNlQTNeB0yLPX.jpg",
+      "backdrop_path": "/QbtctI8EzlhsyFDMUMyG3fli8B.jpg",
+      "genre_ids": [
+        10759,
+        18,
+        10768
+      ],
+      "vote_average": 8.263,
+      "vote_count": 1990,
+      "release_date": "2015-10-10"
+    },
+    {
+      "id": 16997,
+      "media_type": "tv",
+      "title": "Тихий океан",
+      "original_title": "The Pacific",
+      "overview": "Сюжет описывает ключевые битвы, которые вошли в историю, глазами обычных солдат и их близких.",
+      "poster_path": "/uod90Vy93Cm27xQ7FjwGIElBOGd.jpg",
+      "backdrop_path": "/nWfpVLgioDXQsAbfL6UJxYz6d3d.jpg",
+      "genre_ids": [
+        18,
+        10759,
+        10768
+      ],
+      "vote_average": 7.793,
+      "vote_count": 2544,
+      "release_date": "2010-03-14"
+    }
+  ]
+}

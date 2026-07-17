@@ -1,0 +1,172 @@
+{
+  "slug": "background",
+  "emoji": "🎧",
+  "title": "Под дела",
+  "lang": "ru",
+  "updated_at": "2026-07-17T13:44:18Z",
+  "items": [
+    {
+      "id": 71446,
+      "media_type": "tv",
+      "title": "Бумажный дом",
+      "original_title": "La casa de papel",
+      "overview": "Главные герои истории — преступники, решившие ограбить Королевский монетный двор Испании и унести в своих карманах 2,400 млн евро.",
+      "poster_path": "/x9YQ28gwAkAXCSw7n1cAsPbJaTF.jpg",
+      "backdrop_path": "/gFZriCkpJYsApPZEF3jhxL4yLzG.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "vote_average": 8.231,
+      "vote_count": 19544,
+      "release_date": "2017-05-02"
+    },
+    {
+      "id": 63174,
+      "media_type": "tv",
+      "title": "Люцифер",
+      "original_title": "Lucifer",
+      "overview": "«Скучно в аду? Развлекусь в Городе ангелов!» — решает Сатана и отправляется на Землю. Он открывает ночной клуб и знакомится с женщиной-детективом из убойного отдела.",
+      "poster_path": "/z24OWggvuqkmB0xmtgChXbl9THw.jpg",
+      "backdrop_path": "/mAXOCbZzvmDa6PCh5dcIPOB51Qc.jpg",
+      "genre_ids": [
+        80,
+        10765
+      ],
+      "vote_average": 8.433,
+      "vote_count": 15551,
+      "release_date": "2016-01-25"
+    },
+    {
+      "id": 60059,
+      "media_type": "tv",
+      "title": "Лучше звоните Солу",
+      "original_title": "Better Call Saul",
+      "overview": "История об испытаниях и невзгодах, которые приходится преодолеть Солу Гудману, адвокату по уголовным делам, в тот период, когда он пытается открыть свою собственную адвокатскую контору в Альбукерке, штат Нью-Мексико.",
+      "poster_path": "/o2jgxiP6PNaZQzlql8DgouwTBvz.jpg",
+      "backdrop_path": "/og2jKploGHYnCz68vV1nRSEE0xV.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "vote_average": 8.71,
+      "vote_count": 6644,
+      "release_date": "2015-02-08"
+    },
+    {
+      "id": 70523,
+      "media_type": "tv",
+      "title": "Тьма",
+      "original_title": "Dark",
+      "overview": "После пропажи ребенка четыре семьи пускаются в отчаянную погоню за ответами и раскрывают леденящую тайну трех поколений.",
+      "poster_path": "/ikhUNN25WVfMN2uvoJLLKYXp8jE.jpg",
+      "backdrop_path": "/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
+      "genre_ids": [
+        80,
+        18,
+        10765,
+        9648
+      ],
+      "vote_average": 8.4,
+      "vote_count": 7678,
+      "release_date": "2017-12-01"
+    },
+    {
+      "id": 1418,
+      "media_type": "tv",
+      "title": "Теория большого взрыва",
+      "original_title": "The Big Bang Theory",
+      "overview": "Два блестящих физика Леонард и Шелдон — великие умы, которые понимают, как устроена вселенная. Но их гениальность ничуть не помогает им общаться с людьми, особенно с женщинами. Всё начинает меняться, когда напротив них поселяется красавица Пенни. Стоит также отметить пару странных друзей этих физиков: Воловиц который любит употреблять фразы на разных языках, включая русский, а Раджеш Кутраппали теряет дар речи при виде женщин.",
+      "poster_path": "/wgCVpWDwc93wHlck8jEQT08tps0.jpg",
+      "backdrop_path": "/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.92,
+      "vote_count": 12581,
+      "release_date": "2007-09-24"
+    },
+    {
+      "id": 19885,
+      "media_type": "tv",
+      "title": "Шерлок",
+      "original_title": "Sherlock",
+      "overview": "Новая экранизация приключений самого известного сыщика человечества. Военный врач Джон Ватсон возвращается в родные края с войны калекой. Он в поисках недорогого жилья и ему предложили комнату в квартире на Бейкер-Стрит. Объявление дал странноватый владелец жилья, имя которого Шерлок Холмс. Неординарный ум и харизма этой загадочной личности сразу же понравились Доктору Ватсону, и он согласился на соседство. Сферой деятельности нового знакомого оказывается расследование таинственных убийств, которые происходят на улицах Лондона, а новый друг, Джон Ватсон, оказывает посильную помощь Холмсу в раскрытии преступлений. Даже когда следствие Скотланд Ядра заходит в тупик, гениальный сыщик обязательно найдет выход.",
+      "poster_path": "/j1OzoewUK3fA7bjMX8oB1mwyG1P.jpg",
+      "backdrop_path": "/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "vote_average": 8.5,
+      "vote_count": 6517,
+      "release_date": "2010-07-25"
+    },
+    {
+      "id": 2316,
+      "media_type": "tv",
+      "title": "Офис",
+      "original_title": "The Office",
+      "overview": "Сериал о трудовых буднях небольшого регионального офиса крупной компании, обитатели которого целыми днями должны терпеть закидоны своего непутевого босса.",
+      "poster_path": "/zjW7g5PGsJMy7pIr0hKdBKWcH9V.jpg",
+      "backdrop_path": "/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 8.589,
+      "vote_count": 5303,
+      "release_date": "2005-03-24"
+    },
+    {
+      "id": 81356,
+      "media_type": "tv",
+      "title": "Сексуальное просвещение",
+      "original_title": "Sex Education",
+      "overview": "Благодаря маме-сексологу неуверенный в себе Отис знает ответы на все вопросы о сексе. Поэтому бунтарка Мэйв предлагает ему открыть клинику сексотерапии для подростков.",
+      "poster_path": "/oxJRoWlfAkC3n5o3Wdp75oSgbc6.jpg",
+      "backdrop_path": "/u23G9KZregWHs1use6ir1fX27gl.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "vote_average": 8.2,
+      "vote_count": 7903,
+      "release_date": "2019-01-11"
+    },
+    {
+      "id": 76669,
+      "media_type": "tv",
+      "title": "Элита",
+      "original_title": "Élite",
+      "overview": "Три подростка из обычных семей попадают в самую элитную школу Испании, где начинается настоящее столкновение между представителями двух разных слоёв общества. К сожалению, конфликт приводит к трагедии...",
+      "poster_path": "/6w6KepHCC8HKq4v9CqDAM706I63.jpg",
+      "backdrop_path": "/1qOA3kMtQO8bjnW8M2smjA8tp10.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        18
+      ],
+      "vote_average": 8.0,
+      "vote_count": 9385,
+      "release_date": "2018-10-05"
+    },
+    {
+      "id": 77169,
+      "media_type": "tv",
+      "title": "Кобра Кай",
+      "original_title": "Cobra Kai",
+      "overview": "Заклятые враги. Конкурирующие додзё. Новая кровь. Дэниэл и Джонни возрождают забытый дух соперничества в популярном сериале-сиквеле фильмов «Парень-каратист».",
+      "poster_path": "/5z5HNOfP225TCZLjeeQ2mKyyjVa.jpg",
+      "backdrop_path": "/5NrSIzfcBOFI9HRGV4nRYgMGhDU.jpg",
+      "genre_ids": [
+        10759,
+        18,
+        35
+      ],
+      "vote_average": 8.202,
+      "vote_count": 6939,
+      "release_date": "2018-05-02"
+    }
+  ]
+}
