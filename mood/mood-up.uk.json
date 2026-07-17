@@ -3,173 +3,169 @@
   "emoji": "✨",
   "title": "Заряд позитиву",
   "lang": "uk",
-  "updated_at": "2026-07-17T16:40:41Z",
+  "updated_at": "2026-07-17T17:13:40Z",
   "items": [
     {
-      "id": 346648,
+      "id": 77338,
       "media_type": "movie",
-      "title": "Пригоди Паддінґтона 2",
-      "original_title": "Paddington 2",
-      "overview": "Продовження пригод ведмежати на ім'я Паддінґтон.",
-      "poster_path": "/f4IDGS1531P7ZCq9zYRRAhXS3mj.jpg",
-      "backdrop_path": "/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
+      "title": "1+1",
+      "original_title": "Intouchables",
+      "overview": "Ставши інвалідом унаслідок нещасного випадку, багатій Філіп наймає в помічники людину, що менше всього підходить для цієї роботи — молодого мешканця нетрів Дрісса, який щойно звільнився з в’язниці. Незважаючи на те, що Філіп прикутий до інвалідного крісла, Дріссу вдається привнести в розмірене існування багатія дух пригод та жагу життя.",
+      "poster_path": "/zH6pl2chTsiO8MXRSLrYySUNSGD.jpg",
+      "backdrop_path": "/cK070s3Qdn1Ib7Gq8RgIyJKgvu3.jpg",
       "genre_ids": [
-        12,
+        18,
+        35
+      ],
+      "vote_average": 8.273,
+      "vote_count": 18572,
+      "release_date": "2011-11-02"
+    },
+    {
+      "id": 116149,
+      "media_type": "movie",
+      "title": "Пригоди Паддінґтона",
+      "original_title": "Paddington",
+      "overview": "Події фільму «Паддінґтон» починаються з того, що в Англію, на Паддінґтонський вокзал Лондона прибуває з далеких перуанських лісів ведмежа. Дружня родина Браунів вирішують взяти маленького та охайного ведмедика собі й називають його на честь залізничної станції Паддінґтоном. Такі справи обіцяють нашому герою безхмарне існування на довгі роки, та все йде шкереберть. Зла таксидермістка надумала зробити з ведмежати опудало для музею...",
+      "poster_path": "/tWP9IaF0Xmfrzi08v0R67V0rOAF.jpg",
+      "backdrop_path": "/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg",
+      "genre_ids": [
         35,
+        12,
         10751
       ],
-      "vote_average": 7.478,
-      "vote_count": 2823,
-      "release_date": "2017-11-09"
+      "vote_average": 7.123,
+      "vote_count": 4278,
+      "release_date": "2014-11-24"
     },
     {
-      "id": 2493,
+      "id": 228194,
       "media_type": "movie",
-      "title": "Принцеса-наречена",
-      "original_title": "The Princess Bride",
-      "overview": "Ласкаво просимо у фантастичний світ прекрасних замків, страшних підземель, безкрайніх океанів, лісів і гір. Щоб врятувати свою кохану, прекрасну наречену, відважний герой долає немислимі перешкоди і здійснює неймовірні подвиги.",
-      "poster_path": "/nmcJHxuHzn4pVWzhoKPvVhXfl.jpg",
-      "backdrop_path": "/2CisgvF2HcIVnbMZbSjASCtSgEb.jpg",
-      "genre_ids": [
-        12,
-        14,
-        10749,
-        10751,
-        35
-      ],
-      "vote_average": 7.703,
-      "vote_count": 5164,
-      "release_date": "1987-09-25"
-    },
-    {
-      "id": 97546,
-      "media_type": "tv",
-      "title": "Тед Лассо",
-      "original_title": "Ted Lasso",
-      "overview": "Тед Лассо, американський тренер з футболу, переїжджає до Англії, коли його найняли керувати футбольною командою — незважаючи на відсутність досвіду. З цинічними гравцями та сумнівним містечком, чи змусить він їх побачити Шлях Теда Лассо?",
-      "poster_path": "/8G5pL6yWDs8jXKBV7K9Unm1vsxd.jpg",
-      "backdrop_path": "/gEQkOMmnJcoh9Hh1vk7fpVYnksR.jpg",
+      "title": "Прянощі та пристрасті",
+      "original_title": "The Hundred-Foot Journey",
+      "overview": "Родина індійських емігрантів, яких доля закинула в маленьке містечко в Провансі, вирішує відкрити кав’ярню зі східною кухнею... прямо навпроти відомого на весь округ ресторану \"Плакуча верба\", бастіону французьких кулінарних традицій, господиня якого, Мадам Малорі, більше за все на світі пишається тим, що її заклад удостоєно зірки в каталозі \"Мішлен\". Спочатку Мадам Малорі не приховує своєї огиди галасливими сусідами і їхніми екзотичними звичками, але поступово війна за клієнтів між двома ресторанами змінюється хитким перемир’ям, особливо, коли з'ясовується, що юний кухар-емігрант Гассан має досконалий смак, і рецепти французької кухні підкорюються йому так само легко, як таємниці індійських прянощів.",
+      "poster_path": "/p2ghsoo9mMwqJK4wSedVBHW98s3.jpg",
+      "backdrop_path": "/jUaZAbdpNl33VHprUl4qEohXn8q.jpg",
       "genre_ids": [
         18,
         35
       ],
-      "vote_average": 8.347,
-      "vote_count": 2430,
-      "release_date": "2020-08-14"
+      "vote_average": 7.268,
+      "vote_count": 1560,
+      "release_date": "2014-08-06"
     },
     {
-      "id": 369557,
-      "media_type": "movie",
-      "title": "Сінґ Стріт",
-      "original_title": "Sing Street",
-      "overview": "Ностальгічна музична драма про дорослішання. Коли економічна криза 1980-х вдаряє по родині Конора, його переводять з престижної приватної школи в державну. Підліток стикається з грубістю і невіглаством нового середовища і, крім того, закохується в недосяжну красуню. Бажаючи вразити дівчину, Конор збирає рок-гурт.",
-      "poster_path": "/wVooPiwY95OOe3YOb5tc1pixW4L.jpg",
-      "backdrop_path": "/zArKQrtZRb4lqjYXepBMLdegiDz.jpg",
-      "genre_ids": [
-        10749,
-        18,
-        10402,
-        35
-      ],
-      "vote_average": 7.859,
-      "vote_count": 2467,
-      "release_date": "2016-03-11"
-    },
-    {
-      "id": 212778,
-      "media_type": "movie",
-      "title": "Повар на колесах",
-      "original_title": "Chef",
-      "overview": "Карл Каспер – неперевершений кухар, але у нього не склалися стосунки в сім'ї і власник ресторану не дає йому жодної свободи. Він вирішує покинути роботу і купити харчовий фургон, де він зможе готувати власні страви. На хвилі ентузіазму і оптимістичного погляду в майбутнє він спробує повернути прихильність своїх близьких.",
-      "poster_path": "/dM6ldPN0aDQtcyLQMZwjz8ICc5a.jpg",
-      "backdrop_path": "/igVNCpS132rOqrnDsrVYW5HCIsM.jpg",
-      "genre_ids": [
-        35
-      ],
-      "vote_average": 7.112,
-      "vote_count": 3681,
-      "release_date": "2014-05-08"
-    },
-    {
-      "id": 66573,
+      "id": 68106,
       "media_type": "tv",
-      "title": "У кращому світі",
-      "original_title": "The Good Place",
-      "overview": "Навіжена Елеонор з Нью Джерсі потрапляє туди, де їй наочно пояснюють, що все своє життя вона була вкрай поганою людиною. Головній героїні належить навчитися відрізняти хороше від поганого і допомогти їй дорости до хорошої людини візьметься наставник на ім'я Майкл.",
-      "poster_path": "/iZd6jJEzT7sszoFLd5XsYXgctfq.jpg",
-      "backdrop_path": "/tZmlWeFEMvxrjJhBJJcLNXpSRiG.jpg",
+      "title": "Kim's Convenience",
+      "original_title": "Kim's Convenience",
+      "overview": "",
+      "poster_path": "/82Vue6MPuYZzlpggR65cvWdBdy.jpg",
+      "backdrop_path": "/oh5ZkLhrrt1EmGfRZ4qqm743X6b.jpg",
       "genre_ids": [
-        10765,
         35
       ],
-      "vote_average": 7.972,
-      "vote_count": 1998,
-      "release_date": "2016-09-19"
+      "vote_average": 7.657,
+      "vote_count": 175,
+      "release_date": "2016-10-11"
     },
     {
-      "id": 371645,
+      "id": 116745,
       "media_type": "movie",
-      "title": "Полювання на дикунів",
-      "original_title": "Hunt for the Wilderpeople",
-      "overview": "Сирота Ріккі Бейкер – невиправний хуліган. Співробітниця соціальної служби Пола Голл відвозить підлітка в сільську місцевість, де живе єдина сім'я, яка готова його прийняти, – Белла та її відлюдькуватий чоловік Гек. Коли Белла вмирає і соціальний захист збирається забрати Ріккі, хлопець тікає в неозорий новозеландський буш. Гек відправляється за ним. Навіжена Пола оголошує загальнонаціональне полювання на втікачів ...",
-      "poster_path": "/tmxTu7rM3Kfnoc95dpY9LzV9HCf.jpg",
-      "backdrop_path": "/ixpUtvrZNwk6LBObXaNH8fh4FYf.jpg",
+      "title": "Таємне життя Волтера Мітті",
+      "original_title": "The Secret Life of Walter Mitty",
+      "overview": "Волтер Мітті - співробітник фотослужби журналу «Life», якому загрожує реорганізація в онлайн і скороченя співробітників. Знаменитий фотограф Шон О`Коннел надсилає плівку, один з кадрів повинен піти на обкладинку останнього паперового номера журналу. Проте саме цей кадр загадковим чином зникає. Тоді скромний і непомітний фоторедактор Мітті відправляється у подорож на край світу на пошуки загубленого негативу ...",
+      "poster_path": "/pNgx4WzFnE35w8jkZulmtr1W6dM.jpg",
+      "backdrop_path": "/pzMrxeP9XkKOtQVUBPTq5yk4ck5.jpg",
+      "genre_ids": [
+        35,
+        18,
+        14
+      ],
+      "vote_average": 7.226,
+      "vote_count": 8332,
+      "release_date": "2013-12-18"
+    },
+    {
+      "id": 317557,
+      "media_type": "movie",
+      "title": "Королева Катве",
+      "original_title": "Queen of Katwe",
+      "overview": "Молода дівчина з Уганди тренується, щоб стати чемпіоном світу з шахів.",
+      "poster_path": "/pCyAhNw3IykQFdZnd7qCCdxo055.jpg",
+      "backdrop_path": "/awZwLXuPAGZEARF3y18S3qWt5LH.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 7.225,
+      "vote_count": 471,
+      "release_date": "2016-09-23"
+    },
+    {
+      "id": 61692,
+      "media_type": "tv",
+      "title": "Труднощі асиміляції",
+      "original_title": "Fresh Off the Boat",
+      "overview": "У центрі сюжету перебуває азіатсько-американське сімейство, що живе в 1990-х роках, яке переїжджає з Вашингтона в Орландо, штат Флорида, щоб відкрити м'ясний ресторан. Цей переїзд стає для них культурним шоком. Адже в Орландо немає Чайна-Тауна ...",
+      "poster_path": "/o8ekdtv98EnrymVLw3VJ2WoFBoM.jpg",
+      "backdrop_path": "/xcSH4KdTxvVmLARyrEeZOYrHjGR.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.2,
+      "vote_count": 300,
+      "release_date": "2015-02-04"
+    },
+    {
+      "id": 463257,
+      "media_type": "movie",
+      "title": "Арахісовий сокіл",
+      "original_title": "The Peanut Butter Falcon",
+      "overview": "У центрі сюжету стрічки — хлопець із синдромом Дауна Зак. Одного разу герой вирішує втекти з лікарні, щоб здійснитити мрію — відвідати школу боротьби і стати професійним реслером. Зак знайомиться зі злочинцем Тайлером, який тренує хлопця та стає його другом. Повернути Зака має намір співробітниця лікарні Елеонора, яку хлопці намагаються переконати приєднатися до них.",
+      "poster_path": "/vtB4nU1d5ljTz9l11necTrDPzH1.jpg",
+      "backdrop_path": "/lewYqqt8epnjFhEOIIIINX9Z8EE.jpg",
       "genre_ids": [
         12,
         35,
         18
       ],
-      "vote_average": 7.6,
-      "vote_count": 2326,
-      "release_date": "2016-01-22"
+      "vote_average": 7.393,
+      "vote_count": 1625,
+      "release_date": "2019-08-09"
     },
     {
-      "id": 497582,
-      "media_type": "movie",
-      "title": "Енола Холмс",
-      "original_title": "Enola Holmes",
-      "overview": "У пошуках зниклої матері смілива дівчина Енола Голмс застосовує свої детективні навички, щоб перехитрити старшого брата Шерлока і допомогти лорду-втікачеві.",
-      "poster_path": "/y4vcxg0PkXPCC8NmQsyKYHSKcQi.jpg",
-      "backdrop_path": "/kMe4TKMDNXTKptQPAdOF0oZHq3V.jpg",
-      "genre_ids": [
-        12,
-        9648,
-        80
-      ],
-      "vote_average": 7.226,
-      "vote_count": 6684,
-      "release_date": "2020-09-22"
-    },
-    {
-      "id": 13751,
-      "media_type": "movie",
-      "title": "Akeelah and the Bee",
-      "original_title": "Akeelah and the Bee",
-      "overview": "",
-      "poster_path": "/tLejxaLJu8Qh5F2VKacWniMSZ3v.jpg",
-      "backdrop_path": "/5cQG6wbizKfADPCNp4Tm801VMxH.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 7.0,
-      "vote_count": 353,
-      "release_date": "2006-04-28"
-    },
-    {
-      "id": 61350,
+      "id": 106292,
       "media_type": "tv",
-      "title": "Please Like Me",
-      "original_title": "Please Like Me",
-      "overview": "",
-      "poster_path": "/dgzpboEMxpHVI3Isy5lZOCP2e6X.jpg",
-      "backdrop_path": "/hMYiGlPVRaZgL2Tu2ol5mHcChRr.jpg",
+      "title": "Джулі та «Фантоми»",
+      "original_title": "Julie and the Phantoms",
+      "overview": "Джулі втратила пристрасть до музики, коли втратила маму. Але коли з’являються троє примарних хлопців і піднімають її настрій, вони вирішують разом створити гурт!",
+      "poster_path": "/m6uNY62Rx6gpUkC7urCOrOTlaj2.jpg",
+      "backdrop_path": "/zIML9hklxKu9qbESWrSPwD25f4H.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        10765
+      ],
+      "vote_average": 8.4,
+      "vote_count": 624,
+      "release_date": "2020-09-10"
+    },
+    {
+      "id": 71,
+      "media_type": "movie",
+      "title": "Біллі Елліот",
+      "original_title": "Billy Elliot",
+      "overview": "11-річний Біллі Елліот — син звичайного шахтаря. В очах своєї родини — батька і брата — він обов'язково повинен стати боксером. Але у маленького Біллі душа до спорту не лежить, до того ж у нього нічого і не виходить. Одного разу він бачить, як група дівчат займається балетом, і розуміє, що більш за все йому подобаються танці. Але як переконати батька повірити в настільки незвичайне для хлопця захоплення?",
+      "poster_path": "/6pQUE2pXkLmO0ILzIUMIzSdhDXN.jpg",
+      "backdrop_path": "/urzflyf41uySpgciGHdQzpcaMOY.jpg",
       "genre_ids": [
         18,
-        35
+        35,
+        10402
       ],
-      "vote_average": 7.6,
-      "vote_count": 157,
-      "release_date": "2013-02-28"
+      "vote_average": 7.593,
+      "vote_count": 4120,
+      "release_date": "2000-09-28"
     }
   ]
 }

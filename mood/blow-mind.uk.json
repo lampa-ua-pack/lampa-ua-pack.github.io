@@ -3,171 +3,170 @@
   "emoji": "🌀",
   "title": "Зламаєш голову",
   "lang": "uk",
-  "updated_at": "2026-07-17T16:40:35Z",
+  "updated_at": "2026-07-17T17:13:34Z",
   "items": [
     {
-      "id": 146015,
+      "id": 149871,
       "media_type": "movie",
-      "title": "Двійник",
-      "original_title": "The Double",
-      "overview": "Головний герой - боязкий клерк, якого зневажає власна мати й ігнорує дівчина його мрії, працює у футуристичній організації. В контору, де він працює, приходить новий самовпевнений і харизматичний співробітник, який є його точною фізичною копією. Двійник поступово прибирає до рук життя героя ...",
-      "poster_path": "/lxPMCMRsQxAIXNXhZW7KL8pkfSl.jpg",
-      "backdrop_path": "/19B3vwsPwLzHvSAo9uxC70QEkqW.jpg",
+      "title": "Казка про принцесу Каґую",
+      "original_title": "かぐや姫の物語",
+      "overview": "На основі японської народної казки.  Жив колись на світі збирач бамбуку. Він ходив у гори та зрізав бамбук, щоб робити з нього різноманітні речі. Звали його Санукі-но Міяцко. Одного разу він помітив сяйво, яке йшло прямо з-під бамбукового стебла.  У 2014 році аніме отримало премію «Майнічі» як кращий анімаційний фільм року, обійшовши «Вітер дужчає», а у 2015 році було номіноване на премію «Оскар».",
+      "poster_path": "/k7CK88QKs2t7LK7UZ0lxolidxEf.jpg",
+      "backdrop_path": "/lMaWlYThCSnsmW3usxWTpSuyZp1.jpg",
       "genre_ids": [
-        53,
-        18
-      ],
-      "vote_average": 6.507,
-      "vote_count": 1094,
-      "release_date": "2014-04-03"
-    },
-    {
-      "id": 145197,
-      "media_type": "movie",
-      "title": "Upstream Color",
-      "original_title": "Upstream Color",
-      "overview": "",
-      "poster_path": "/tQ4IWxSYIgZVWnQwLCG8r6sUraU.jpg",
-      "backdrop_path": "/s1DqTGJ96V0Q8YxL9GZVkJi48jZ.jpg",
-      "genre_ids": [
+        16,
         18,
-        878
-      ],
-      "vote_average": 6.344,
-      "vote_count": 813,
-      "release_date": "2013-04-05"
-    },
-    {
-      "id": 152795,
-      "media_type": "movie",
-      "title": "Конгрес",
-      "original_title": "The Congress",
-      "overview": "Старіюча, безробітна актриса укладає останній контракт, проте вона навіть не здогадується про наслідки свого рішення.",
-      "poster_path": "/oeT9rwfCBayxgVoUn1yZGmkZlUq.jpg",
-      "backdrop_path": "/c1nCz7PEip3YeqT7R4I8Toc3FOw.jpg",
-      "genre_ids": [
-        18,
-        878,
-        16
-      ],
-      "vote_average": 6.425,
-      "vote_count": 586,
-      "release_date": "2013-07-03"
-    },
-    {
-      "id": 121606,
-      "media_type": "movie",
-      "title": "Ломка",
-      "original_title": "Resolution",
-      "overview": "Коли герой стрічки отримав від друга благання про допомогу для позбавлення від наркозалежності, наш персонаж і не підозрював, з чим йому доведеться зіткнутися. А ще через деякий час в його житті з'являються дивні особистості, чиї наміри неможливо передбачити і зрозуміти. І в такій ситуації наркотики здадуться чимось добрим, адже справжній страх уже підкрався і чекає свого часу...",
-      "poster_path": "/uEXyKsm0Q0zSbT5CH8VzByWEme1.jpg",
-      "backdrop_path": "/fF5XLTGoZEsP84wcDF3HtGNp5zm.jpg",
-      "genre_ids": [
-        27,
-        53,
-        9648
-      ],
-      "vote_average": 6.352,
-      "vote_count": 470,
-      "release_date": "2013-01-25"
-    },
-    {
-      "id": 306947,
-      "media_type": "movie",
-      "title": "Запрошення",
-      "original_title": "The Invitation",
-      "overview": "Уілл відправляється на вечірку до своєї колишньої дружини, де незабаром приходить до висновку, що його екс-дружина щось приховує. Разом з компанією своїх нових друзів вона готується до здійснення таємничого і жахливого плану.",
-      "poster_path": "/otZMaGHWnKPgOODF6SSVNGqbI4X.jpg",
-      "backdrop_path": "/UT0FaX3djSmvphvDopomPNWXIQ.jpg",
-      "genre_ids": [
-        53,
-        27
-      ],
-      "vote_average": 6.419,
-      "vote_count": 2891,
-      "release_date": "2016-04-08"
-    },
-    {
-      "id": 50037,
-      "media_type": "movie",
-      "title": "За межами чорної веселки",
-      "original_title": "Beyond the Black Rainbow",
-      "overview": "Сюжет розгортається в таємничому медичному центрі Арборія, де зловісний доктор Баррі Нілл утримує молоду дівчину Елінор від зовнішнього світу.  Елінор, яка має особливі психічні здібності, постійно піддається експериментам та ментальному впливу доктора. За допомогою психоактивних речовин та психотерапевтичних методів, доктор намагається розкрити потенціал молодої дівчини, проникнути у її свідомість і контролювати її думки та дії.",
-      "poster_path": "/uhomcCTQ3lO8L6mLhkCMypsnroO.jpg",
-      "backdrop_path": "/ax9TM12FIYiEPOto4vDw5gLdGCU.jpg",
-      "genre_ids": [
-        878,
-        27,
-        9648
-      ],
-      "vote_average": 5.658,
-      "vote_count": 409,
-      "release_date": "2010-12-03"
-    },
-    {
-      "id": 698432,
-      "media_type": "movie",
-      "title": "Nadie sabe que estoy aquí",
-      "original_title": "Nadie sabe que estoy aquí",
-      "overview": "",
-      "poster_path": "/f1yrsJXyMZ306XggQZKMvZCZhYF.jpg",
-      "backdrop_path": "/cUPrCDQt23ZdJ6Mk8kO8cBcPcxw.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 6.7,
-      "vote_count": 204,
-      "release_date": "2020-04-15"
-    },
-    {
-      "id": 249688,
-      "media_type": "movie",
-      "title": "Кінець туру",
-      "original_title": "The End of the Tour",
-      "overview": "Незабаром після публікації роману \"Нескінченний жарт\" письменник Девід Фостер Уоллес вирушає в поїздку з журналістом Rolling Stones Девиідом Ліпскі, що готує про нього статтю. За п'ять днів між ними виник деякий довірчий зв'язок, що дозволив кожному з них поділитися своїми сокровенними думками і бажаннями. Так або інакше, інтерв'ю ніколи не було опубліковане - аудіокасети відправилися в шафу Ліпскі, а самі герої так більше і не зустрілись.",
-      "poster_path": "/bWFdAcfUpWefaWSpw9QXjFO4Vfl.jpg",
-      "backdrop_path": "/jfesUBA5dUxlPw2E1M7fCahTHG8.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 7.005,
-      "vote_count": 613,
-      "release_date": "2015-07-31"
-    },
-    {
-      "id": 436343,
-      "media_type": "movie",
-      "title": "Тіло і душа",
-      "original_title": "Testről és lélekről",
-      "overview": "Сором'язлива Марія і товариський, але самотній Ендре – колеги. Обидва ведуть замкнутий спосіб життя і намагаються уникати спілкування одне з одним. Несподівано вони дізнаються, що щоночі їм сняться однакові сни. Герої бачать у цьому знак і зважуються на зближення. Відкрившись один одному, Ендре і Марія опиняються у вирі комічних і навіть шокуючих подій...",
-      "poster_path": "/iozk3lvX0a2EXeaWfSyMmahCpoS.jpg",
-      "backdrop_path": "/s5BvDOLava3Z8NjAOnT0Xe96iLS.jpg",
-      "genre_ids": [
-        18,
-        10749,
         14
       ],
-      "vote_average": 7.256,
-      "vote_count": 618,
-      "release_date": "2017-03-02"
+      "vote_average": 8.091,
+      "vote_count": 2005,
+      "release_date": "2013-11-23"
     },
     {
-      "id": 3766,
+      "id": 220289,
       "media_type": "movie",
-      "title": "Леді з Шанхаю",
-      "original_title": "The Lady from Shanghai",
-      "overview": "Захоплений чудовою блондинкою Розалі, ірландський моряк Майкл О’Гара наймається членом екіпажу на яхту, що належить її чоловікові та прямує до Сан-Франциско. Обнадійливе плавання перетворюється на химерну кримінальну історію, що обертається складною змовою з метою вбивства.",
-      "poster_path": "/whqdqWavNMSoeXTx1X3DauO1LG6.jpg",
-      "backdrop_path": "/ehgX2eTBOgqB1Py3vSTKf3LXbEv.jpg",
+      "title": "Зв’язок",
+      "original_title": "Coherence",
+      "overview": "У ніч з астрологічною аномалією вісім друзів випробовують на собі дивну зміну реальності.",
+      "poster_path": "/onPdzStPUEe33YmabQ3LFUlBXMI.jpg",
+      "backdrop_path": "/cvGE73s935bXEAVt2W0zADPPegG.jpg",
       "genre_ids": [
-        9648,
-        80,
         53,
+        878
+      ],
+      "vote_average": 7.213,
+      "vote_count": 3470,
+      "release_date": "2014-04-06"
+    },
+    {
+      "id": 83851,
+      "media_type": "tv",
+      "title": "Знищення",
+      "original_title": "The Undoing",
+      "overview": "Ґрейс - успішний терапевт з Нью-Йорка, у неї все добре: люблячий чоловік, чудовий син, багате життя. Невдовзі у Ґрейс вийде перша книга, в якій вона радить жінкам слухати інтуїцію і вірити першому враженню про чоловіків. Однак напередодні виходу зникає її чоловік, і казкове життя обертається низкою неприємних одкровень та PR-скандалом.",
+      "poster_path": "/y2SJQEC5ZR9QlJeq7WkERinfq0V.jpg",
+      "backdrop_path": "/tJjwEzTglpxoWJXwEbZlKLppMhr.jpg",
+      "genre_ids": [
+        18,
+        80,
+        9648
+      ],
+      "vote_average": 7.4,
+      "vote_count": 861,
+      "release_date": "2020-10-25"
+    },
+    {
+      "id": 4024,
+      "media_type": "movie",
+      "title": "Минулого року в Марієнбаді",
+      "original_title": "L'Année dernière à Marienbad",
+      "overview": "Дія розгортається в французькому готелі. Молодий чоловік намагається переконати дівчину, що в минулому році вони вже зустрічалися в саду Фредеріксбург. Але дівчина не те, що не пам’ятає цю людину, вона навіть не знає, чи була ця зустріч в Фредериксбургом або Марієнбаде. Молодий чоловік описує момент їх зустрічі. Розповідає, що вона ледь не віддалася йому, але передумала в останню хвилину. Вони тоді домовилися зустрітися тут через рік, щоб перевірити, наскільки сильні їхні почуття…",
+      "poster_path": "/b9xTN6mkBkCobwkkpWGzelBzyBh.jpg",
+      "backdrop_path": "/h1ov8VcVCiZsnWRu4EjZ74R33GP.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "vote_average": 7.431,
+      "vote_count": 546,
+      "release_date": "1961-09-29"
+    },
+    {
+      "id": 54344,
+      "media_type": "tv",
+      "title": "Залишені",
+      "original_title": "The Leftovers",
+      "overview": "14 жовтня 2011 року водночас, без жодної причини, безслідно зникло 140 мільйонів людей. Незрозумілість та раптовість цієї події шокували людство. Три роки по тому світові релігії втратили свій вплив, а їхнє місце зайняли секти, серед яких вирізнялися «Залишені з провиною», а також Святий Вейн, який уявив себе месією, адже мав неймовірний дар... Сюжет розповідає історію кількох американських сімей невеличкого міста Мейплтон, де хтось піддається загальному божевіллю, інші намагаються розібратися в тому, що трапилося, а решта просто хочуть адаптуватися до нових реалій життя.",
+      "poster_path": "/9ECml4BwwFmRnCMX2Jop0NvqjYz.jpg",
+      "backdrop_path": "/rK9D7R4nzG3YGBktQY7VD5tGdtb.jpg",
+      "genre_ids": [
+        10765,
         18
       ],
-      "vote_average": 7.346,
-      "vote_count": 729,
-      "release_date": "1947-12-24"
+      "vote_average": 7.7,
+      "vote_count": 1243,
+      "release_date": "2014-06-29"
+    },
+    {
+      "id": 14139,
+      "media_type": "movie",
+      "title": "Злочин у часі",
+      "original_title": "Los cronocrímenes",
+      "overview": "Чоловік випадково потрапляє в машину часу і мандрує в минуле майже на годину назад. Потрапляння в минуле стане першою з низки катастроф з непередбачуваними наслідками.",
+      "poster_path": "/43yCOranb5QqRw3J871t7auNMAM.jpg",
+      "backdrop_path": "/anA2hEvG5SWrYETwcJ1SUPUfKDz.jpg",
+      "genre_ids": [
+        878,
+        53
+      ],
+      "vote_average": 7.02,
+      "vote_count": 1477,
+      "release_date": "2007-11-01"
+    },
+    {
+      "id": 797,
+      "media_type": "movie",
+      "title": "Персона",
+      "original_title": "Persona",
+      "overview": "Психологічна драма, в якій розкривається одна з найважливіших проблем сучасного світу, коли, незважаючи на здавалося б нормальний перебіг професійного і особистого життя, людина раптом відчуває самотність і безглуздість свого існування. Будучи знаменитою актрисою, пані Фоглер раптово замовкає прямо під час спектаклю і з тих пір перестає розмовляти зі всіма.  Перебування в лікарні показує, що психічно вона здорова. Медсестра Альма повинна вивести її з цього стану, і вони відправляються удвох до моря, де їм належить нелегкі дні спілкування.",
+      "poster_path": "/8mUBss0xVVhDu5OdCXKQhS57kHl.jpg",
+      "backdrop_path": "/amr72SENYz7AM4Hq5WBXxFBJEY6.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 8.122,
+      "vote_count": 2429,
+      "release_date": "1966-10-18"
+    },
+    {
+      "id": 69061,
+      "media_type": "tv",
+      "title": "ОА",
+      "original_title": "The OA",
+      "overview": "Сім років тому сліпа дівчинка на ім'я Прейрі зникла безвісти, і прийомні батьки вже встигли оплакати її, змирившись, що вона ніколи до них не повернеться. Але раптово вона повертається, і що найшокуючіше для опікунів - зрячої. Дівчина, що повернулася, говорить дуже дивні речі, і називає себе новим ім'ям - ОА. Головна героїня розповідає, що там, де вона пробула всі ці довгі роки, із нею постійно було кілька людей. Прейрі-ОА, що повернулася, звертається за допомогою до одного зі старшокласників місцевої школи, і просить його зібрати в одному з покинутих будинків п'ятьох людей. Ці п'ятеро, які вирішили довіритися ОА, дізнаються про неймовірну історію, але чим більше фантастичних подробиць у ній буде, тим більше вони віритимуть цій дивній дівчині, яка виявляється уродженкою Росії з трагічною долею.",
+      "poster_path": "/rueY4slMeKtTGitm0raFUJvgaa5.jpg",
+      "backdrop_path": "/hsSFJ7WyVTNU87c06KFVesntrUQ.jpg",
+      "genre_ids": [
+        10765,
+        9648,
+        18
+      ],
+      "vote_average": 7.513,
+      "vote_count": 1387,
+      "release_date": "2016-12-16"
+    },
+    {
+      "id": 58699,
+      "media_type": "movie",
+      "title": "Bellflower",
+      "original_title": "Bellflower",
+      "overview": "",
+      "poster_path": "/4bGB2k4JngWLVABKIw1S7cnlh5h.jpg",
+      "backdrop_path": "/AcLGQQjkAGCc08EIPwsyqLooCgs.jpg",
+      "genre_ids": [
+        28,
+        18,
+        10749
+      ],
+      "vote_average": 5.9,
+      "vote_count": 166,
+      "release_date": "2011-04-16"
+    },
+    {
+      "id": 38643,
+      "media_type": "movie",
+      "title": "Los Angeles Plays Itself",
+      "original_title": "Los Angeles Plays Itself",
+      "overview": "",
+      "poster_path": "/wmzGSQktsLf2JvfkhBaLSdG4G3Z.jpg",
+      "backdrop_path": "/stONLu1vcrJqgx8MTWP3mkScZUD.jpg",
+      "genre_ids": [
+        99,
+        36
+      ],
+      "vote_average": 7.6,
+      "vote_count": 63,
+      "release_date": "2004-07-28"
     }
   ]
 }

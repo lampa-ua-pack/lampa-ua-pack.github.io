@@ -3,165 +3,162 @@
   "emoji": "🎞️",
   "title": "Естетика кадру",
   "lang": "uk",
-  "updated_at": "2026-07-17T16:40:51Z",
+  "updated_at": "2026-07-17T17:13:52Z",
   "items": [
     {
-      "id": 2002,
+      "id": 8967,
       "media_type": "movie",
-      "title": "Таємна коханка",
-      "original_title": "Une vieille maîtresse",
-      "overview": "Маркіза Флер вирішує видати свою внучку, перлину знатного аристократичного роду, за дворянина Ріно де Маріньї. Той щиро закоханий у чарівне створіння, але разом з тим не пропускає ні однієї гарної спідниці.  Маркіза довідується таємницю Ріно: цей непоправний донжуан є таємним коханцем і жертвою скандальної куртизанки, дочки герцогині й тореадора...",
-      "poster_path": "/fJbNBmnTlxYPxpex2iFiV9Hx96h.jpg",
-      "backdrop_path": "/8rl2FnibCaAgn8LlkljVBayLwbU.jpg",
+      "title": "Древо життя",
+      "original_title": "The Tree of Life",
+      "overview": "Ми спостерігаємо за розвитком 11-річного Джека, одного з трьох братів. Спочатку дитині все здається дивним. Очима своєї душі він спостерігає за вчинками мами. Вона являє собою любов і милосердя в той час як батько намагається навчити сина, що в реальному світі на перше місце необхідно завжди ставити себе. Кожен з батьків намагається переманити Джека на свій бік, і він повинен примиритися з їх домаганнями. Дійсність хмурнішає, коли головному герою вперше доводиться зіткнутися з болем, стражданнями і смертю. Колись абсолютно ясний світ перетворюється на лабіринт.",
+      "poster_path": "/d7vweHegRylNlMGBls0PqMzI6RJ.jpg",
+      "backdrop_path": "/xq1HIwZq9VbuvMQELAua1nqEkH.jpg",
       "genre_ids": [
         18,
-        10749
+        14
       ],
-      "vote_average": 5.764,
-      "vote_count": 74,
-      "release_date": "2007-05-30"
+      "vote_average": 6.723,
+      "vote_count": 3356,
+      "release_date": "2011-05-17"
     },
     {
-      "id": 72852,
+      "id": 23160,
       "media_type": "movie",
-      "title": "Hadewijch",
-      "original_title": "Hadewijch",
-      "overview": "",
-      "poster_path": "/mACiJ0Gsq4BxEzNWD2xCy7eBeJZ.jpg",
-      "backdrop_path": "/htzZCK8c6DEkR1QyM0fiBTkhapx.jpg",
+      "title": "Гармонії Веркмейстера",
+      "original_title": "Werckmeister harmóniák",
+      "overview": "Провінційне містечко серед угорських рівнин. Страшенно холодно, але сніг не падає. Сотні спантеличених чоловіків зібралися біля циркового фургона, в очікуванні на опудало кита. Взаємостосунки змінюються — амбіційніші люди ладні скористатися ситуацією, в той час, як пасивні продовжують втрачати впевненість. Але неминучий апокаліпсис нікого не пощадить.",
+      "poster_path": "/vTKu9wMom1uNXpQqeB4Ba3sM0R7.jpg",
+      "backdrop_path": "/pyCUjcPHZrMY125lWpWAxEexe7C.jpg",
       "genre_ids": [
         18
       ],
-      "vote_average": 6.4,
-      "vote_count": 66,
-      "release_date": "2009-11-25"
+      "vote_average": 7.832,
+      "vote_count": 384,
+      "release_date": "2001-02-01"
     },
     {
-      "id": 31414,
+      "id": 414453,
       "media_type": "movie",
-      "title": "Сатантанго",
-      "original_title": "Sátántangó",
+      "title": "Columbus",
+      "original_title": "Columbus",
       "overview": "",
-      "poster_path": "/hySy5g6xncM3U1iRsdPgYyahXM0.jpg",
-      "backdrop_path": "/5a4Gmk2HNeefI4Rmwdmbyoy79oy.jpg",
+      "poster_path": "/3ZE5Wl3CdfUH4BkWRmyMKPHkWHx.jpg",
+      "backdrop_path": "/xN88RKXxjPAcQsdBz6XavZ00PFh.jpg",
       "genre_ids": [
         18
       ],
-      "vote_average": 8.0,
-      "vote_count": 310,
-      "release_date": "1994-02-08"
+      "vote_average": 7.09,
+      "vote_count": 481,
+      "release_date": "2017-08-04"
     },
     {
-      "id": 47244,
+      "id": 43423,
       "media_type": "movie",
-      "title": "La Captive",
-      "original_title": "La Captive",
+      "title": "باد ما را خواهد برد",
+      "original_title": "باد ما را خواهد برد",
       "overview": "",
-      "poster_path": "/lHG211uvSaCsMCvLTAd51pesfiy.jpg",
-      "backdrop_path": "/A73L43TlR4ISUn4B9b6EGcoEcpm.jpg",
+      "poster_path": "/fBFquwGxQIXtfj8KyC8IXUAVKDd.jpg",
+      "backdrop_path": "/b9UPNXGV7mEUmLejR8caJIJijow.jpg",
       "genre_ids": [
+        18
+      ],
+      "vote_average": 7.107,
+      "vote_count": 197,
+      "release_date": "1999-09-12"
+    },
+    {
+      "id": 664413,
+      "media_type": "movie",
+      "title": "365 днів",
+      "original_title": "365 dni",
+      "overview": "Жінка стає жертвою владного мафіозі, який бере її в полон і дає рік, щоб покохати його.",
+      "poster_path": "/yXXrRrIZaqUlriQz7PaMQOUj6qG.jpg",
+      "backdrop_path": "/29mZ5bR5m2w3xuvwJH7BHMFQQwH.jpg",
+      "genre_ids": [
+        10749,
         18,
-        10749
+        80
       ],
-      "vote_average": 5.713,
-      "vote_count": 68,
-      "release_date": "2000-09-27"
+      "vote_average": 6.992,
+      "vote_count": 9549,
+      "release_date": "2020-02-07"
     },
     {
-      "id": 81857,
+      "id": 377151,
       "media_type": "movie",
-      "title": "АЛЬПИ",
-      "original_title": "Άλπεις",
-      "overview": "Група ентузіастів, що називає себе \"АЛЬПИ\", наймає себе в якості замінників нещодавно померлих людей. Вони з'являються в будинку померлого, переодягаються в одяг зниклої людини і переймають характерні звички та розмови, поки сім'я не звикне до думки про смерть. Незважаючи на суворий кодекс поведінки, одна з чотирьох поступово починає стосунки з клієнтом, ризикуючи всім.",
-      "poster_path": "/m3KmoBIzMOBryZycAKWwgm5Mtsp.jpg",
-      "backdrop_path": "/tXkqc1qUPtQAmqmvxFvS23O1z1o.jpg",
+      "title": "Море у вогні",
+      "original_title": "Fuocoammare",
+      "overview": "Фільм про життя італійського острова Лампедуза, який став перевалочним пунктом для біженців з країн Північної Африки.",
+      "poster_path": "/sLOnVJsJnFQ67nofe3hrSfi65Wx.jpg",
+      "backdrop_path": "/chEF9JE4fsS6sfgHjcqlXD2nGJ8.jpg",
+      "genre_ids": [
+        99
+      ],
+      "vote_average": 6.6,
+      "vote_count": 248,
+      "release_date": "2016-02-18"
+    },
+    {
+      "id": 128216,
+      "media_type": "movie",
+      "title": "Історії, які ми розповідаємо",
+      "original_title": "Stories We Tell",
+      "overview": "Режисер Сара Поллі бере інтерв'ю у членів її сім'ї про події, які траплялися раніше.",
+      "poster_path": "/aVDtDW3qP0je1Cy87GDfijG9W4c.jpg",
+      "backdrop_path": "/fm0DYaSpo86VPxw2BU93w237WIl.jpg",
+      "genre_ids": [
+        99
+      ],
+      "vote_average": 7.115,
+      "vote_count": 230,
+      "release_date": "2012-10-12"
+    },
+    {
+      "id": 81401,
+      "media_type": "movie",
+      "title": "Туринський кінь",
+      "original_title": "A torinói ló",
+      "overview": "У 1889 році на вулиці італійського міста Турин сталося дивна пригода. Кучер шмагав батогом свою стару коняку, яка відмовлялася рушити з місця. Несподівано до воза підбіг добре одягнений пан з пишними вусами і обняв тварину за шию, при цьому гірко заридав. Це був не хто інший, як всесвітньо відомий філософ Фрідріх Ніцше. Його насилу відвели від коня, а коли привели додому, з'ясувалося, що він не в собі. Ніцше помістили в лікарню для душевнохворих, де він провів решту життя... Але що ж сталося з конем і його господарем? Про це і розповість фільм.",
+      "poster_path": "/k5Nj2GcU8RwU53GhMZjyxQyemGF.jpg",
+      "backdrop_path": "/eMgNa5dbU34qyF0KA9DMA4TrEzn.jpg",
       "genre_ids": [
         18
       ],
-      "vote_average": 6.215,
-      "vote_count": 349,
-      "release_date": "2011-09-01"
+      "vote_average": 7.566,
+      "vote_count": 422,
+      "release_date": "2011-03-31"
     },
     {
-      "id": 26302,
+      "id": 339877,
       "media_type": "movie",
-      "title": "Колір граната",
-      "original_title": "Նռան գույնը",
-      "overview": "Фільм розбитий на кілька новел, і в кожній з того чи іншого боку показані життя та ставлення до нього відомого середньовічного вірменського поета Саят-Нови. Глядач побачить історію кохання героя й подивиться через призму його сприйняття на релігійні та соціальні проблеми того часу.",
-      "poster_path": "/hNLI2g9jWkv2GKbbnTknOkCvZvm.jpg",
-      "backdrop_path": "/xd4P9EIV3T2Keh3aGnuEVWt5lh4.jpg",
+      "title": "З любов'ю, Вінсент",
+      "original_title": "Loving Vincent",
+      "overview": "Стрічка є кінематографічною розповіддю про життя і загадкову смерть нідерландського художника Вінсента ван Гога, переданою за допомогою картин, намальованих у техніці самого художника.",
+      "poster_path": "/zplCeWYcvYskVMBg5BfwcPpZEKA.jpg",
+      "backdrop_path": "/KKrsUGDXZfpeL3ddXTeGibmUHS.jpg",
       "genre_ids": [
+        16,
         18,
         36
       ],
-      "vote_average": 7.4,
-      "vote_count": 338,
-      "release_date": "1969-10-01"
+      "vote_average": 7.985,
+      "vote_count": 2618,
+      "release_date": "2017-06-22"
     },
     {
-      "id": 458737,
+      "id": 438634,
       "media_type": "movie",
-      "title": "Перша реформатська церква",
-      "original_title": "First Reformed",
-      "overview": "Армійський священик Толлер, що оплакує загибель сина-солдата, шукає розради під склепіннями церкви. Тут він знайомиться з молодою прихожанкою Мері, дружиною завзятого захисника природи. Коли еколог-активіст кінчає життя самогубством, Толлер і нещасна вдова відкривають правду про корупційний змову, в якому замішані найповажніші особи, включаючи священнослужителів.",
-      "poster_path": "/8Sg3yODCDN3PnaGBBayXblL4Ag2.jpg",
-      "backdrop_path": "/mLwIDLa1FMkbKLteZRTatyvWLHX.jpg",
+      "title": "Estiu 1993",
+      "original_title": "Estiu 1993",
+      "overview": "",
+      "poster_path": "/xvAMrzuvHUeou0eIQlLuJ2hcIrg.jpg",
+      "backdrop_path": "/dH86aTG4xBe7lzyky4NGktehOKa.jpg",
       "genre_ids": [
         18
       ],
-      "vote_average": 6.967,
-      "vote_count": 1468,
-      "release_date": "2018-05-18"
-    },
-    {
-      "id": 511819,
-      "media_type": "movie",
-      "title": "Пам’ять",
-      "original_title": "Memoria",
-      "overview": "Жінка з Шотландії навідує свою хвору сестру в Боготі. Знаходячись там, вона знайомиться з археологом і молодим музикантом. Ночами жінка починає чути дивні звуки й намагається з’ясувати їхнє походження.",
-      "poster_path": "/7lQF2CZSmzSpCFzdzpDQWhDmPNh.jpg",
-      "backdrop_path": "/nvTD2DO96mEwOga34lQZgBKpdEQ.jpg",
-      "genre_ids": [
-        18,
-        878,
-        9648
-      ],
-      "vote_average": 6.002,
-      "vote_count": 278,
-      "release_date": "2021-09-30"
-    },
-    {
-      "id": 428449,
-      "media_type": "movie",
-      "title": "Історія примари",
-      "original_title": "A Ghost Story",
-      "overview": "Історія про передчасно померлого чоловіка, який не пішов у світ інших, а залишився прив'язаний до свого колишнього дому до кінця віків.",
-      "poster_path": "/ighJTHM0Z2SxJee9cVzYHY2bbRP.jpg",
-      "backdrop_path": "/2y2aqaScd7jsUee0ddI1iRNgwGq.jpg",
-      "genre_ids": [
-        18,
-        14,
-        10749
-      ],
-      "vote_average": 7.063,
-      "vote_count": 2517,
-      "release_date": "2017-04-24"
-    },
-    {
-      "id": 843,
-      "media_type": "movie",
-      "title": "Любовний настрій",
-      "original_title": "花樣年華",
-      "overview": "Гонконг, 1962 рік. Дві подружні пари, пан Чоу з дружиною і пані Су з чоловіком, одночасно поселяються в сусідніх квартирах. Поки їхні половинки пропадають на роботі чи в закордонних відрядженнях, Чоу і Су проводять багато часу на самоті і спілкуються одне з одним як звичайні сусіди. Все змінюється, коли вони дізнаються, що їхні партнери — коханці.",
-      "poster_path": "/r2fYVKSlK3DKtdMbVxvIHHTfS2L.jpg",
-      "backdrop_path": "/ffQFnAUm2Uu4RU0nijpjPRf9TBT.jpg",
-      "genre_ids": [
-        18,
-        10749
-      ],
-      "vote_average": 8.087,
-      "vote_count": 3296,
-      "release_date": "2000-09-29"
+      "vote_average": 7.044,
+      "vote_count": 226,
+      "release_date": "2017-03-24"
     }
   ]
 }
