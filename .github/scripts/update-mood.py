@@ -218,12 +218,13 @@ def ai_suggest_batch(batch: list) -> dict:
         return {s: [] for s in slugs}
 
     system_prompt = (
-        "Film/TV curator with broad, non-mainstream taste. "
+        "Film/TV curator with broad taste. "
         "Return ONLY a JSON object (no prose, no fences): keys = the exact theme ids in "
         'brackets, each value = array of {"title","year"(int),"media_type":"movie"|"tv"}. '
         "Match the MOOD, not shared genre tags; drop famous titles whose real mood is wrong. "
-        "Fresh picks: avoid obvious first-listers and anything in a theme's AVOID list. "
-        "Per list: <=1 per franchise; ~half loved anchors + half lesser-known gems; "
+        "Fresh: vary picks run to run and never repeat a theme's AVOID list. "
+        "Tune recognizability to the theme — crowd-pleasing favourites for fun/comfort/laugh "
+        "moods, deeper cuts for cinephile moods; <=1 per franchise; "
         "mix eras incl. recent (unless the theme restricts era); vary countries/languages; "
         "add TV where episodic fits; order by strongest mood-fit first."
     )

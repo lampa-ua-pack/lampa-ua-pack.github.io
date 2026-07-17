@@ -188,8 +188,10 @@ THEMES = [
         "title_uk": "Сміхота",
         "title_ru": "Умора",
         "prompt": (
-            "Laugh-out-loud comedy — gags, satire, absurdist and deadpan humor; comedy is the "
-            "whole point. EXCLUDE dramas with just a few funny moments."
+            "Broadly funny, laugh-out-loud crowd-pleasers people quote and rewatch for the "
+            "laughs — mainstream and cult comedies, spoofs, slapstick, feel-good farces. "
+            "EXCLUDE dry arthouse comedy, bleak/political satire, and comedy-dramas that aren't "
+            "actually funny (no Fleabag / The Lobster / The Death of Stalin)."
         ),
         "genre_whitelist": {35},
         "discover_movie": [35],
