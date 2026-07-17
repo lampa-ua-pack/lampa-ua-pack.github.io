@@ -4,7 +4,7 @@
 
 Кожна тема містить:
   slug            — стабільний англ. ідентифікатор (ім'я файлів mood/{slug}.{uk,ru}.json)
-  emoji           — іконка настрою (для маніфесту / майбутнього плагіна)
+  icon            — SVG-іконка настрою (viewBox 0 0 512 512, fill/stroke=currentColor)
   title_uk/ru     — назва теми
   prompt          — опис теми для ІІ (англійською)
   genre_whitelist — множина TMDB genre_id (movie + tv), для фільтра «жанр б'ється з темою»
@@ -27,7 +27,7 @@
 THEMES = [
     {
         "slug": "no-think",
-        "emoji": "🍿",
+        "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M168 96h64c17.7 0 32 14.3 32 32v256c0 17.7-14.3 32-32 32h-64c-17.7 0-32-14.3-32-32V128c0-17.7 14.3-32 32-32zm112 0h64c17.7 0 32 14.3 32 32v256c0 17.7-14.3 32-32 32h-64c-17.7 0-32-14.3-32-32V128c0-17.7 14.3-32 32-32z"/></svg>',
         "title_uk": "Мозок на паузі",
         "title_ru": "Мозг на паузе",
         "prompt": (
@@ -40,7 +40,7 @@ THEMES = [
     },
     {
         "slug": "blow-mind",
-        "emoji": "🌀",
+        "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><polygon fill="currentColor" points="256,40 305,207 472,256 305,305 256,472 207,305 40,256 207,207"/></svg>',
         "title_uk": "Зламаєш голову",
         "title_ru": "Голову сломаешь",
         "prompt": (
@@ -53,7 +53,7 @@ THEMES = [
     },
     {
         "slug": "cry",
-        "emoji": "😢",
+        "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M256 64C190 180 128 250 128 320a128 128 0 1 0 256 0C384 250 322 180 256 64z"/></svg>',
         "title_uk": "До сліз",
         "title_ru": "В слёзы",
         "prompt": (
@@ -66,7 +66,7 @@ THEMES = [
     },
     {
         "slug": "cozy-rain",
-        "emoji": "☕",
+        "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect x="104" y="176" width="216" height="208" rx="28" fill="currentColor"/><path fill="none" stroke="currentColor" stroke-width="28" d="M320 224h28a52 52 0 0 1 0 104h-28"/><path fill="none" stroke="currentColor" stroke-width="20" stroke-linecap="round" d="M168 92c-18 22 18 40 0 60M248 92c-18 22 18 40 0 60"/></svg>',
         "title_uk": "Плед і какао",
         "title_ru": "Плед и какао",
         "prompt": (
@@ -79,9 +79,9 @@ THEMES = [
     },
     {
         "slug": "adrenaline",
-        "emoji": "💥",
-        "title_uk": "Повний газ",
-        "title_ru": "Полный газ",
+        "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><polygon fill="currentColor" points="300,32 116,296 236,296 212,480 396,216 276,216"/></svg>',
+        "title_uk": "Адреналін",
+        "title_ru": "Адреналин",
         "prompt": (
             "Relentless action and tension — chases, heists, survival, ticking-clock "
             "thrillers. EXCLUDE slow burns and talky dramas."
@@ -92,7 +92,7 @@ THEMES = [
     },
     {
         "slug": "mood-up",
-        "emoji": "✨",
+        "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><circle cx="256" cy="256" r="104" fill="currentColor"/><path fill="none" stroke="currentColor" stroke-width="32" stroke-linecap="round" d="M256 40v48M256 424v48M40 256h48M424 256h48M107 107l34 34M371 371l34 34M405 107l-34 34M141 371l-34 34"/></svg>',
         "title_uk": "Заряд позитиву",
         "title_ru": "Заряд позитива",
         "prompt": (
@@ -105,7 +105,7 @@ THEMES = [
     },
     {
         "slug": "dark",
-        "emoji": "🌑",
+        "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M352 96a176 176 0 1 0 96 288A208 208 0 0 1 352 96z"/></svg>',
         "title_uk": "Нуар і тіні",
         "title_ru": "Нуар и тени",
         "prompt": (
@@ -118,7 +118,7 @@ THEMES = [
     },
     {
         "slug": "date-night",
-        "emoji": "❤️",
+        "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M256 464C120 360 48 288 48 200c0-60 48-104 104-104 40 0 76 24 104 64 28-40 64-64 104-64 56 0 104 44 104 104 0 88-72 160-208 264z"/></svg>',
         "title_uk": "Для двох",
         "title_ru": "Для двоих",
         "prompt": (
@@ -131,7 +131,7 @@ THEMES = [
     },
     {
         "slug": "nostalgia",
-        "emoji": "📼",
+        "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect x="56" y="120" width="400" height="272" rx="28" fill="none" stroke="currentColor" stroke-width="28"/><circle cx="192" cy="248" r="40" fill="currentColor"/><circle cx="320" cy="248" r="40" fill="currentColor"/><path stroke="currentColor" stroke-width="24" stroke-linecap="round" d="M168 340h176"/></svg>',
         "title_uk": "Ретро",
         "title_ru": "Ретро",
         "prompt": (
@@ -145,7 +145,7 @@ THEMES = [
     },
     {
         "slug": "background",
-        "emoji": "🎧",
+        "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke="currentColor" stroke-width="32" d="M104 288v-24a152 152 0 0 1 304 0v24"/><rect x="80" y="280" width="72" height="128" rx="28" fill="currentColor"/><rect x="360" y="280" width="72" height="128" rx="28" fill="currentColor"/></svg>',
         "title_uk": "Під справи",
         "title_ru": "Под дела",
         "prompt": (
@@ -158,7 +158,7 @@ THEMES = [
     },
     {
         "slug": "thrill-nerves",
-        "emoji": "👻",
+        "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke="currentColor" stroke-width="28" stroke-linejoin="round" d="M112 248a144 144 0 0 1 288 0v192l-40-32-40 32-48-36-48 36-40-32-24 20z"/><circle cx="204" cy="236" r="22" fill="currentColor"/><circle cx="308" cy="236" r="22" fill="currentColor"/></svg>',
         "title_uk": "Мурахи по шкірі",
         "title_ru": "Мурашки по коже",
         "prompt": (
@@ -171,7 +171,7 @@ THEMES = [
     },
     {
         "slug": "epic",
-        "emoji": "🏔️",
+        "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><polygon fill="currentColor" points="16,436 176,140 288,340 344,248 496,436"/></svg>',
         "title_uk": "Великий екран",
         "title_ru": "Большой экран",
         "prompt": (
@@ -184,7 +184,7 @@ THEMES = [
     },
     {
         "slug": "laugh",
-        "emoji": "😂",
+        "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M256,0C114.833,0,0,114.833,0,256s114.833,256,256,256s256-114.833,256-256S397.167,0,256,0z M256,472.341c-119.275,0-216.341-97.066-216.341-216.341S136.725,39.659,256,39.659c119.295,0,216.341,97.066,216.341,216.341S375.275,472.341,256,472.341z"/><circle cx="176" cy="200" r="28" fill="currentColor"/><circle cx="336" cy="200" r="28" fill="currentColor"/><path fill="none" stroke="currentColor" stroke-width="28" stroke-linecap="round" d="M160 300a112 112 0 0 0 192 0"/></svg>',
         "title_uk": "Сміхота",
         "title_ru": "Умора",
         "prompt": (
@@ -199,7 +199,7 @@ THEMES = [
     },
     {
         "slug": "slow-beauty",
-        "emoji": "🎞️",
+        "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect x="88" y="96" width="336" height="320" rx="16" fill="none" stroke="currentColor" stroke-width="26"/><g fill="currentColor"><rect x="120" y="128" width="36" height="36" rx="6"/><rect x="120" y="238" width="36" height="36" rx="6"/><rect x="120" y="348" width="36" height="36" rx="6"/><rect x="356" y="128" width="36" height="36" rx="6"/><rect x="356" y="238" width="36" height="36" rx="6"/><rect x="356" y="348" width="36" height="36" rx="6"/></g></svg>',
         "title_uk": "Естетика кадру",
         "title_ru": "Эстетика кадра",
         "prompt": (

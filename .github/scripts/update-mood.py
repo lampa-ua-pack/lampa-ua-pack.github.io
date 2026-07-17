@@ -30,7 +30,7 @@ ENV:
   DISCOVER_PAGES    — (опц.) сторінок /discover на кожен тип (дефолт 2)
   MAX_THEME_REUSE   — (опц.) у скількох темах може зустрічатись один тайтл (дефолт 2)
   TARGET_COUNT      — (опц.) фінальних тайтлів на тему (дефолт 10)
-  AI_REQUEST_COUNT  — (опц.) скільки назв просити в ІІ (дефолт 15)
+  AI_REQUEST_COUNT  — (опц.) скільки назв просити в ІІ (дефолт 18)
   OPENCODE_TEMPERATURE — (опц.) температура ІІ; вище = різноманітніше (дефолт 0.9)
   OPENCODE_SEED     — (опц.) seed ІІ; порожньо = без seed, свіжа вибірка щоразу
 """
@@ -225,7 +225,7 @@ def ai_suggest_batch(batch: list) -> dict:
         'brackets, each value = array of {"title","year"(int),"media_type":"movie"|"tv"}. '
         "Match the MOOD, not shared genre tags; drop famous titles whose real mood is wrong. "
         "EXCLUDE anything produced in the USSR or in Russia and other post-Soviet CIS countries "
-        "(Russia, Belarus, Kazakhstan, etc.). "
+        "(Russia, Belarus, Kazakhstan, etc.). EXCLUDE Japanese anime (animated films/series). "
         "Fresh: vary picks run to run and never repeat a theme's AVOID list. "
         "Tune recognizability to the theme — crowd-pleasing favourites for fun/comfort/laugh "
         "moods, deeper cuts for cinephile moods; <=1 per franchise; "
@@ -477,6 +477,7 @@ def hydrate_and_validate(key):
     """
     Гідрує тайтл мовами uk та ru і валідує:
       - країна виробництва НЕ в блок-листі (СРСР/РФ/СНД);
+      - НЕ японське аніме (жанр Animation + оригінал ja / країна JP);
       - є переклад на ОБИДВІ мови (непорожній overview і uk, і ru).
     Повертає (key, uk_item, ru_item) або None, якщо тайтл не проходить.
     """
@@ -486,7 +487,12 @@ def hydrate_and_validate(key):
     if not uk or not ru:
         return None
     countries = {c.get("iso_3166_1") for c in uk.get("production_countries", [])}
+    countries |= set(uk.get("origin_country") or [])   # для ТВ
     if countries & BLOCK_COUNTRIES:
+        return None
+    # японське аніме: анімація + японське походження
+    genre_ids = {g.get("id") for g in uk.get("genres", [])}
+    if 16 in genre_ids and (uk.get("original_language") == "ja" or "JP" in countries):
         return None
     if not (uk.get("overview", "").strip() and ru.get("overview", "").strip()):
         return None
@@ -567,21 +573,24 @@ def read_prev_keys(slug: str) -> list:
             if it.get("id") is not None]
 
 
-def read_prev_titles(slug: str, limit: int = 8) -> list:
-    """Оригінальні назви з попереднього прогону — щоб просити в ІІ уникати повторів."""
+def read_prev_titles(slug: str) -> list:
+    """
+    Оригінальні назви з попередньої версії файлу теми (усі, не лише частина) — щоб просити ІІ
+    не повторювати саме те, що вже показано зараз у майстері. Історію НЕ накопичуємо.
+    """
     out = []
     for it in _read_prev_items(slug):
         name = it.get("original_title") or it.get("title")
         if name:
             out.append(name)
-    return out[:limit]
+    return out
 
 
 def write_theme_file(theme: dict, lang_short: str, items: list):
     path = MOOD_DIR / f"{theme['slug']}.{lang_short}.json"
     payload = {
         "slug": theme["slug"],
-        "emoji": theme.get("emoji", ""),
+        "icon": theme.get("icon", ""),
         "title": theme["title_uk"] if lang_short == "uk" else theme["title_ru"],
         "lang": lang_short,
         "updated_at": now_iso(),
