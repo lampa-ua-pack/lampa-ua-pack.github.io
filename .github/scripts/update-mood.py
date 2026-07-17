@@ -26,6 +26,8 @@ ENV:
   AI_WORKERS        — (опц.) скільки батч-запитів до ІІ одночасно (дефолт 2)
   AI_BATCH_SIZE     — (опц.) скільки тем в одному запиті до ІІ (дефолт 2; 14 = один запит)
   OPENCODE_RETRIES  — (опц.) додаткові спроби ІІ-запиту на таймаут/помилку (дефолт 2)
+  DISCOVER_PAGES    — (опц.) сторінок /discover на кожен тип (дефолт 2)
+  MAX_THEME_REUSE   — (опц.) у скількох темах може зустрічатись один тайтл (дефолт 2)
 """
 
 import os
@@ -34,6 +36,7 @@ import json
 import math
 import time
 import unicodedata
+from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 from pathlib import Path
@@ -67,10 +70,13 @@ AI_BATCH_SIZE = int(os.environ.get("AI_BATCH_SIZE", "2"))  # скільки те
 
 TARGET_COUNT = 10            # тайтлів на тему
 AI_REQUEST_COUNT = 15        # скільки назв просимо в ІІ (решту до TARGET добере discover-пул)
+DISCOVER_PAGES = int(os.environ.get("DISCOVER_PAGES", "2"))  # сторінок /discover на кожен тип
 VOTE_COUNT_MIN = 150         # поріг популярності (відсікає мотлох/неіснуюче)
 OBVIOUS_VOTE_COUNT = 15000   # «занадто очевидні» блокбастери
-OBVIOUS_MAX = 4              # не більше стількох «очевидних» на тему
+OBVIOUS_MAX = 4              # скільки «очевидних» брати ПЕРШИМИ (решта — у хвіст, не викидаються)
 MAX_CHANGE = 3               # скільки позицій дозволено міняти за ран (стабільність)
+MAX_THEME_REUSE = int(os.environ.get("MAX_THEME_REUSE", "2"))  # у скількох темах може бути один тайтл
+                                                               # (жанри мудів реально перетинаються)
 
 MOOD_ONLY = [s.strip() for s in os.environ.get("MOOD_ONLY", "").split(",") if s.strip()]
 
@@ -335,30 +341,34 @@ def to_candidate(res: dict, media_type: str) -> dict:
 
 
 def tmdb_discover(theme: dict) -> list:
-    """Fallback/додатковий пул кандидатів через /discover для movie і tv (два запити паралельно)."""
+    """
+    Додатковий пул кандидатів через /discover для movie і tv, кілька сторінок (DISCOVER_PAGES).
+    Кілька сторінок дають не лише топ-блокбастери, а й середняків — потрібно, щоб набрати
+    TARGET навіть у вузьких/перетинних темах.
+    """
     common = {
         "sort_by": "vote_count.desc",
         "vote_count.gte": VOTE_COUNT_MIN,
         "include_adult": "false",
         "language": "en-US",
-        "page": 1,
     }
     max_year = theme.get("max_year")
     reqs = []
 
-    if theme.get("discover_movie"):
-        params = dict(common)
-        params["with_genres"] = "|".join(str(g) for g in theme["discover_movie"])
+    def add_reqs(path, genres, mt, year_key):
+        base = dict(common)
+        base["with_genres"] = "|".join(str(g) for g in genres)
         if max_year:
-            params["primary_release_date.lte"] = f"{max_year}-12-31"
-        reqs.append(("discover/movie", params, "movie"))
+            base[year_key] = f"{max_year}-12-31"
+        for page in range(1, DISCOVER_PAGES + 1):
+            params = dict(base)
+            params["page"] = page
+            reqs.append((path, params, mt))
 
+    if theme.get("discover_movie"):
+        add_reqs("discover/movie", theme["discover_movie"], "movie", "primary_release_date.lte")
     if theme.get("discover_tv"):
-        params = dict(common)
-        params["with_genres"] = "|".join(str(g) for g in theme["discover_tv"])
-        if max_year:
-            params["first_air_date.lte"] = f"{max_year}-12-31"
-        reqs.append(("discover/tv", params, "tv"))
+        add_reqs("discover/tv", theme["discover_tv"], "tv", "first_air_date.lte")
 
     def run(req):
         path, params, mt = req
@@ -418,16 +428,23 @@ def rank_key(cand: dict) -> float:
     return va * math.log10(vc + 10)
 
 
-def cap_obvious(ranked: list) -> list:
-    """Обмежує частку ультра-популярних блокбастерів заради різноманіття."""
-    result, obvious = [], 0
+def prioritize_obvious(ranked: list) -> list:
+    """
+    Soft-cap заради різноманіття: перші OBVIOUS_MAX ультра-популярних лишаються попереду,
+    решту «очевидних» НЕ викидаємо, а зсуваємо в хвіст. Так не-очевидні у пріоритеті,
+    але список все одно набирає TARGET, якщо середняків бракує.
+    """
+    head, tail, obvious = [], [], 0
     for c in ranked:
         if (c.get("vote_count") or 0) >= OBVIOUS_VOTE_COUNT:
-            if obvious >= OBVIOUS_MAX:
-                continue
-            obvious += 1
-        result.append(c)
-    return result
+            if obvious < OBVIOUS_MAX:
+                head.append(c)
+                obvious += 1
+            else:
+                tail.append(c)
+        else:
+            head.append(c)
+    return head + tail
 
 
 def stabilize(prev_keys: list, new_ranked_keys: list, target: int, max_change: int) -> list:
@@ -466,6 +483,7 @@ def write_theme_file(theme: dict, lang_short: str, items: list):
     path = MOOD_DIR / f"{theme['slug']}.{lang_short}.json"
     payload = {
         "slug": theme["slug"],
+        "emoji": theme.get("emoji", ""),
         "title": theme["title_uk"] if lang_short == "uk" else theme["title_ru"],
         "lang": lang_short,
         "updated_at": now_iso(),
@@ -528,10 +546,10 @@ def hydrate(final_keys: list):
     return uk_items, ru_items
 
 
-def process_theme(theme: dict, suggestions: list, global_used: set) -> dict:
+def process_theme(theme: dict, suggestions: list, global_used) -> dict:
     """
     Повертає dict для index.json. Кидає виняток → викликаюча сторона позначить stale.
-    global_used — множина (media_type, id), вже зайнятих іншими темами (дедуп між темами).
+    global_used — Counter (media_type, id) -> у скількох темах уже використано (м'який дедуп).
     """
     slug = theme["slug"]
     print(f"\n=== {slug} ({theme['title_ru']}) ===")
@@ -539,12 +557,12 @@ def process_theme(theme: dict, suggestions: list, global_used: set) -> dict:
     candidates = collect_candidates(theme, suggestions)
     print(f"  candidates: {len(candidates)}")
 
-    # фільтри + дедуп між темами
+    # фільтри + м'який дедуп між темами (тайтл дозволено у MAX_THEME_REUSE темах)
     filtered = [c for k, c in candidates.items()
-                if passes_filters(c, theme) and k not in global_used]
+                if passes_filters(c, theme) and global_used[k] < MAX_THEME_REUSE]
 
-    # ранжування + ліміт очевидного
-    ranked = cap_obvious(sorted(filtered, key=rank_key, reverse=True))
+    # ранжування + soft-cap очевидних (не викидаємо, зсуваємо в хвіст)
+    ranked = prioritize_obvious(sorted(filtered, key=rank_key, reverse=True))
     ranked_keys = [(c["media_type"], c["id"]) for c in ranked]
     print(f"  after filters: {len(ranked_keys)}")
 
@@ -554,6 +572,8 @@ def process_theme(theme: dict, suggestions: list, global_used: set) -> dict:
     # стабілізація
     prev_keys = read_prev_keys(slug)
     final_keys = stabilize(prev_keys, ranked_keys, TARGET_COUNT, MAX_CHANGE)
+    if len(final_keys) < TARGET_COUNT:
+        print(f"  [note] only {len(final_keys)}/{TARGET_COUNT} candidates available for '{slug}'")
 
     # гідрація uk + ru
     uk_items, ru_items = hydrate(final_keys)
@@ -561,7 +581,7 @@ def process_theme(theme: dict, suggestions: list, global_used: set) -> dict:
         raise RuntimeError(f"hydration produced no items for '{slug}'")
 
     for (mt, tid) in final_keys:
-        global_used.add((mt, tid))
+        global_used[(mt, tid)] += 1
 
     write_theme_file(theme, "uk", uk_items)
     write_theme_file(theme, "ru", ru_items)
@@ -602,20 +622,20 @@ def main():
     themes = THEMES
     if MOOD_ONLY:
         themes = [t for t in THEMES if t["slug"] in MOOD_ONLY]
-        print(f"MOOD_ONLY active → {[t['slug'] for t in themes]}")
+        print(f"MOOD_ONLY active -> {[t['slug'] for t in themes]}")
 
     # A. ІІ-пропозиції для всіх тем: батчами, паралельно, з ретраями на таймаут
     suggestions_by_slug = suggestions_for_all(themes)
 
-    # B. теми послідовно — заради детермінованого дедупу між темами
-    global_used = set()
+    # B. теми послідовно — заради детермінованого м'якого дедупу між темами
+    global_used = Counter()
     index_themes = []
     for theme in themes:
         try:
             index_themes.append(
                 process_theme(theme, suggestions_by_slug.get(theme["slug"], []), global_used))
         except Exception as e:
-            print(f"❌ theme '{theme['slug']}' failed: {e} — keeping previous file, marking stale")
+            print(f"[fail] theme '{theme['slug']}': {e} - keeping previous file, marking stale")
             index_themes.append(stale_entry(theme))
 
     index = {"updated_at": now_iso(), "themes": index_themes}
@@ -623,7 +643,7 @@ def main():
         json.dump(index, f, ensure_ascii=False, indent=2)
 
     ok = sum(1 for t in index_themes if not t["stale"])
-    print(f"\n✅ Done. {ok}/{len(index_themes)} themes regenerated.")
+    print(f"\n[ok] Done. {ok}/{len(index_themes)} themes regenerated.")
 
 
 if __name__ == "__main__":
