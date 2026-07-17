@@ -1,0 +1,173 @@
+{
+  "slug": "dark",
+  "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><ellipse cx=\"256\" cy=\"342\" rx=\"216\" ry=\"46\" fill=\"currentColor\"/><path fill=\"currentColor\" d=\"M160 342C146 224 172 132 202 132c18 0 26 24 54 24s36-24 54-24c30 0 56 92 42 210z\"/></svg>",
+  "title": "Нуар і тіні",
+  "lang": "uk",
+  "updated_at": "2026-07-17T22:55:32Z",
+  "items": [
+    {
+      "id": 188166,
+      "media_type": "movie",
+      "title": "Уламки минулого",
+      "original_title": "Blue Ruin",
+      "overview": "Спокійне життя таємничого відлюдника перевертається з ніг на голову, коли він повертається туди, де провів дитинство, бажаючи помститися. Він вплутується в жорстоку боротьбу, щоб захистити свою сім'ю ...",
+      "poster_path": "/q0itEsso2drJXqH9kfdidxIT5dF.jpg",
+      "backdrop_path": "/epIcUGDXIZVs1jNNFI5lWgWNUIM.jpg",
+      "genre_ids": [
+        80,
+        53
+      ],
+      "vote_average": 6.79,
+      "vote_count": 1643,
+      "release_date": "2014-04-25"
+    },
+    {
+      "id": 340666,
+      "media_type": "movie",
+      "title": "Нічні звірі",
+      "original_title": "Nocturnal Animals",
+      "overview": "У Сьюзен розкішне життя в Лос-Анджелесі, прекрасний чоловік і власна галерея. Але одного разу вона отримує несподівану посилку від колишнього чоловіка - він хотів би зустрітися, але спочатку просить прочитати його новий роман. Сьюзен не підозрює, що як тільки вона відкриє рукопис, вона повернеться в минуле, яке вважала надійно укритим під покровом ночі.",
+      "poster_path": "/cOmjwccRnl3JFyVcZauLrcBNSvV.jpg",
+      "backdrop_path": "/5d6m8CIBQcHeiwr6R5ou4wxO9Vn.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "vote_average": 7.41,
+      "vote_count": 8332,
+      "release_date": "2016-11-04"
+    },
+    {
+      "id": 34415,
+      "media_type": "tv",
+      "title": "Вбивство",
+      "original_title": "The Killing",
+      "overview": "Події відбуваються в Сіетлі, штат Вашингтон. Головною сюжетною лінією є розслідування вбивства місцевої дівчини-підлітка Роузі Ларсен. У кожній серії глядач стає свідком приблизно 24 годин подій у серіалі. Перший сезон показує два тижні розслідування та зосереджує увагу глядача на трьох сюжетних лініях: розслідування поліцією вбивства Роузі Ларсен, спроби родини дівчини знову зажити нормальним життям та яскраві зміни у перебігу політичної кампанії, що тісно переплітається зі справою про вбивство.",
+      "poster_path": "/3yiwAUNGn1rsPSVmFgVwPVJFtYf.jpg",
+      "backdrop_path": "/LjXBJaNaBGgAsNHDYfFTwGOUWb.jpg",
+      "genre_ids": [
+        18,
+        80,
+        9648
+      ],
+      "vote_average": 7.831,
+      "vote_count": 884,
+      "release_date": "2011-04-03"
+    },
+    {
+      "id": 115004,
+      "media_type": "tv",
+      "title": "Мейр з Істтауна",
+      "original_title": "Mare of Easttown",
+      "overview": "Мейр Шіен — жінка-детектив з маленького містечка в Пенсільванії, яка розслідує місцеве вбивство, поки її особисте життя руйнується.",
+      "poster_path": "/73FetRObOEBXVADwYZtvCmDwkvU.jpg",
+      "backdrop_path": "/7X1IGIl1JMJ9YFzJymCVoqZbvTR.jpg",
+      "genre_ids": [
+        18,
+        80,
+        9648
+      ],
+      "vote_average": 8.179,
+      "vote_count": 1700,
+      "release_date": "2021-04-18"
+    },
+    {
+      "id": 84661,
+      "media_type": "tv",
+      "title": "Аутсайдер",
+      "original_title": "The Outsider",
+      "overview": "Коли відбувається жорстоке вбивство одинадцятирічного хлопчика, то слідчі першим ділом починають підозрювати тренера місцевої бейсбольної команди Террі Мейтленда, так як багато непрямих доказів вказують на його причетність до цього злочину. Але в процесі розслідування, зіткнувшись з дуже дивними речами, вони несподівано починають замислюватися про втручання потойбічних сил.",
+      "poster_path": "/riri5gMhHA1ADWJn9Gs4Wr62SKF.jpg",
+      "backdrop_path": "/lmlsqpAfDZnZumcFhbsTrOy9uNZ.jpg",
+      "genre_ids": [
+        18,
+        9648,
+        80
+      ],
+      "vote_average": 7.359,
+      "vote_count": 1706,
+      "release_date": "2020-01-12"
+    },
+    {
+      "id": 41889,
+      "media_type": "tv",
+      "title": "Ватажок",
+      "original_title": "Top Boy",
+      "overview": "Двійко затятих наркоторговців повертаються на суворі вулиці Лондона в пошуках грошенят, проте їм дошкуляє молодий безжальний шахрай.",
+      "poster_path": "/iBqgEMnbleoeLqdadlvBGDxVvKb.jpg",
+      "backdrop_path": "/e0Xx0uaVBjvT07WgY6ukNonUlZs.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 7.448,
+      "vote_count": 145,
+      "release_date": "2011-10-31"
+    },
+    {
+      "id": 75666,
+      "media_type": "tv",
+      "title": "МакМафія",
+      "original_title": "McMafia",
+      "overview": "Алекс Ґудман, син російських емігрантів, намагається вийти з тіні своєї колишньої мафіозної сімейки і створити особистий бізнес і сім’ю зі своєю подругою Ребеккою. Але минуле сім’ї дає про себе знати, і Алекс змушений проникнути в злочинний світ, щоб захистити тих, кого любить.",
+      "poster_path": "/jdt7RFfVCGWrNnrxeQ0Us9kGhJu.jpg",
+      "backdrop_path": "/8uJPiVNMjjVUHgnCb3de1nSv0L5.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "vote_average": 7.306,
+      "vote_count": 227,
+      "release_date": "2018-01-01"
+    },
+    {
+      "id": 62476,
+      "media_type": "tv",
+      "title": "Бюро легенд",
+      "original_title": "Le Bureau des légendes",
+      "overview": "Агент французької розвідки повертається після успішного завдання з Сирії, де він провів останні шість років, працюючи під прикриттям. Всупереч інструкціям і прийнятою процедурою він не повертає собі справжнє ім’я і особистість, а продовжує залишатися в ролі.",
+      "poster_path": "/zn0KVcHaNIHakkVSeYOeTin24vN.jpg",
+      "backdrop_path": "/3ZIWMs9vRjuss8RJWn2ijGRuwtE.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "vote_average": 8.192,
+      "vote_count": 232,
+      "release_date": "2015-04-27"
+    },
+    {
+      "id": 39852,
+      "media_type": "tv",
+      "title": "Грішниця",
+      "original_title": "The Sinner",
+      "overview": "Молода мати робить публічний акт агресії і, до власного жаху, не може пояснити причини свого вчинку. Детектив-одинак, одержимий бажанням з'ясувати приховані мотиви головної героїні, береться досліджувати глибини психіки своєї клієнтки і жорстокі таємниці її минулого.",
+      "poster_path": "/d45HVKKbCpAIsJHHBk98dqDgf19.jpg",
+      "backdrop_path": "/lVWku9LX2qdJTtAbRzaCDhhWeTK.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "vote_average": 7.47,
+      "vote_count": 1262,
+      "release_date": "2017-08-02"
+    },
+    {
+      "id": 70523,
+      "media_type": "tv",
+      "title": "Dark",
+      "original_title": "Dark",
+      "overview": "Історія чотирьох сімей, які живуть спокійним і розміреним життям в маленькому німецькому містечку. Видима ідилія порушується, коли безслідно зникають двоє дітей і воскресають темні таємниці минулого.",
+      "poster_path": "/5BXLmCA0VU7wyLXd8YflPcShhl0.jpg",
+      "backdrop_path": "/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
+      "genre_ids": [
+        80,
+        18,
+        10765,
+        9648
+      ],
+      "vote_average": 8.427,
+      "vote_count": 7681,
+      "release_date": "2017-12-01"
+    }
+  ]
+}

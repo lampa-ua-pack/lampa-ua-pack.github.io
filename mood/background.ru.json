@@ -1,0 +1,163 @@
+{
+  "slug": "background",
+  "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"32\" d=\"M104 288v-24a152 152 0 0 1 304 0v24\"/><rect x=\"80\" y=\"280\" width=\"72\" height=\"128\" rx=\"28\" fill=\"currentColor\"/><rect x=\"360\" y=\"280\" width=\"72\" height=\"128\" rx=\"28\" fill=\"currentColor\"/></svg>",
+  "title": "Под дела",
+  "lang": "ru",
+  "updated_at": "2026-07-17T22:55:39Z",
+  "items": [
+    {
+      "id": 1422,
+      "media_type": "tv",
+      "title": "Бывает и хуже",
+      "original_title": "The Middle",
+      "overview": "Семья Хек живёт в небольшом городке и каждый день пытается справляться с обычными проблемами: работой, учёбой, деньгами, домашними делами и постоянными недоразумениями. Несмотря на бесконечные трудности и хаос, они остаются дружной семьёй и вместе проходят через все жизненные испытания.",
+      "poster_path": "/xaADTNZxCyGPR0v69H6O3mGBAxh.jpg",
+      "backdrop_path": "/82D01BlixH1JD0BCQoERabDjp7h.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.566,
+      "vote_count": 752,
+      "release_date": "2009-09-30"
+    },
+    {
+      "id": 2004,
+      "media_type": "tv",
+      "title": "Малкольм в центре внимания",
+      "original_title": "Malcolm in the Middle",
+      "overview": "Добро пожаловать в семью, где всегда весело! Мамаша-монстр, папаша-лопух и четверо детей — шалопаев! И эта взрывоопасная смесь проживает лишь под одной крышей! Под которой постоянно творится что-то невероятное. И драки, и игры, в мумию, и истерический смех, химические эксперименты, безумные погони мамочки на авто, странные танцы на ягодицах, игра на венике, и море коварных каверзных ситуаций от малолетних дьяволят. Именно в такой семье живет Малкольм. Именно он расскажет вам: что такое очень веселая семья?",
+      "poster_path": "/tuskpLz1wWwDKxdQR9Ih7o47dcV.jpg",
+      "backdrop_path": "/si3OheCrSpEyK2JUtZOThsZPUR4.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 8.5,
+      "vote_count": 4895,
+      "release_date": "2000-01-09"
+    },
+    {
+      "id": 61381,
+      "media_type": "tv",
+      "title": "Черная комедия",
+      "original_title": "black-ish",
+      "overview": "Андре «Дре» Джонсон — член совета управляющих корпорации. Он живет «американской мечтой»: отличная карьера, четверо красивых детей, дом в колониальном стиле в районе для верхнего среднего класса. Но однажды Дре начинает видеть свою идеальную жизнь совершенно по-другому.",
+      "poster_path": "/r4XkbURgBX8DH3JGQld42R7Vkba.jpg",
+      "backdrop_path": "/czpfLUoJt7uPQf2i7S2Mo2cwRGl.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.062,
+      "vote_count": 341,
+      "release_date": "2014-09-24"
+    },
+    {
+      "id": 49009,
+      "media_type": "tv",
+      "title": "Голдберги",
+      "original_title": "The Goldbergs",
+      "overview": "В центре сюжета находится семейство Голдбергов, живущих в Америке восьмидесятых годов.",
+      "poster_path": "/3aQipkhSCHUmaHjImqEqT80k6GP.jpg",
+      "backdrop_path": "/vr2pasVUtMvpsWW8BhFBPbYiOl3.jpg",
+      "genre_ids": [
+        10751,
+        35
+      ],
+      "vote_average": 7.448,
+      "vote_count": 372,
+      "release_date": "2013-09-24"
+    },
+    {
+      "id": 63398,
+      "media_type": "tv",
+      "title": "Жизнь в деталях",
+      "original_title": "Life in Pieces",
+      "overview": "Семейная комедия, которая состоит из отдельных историй разных членов семьи.",
+      "poster_path": "/vac76nqALSJfy9AN0D9sSh1fQFE.jpg",
+      "backdrop_path": "/bk8s15CzE4KWrL67n7Iljvza0ny.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.144,
+      "vote_count": 146,
+      "release_date": "2015-09-21"
+    },
+    {
+      "id": 61662,
+      "media_type": "tv",
+      "title": "Шиттс Крик",
+      "original_title": "Schitt's Creek",
+      "overview": "Сериал рассказывает о семействе Роузов: Джонни Роуз — миллиардер, сделавший состояние на сети видеосалонов, его жена — актриса мыльных опер и двое детей — хипстер Дэвид и светская львица Алексис.\n\nПосле того, как бизнес Джонни терпит крах, все семейство вынуждено переехать жить в небольшую сельскую общину Шиттс Крик, которую они приобрели несколько лет назад развлечения ради.",
+      "poster_path": "/11tttftJDToWyXJNIJl8qnUuTUb.jpg",
+      "backdrop_path": "/ftNmVV8LuNVmtB8mzoUTucozVKE.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.783,
+      "vote_count": 712,
+      "release_date": "2015-01-13"
+    },
+    {
+      "id": 32815,
+      "media_type": "tv",
+      "title": "Воспитывая Хоуп",
+      "original_title": "Raising Hope",
+      "overview": "Сериал расскажет о Джимми, 22-летнем мужчине, воспитывающем маленького ребенка. В этом нелегком деле ему помогает его причудливая семья. Мама ребенка, с которой Джимми был всего одну ночь, оказывается в камере смертников.",
+      "poster_path": "/AkMwSCJrNf6SVwON7biaAUOEhDf.jpg",
+      "backdrop_path": "/45hDcAQdlNxHLPX07ZMC33ISfXq.jpg",
+      "genre_ids": [
+        35,
+        10751
+      ],
+      "vote_average": 7.44,
+      "vote_count": 335,
+      "release_date": "2010-09-21"
+    },
+    {
+      "id": 65493,
+      "media_type": "tv",
+      "title": "Ранчо",
+      "original_title": "The Ranch",
+      "overview": "Кольту не удалось стать профессиональным спортсменом. Теперь он помогает отцу и брату удержать на плаву ранчо и пытается найти свое место в семье.",
+      "poster_path": "/lrbHBAxF9Ir83rxgeBrfmEJriLt.jpg",
+      "backdrop_path": "/rIycDdkLET20EVW2LPytLNuyOp3.jpg",
+      "genre_ids": [
+        35,
+        10751,
+        37
+      ],
+      "vote_average": 7.369,
+      "vote_count": 286,
+      "release_date": "2016-04-01"
+    },
+    {
+      "id": 67156,
+      "media_type": "tv",
+      "title": "Всё схвачено",
+      "original_title": "Man with a Plan",
+      "overview": "Алам Бернс всю свою жизнь провёл в командировках, пытаясь хоть как-то заработать деньги для семьи. Однако его супруге было далеко не весело в одиночестве. Кажется, что Мари одна занимается воспитанием детей. Но случается так, что главным героям приходится поменяться местами. Теперь Адам ведет домашнее хозяйство и воспитывает троих детишек. Мужчина начинает чувствовать, что не справляется, хотя ему это занятие казалось довольно простым и ненапряжённым. В первые же дни Адам чувствует, что попал в самое пекло ада с маленькими чертятами, из которого выбраться невероятно сложно!",
+      "poster_path": "/wpjYAxFlXrZlUqbfohEmsVvoCuS.jpg",
+      "backdrop_path": "/hxeevnOc0TL1QGpmWnWhTRGUXwC.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 6.748,
+      "vote_count": 127,
+      "release_date": "2016-10-24"
+    },
+    {
+      "id": 66551,
+      "media_type": "tv",
+      "title": "Мик",
+      "original_title": "The Mick",
+      "overview": "Неблагополучная и сквернословящая молодая женщина переезжает в зажиточный Гринвич, Коннектикут, чтобы присматривать за избалованными детьми своей богатой сестры и ее мужа, которые бежали из страны, спасаясь от федерального иска. Она быстро понимает то, что другие давно знают: чужие дети ужасны.",
+      "poster_path": "/jwYBohob30EeP1rJJMx9zcWSaGS.jpg",
+      "backdrop_path": "/5xCxoMktHFsrcF283IMTL4OGtuR.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.133,
+      "vote_count": 275,
+      "release_date": "2017-01-01"
+    }
+  ]
+}

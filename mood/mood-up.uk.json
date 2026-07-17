@@ -1,0 +1,139 @@
+{
+  "slug": "mood-up",
+  "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"256\" cy=\"256\" r=\"104\" fill=\"currentColor\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"32\" stroke-linecap=\"round\" d=\"M256 40v48M256 424v48M40 256h48M424 256h48M107 107l34 34M371 371l34 34M405 107l-34 34M141 371l-34 34\"/></svg>",
+  "title": "Заряд позитиву",
+  "lang": "uk",
+  "updated_at": "2026-07-17T22:55:29Z",
+  "items": [
+    {
+      "id": 529485,
+      "media_type": "movie",
+      "title": "Поза Грою",
+      "original_title": "The Way Back",
+      "overview": "Джек Каннінґем в школі був висхідною баскетбольною зіркою, але в якийсь момент покінчив зі спортом. Через пристрасть до пігулок і алкоголю він відразу позбувся всього — слави, грошей і сім’ї. Незабаром життя дає Джеку другий шанс — він береться тренувати баскетбольну команду своєї рідної школи, яку всі вважають відвертими невдахами.",
+      "poster_path": "/amDXJuikQkwyy7e29DCAsAqNBs9.jpg",
+      "backdrop_path": "/iTLGqoHkiSqUts9nPIdYLPtOz8C.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 6.625,
+      "vote_count": 1343,
+      "release_date": "2020-03-05"
+    },
+    {
+      "id": 671295,
+      "media_type": "movie",
+      "title": "Блакитне диво",
+      "original_title": "Blue Miracle",
+      "overview": "Щоб урятувати притулок для сиріт, опікун та діти об’єднуються з понурим капітаном човна й беруть участь у змаганнях із риболовлі з великим призовим фондом.",
+      "poster_path": "/wlDSL8Rn4eQCzDPy1pPRkCh8H32.jpg",
+      "backdrop_path": "/7piVB6weeJdWB6xL0wzJJeHNo6O.jpg",
+      "genre_ids": [
+        12,
+        18,
+        10751
+      ],
+      "vote_average": 7.3,
+      "vote_count": 307,
+      "release_date": "2021-05-27"
+    },
+    {
+      "id": 621587,
+      "media_type": "movie",
+      "title": "Наступний гол – переможний",
+      "original_title": "Next Goal Wins",
+      "overview": "Футбольний тренер Томас Ронґен на початку 2000-х приїхав до Самоа, щоб допомогти підготувати місцеву команду до відбірного циклу чемпіонату світу 2014 року.",
+      "poster_path": "/sZiRz4xhGssaOnWwEefYwG3jZkg.jpg",
+      "backdrop_path": "/j4TnCy7lNPrE8mX5n5ydCoLA7xW.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "vote_average": 6.439,
+      "vote_count": 587,
+      "release_date": "2023-11-16"
+    },
+    {
+      "id": 298582,
+      "media_type": "movie",
+      "title": "Щосили",
+      "original_title": "Full Out",
+      "overview": "Аріана і Айла з трьох років займалися гімнастикою. І вже у свої 14 років вони могли підкорювати олімп професійного першості. Але один жахливий нещасний випадок перевернув життя гімнасток з ніг на голову. Випадкова аварія, в яку по дорозі додому потрапила Аріанна разом зі своєю матір'ю, позбавила її можливості займатися спортом і навіть ходити. Але ні трагедія, ні її наслідки не змогли позбавити її мрії. Дівчина щосили продовжувала свої тренування, мріючи одного разу все-таки вийти на велику арену і зібрати цілий стадіон фанатів.",
+      "poster_path": "/e9c2JOwJlWUfIZRaxIWE2BZt5GV.jpg",
+      "backdrop_path": "/t6LhhNQUXXq8w0EvHBcnuBZHV7s.jpg",
+      "genre_ids": [
+        36,
+        18,
+        10751
+      ],
+      "vote_average": 7.2,
+      "vote_count": 348,
+      "release_date": "2015-09-11"
+    },
+    {
+      "id": 71688,
+      "media_type": "movie",
+      "title": "Залізна леді",
+      "original_title": "The Iron Lady",
+      "overview": "Компромісів не існує. У центрі нового драматичного фільму історія одного з найбільш яскравих політиків XX століття. 1982 рік. Прем’єр-міністр Великобританії Маргарет Тетчер намагається врятувати свою кар’єру напередодні Фолклендської війни.На екрані події, що вплинули на життя країни та усього світу, а також складні стосунки жінки з колегами та чоловіком Денісом.",
+      "poster_path": "/oFMyEsLTaboSsx58ASARB3c8xIo.jpg",
+      "backdrop_path": "/gCpWPe6wORcXg64CAFviErLuSrw.jpg",
+      "genre_ids": [
+        36,
+        18
+      ],
+      "vote_average": 6.359,
+      "vote_count": 1900,
+      "release_date": "2011-12-26"
+    },
+    {
+      "id": 13680,
+      "media_type": "movie",
+      "title": "План гри",
+      "original_title": "The Game Plan",
+      "overview": "Професійний гравець у американський футбол раптово дізнається про існування своєї дочки. Донька, яка з’явилася нізвідки та допомагає спортсмену перекваліфікуватися з справжнього холостяка у зразково-показового татуся.",
+      "poster_path": "/rwmU51GQsjGmjXyCshGYc2kBWOZ.jpg",
+      "backdrop_path": "/pOaWXp9DTUGnk1awfFrhTMqxoKm.jpg",
+      "genre_ids": [
+        35,
+        10751
+      ],
+      "vote_average": 6.51,
+      "vote_count": 2213,
+      "release_date": "2007-09-28"
+    },
+    {
+      "id": 29078,
+      "media_type": "movie",
+      "title": "Гра їхнього життя",
+      "original_title": "The Game of Their Lives",
+      "overview": "Історія про легендарну команду США, укомплектовану гравцями-любителями, яка завдала поразки іменитій збірній Англії на чемпіонаті світу з футболу 1950 року, що проходив в Бразилії. Не дивлячись на те, що американська команда тоді не змогла навіть наблизитися до заповітного Кубку Світу, перемога з рахунком 1:0 увійшла до історії.",
+      "poster_path": "/iZkVLxvWfx9PzuixNnlVz1Y9fa6.jpg",
+      "backdrop_path": "/m9kux73Co4j0BCn42B3FdgZl3sB.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 5.886,
+      "vote_count": 70,
+      "release_date": "2005-04-22"
+    },
+    {
+      "id": 1619,
+      "media_type": "movie",
+      "title": "Шлях зброї",
+      "original_title": "The Way of the Gun",
+      "overview": "Великі гроші легко не дістаються. Розуміючи це, два бандити, Паркер і Лонґбо дуже ретельно підготувалися до справи. Завантажившись зброєю під зав'язку, вони приступили до виконання свого диявольського плану.  Перший етап операції — викрадення жертви, пройшов як по маслу. І все було б у повному порядку, але на шляху зброї встав якийсь Джо Сарно, міцно обламавши напарникам всі плани.",
+      "poster_path": "/zTR8rHJxB09tHE8c1N2Es3TbGVp.jpg",
+      "backdrop_path": "/iVpjSpgPlWMU1dSi5pOIg2BTlX1.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18,
+        53
+      ],
+      "vote_average": 6.334,
+      "vote_count": 500,
+      "release_date": "2000-09-08"
+    }
+  ]
+}
