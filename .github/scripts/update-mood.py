@@ -139,17 +139,35 @@ def day_rng(slug: str) -> random.Random:
     return random.Random(f"{today_str()}|{slug}")
 
 
-# «Лінзи» — легкий випадковий ракурс на ран (константний розмір промту). Мета: щодня інший зріз.
-_LENS_ERA = ["the 1970s-80s", "the 1990s", "the 2000s", "the last ~10 years", "a mix of eras"]
-_LENS_FLAVOR = ["more non-US/international cinema", "cult and under-the-radar favorites",
-                "underrated hidden gems", "acclaimed but less-talked-about titles"]
+# «Лінзи» — легкий випадковий ракурс на ран (константний розмір промту). Три осі (епоха/регіон/
+# відтінок) дають багато різних комбінацій → щодня помітно інший зріз. Регіон — сильний
+# диференціатор. Це м'який нахил, підпорядкований настрою, а не жорсткий фільтр.
+_LENS_ERA = ["the 1960s-70s", "the 1970s-80s", "the 1980s-90s", "the 1990s-2000s",
+             "the 2010s", "the last ~5 years", "any era"]
+_LENS_REGION = ["American", "British or Irish", "French or wider European",
+                "East Asian (Korean, Japanese, Hong Kong)", "Latin American or Spanish-language",
+                "Nordic or other less-covered", "any origin"]
+_LENS_FLAVOR = ["under-the-radar hidden gems", "cult favorites", "festival/indie darlings",
+                "solid crowd-pleasers", "ensemble or single-location stories"]
 
 
 def daily_lens(slug: str) -> str:
-    """Одна коротка випадкова підказка-ракурс на день (не жорсткий фільтр, підпорядкована настрою)."""
+    """
+    Одна коротка випадкова підказка-ракурс на день: 2 осі з 3 (епоха/регіон/відтінок), щоб
+    давати різні зрізи, але не пересужувати (напр. «нішевий регіон + комедія» майже порожньо).
+    М'який нахил, підпорядкований настрою.
+    """
     rng = day_rng("lens|" + slug)
-    return (f" This run, lean toward {rng.choice(_LENS_ERA)} and {rng.choice(_LENS_FLAVOR)} "
-            f"where it still fits the mood.")
+    axes = rng.sample(("era", "region", "flavor"), 2)
+    parts = []
+    if "era" in axes:
+        parts.append(rng.choice(_LENS_ERA))
+    if "region" in axes:
+        parts.append(rng.choice(_LENS_REGION) + " cinema")
+    if "flavor" in axes:
+        parts.append(rng.choice(_LENS_FLAVOR))
+    return (f" This run, gently skew toward {' and '.join(parts)} — but ONLY where it genuinely "
+            f"fits the mood; if that angle is too narrow, relax it and pick great fitting titles.")
 
 
 def normalize_title(s: str) -> str:
@@ -253,7 +271,8 @@ def ai_suggest_batch(batch: list) -> dict:
         "SKIP the obvious, first-to-mind titles everyone names immediately; reach past them for "
         "less-obvious picks that still genuinely fit the mood (real, watchable, on-mood — not "
         "obscure misfits). "
-        "Fresh: vary picks run to run and never repeat a theme's AVOID list. "
+        "Fresh: vary picks run to run, never repeat a theme's AVOID list, and never list the "
+        "same title twice within a list. "
         "Tune recognizability to the theme — well-loved (but not the single most obvious) picks "
         "for fun/comfort/laugh moods, deeper cuts for cinephile moods; <=1 per franchise; "
         "mix eras incl. recent (unless the theme restricts era); vary countries/languages; "
