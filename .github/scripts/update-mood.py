@@ -69,12 +69,11 @@ AI_BATCH_SIZE = int(os.environ.get("AI_BATCH_SIZE", "2"))  # скільки те
                                                            # без ретраїв. (14 = один запит на всі теми)
 
 TARGET_COUNT = 10            # тайтлів на тему
-AI_REQUEST_COUNT = 15        # скільки назв просимо в ІІ (решту до TARGET добере discover-пул)
+AI_REQUEST_COUNT = 25        # скільки назв просимо в ІІ (ІІ — головне джерело добірки)
 DISCOVER_PAGES = int(os.environ.get("DISCOVER_PAGES", "2"))  # сторінок /discover на кожен тип
 VOTE_COUNT_MIN = 150         # поріг популярності (відсікає мотлох/неіснуюче)
 OBVIOUS_VOTE_COUNT = 15000   # «занадто очевидні» блокбастери
 OBVIOUS_MAX = 4              # скільки «очевидних» брати ПЕРШИМИ (решта — у хвіст, не викидаються)
-MAX_CHANGE = 3               # скільки позицій дозволено міняти за ран (стабільність)
 MAX_THEME_REUSE = int(os.environ.get("MAX_THEME_REUSE", "2"))  # у скількох темах може бути один тайтл
                                                                # (жанри мудів реально перетинаються)
 
@@ -188,7 +187,10 @@ def ai_suggest_batch(batch: list) -> dict:
         '"year" (release year as integer), '
         '"media_type" ("movie" or "tv"). '
         "Favor diversity across decades and countries. Avoid the same tired top-list "
-        "picks everyone names first; include lesser-known gems that still fit each mood."
+        "picks everyone names first; include lesser-known gems that still fit each mood. "
+        "CRITICAL: pick titles by how well they match the MOOD, not by shared genre tags. "
+        "Exclude a famous title if its actual mood is wrong (e.g. a bleak thriller does not "
+        "belong in a comedy mood, a crime saga does not belong in a tearjerker mood)."
     )
     theme_blocks = "\n".join(f"[{t['slug']}] {t['title_ru']} - {t['prompt']}" for t in batch)
     user_prompt = (
@@ -326,10 +328,10 @@ def tmdb_search(name: str, year: int, media_type: str):
 
     if best is None:
         return None
-    return to_candidate(best, media_type)
+    return to_candidate(best, media_type, "ai")
 
 
-def to_candidate(res: dict, media_type: str) -> dict:
+def to_candidate(res: dict, media_type: str, source: str = "discover") -> dict:
     return {
         "id": res.get("id"),
         "media_type": media_type,
@@ -337,6 +339,7 @@ def to_candidate(res: dict, media_type: str) -> dict:
         "vote_average": res.get("vote_average") or 0,
         "vote_count": res.get("vote_count") or 0,
         "year": year_of(res),
+        "source": source,   # "ai" | "discover" | "prev" — визначає пріоритет у ранжуванні
     }
 
 
@@ -447,22 +450,20 @@ def prioritize_obvious(ranked: list) -> list:
     return head + tail
 
 
-def stabilize(prev_keys: list, new_ranked_keys: list, target: int, max_change: int) -> list:
-    """Bounded churn: тримаємо попередні валідні позиції, міняємо не більше max_change за ран."""
+def stabilize(prev_keys: list, ranked_keys: list, target: int) -> list:
+    """
+    Стабільність без «залипання мотлоху»: тримаємо позицію лише за тими попередніми тайтлами,
+    що й ЗАРАЗ входять у свіжий топ-`target`. Решту беремо зі свіжого рейтингу (у його порядку).
+    Так добірка мало смикається між ранами, але тайтли, які випали з топа, не зберігаються.
+    """
+    fresh = ranked_keys[:target]
     if not prev_keys:
-        return new_ranked_keys[:target]
-    new_set = set(new_ranked_keys)
-    prev_set = set(prev_keys)
-    kept = [k for k in prev_keys if k in new_set]          # попередні, що досі валідні
-    fresh = [k for k in new_ranked_keys if k not in prev_set]
-    n_add = min(max_change, len(fresh), target)
-    result = kept[: target - n_add] + fresh[:n_add]
-    for k in new_ranked_keys:                               # добір, якщо коротко
-        if len(result) >= target:
-            break
-        if k not in result:
-            result.append(k)
-    return result[:target]
+        return fresh
+    fresh_set = set(fresh)
+    kept = [k for k in prev_keys if k in fresh_set]         # прев, що досі в топі — у старому порядку
+    kept_set = set(kept)
+    rest = [k for k in fresh if k not in kept_set]          # нові — у свіжому порядку
+    return (kept + rest)[:target]
 
 
 # ------------------ Файли ------------------
@@ -518,7 +519,7 @@ def collect_candidates(theme: dict, suggestions: list) -> dict:
     prev_details = parallel_map(lambda k: (k, tmdb_detail(k[1], k[0], "en-US")), missing)
     for (mt, tid), d in prev_details:
         if d:
-            cand = to_candidate(d, mt)
+            cand = to_candidate(d, mt, "prev")
             cand["id"] = d.get("id")
             cand["genre_ids"] = [g["id"] for g in d.get("genres", []) if "id" in g]
             candidates[(mt, tid)] = cand
@@ -561,17 +562,21 @@ def process_theme(theme: dict, suggestions: list, global_used) -> dict:
     filtered = [c for k, c in candidates.items()
                 if passes_filters(c, theme) and global_used[k] < MAX_THEME_REUSE]
 
-    # ранжування + soft-cap очевидних (не викидаємо, зсуваємо в хвіст)
-    ranked = prioritize_obvious(sorted(filtered, key=rank_key, reverse=True))
+    # ранжування: ІІ-добірка (розуміє настрій) — попереду; discover/prev — лише добивання до TARGET
+    ai_ranked = prioritize_obvious(
+        sorted((c for c in filtered if c["source"] == "ai"), key=rank_key, reverse=True))
+    other_ranked = sorted((c for c in filtered if c["source"] != "ai"),
+                          key=rank_key, reverse=True)
+    ranked = ai_ranked + other_ranked
     ranked_keys = [(c["media_type"], c["id"]) for c in ranked]
-    print(f"  after filters: {len(ranked_keys)}")
+    print(f"  after filters: {len(ranked_keys)} (ai={len(ai_ranked)}, other={len(other_ranked)})")
 
     if not ranked_keys:
         raise RuntimeError(f"no candidates survived filters for '{slug}'")
 
     # стабілізація
     prev_keys = read_prev_keys(slug)
-    final_keys = stabilize(prev_keys, ranked_keys, TARGET_COUNT, MAX_CHANGE)
+    final_keys = stabilize(prev_keys, ranked_keys, TARGET_COUNT)
     if len(final_keys) < TARGET_COUNT:
         print(f"  [note] only {len(final_keys)}/{TARGET_COUNT} candidates available for '{slug}'")
 
