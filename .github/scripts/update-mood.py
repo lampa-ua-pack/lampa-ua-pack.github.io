@@ -62,11 +62,12 @@ OPENCODE_TOKEN = os.environ.get("OPENCODE_TOKEN", "").strip()
 TMDB_BASE_URL = "https://api.themoviedb.org/3"
 MOOD_DIR = Path("mood")
 TIMEOUT = 15
-OPENCODE_TIMEOUT = int(os.environ.get("OPENCODE_TIMEOUT", "60"))  # швидкий відказ на завислий запит
-OPENCODE_RETRIES = int(os.environ.get("OPENCODE_RETRIES", "1"))  # додаткові спроби (менше = без штормів)
+OPENCODE_TIMEOUT = int(os.environ.get("OPENCODE_TIMEOUT", "120"))  # даємо повільним запитам добігти
+OPENCODE_RETRIES = int(os.environ.get("OPENCODE_RETRIES", "0"))  # без негайного повтору (повтор повільної
+                                                                # моделі лише палить час); 2й шанс — у salvage
 OPENCODE_TEMPERATURE = float(os.environ.get("OPENCODE_TEMPERATURE", "0.9"))  # вище = різноманітніше
 OPENCODE_SEED = os.environ.get("OPENCODE_SEED", "").strip()  # порожньо = без seed (свіжа вибірка щоразу)
-AI_BUDGET_SEC = int(os.environ.get("AI_BUDGET_SEC", "300"))  # ліміт часу на ВСЮ ІІ-фазу; після нього
+AI_BUDGET_SEC = int(os.environ.get("AI_BUDGET_SEC", "540"))  # ліміт часу на ВСЮ ІІ-фазу; після нього
                                                             # нові ІІ-запити не робляться (теми -> stale)
 _AI_START = time.monotonic()  # старт відліку бюджету ІІ (звичайний скрипт — time доступний)
 
