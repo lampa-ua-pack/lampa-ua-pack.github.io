@@ -223,11 +223,17 @@ def ai_suggest_batch(batch: list) -> dict:
         return {s: [] for s in slugs}
 
     obj = parse_ai_object(content)
+    # толерантне сопоставлення: модель інколи віддає ключі інакше (no_think / "No Think" / рос. назва)
+    norm_obj = {_norm_key(k): v for k, v in obj.items()}
     result = {}
     for s in slugs:
-        titles = obj.get(s, [])
-        print(f"  ai[{s}]: {len(titles)} titles")
+        titles = obj.get(s) or norm_obj.get(_norm_key(s), [])
         result[s] = titles
+    # single-theme fallback: одна тема, один ключ у відповіді — беремо його попри розбіжність назви
+    if len(slugs) == 1 and not result[slugs[0]] and len(obj) == 1:
+        result[slugs[0]] = next(iter(obj.values()))
+    for s in slugs:
+        print(f"  ai[{s}]: {len(result[s])} titles")
     return result
 
 
@@ -238,6 +244,15 @@ def suggestions_for_all(themes: list) -> dict:
     merged = {}
     for d in parallel_map(ai_suggest_batch, batches, workers=AI_WORKERS):
         merged.update(d)
+
+    # salvage: теми, що лишились порожні (збій батчу/розбіжність ключів) — перезапит поодинці,
+    # перш ніж відкотитись на discover-пул (одиночний запит легший і надійніший)
+    configured = bool(OPENCODE_URL and OPENCODE_MODEL and OPENCODE_TOKEN)
+    empty = [t for t in themes if not merged.get(t["slug"])]
+    if configured and empty:
+        print(f"[ai] salvage {len(empty)} empty theme(s): {[t['slug'] for t in empty]}")
+        for d in parallel_map(lambda t: ai_suggest_batch([t]), empty, workers=AI_WORKERS):
+            merged.update({k: v for k, v in d.items() if v})
     return merged
 
 
@@ -260,6 +275,11 @@ def _coerce_titles(data) -> list:
             year = 0
         out.append({"title": title, "year": year, "media_type": mt})
     return out
+
+
+def _norm_key(k) -> str:
+    """Нормалізація ключа теми для толерантного сопоставлення (no-think == no_think == 'No Think')."""
+    return re.sub(r"[^a-z0-9]", "", str(k).lower())
 
 
 def _strip_fences(content: str) -> str:
