@@ -27,7 +27,7 @@
 THEMES = [
     {
         "slug": "no-think",
-        "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M168 96h64c17.7 0 32 14.3 32 32v256c0 17.7-14.3 32-32 32h-64c-17.7 0-32-14.3-32-32V128c0-17.7 14.3-32 32-32zm112 0h64c17.7 0 32 14.3 32 32v256c0 17.7-14.3 32-32 32h-64c-17.7 0-32-14.3-32-32V128c0-17.7 14.3-32 32-32z"/></svg>',
+        "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect x="134" y="96" width="78" height="320" rx="26" fill="currentColor"/><rect x="300" y="96" width="78" height="320" rx="26" fill="currentColor"/></svg>',
         "title_uk": "Мозок на паузі",
         "title_ru": "Мозг на паузе",
         "prompt": (
@@ -40,7 +40,7 @@ THEMES = [
     },
     {
         "slug": "blow-mind",
-        "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><polygon fill="currentColor" points="256,40 305,207 472,256 305,305 256,472 207,305 40,256 207,207"/></svg>',
+        "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke="currentColor" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" d="M96 96H416V416H144V176H352V336H208V240"/></svg>',
         "title_uk": "Зламаєш голову",
         "title_ru": "Голову сломаешь",
         "prompt": (
@@ -105,7 +105,7 @@ THEMES = [
     },
     {
         "slug": "dark",
-        "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M352 96a176 176 0 1 0 96 288A208 208 0 0 1 352 96z"/></svg>',
+        "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" fill-rule="evenodd" d="M256 64a192 192 0 1 0 0 384 192 192 0 1 0 0-384zM322 70a166 166 0 1 1 0 332 166 166 0 1 1 0-332z"/></svg>',
         "title_uk": "Нуар і тіні",
         "title_ru": "Нуар и тени",
         "prompt": (
@@ -158,7 +158,7 @@ THEMES = [
     },
     {
         "slug": "thrill-nerves",
-        "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke="currentColor" stroke-width="28" stroke-linejoin="round" d="M112 248a144 144 0 0 1 288 0v192l-40-32-40 32-48-36-48 36-40-32-24 20z"/><circle cx="204" cy="236" r="22" fill="currentColor"/><circle cx="308" cy="236" r="22" fill="currentColor"/></svg>',
+        "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" fill-rule="evenodd" d="M256 64C158 64 88 138 88 236c0 55 24 98 56 122v46c0 20 16 36 36 36h152c20 0 36-16 36-36v-46c32-24 56-67 56-122 0-98-70-172-168-172zM136 236a44 48 0 1 0 88 0 44 48 0 1 0-88 0zM288 236a44 48 0 1 0 88 0 44 48 0 1 0-88 0zM256 300l30 54h-60z"/></svg>',
         "title_uk": "Мурахи по шкірі",
         "title_ru": "Мурашки по коже",
         "prompt": (
