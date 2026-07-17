@@ -19,7 +19,8 @@
 ENV:
   TMDB_API_KEY      — обов'язковий
   OPENCODE_URL      — базовий URL або повний endpoint chat/completions
-  OPENCODE_MODEL    — ім'я моделі (рекомендовано швидка не-reasoning, напр. deepseek-v4-flash-free)
+  OPENCODE_MODELS   — кома-список моделей (фолбэк-ланцюг), напр. "hy3-free,big-pickle,deepseek-v4-flash-free"
+  OPENCODE_MODEL    — одна модель (якщо OPENCODE_MODELS не задано; стане першою в ланцюгу + дефолтні фолбэки)
   OPENCODE_TOKEN    — bearer-токен
   MOOD_ONLY         — (опц.) кома-список slug для локального прогону (напр. "laugh,cry")
   MAX_WORKERS       — (опц.) пул потоків для TMDb (дефолт 16)
@@ -57,7 +58,18 @@ if not TMDB_API_KEY:
 
 OPENCODE_URL = os.environ.get("OPENCODE_URL", "").strip()
 OPENCODE_MODEL = os.environ.get("OPENCODE_MODEL", "").strip()
+OPENCODE_MODELS = os.environ.get("OPENCODE_MODELS", "").strip()  # кома-список моделей (фолбэк-ланцюг)
 OPENCODE_TOKEN = os.environ.get("OPENCODE_TOKEN", "").strip()
+
+# Ланцюг моделей: пробуємо по черзі, перша, що відповіла валідним — виграє. Так швидко
+# (hy3-free/big-pickle ~3-4с) і стійко до зникнення будь-якої однієї free-моделі.
+_DEFAULT_CHAIN = ["hy3-free", "big-pickle", "deepseek-v4-flash-free"]
+if OPENCODE_MODELS:
+    MODEL_CHAIN = [m.strip() for m in OPENCODE_MODELS.split(",") if m.strip()]
+elif OPENCODE_MODEL:
+    MODEL_CHAIN = [OPENCODE_MODEL] + [m for m in _DEFAULT_CHAIN if m != OPENCODE_MODEL]
+else:
+    MODEL_CHAIN = _DEFAULT_CHAIN
 
 TMDB_BASE_URL = "https://api.themoviedb.org/3"
 MOOD_DIR = Path("mood")
@@ -150,38 +162,48 @@ def opencode_endpoint() -> str:
 
 
 def _opencode_chat(system_prompt: str, user_prompt: str, label: str):
-    """Один chat/completions-запит із ретраями на таймаут/помилку. Повертає content або None."""
-    payload = {
-        "model": OPENCODE_MODEL,
-        "messages": [
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_prompt},
-        ],
-        "temperature": OPENCODE_TEMPERATURE,
-    }
-    if OPENCODE_SEED:
-        payload["seed"] = int(OPENCODE_SEED)   # опційно — для відтворюваності
+    """
+    chat/completions по ЛАНЦЮГУ моделей: пробуємо MODEL_CHAIN по черзі, перша валідна відповідь
+    виграє. `reasoning.enabled=false` вимикає «розмисли» там, де вони є (big-pickle/mimo -> ~4с),
+    інші моделі його ігнорують. Повертає content або None.
+    """
+    def make_payload(model):
+        p = {
+            "model": model,
+            "messages": [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt},
+            ],
+            "temperature": OPENCODE_TEMPERATURE,
+            "reasoning": {"enabled": False},   # вимкнути reasoning (де підтримується) -> швидше
+        }
+        if OPENCODE_SEED:
+            p["seed"] = int(OPENCODE_SEED)
+        return p
+
     headers = {
         "Authorization": f"Bearer {OPENCODE_TOKEN}",
         "Content-Type": "application/json",
     }
     endpoint = opencode_endpoint()
 
-    attempts = OPENCODE_RETRIES + 1
-    for attempt in range(1, attempts + 1):
-        if time.monotonic() - _AI_START > AI_BUDGET_SEC:
-            print(f"[warn] OpenCode {label}: AI time budget ({AI_BUDGET_SEC}s) exhausted, skipping")
-            return None
-        try:
-            resp = session.post(endpoint, json=payload, headers=headers, timeout=OPENCODE_TIMEOUT)
-            if resp.status_code == 200:
-                return resp.json()["choices"][0]["message"]["content"]
-            last_err = f"HTTP {resp.status_code}: {resp.text[:150]}"
-        except Exception as e:
-            last_err = repr(e)
-        print(f"[warn] OpenCode {label} attempt {attempt}/{attempts} failed: {last_err}")
-        if attempt < attempts:
-            time.sleep(2 * attempt)  # лінійний backoff: 2s, 4s, ...
+    for model in MODEL_CHAIN:
+        for attempt in range(1, OPENCODE_RETRIES + 2):
+            if time.monotonic() - _AI_START > AI_BUDGET_SEC:
+                print(f"[warn] OpenCode {label}: AI time budget ({AI_BUDGET_SEC}s) exhausted, skipping")
+                return None
+            try:
+                resp = session.post(endpoint, json=make_payload(model), headers=headers,
+                                    timeout=OPENCODE_TIMEOUT)
+                if resp.status_code == 200:
+                    return resp.json()["choices"][0]["message"]["content"]
+                last_err = f"HTTP {resp.status_code}: {resp.text[:120]}"
+            except Exception as e:
+                last_err = repr(e)
+            print(f"[warn] OpenCode {label} [{model}] try {attempt} failed: {last_err}")
+            if attempt <= OPENCODE_RETRIES:
+                time.sleep(2 * attempt)
+        # ця модель не спрацювала — переходимо до наступної в ланцюгу
     return None
 
 
@@ -191,8 +213,8 @@ def ai_suggest_batch(batch: list) -> dict:
     Теми, для яких ІІ недоступний/не відповів, отримують [] (спрацює discover-пул).
     """
     slugs = [t["slug"] for t in batch]
-    if not (OPENCODE_URL and OPENCODE_MODEL and OPENCODE_TOKEN):
-        print("[warn] OpenCode not configured - relying on TMDB discover pool only")
+    if not (OPENCODE_URL and MODEL_CHAIN and OPENCODE_TOKEN):
+        print("[warn] OpenCode not configured - theme will stay stale")
         return {s: [] for s in slugs}
 
     system_prompt = (
@@ -683,12 +705,12 @@ def main():
     MOOD_DIR.mkdir(exist_ok=True)
 
     # статус конфігурації ІІ (без витоку значень) — щоб одразу було видно, чи працює OpenCode
-    ai_ready = bool(OPENCODE_URL and OPENCODE_MODEL and OPENCODE_TOKEN)
-    print(f"[cfg] OpenCode: url={bool(OPENCODE_URL)} model={bool(OPENCODE_MODEL)} "
-          f"token={bool(OPENCODE_TOKEN)} -> {'READY' if ai_ready else 'DISABLED (discover-only)'}")
+    ai_ready = bool(OPENCODE_URL and MODEL_CHAIN and OPENCODE_TOKEN)
+    print(f"[cfg] OpenCode: url={bool(OPENCODE_URL)} token={bool(OPENCODE_TOKEN)} "
+          f"models={MODEL_CHAIN} -> {'READY' if ai_ready else 'DISABLED'}")
     if not ai_ready:
-        print("[cfg] WARNING: AI curation is OFF; collections will be genre-popularity only. "
-              "Set OPENCODE_URL / OPENCODE_MODEL / OPENCODE_TOKEN.")
+        print("[cfg] WARNING: AI is OFF; themes will stay stale. "
+              "Set OPENCODE_URL / OPENCODE_TOKEN (and OPENCODE_MODELS or OPENCODE_MODEL).")
 
     themes = THEMES
     if MOOD_ONLY:
