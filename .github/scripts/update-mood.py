@@ -40,6 +40,7 @@ import re
 import json
 import math
 import time
+import random
 import unicodedata
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
@@ -126,6 +127,29 @@ def parallel_map(fn, items, workers=None):
 # ------------------ Утиліти ------------------
 def now_iso() -> str:
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def today_str() -> str:
+    """Дата дня (UTC). Можна перекрити MOOD_DAY для тестів/відтворюваності."""
+    return os.environ.get("MOOD_DAY") or datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+
+def day_rng(slug: str) -> random.Random:
+    """Детермінований генератор на (день, тема): у межах дня стабільно, між днями різне."""
+    return random.Random(f"{today_str()}|{slug}")
+
+
+# «Лінзи» — легкий випадковий ракурс на ран (константний розмір промту). Мета: щодня інший зріз.
+_LENS_ERA = ["the 1970s-80s", "the 1990s", "the 2000s", "the last ~10 years", "a mix of eras"]
+_LENS_FLAVOR = ["more non-US/international cinema", "cult and under-the-radar favorites",
+                "underrated hidden gems", "acclaimed but less-talked-about titles"]
+
+
+def daily_lens(slug: str) -> str:
+    """Одна коротка випадкова підказка-ракурс на день (не жорсткий фільтр, підпорядкована настрою)."""
+    rng = day_rng("lens|" + slug)
+    return (f" This run, lean toward {rng.choice(_LENS_ERA)} and {rng.choice(_LENS_FLAVOR)} "
+            f"where it still fits the mood.")
 
 
 def normalize_title(s: str) -> str:
@@ -226,9 +250,12 @@ def ai_suggest_batch(batch: list) -> dict:
         "Match the MOOD, not shared genre tags; drop famous titles whose real mood is wrong. "
         "EXCLUDE anything produced in the USSR or in Russia and other post-Soviet CIS countries "
         "(Russia, Belarus, Kazakhstan, etc.). EXCLUDE Japanese anime (animated films/series). "
+        "SKIP the obvious, first-to-mind titles everyone names immediately; reach past them for "
+        "less-obvious picks that still genuinely fit the mood (real, watchable, on-mood — not "
+        "obscure misfits). "
         "Fresh: vary picks run to run and never repeat a theme's AVOID list. "
-        "Tune recognizability to the theme — crowd-pleasing favourites for fun/comfort/laugh "
-        "moods, deeper cuts for cinephile moods; <=1 per franchise; "
+        "Tune recognizability to the theme — well-loved (but not the single most obvious) picks "
+        "for fun/comfort/laugh moods, deeper cuts for cinephile moods; <=1 per franchise; "
         "mix eras incl. recent (unless the theme restricts era); vary countries/languages; "
         "add TV where episodic fits; order by strongest mood-fit first."
     )
@@ -238,6 +265,7 @@ def ai_suggest_batch(batch: list) -> dict:
         avoid = read_prev_titles(t["slug"])
         if avoid:
             line += " AVOID: " + ", ".join(avoid)
+        line += daily_lens(t["slug"])   # випадковий ракурс дня (константний розмір)
         return line
 
     theme_blocks = "\n".join(block(t) for t in batch)
@@ -634,28 +662,15 @@ def collect_candidates(theme: dict, suggestions: list) -> dict:
     return candidates
 
 
-def hydrate_valid(ordered_keys: list, target: int):
+def hydrate_pool(ordered_keys: list, cap: int) -> list:
     """
-    Йдемо по кандидатах у порядку `ordered_keys`, гідруємо uk+ru та валідуємо (країна +
-    переклад на обидві мови); лишаємо валідні до `target`. Гідруємо пул із запасом
-    (бо частина відсіється), паралельно.
-    Повертає (chosen_keys, uk_items, ru_items).
+    Гідрує uk+ru та валідує (країна / аніме / переклад) капнутий пул кандидатів паралельно.
+    Повертає ВСІ валідні (key, uk_item, ru_item) у порядку пулу — з них потім випадково беремо
+    TARGET. Cap фіксований → вартість не росте з часом.
     """
-    cap = min(len(ordered_keys), max(target * 2, target + 8))
     pool = ordered_keys[:cap]
-    results = parallel_map(hydrate_and_validate, pool)  # (key, uk, ru) | None, у порядку pool
-
-    chosen, uk_items, ru_items = [], [], []
-    for r in results:
-        if r is None:
-            continue
-        key, uk, ru = r
-        chosen.append(key)
-        uk_items.append(uk)
-        ru_items.append(ru)
-        if len(chosen) >= target:
-            break
-    return chosen, uk_items, ru_items
+    results = parallel_map(hydrate_and_validate, pool)
+    return [r for r in results if r is not None]
 
 
 def process_theme(theme: dict, suggestions: list, global_used) -> dict:
@@ -674,29 +689,47 @@ def process_theme(theme: dict, suggestions: list, global_used) -> dict:
                 if passes_filters(c, theme) and global_used[k] < MAX_THEME_REUSE]
 
     # ранжування: ІІ-добірка попереду, У КУРАТОРСЬКОМУ ПОРЯДКУ ІІ (не за популярністю),
-    # лише ультра-блокбастери зсуваємо в хвіст; discover/prev — на добивання до TARGET
-    ai_ranked = prioritize_obvious(
-        sorted((c for c in filtered if c["source"] == "ai"),
-               key=lambda c: c.get("ai_order", 10**6)))
-    other_ranked = sorted((c for c in filtered if c["source"] != "ai"),
-                          key=rank_key, reverse=True)
-    ranked = ai_ranked + other_ranked
-    ranked_keys = [(c["media_type"], c["id"]) for c in ranked]
-    print(f"  after filters: {len(ranked_keys)} (ai={len(ai_ranked)}, other={len(other_ranked)})")
+    # ІІ-кандидати у кураторському порядку; prev — лише на добір
+    ai_cands = sorted((c for c in filtered if c["source"] == "ai"),
+                      key=lambda c: c.get("ai_order", 10**6))
+    other_cands = sorted((c for c in filtered if c["source"] != "ai"),
+                         key=rank_key, reverse=True)
+    ranked_keys = [(c["media_type"], c["id"]) for c in ai_cands + other_cands]
+    print(f"  after filters: {len(ranked_keys)} (ai={len(ai_cands)}, other={len(other_cands)})")
 
-    # контент лише від ІІ: якщо ІІ нічого не дав — НЕ наповнюємо з prev/discover,
-    # а лишаємо попередній хороший файл (stale). Так у підбірку не потрапляє не-ІІ мотлох.
-    if not ai_ranked:
+    # контент лише від ІІ: якщо ІІ нічого не дав — лишаємо попередній файл (stale)
+    if not ai_cands:
         raise RuntimeError(f"AI returned no usable candidates for '{slug}' - keeping previous file")
 
-    # ротація (свіжі вперед) → гідрація з валідацією (країна + переклад uk/ru), добір до TARGET
+    # ротація (свіжі вперед) → валідація пулу → ВИПАДКОВА вибірка TARGET (свіжість день-у-день)
     prev_keys = read_prev_keys(slug)
+    prev_set = set(prev_keys)
     ordered = rotate_order(prev_keys, ranked_keys)
-    chosen_keys, uk_items, ru_items = hydrate_valid(ordered, TARGET_COUNT)
-    if not uk_items:
-        raise RuntimeError(f"no titles with both uk+ru translations for '{slug}' - keeping previous file")
+    cap = min(len(ordered), max(TARGET_COUNT * 2, TARGET_COUNT + 8))
+    valid = hydrate_pool(ordered, cap)   # [(key, uk, ru)]
+    if not valid:
+        raise RuntimeError(f"no valid (uk/ru, non-SU/CIS, non-anime) titles for '{slug}' - keeping previous file")
+
+    fresh = [v for v in valid if v[0] not in prev_set]   # яких не було в минулій версії
+    seen = [v for v in valid if v[0] in prev_set]         # торішні — лише на добір
+    rng = day_rng(slug)
+    if len(fresh) > TARGET_COUNT:
+        picked = rng.sample(fresh, TARGET_COUNT)
+    else:
+        picked = list(fresh)
+        need = TARGET_COUNT - len(picked)
+        if need > 0 and seen:
+            picked += rng.sample(seen, min(need, len(seen)))
+
+    # порядок виводу — за кураторським ai_order
+    ai_order_of = {(c["media_type"], c["id"]): c.get("ai_order", 10**6) for c in ai_cands}
+    picked.sort(key=lambda v: ai_order_of.get(v[0], 10**6))
+
+    chosen_keys = [v[0] for v in picked]
+    uk_items = [v[1] for v in picked]
+    ru_items = [v[2] for v in picked]
     if len(chosen_keys) < TARGET_COUNT:
-        print(f"  [note] only {len(chosen_keys)}/{TARGET_COUNT} valid (uk+ru, non-SU/CIS) for '{slug}'")
+        print(f"  [note] only {len(chosen_keys)}/{TARGET_COUNT} valid for '{slug}'")
 
     for key in chosen_keys:
         global_used[key] += 1
