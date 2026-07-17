@@ -71,7 +71,9 @@ AI_BUDGET_SEC = int(os.environ.get("AI_BUDGET_SEC", "300"))  # ліміт час
 _AI_START = time.monotonic()  # старт відліку бюджету ІІ (звичайний скрипт — time доступний)
 
 MAX_WORKERS = int(os.environ.get("MAX_WORKERS", "16"))   # паралелізм TMDb
-AI_WORKERS = int(os.environ.get("AI_WORKERS", "2"))      # паралелізм OpenCode
+AI_WORKERS = int(os.environ.get("AI_WORKERS", "1"))      # ПОСЛІДОВНО: free-модель під паралельними
+                                                         # запитами ділить пропускну здатність і таймаутить;
+                                                         # один запит за раз відповідає за ~15-20с
 AI_BATCH_SIZE = int(os.environ.get("AI_BATCH_SIZE", "1"))  # тем на запит. 1 = легкий надійний запит
                                                            # (single-key fallback є). (14 = один запит на всі)
 
