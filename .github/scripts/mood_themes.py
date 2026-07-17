@@ -34,6 +34,19 @@ THEMES = [
             "Brain-off popcorn, breezy and easy to follow. INCLUDE broad comedies, "
             "buddy/heist capers, light action-adventure. EXCLUDE dark, heavy, or twisty plots."
         ),
+        "styles": [
+            "buddy-cop & mismatched-duo action-comedy", "light-hearted heist capers",
+            "fish-out-of-water comedies", "globe-trotting treasure-hunt adventures",
+            "spy spoofs & breezy spy-action", "underdog sports crowd-pleasers",
+            "fun creature/monster popcorn (non-scary)", "disaster-spectacle popcorn",
+            "car & racing action romps", "family adventure romps", "road-trip comedies",
+            "80s/90s action-comedy throwbacks", "animated adventure for all ages",
+            "comedy remakes/reboots that actually work",
+        ],
+        "craft": (
+            "Deep cuts here = fun, well-liked crowd-pleasers people forgot about, not "
+            "critically-panned junk; keep it truly breezy and plot-light."
+        ),
         "genre_whitelist": {35, 12, 10751, 10759},
         "discover_movie": [12, 35],
         "discover_tv": [35],
@@ -46,6 +59,21 @@ THEMES = [
         "prompt": (
             "Puzzle-box: time loops, unreliable narrators, reality-bending, rewatch-worthy "
             "twists. EXCLUDE straightforward blockbusters and space operas even if sci-fi."
+        ),
+        "styles": [
+            "time-loop films", "unreliable-narrator mind-benders",
+            "fractured / nonlinear timelines", "reality- or simulation-questioning stories",
+            "memory & identity puzzles", "rug-pull twist thrillers",
+            "cerebral multiverse / parallel-worlds (not superhero)",
+            "ambiguous 'what really happened' films",
+            "clever low-budget high-concept sci-fi", "paranoia & conspiracy puzzle-boxes",
+            "recursion & nested-structure narratives",
+            "philosophical sci-fi that messes with your head",
+            "con-artist rug-pull capers", "puzzle-box TV series",
+        ],
+        "craft": (
+            "Favor films whose structure or twist is the whole point and rewards a rewatch; "
+            "skip anything whose twist is now common knowledge; clever indie concepts welcome."
         ),
         "genre_whitelist": {9648, 878, 53, 10765},
         "discover_movie": [878, 9648],
@@ -60,6 +88,19 @@ THEMES = [
             "Tearjerkers about love, loss, family, sacrifice that genuinely make you cry. "
             "EXCLUDE crime sagas or war epics that are merely 'serious'. TV ok if truly moving."
         ),
+        "styles": [
+            "terminal-illness & grief dramas", "parent-and-child bonds",
+            "bittersweet lost-love romances", "coming-of-age heartbreak",
+            "war-torn family separation", "loyal-animal companion tearjerkers",
+            "losing-a-friend stories", "immigrant & family-sacrifice dramas",
+            "dementia & memory-loss dramas", "long-distance / letters love stories",
+            "based-on-a-true-story tragedies", "quiet dramas about goodbyes",
+            "foreign-language emotional gut-punches", "redemption & reconciliation dramas",
+        ],
+        "craft": (
+            "Must genuinely earn the tears through character, not cheap manipulation or "
+            "TV-movie sap; foreign-language gut-punches very welcome."
+        ),
         "genre_whitelist": {18, 10749},
         "discover_movie": [18],
         "discover_tv": [18],
@@ -72,6 +113,19 @@ THEMES = [
         "prompt": (
             "Gentle low-stakes comfort with a warm, soothing feel. INCLUDE calm films, "
             "slice-of-life, gentle animation. EXCLUDE tension, violence, loud spectacle."
+        ),
+        "styles": [
+            "gentle slice-of-life dramas", "food & cooking comfort films",
+            "small-town charm stories", "gentle non-anime hand-drawn / stop-motion animation",
+            "warm friendship stories", "cozy period / British gentle dramas",
+            "bookshop / cafe / quaint-setting films", "gentle seasonal & holiday comfort",
+            "pastoral & nature calm", "cozy low-stakes rom-coms",
+            "wholesome family gentle films", "gentle feel-good musicals",
+            "cozy non-violent mysteries",
+        ],
+        "craft": (
+            "Warm, soft, low-stakes above all — nothing tense, loud, or sad; gentle non-anime "
+            "animation and quiet slice-of-life are gold."
         ),
         "genre_whitelist": {16, 10751, 10402, 35},
         "discover_movie": [16, 10751],
@@ -86,6 +140,19 @@ THEMES = [
             "Relentless action and tension — chases, heists, survival, ticking-clock "
             "thrillers. EXCLUDE slow burns and talky dramas."
         ),
+        "styles": [
+            "single-location siege & survival", "car-chase & vehicular action",
+            "heists under pressure", "ticking-clock thrillers",
+            "martial-arts & fight-driven action", "real-time / one-shot intensity",
+            "special-ops & military missions", "home-invasion survival",
+            "natural-disaster survival", "hitman & assassin action",
+            "prison-break & escape", "relentless action-horror",
+            "revenge rampages", "manhunt & chase thrillers",
+        ],
+        "craft": (
+            "Pace and tension are king — momentum must never sag; prefer lean, propulsive "
+            "genre films over bloated blockbusters."
+        ),
         "genre_whitelist": {28, 53, 12, 10759},
         "discover_movie": [28],
         "discover_tv": [10759],
@@ -98,6 +165,19 @@ THEMES = [
         "prompt": (
             "Feel-good, uplifting, life-affirming with a happy ending. INCLUDE warmth, hope, "
             "underdog wins, good-hearted humor. EXCLUDE bittersweet or downer endings."
+        ),
+        "styles": [
+            "underdog sports triumphs", "joyful musicals & dance films",
+            "feel-good friendship comedies", "inspirational true stories",
+            "optimistic coming-of-age", "unlikely-mentor & found-family",
+            "chasing-the-dream stories", "heartwarming non-anime animation",
+            "community-comes-together stories", "upbeat road-trip self-discovery",
+            "rom-coms with a joyful ending", "fish-out-of-water heartwarmers",
+            "second-chance & reinvention stories",
+        ],
+        "craft": (
+            "Must leave the viewer lighter, with a clearly happy or hopeful ending; avoid "
+            "bittersweet; earned uplift, not saccharine."
         ),
         "genre_whitelist": {10402, 10749, 35, 10751},
         "discover_movie": [10402, 10749],
@@ -112,6 +192,19 @@ THEMES = [
             "Bleak, morally grey, oppressive — noir, psychological, disturbing. EXCLUDE merely "
             "'serious' prestige dramas that aren't actually dark. TV ok if genuinely bleak."
         ),
+        "styles": [
+            "neo-noir crime", "psychological character studies",
+            "bleak revenge dramas", "slow-burn disturbing thrillers",
+            "morally-grey crime sagas", "nihilistic downbeat dramas",
+            "rural / small-town noir", "corruption & conspiracy noir",
+            "grim serial-killer procedurals", "addiction & self-destruction dramas",
+            "cold Nordic / European noir", "oppressive dystopian bleakness",
+            "disturbing character-driven horror", "true-crime-inspired grimness",
+        ],
+        "craft": (
+            "Genuinely bleak and oppressive in tone, not merely 'serious'; morally grey; "
+            "acclaimed or cult, not exploitation schlock."
+        ),
         "genre_whitelist": {80, 53, 18, 9648},
         "discover_movie": [80],
         "discover_tv": [80],
@@ -125,6 +218,19 @@ THEMES = [
             "Romantic films for two — chemistry, longing, charming rom-coms, swoony love "
             "stories. EXCLUDE bleak or tragic romances that would kill the mood."
         ),
+        "styles": [
+            "charming modern rom-coms", "swoony period romances",
+            "second-chance rekindled love", "opposites-attract chemistry",
+            "slow-burn will-they-won't-they", "romantic musicals",
+            "romances abroad / travel love", "friends-to-lovers",
+            "witty screwball-style banter romances", "holiday romances",
+            "romantic dramedies", "charming foreign-language romances",
+            "unlikely-pair romances (tasteful)",
+        ],
+        "craft": (
+            "Charming, warm chemistry that plays for two; keep it swoony and light, never "
+            "tragic; witty and stylish preferred."
+        ),
         "genre_whitelist": {10749, 35, 18},
         "discover_movie": [10749],
         "discover_tv": [10766],
@@ -137,6 +243,18 @@ THEMES = [
         "prompt": (
             "Beloved iconic classics (~1980s-2000s) people grew up with and rewatch. "
             "EXCLUDE recent films and obscure deep cuts — this mood is shared memory."
+        ),
+        "styles": [
+            "80s teen coming-of-age classics", "90s action blockbusters",
+            "beloved 80s/90s fantasy adventures", "family classics people rewatch",
+            "90s rom-com favorites", "iconic sci-fi of the era",
+            "classic 80s/90s comedy hits", "beloved non-anime animated classics",
+            "80s/90s adventure quests", "cult classics of the era",
+            "sports classics", "summer-blockbuster nostalgia",
+        ],
+        "craft": (
+            "Shared-memory icons from ~1980s-2000s people rewatch; here the OBVIOUS beloved "
+            "ones ARE the point — no obscure deep cuts, nothing after 2010."
         ),
         "genre_whitelist": {12, 14, 10751, 878, 28, 35, 18},
         "discover_movie": [12, 14],
@@ -152,6 +270,18 @@ THEMES = [
             "Easy low-attention TV to half-watch while doing chores — sitcoms, cozy "
             "procedurals, episodic comfort shows. EXCLUDE dense serialized dramas. TV only."
         ),
+        "styles": [
+            "classic multi-cam sitcoms", "single-cam workplace comedies",
+            "cozy crime procedurals", "feel-good ensemble comedies",
+            "lighthearted mystery-of-the-week series", "adult animated sitcoms (non-anime)",
+            "Britcoms & panel comfort shows", "easy medical / legal procedurals",
+            "slice-of-life dramedy series", "family sitcoms",
+            "cozy detective episodic series", "comfort rewatch series",
+        ],
+        "craft": (
+            "Half-watchable, episodic, low-plot TV you can drop in and out of; comfort and "
+            "rewatchability over prestige; TV only, no dense serialized dramas."
+        ),
         "genre_whitelist": {35, 80, 18, 10759},
         "discover_movie": [],
         "discover_tv": [35, 80],
@@ -165,6 +295,19 @@ THEMES = [
             "Real horror and suspense — dread, tension, scares, from goosebumps to "
             "terrifying. EXCLUDE action movies with monsters that aren't actually scary."
         ),
+        "styles": [
+            "slow-burn atmospheric horror", "supernatural hauntings",
+            "psychological horror", "folk horror",
+            "home-invasion / survival horror", "genuinely scary creature horror",
+            "possession & occult horror", "found-footage / mockumentary horror",
+            "Hitchcockian suspense thrillers", "body horror",
+            "cult & ritual horror", "isolation horror (cabin, remote, snowbound)",
+            "monster-in-the-dark dread", "acclaimed foreign horror (Korean, Spanish, etc.)",
+        ],
+        "craft": (
+            "Genuinely scary or suspenseful — dread and tension, not action; prefer acclaimed "
+            "and cult horror over direct-to-video schlock; strong foreign horror welcome."
+        ),
         "genre_whitelist": {27, 53, 9648, 10765},
         "discover_movie": [27],
         "discover_tv": [9648],
@@ -177,6 +320,18 @@ THEMES = [
         "prompt": (
             "Grand-scale spectacle — sweeping sagas, vast worlds, war and history on a huge "
             "canvas, for the big screen. EXCLUDE small, intimate chamber pieces."
+        ),
+        "styles": [
+            "historical war epics", "sweeping period sagas",
+            "fantasy world-building epics", "sci-fi space spectacle",
+            "ancient-world / sword-and-sandal epics", "survival-against-nature grandeur",
+            "revolution & empire sagas", "seafaring & exploration epics",
+            "sprawling crime sagas of epic scope", "mythic quests",
+            "disaster-scale spectacle", "grand historical-figure biopics",
+        ],
+        "craft": (
+            "Scale and spectacle must feel huge — vast worlds, sweeping scope, big-screen "
+            "grandeur; skip intimate small-canvas films."
         ),
         "genre_whitelist": {12, 14, 878, 10752, 36, 28, 10759, 10765, 10768},
         "discover_movie": [36, 10752, 14],
@@ -193,6 +348,19 @@ THEMES = [
             "EXCLUDE dry arthouse comedy, bleak/political satire, and comedy-dramas that aren't "
             "actually funny (no Fleabag / The Lobster / The Death of Stalin)."
         ),
+        "styles": [
+            "buddy & mismatched-duo comedies", "raunchy gross-out comedies",
+            "spoof & parody (Airplane! / Naked Gun lineage)", "slapstick & physical comedy",
+            "workplace & ensemble comedies", "stoner & slacker comedies",
+            "teen & coming-of-age comedies", "action-comedies",
+            "comedy crime capers", "fish-out-of-water comedies",
+            "holiday & party comedies", "family-friendly comedies",
+            "rom-coms that are genuinely funny", "sports comedies",
+        ],
+        "craft": (
+            "Goal is laugh-out-loud, quotable, rewatchable-for-the-jokes; NOT dry arthouse, "
+            "bleak or political satire, or comedy-dramas that aren't actually funny."
+        ),
         "genre_whitelist": {35},
         "discover_movie": [35],
         "discover_tv": [],
@@ -205,6 +373,19 @@ THEMES = [
         "prompt": (
             "Visually ravishing slow cinema — painterly, contemplative, mood over plot. "
             "INCLUDE auteur/arthouse of exceptional beauty. EXCLUDE fast, plot-driven films."
+        ),
+        "styles": [
+            "painterly period pieces", "contemplative nature cinema",
+            "long-take auteur films", "minimalist mood pieces",
+            "visually-lush foreign arthouse", "meditative journey / road films",
+            "ravishing costume dramas", "atmospheric desert / landscape films",
+            "quiet character portraits", "poetic memory & time films",
+            "striking black-and-white cinematography", "dreamlike lyrical films",
+            "seasons & pastoral beauty",
+        ],
+        "craft": (
+            "Ravishing images and contemplative mood over plot; auteur/arthouse of exceptional "
+            "visual beauty; patient pacing is a feature, not a flaw."
         ),
         "genre_whitelist": {18, 36, 10749, 14},
         "discover_movie": [36, 18],

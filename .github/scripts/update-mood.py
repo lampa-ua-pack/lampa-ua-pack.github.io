@@ -144,55 +144,24 @@ def day_rng(slug: str) -> random.Random:
     return random.Random(f"{today_str()}|{slug}")
 
 
-# «Лінзи» — легкий випадковий ракурс на ран (константний розмір промту). Три осі (епоха/регіон/
-# відтінок) дають багато різних комбінацій → щодня помітно інший зріз. Регіон — сильний
-# диференціатор. Це м'який нахил, підпорядкований настрою, а не жорсткий фільтр.
-_LENS_ERA = ["the 1950s-60s", "the 1960s-70s", "the 1970s-80s", "the 1980s-90s",
-             "the 1990s-2000s", "the mid-2000s", "the 2010s", "the last ~5 years",
-             "the early 2020s", "any era"]
-_LENS_REGION = ["American", "British or Irish", "French or wider European",
-                "East Asian (Korean, Japanese, Hong Kong, Taiwanese)",
-                "Latin American or Spanish-language", "Nordic or other less-covered",
-                "Canadian or Australian/New Zealand", "Indian or wider South Asian",
-                "Middle Eastern or Turkish", "any origin"]
-_LENS_FLAVOR = ["under-the-radar hidden gems", "cult favorites", "festival/indie darlings",
-                "solid crowd-pleasers", "ensemble or single-location stories",
-                "underseen work from acclaimed directors", "genre-benders / hard to categorize",
-                "female-led or female-directed", "based on a true story or a book",
-                "slow-burn character studies"]
-
-
-def daily_lens(slug: str) -> str:
-    """
-    Одна коротка випадкова підказка-ракурс на день: 2 осі з 3 (епоха/регіон/відтінок), щоб
-    давати різні зрізи, але не пересужувати (напр. «нішевий регіон + комедія» майже порожньо).
-    Ширші пули значень + твердіший нахил (але з м'яким запасним виходом, щоб теми не пустіли).
-    """
-    rng = day_rng("lens|" + slug)
-    axes = rng.sample(("era", "region", "flavor"), 2)
-    parts = []
-    if "era" in axes:
-        parts.append(rng.choice(_LENS_ERA))
-    if "region" in axes:
-        parts.append(rng.choice(_LENS_REGION) + " cinema")
-    if "flavor" in axes:
-        parts.append(rng.choice(_LENS_FLAVOR))
-    return (f" This run, aim for a good share of the list toward {' and '.join(parts)} — genuinely "
-            f"on-mood, not forced; only if that angle is truly too narrow, relax it and pick great "
-            f"fitting titles.")
-
-
-_NOPOP_N = [6, 10, 15]
-
-
-def daily_exclude(slug: str) -> str:
-    """
-    Ротирующая «анти-популярность» на день (константный розмір): просимо викинути ~N
-    найочевидніших тайтлів під настрій. N змінюється день-у-день → різний «зріз у глибину».
-    """
-    n = day_rng("nopop|" + slug).choice(_NOPOP_N)
-    return (f" This run, EXCLUDE the ~{n} most obvious, first-to-mind titles for this mood entirely "
-            f"— reach past them for deeper, less-named picks that still genuinely fit.")
+# Ротирующий САБ-ЖАНР дня (константний розмір промту). У кожної теми власний курований
+# список `styles` (mood_themes.py). Модель без цього тяжіє до «greatest hits» (ті самі якорі
+# щодня); сильний КОНКРЕТНИЙ саб-жанр щодня заганяє її в інший кут теми → різні глибокі
+# добірки, менше повторів. Настрій — головний, саб-жанр — вторинна лінза (див. RULES).
+def daily_style(theme: dict) -> str:
+    """Один сильний ротирующий саб-жанр на день, підпорядкований настрою теми.
+    Порожньо, якщо у теми немає `styles`."""
+    styles = theme.get("styles") or []
+    if not styles:
+        return ""
+    style = day_rng("style|" + theme["slug"]).choice(styles)
+    return (
+        f" THIS RUN, lean hard into a specific sub-style: {style}. "
+        f"RULES: (1) EVERY pick must still genuinely fit the core mood above — if this sub-style "
+        f"would pull in titles that don't fit the mood, DROP them (mood beats sub-style); "
+        f"(2) prefer lesser-known but well-made examples within this sub-style; "
+        f"(3) do NOT just name the single most obvious title everyone thinks of."
+    )
 
 
 def normalize_title(s: str) -> str:
@@ -287,33 +256,35 @@ def ai_suggest_batch(batch: list) -> dict:
         return {s: [] for s in slugs}
 
     system_prompt = (
-        "Film/TV curator with broad taste. "
+        "Film/TV curator with broad, deep taste. "
         "Return ONLY a JSON object (no prose, no fences): keys = the exact theme ids in "
         'brackets, each value = array of {"title","year"(int),"media_type":"movie"|"tv"}. '
         "Match the MOOD, not shared genre tags; drop famous titles whose real mood is wrong. "
+        "Obey each theme's own description, craft note, sub-style and EXCLUDE rules STRICTLY — "
+        "they override any default instinct. "
         "EXCLUDE anything produced in the USSR or in Russia and other post-Soviet CIS countries "
         "(Russia, Belarus, Kazakhstan, etc.). EXCLUDE Japanese anime (animated films/series). "
-        "SKIP the obvious, first-to-mind titles everyone names immediately; reach past them for "
-        "less-obvious picks that still genuinely fit the mood (real, watchable, on-mood — not "
-        "obscure misfits). "
+        "AVOID THE CANON: unless a theme explicitly asks for iconic/beloved picks, SKIP the "
+        "first-to-mind titles everyone names and reach for deeper, less-obvious ones that still "
+        "genuinely fit. If a sub-style is hard to fill, pad with OTHER on-mood DEEP CUTS — NEVER "
+        "with the most famous crowd-pleasers just to reach the count. "
         "QUALITY: favor well-reviewed titles — aim for roughly a 7+/10 audience rating; a "
         "lower-rated pick is OK only if it truly nails the mood. Less-obvious must still mean "
         "well-made, not bad-and-forgotten. "
-        "Fresh: vary picks run to run, never repeat a theme's AVOID list, and never list the "
-        "same title twice within a list. "
-        "Tune recognizability to the theme — well-loved (but not the single most obvious) picks "
-        "for fun/comfort/laugh moods, deeper cuts for cinephile moods; <=1 per franchise; "
-        "mix eras incl. recent (unless the theme restricts era); vary countries/languages; "
+        "Fresh: vary picks run to run, never repeat a theme's AVOID list, never list the same "
+        "title twice within a list; <=1 per franchise; vary eras and countries; "
         "add TV where episodic fits; order by strongest mood-fit first."
     )
 
     def block(t):
         line = f"[{t['slug']}] {t['title_ru']}: {t['prompt']}"
+        craft = t.get("craft")
+        if craft:
+            line += " " + craft              # деталі під специфіку жанру
         avoid = read_prev_titles(t["slug"])
         if avoid:
-            line += " AVOID: " + ", ".join(avoid)
-        line += daily_lens(t["slug"])      # випадковий ракурс дня (константний розмір)
-        line += daily_exclude(t["slug"])   # ротирующа анти-популярність (константний розмір)
+            line += " AVOID (already shown, do not repeat): " + ", ".join(avoid)
+        line += daily_style(t)               # сильний ротирующий саб-жанр дня (константний розмір)
         return line
 
     theme_blocks = "\n".join(block(t) for t in batch)
