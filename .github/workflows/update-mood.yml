@@ -39,8 +39,10 @@ jobs:
       - name: Generate mood collections
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-          OPENCODE_URL: ${{ secrets.OPENCODE_URL }}
-          OPENCODE_MODEL: ${{ secrets.OPENCODE_MODEL }}
+          # URL і модель не секретні — беремо з Variables або Secrets (що задано)
+          OPENCODE_URL: ${{ vars.OPENCODE_URL || secrets.OPENCODE_URL }}
+          OPENCODE_MODEL: ${{ vars.OPENCODE_MODEL || secrets.OPENCODE_MODEL }}
+          # токен — лише секрет
           OPENCODE_TOKEN: ${{ secrets.OPENCODE_TOKEN }}
         run: python .github/scripts/update-mood.py
 

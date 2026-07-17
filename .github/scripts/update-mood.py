@@ -624,6 +624,14 @@ def stale_entry(theme: dict) -> dict:
 def main():
     MOOD_DIR.mkdir(exist_ok=True)
 
+    # статус конфігурації ІІ (без витоку значень) — щоб одразу було видно, чи працює OpenCode
+    ai_ready = bool(OPENCODE_URL and OPENCODE_MODEL and OPENCODE_TOKEN)
+    print(f"[cfg] OpenCode: url={bool(OPENCODE_URL)} model={bool(OPENCODE_MODEL)} "
+          f"token={bool(OPENCODE_TOKEN)} -> {'READY' if ai_ready else 'DISABLED (discover-only)'}")
+    if not ai_ready:
+        print("[cfg] WARNING: AI curation is OFF; collections will be genre-popularity only. "
+              "Set OPENCODE_URL / OPENCODE_MODEL / OPENCODE_TOKEN.")
+
     themes = THEMES
     if MOOD_ONLY:
         themes = [t for t in THEMES if t["slug"] in MOOD_ONLY]
