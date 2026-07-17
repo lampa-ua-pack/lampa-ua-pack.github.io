@@ -1,0 +1,168 @@
+{
+  "slug": "laugh",
+  "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"currentColor\" d=\"M256,0C114.833,0,0,114.833,0,256s114.833,256,256,256s256-114.833,256-256S397.167,0,256,0z M256,472.341c-119.275,0-216.341-97.066-216.341-216.341S136.725,39.659,256,39.659c119.295,0,216.341,97.066,216.341,216.341S375.275,472.341,256,472.341z\"/><circle cx=\"176\" cy=\"200\" r=\"28\" fill=\"currentColor\"/><circle cx=\"336\" cy=\"200\" r=\"28\" fill=\"currentColor\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"28\" stroke-linecap=\"round\" d=\"M160 300a112 112 0 0 0 192 0\"/></svg>",
+  "title": "Умора",
+  "lang": "ru",
+  "updated_at": "2026-07-17T18:31:44Z",
+  "items": [
+    {
+      "id": 813,
+      "media_type": "movie",
+      "title": "Аэроплан",
+      "original_title": "Airplane!",
+      "overview": "Пытаясь вернуть бросившую его стюардессу Илейн, бывший военный лётчик Тед Страйкер, страдающий посттравматическим стрессовым расстройством, поднимается на борт пассажирского лайнера, на котором летит Илейн. Во время полёта выясняется, что из-за пищевого отравления пилоты не в состоянии управлять самолётом. Единственной надеждой пассажиров на спасение становится Тед Страйкер.",
+      "poster_path": "/8VwvyEgaUvjZLV8CCKZBdd3cF1U.jpg",
+      "backdrop_path": "/wQyvrsNSTzFVEGgarZbFkFyIciy.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.306,
+      "vote_count": 5125,
+      "release_date": "1980-06-27"
+    },
+    {
+      "id": 762,
+      "media_type": "movie",
+      "title": "Монти Пайтон и священный Грааль",
+      "original_title": "Monty Python and the Holy Grail",
+      "overview": "Король Артур и рыцари Круглого стола отправляются в невероятное путешествие на поиски Святого Грааля. В пути они попадают в самые нелепые и абсурдные ситуации.",
+      "poster_path": "/lb6rAlJJeO2YACrtWWI471MIp8z.jpg",
+      "backdrop_path": "/1KgXxv6tHXOnakqYvMPvFwYKWiw.jpg",
+      "genre_ids": [
+        12,
+        35,
+        14
+      ],
+      "vote_average": 7.806,
+      "vote_count": 6465,
+      "release_date": "1975-04-03"
+    },
+    {
+      "id": 55721,
+      "media_type": "movie",
+      "title": "Девичник в Вегасе",
+      "original_title": "Bridesmaids",
+      "overview": "У Энни в личной жизни полный бардак, и ей совсем не до веселья. Но девушке придется забыть о своих проблемах: ведь вскоре ей предстоит отправиться на девичник к лучшей подруге. Девочки оторвутся так, как мальчикам и не снилось…",
+      "poster_path": "/dLcHboNVJtcUziHB067rlS3R4Wf.jpg",
+      "backdrop_path": "/1pkpV7a02phSfAPeGVmpHaQd99J.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "vote_average": 6.511,
+      "vote_count": 4703,
+      "release_date": "2011-05-13"
+    },
+    {
+      "id": 37136,
+      "media_type": "movie",
+      "title": "Голый пистолет",
+      "original_title": "The Naked Gun: From the Files of Police Squad!",
+      "overview": "После миссии в Бейруте лейтенант полиции Лос-Анджелеса Фрэнк Дребин возвращается на родину. Здесь он узнаёт, что его бросила девушка, а коллега Нордберг получил тяжёлые ранения. Дребин берётся за расследование, постоянно попадая в нелепые ситуации. Он ещё не подозревает, что вскоре окажется в эпицентре заговора.",
+      "poster_path": "/nJ8R3BrbFd8xnlS7GgYrHtp6GU4.jpg",
+      "backdrop_path": "/qpjuVCGZvNsbDa4UyxrbAa4Dno3.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "vote_average": 7.285,
+      "vote_count": 4555,
+      "release_date": "1988-12-02"
+    },
+    {
+      "id": 8363,
+      "media_type": "movie",
+      "title": "SuperПерцы",
+      "original_title": "Superbad",
+      "overview": "Сквозь огонь и водку трое приятелей спешат на вечеринку года в честь прощания с девственностью. Как взять на абордаж красотку-одноклассницу, подорвать полицейскую машину и остаться в живых?",
+      "poster_path": "/2jc4Q1ToEsTSoqQNhCzbI0m1uaP.jpg",
+      "backdrop_path": "/coru98UcFBzJIU7bxZguxaePgu0.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.269,
+      "vote_count": 8174,
+      "release_date": "2007-08-17"
+    },
+    {
+      "id": 496,
+      "media_type": "movie",
+      "title": "Борат",
+      "original_title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+      "overview": "Телеведущий из Казахстана Борат отправляется в США, чтобы сделать репортаж об этой «величайшей в мире стране». Однако по прибытии оказалось, что главная цель его визита — поиски Памелы Андерсон с целью жениться на ней, а вовсе не съёмки документального фильма…",
+      "poster_path": "/bTUFtYSjjvmWTPa9oLzJK5qYVqn.jpg",
+      "backdrop_path": "/jJYOr36wS1B6EyGjLY17r9kNHHh.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 6.791,
+      "vote_count": 6032,
+      "release_date": "2006-11-01"
+    },
+    {
+      "id": 4638,
+      "media_type": "movie",
+      "title": "Типа крутые легавые",
+      "original_title": "Hot Fuzz",
+      "overview": "Главный лондонский полицейский, констебль Николас Эйнджел переведен из города в тихий сельский городок Сэндфорд. Он пытается привыкнуть к этой мирной, и на первый взгляд лишенной преступности жизни, а также к туповатому напарнику Дэнни Баттерману. Однако, серия ужасных происшествий потрясает городок, заставляя Эйнджела убедиться в том, что Сэндфорд — совсем не такой, каким кажется на первый взгляд. Мечты Дэнни о бурной, взрывоопасной, полной стрельбы и погонями жизни становятся все более и более реальными. Настало время для провинциальных полицейских вершить правосудие больших городов!",
+      "poster_path": "/lzMQlEDjqN0qs46BZS7pqM465ur.jpg",
+      "backdrop_path": "/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
+      "genre_ids": [
+        80,
+        28,
+        35
+      ],
+      "vote_average": 7.567,
+      "vote_count": 8421,
+      "release_date": "2007-02-14"
+    },
+    {
+      "id": 11031,
+      "media_type": "movie",
+      "title": "Это — Spinal Tap",
+      "original_title": "This Is Spinal Tap",
+      "overview": "В фильме прослеживается несколько месяцев из жизни несуществующей группы «тяжелого» рока. Это рассказ о стареющей британской группе «Спайнэл Тэп», постепенно скатывающейся с высот былой славы на самое дно музыкального мира во время последнего турне по Соединенным Штатам.",
+      "poster_path": "/b3lllDltoBws5uKZzBYVSjpjjJx.jpg",
+      "backdrop_path": "/a3FaHEGActk76BeCBingyOvEqnm.jpg",
+      "genre_ids": [
+        35,
+        10402
+      ],
+      "vote_average": 7.406,
+      "vote_count": 1651,
+      "release_date": "1984-03-02"
+    },
+    {
+      "id": 120467,
+      "media_type": "movie",
+      "title": "Отель «Гранд Будапешт»",
+      "original_title": "The Grand Budapest Hotel",
+      "overview": "Картина расскажет о легендарном консьерже популярного европейского отеля и проследит за его жизнью между двумя мировыми войнами, а также за его дружбой с юным сотрудником, который становится его протеже. Сюжет включает в себя кражу бесценной картины эпохи Возрождения, борьбу за огромное наследство и потрясения, постигшие Европу во время первой половины XX века.",
+      "poster_path": "/5qFxj03eBrkI0bUiGIonb4e0AI4.jpg",
+      "backdrop_path": "/9udCLTxTFl28RxnK8Q05E154ZGa.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "vote_average": 8.027,
+      "vote_count": 16222,
+      "release_date": "2014-02-26"
+    },
+    {
+      "id": 246741,
+      "media_type": "movie",
+      "title": "Реальные упыри",
+      "original_title": "What We Do in the Shadows",
+      "overview": "История жизни Виаго, Дикона и Владислава — трёх соседей и по совместительству бессмертных вампиров, которые всего лишь пытаются выжить в современном мире, где есть арендная плата, фейсконтроль в ночных клубах, губительный солнечный свет и другие неприятности.",
+      "poster_path": "/tmUHOe07a84zgwMeWCpwnAqUwU4.jpg",
+      "backdrop_path": "/utjThRtcnsj0GrDwNudjGdfmHfq.jpg",
+      "genre_ids": [
+        35,
+        27
+      ],
+      "vote_average": 7.547,
+      "vote_count": 3975,
+      "release_date": "2014-06-19"
+    }
+  ]
+}
