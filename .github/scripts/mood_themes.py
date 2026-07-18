@@ -326,15 +326,16 @@ THEMES = [
         ),
         "styles": [
             "historical war epics", "sweeping period sagas",
-            "fantasy world-building epics", "sci-fi space spectacle",
-            "ancient-world / sword-and-sandal epics", "survival-against-nature grandeur",
-            "revolution & empire sagas", "seafaring & exploration epics",
-            "sprawling crime sagas of epic scope", "mythic quests",
+            "fantasy world-building epics (LOTR / GoT scale)", "sci-fi space spectacle (Dune / Star Wars scale)",
+            "ancient-world / sword-and-sandal epics", "epic wilderness & survival spectacle (huge scale)",
+            "revolution & empire sagas", "seafaring & swashbuckling adventure epics",
+            "sprawling crime sagas of epic scope", "grand mythic & fantasy quests (Conan / Willow scale)",
             "disaster-scale spectacle", "grand historical-figure biopics",
         ],
         "craft": (
             "Scale and spectacle must feel huge — vast worlds, sweeping scope, big-screen "
-            "grandeur; skip intimate small-canvas films."
+            "grandeur; skip intimate small-canvas films. Lean MAINSTREAM here: the big beloved "
+            "epics belong, mixed with a few lesser-seen ones."
         ),
         "genre_whitelist": {12, 14, 878, 10752, 36, 28, 10759, 10765, 10768},
         "discover_movie": [36, 10752, 14],

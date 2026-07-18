@@ -176,7 +176,7 @@ def daily_style(theme: dict) -> str:
         f"not generic go-to picks for the mood; do NOT retreat to the usual crowd-pleasers. "
         f"(2) Still keep the core mood above — if a specific sub-style title breaks the mood, drop "
         f"THAT title (but do NOT abandon the sub-style). "
-        f"(3) Prefer lesser-known but well-made examples; never just name the most obvious titles."
+        f"(3) MIX the sub-style's mainstream pillars with lesser-known gems — not only obscure picks."
     )
 
 
@@ -280,10 +280,12 @@ def ai_suggest_batch(batch: list) -> dict:
         "they override any default instinct. "
         "EXCLUDE anything produced in the USSR or in Russia and other post-Soviet CIS countries "
         "(Russia, Belarus, Kazakhstan, etc.). EXCLUDE Japanese anime (animated films/series). "
-        "AVOID THE CANON: unless a theme explicitly asks for iconic/beloved picks, SKIP the "
-        "first-to-mind titles everyone names and reach for deeper, less-obvious ones that still "
-        "genuinely fit. If a sub-style is hard to fill, pad with OTHER on-mood DEEP CUTS — NEVER "
-        "with the most famous crowd-pleasers just to reach the count. "
+        "BALANCE recognizability: within the given sub-style, MIX the genuine mainstream pillars "
+        "everyone loves with lesser-known gems — aim for roughly half and half. Do NOT return "
+        "only obscure no-names, and do NOT return only the same few blockbusters every run (the "
+        "daily sub-style already keeps runs varied). A theme's craft note can shift this balance "
+        "(e.g. nostalgia = mostly iconic). If a sub-style is hard to fill, pad with OTHER titles "
+        "that fit the SUB-STYLE — not random off-style famous names. "
         "QUALITY: favor well-reviewed titles — aim for roughly a 7+/10 audience rating; a "
         "lower-rated pick is OK only if it truly nails the mood. Less-obvious must still mean "
         "well-made, not bad-and-forgotten. "
