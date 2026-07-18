@@ -3,24 +3,38 @@
   "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"104\" y=\"176\" width=\"216\" height=\"208\" rx=\"28\" fill=\"currentColor\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"28\" d=\"M320 224h28a52 52 0 0 1 0 104h-28\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"20\" stroke-linecap=\"round\" d=\"M168 92c-18 22 18 40 0 60M248 92c-18 22 18 40 0 60\"/></svg>",
   "title": "Затишок",
   "lang": "uk",
-  "updated_at": "2026-07-18T07:18:12Z",
+  "updated_at": "2026-07-18T07:24:25Z",
   "items": [
     {
-      "id": 546554,
-      "media_type": "movie",
-      "title": "Ножі наголо",
-      "original_title": "Knives Out",
-      "overview": "Допитливий детектив на ім’я Бенуа Блан розслідує вбивство відомого романіста Гарлана Тромбі, якого було знайдено мертвим на території власного маєтку одразу після святкування 85-річчя.  Детективу доведеться розібратися у хитросплетінні хибних слідів та брехні, щоб встановити особу вбивці.",
-      "poster_path": "/6zIRVYhGPPjdQTETiZVCkFAfz0C.jpg",
-      "backdrop_path": "/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+      "id": 93705,
+      "media_type": "tv",
+      "title": "Блідий кінь",
+      "original_title": "The Pale Horse",
+      "overview": "Після вбивства молодої жінки було знайдено таємничий перелік з іменами. Хто його склав і що це означає? За низкою раптових смертей стоїть трійця відьом чи всьому можна знайти раціональне пояснення?",
+      "poster_path": "/pFCzhg4W89ZuIJCKwVqoLueOjHy.jpg",
+      "backdrop_path": "/8gYgZeVddiiAvDzanZudU0D5OPv.jpg",
       "genre_ids": [
-        35,
-        80,
         9648
       ],
-      "vote_average": 7.84,
-      "vote_count": 14176,
-      "release_date": "2019-11-27"
+      "vote_average": 5.8,
+      "vote_count": 121,
+      "release_date": "2020-02-09"
+    },
+    {
+      "id": 120467,
+      "media_type": "movie",
+      "title": "Готель «Ґранд Будапешт»",
+      "original_title": "The Grand Budapest Hotel",
+      "overview": "Картина розповість про легендарного конс'єржа популярного європейського готелю і простежить за його життям між двома світовими війнами, а також за його дружбою з юною співробітницею, яка стає його протеже.  Сюжет включає в себе крадіжку безцінної картини епохи Відродження, боротьбу за величезний спадок і потрясіння, що спіткали Європу під час першої половини XX століття...",
+      "poster_path": "/u0bKng2BVQe7IOaJqoHwxnDx679.jpg",
+      "backdrop_path": "/9udCLTxTFl28RxnK8Q05E154ZGa.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "vote_average": 8.027,
+      "vote_count": 16222,
+      "release_date": "2014-02-26"
     },
     {
       "id": 107113,
@@ -40,37 +54,6 @@
       "release_date": "2021-08-31"
     },
     {
-      "id": 208942,
-      "media_type": "tv",
-      "title": "Джентльмен у москві",
-      "original_title": "A Gentleman in Moscow",
-      "overview": "Російський аристократ уникнув смерті та був поміщений під домашній арешт, поки перед його очима розгорталася більшовицька революція.",
-      "poster_path": "/aBU2mlyZT5BzvCkXXUewH7wfhkK.jpg",
-      "backdrop_path": "/lFzmyLYydG4Cp7NTVn8jTNyEVKR.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 6.7,
-      "vote_count": 135,
-      "release_date": "2024-03-29"
-    },
-    {
-      "id": 120467,
-      "media_type": "movie",
-      "title": "Готель «Ґранд Будапешт»",
-      "original_title": "The Grand Budapest Hotel",
-      "overview": "Картина розповість про легендарного конс'єржа популярного європейського готелю і простежить за його життям між двома світовими війнами, а також за його дружбою з юною співробітницею, яка стає його протеже.  Сюжет включає в себе крадіжку безцінної картини епохи Відродження, боротьбу за величезний спадок і потрясіння, що спіткали Європу під час першої половини XX століття...",
-      "poster_path": "/u0bKng2BVQe7IOaJqoHwxnDx679.jpg",
-      "backdrop_path": "/9udCLTxTFl28RxnK8Q05E154ZGa.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "vote_average": 8.027,
-      "vote_count": 16222,
-      "release_date": "2014-02-26"
-    },
-    {
       "id": 484,
       "media_type": "tv",
       "title": "Вона написала вбивство",
@@ -86,22 +69,6 @@
       "vote_average": 7.523,
       "vote_count": 454,
       "release_date": "1984-09-30"
-    },
-    {
-      "id": 120998,
-      "media_type": "tv",
-      "title": "Покерфейс",
-      "original_title": "Poker Face",
-      "overview": "Чарлі має незвичайну здатність визначати, коли хтось бреше. Вона вирушає в дорогу на своєму Plymouth Barracuda і на кожній зупинці зустрічає нових героїв та дивні злочини, які не може не розкрити.",
-      "poster_path": "/fFfldZFxhUtvEoNT5nSPehT3Rp2.jpg",
-      "backdrop_path": "/ccOzCmrglAjRGtqv5ClTaBEsWt8.jpg",
-      "genre_ids": [
-        80,
-        9648
-      ],
-      "vote_average": 7.4,
-      "vote_count": 510,
-      "release_date": "2023-01-26"
     },
     {
       "id": 5279,
@@ -139,21 +106,19 @@
       "release_date": "2002-07-12"
     },
     {
-      "id": 111803,
+      "id": 208942,
       "media_type": "tv",
-      "title": "Білий лотос",
-      "original_title": "The White Lotus",
-      "overview": "Це історія про постояльців і обслуговуючий персонал фешенебельного гавайського готелю. Багатії, які прибули на курорт розважитися, відпочити і, що називається, перезавантажитися, замість цього притягли з собою на райський острів всі свої проблеми. Дбайливо створювана працівниками закладу атмосфера ідилії довго не протримається.",
-      "poster_path": "/zs4rJT480JvzCrqudVQnayntI9I.jpg",
-      "backdrop_path": "/rCTLaPwuApDx8vLGjYZ9pRl7zRB.jpg",
+      "title": "Джентльмен у москві",
+      "original_title": "A Gentleman in Moscow",
+      "overview": "Російський аристократ уникнув смерті та був поміщений під домашній арешт, поки перед його очима розгорталася більшовицька революція.",
+      "poster_path": "/aBU2mlyZT5BzvCkXXUewH7wfhkK.jpg",
+      "backdrop_path": "/lFzmyLYydG4Cp7NTVn8jTNyEVKR.jpg",
       "genre_ids": [
-        35,
-        18,
-        9648
+        18
       ],
-      "vote_average": 7.596,
-      "vote_count": 1462,
-      "release_date": "2021-07-11"
+      "vote_average": 6.7,
+      "vote_count": 135,
+      "release_date": "2024-03-29"
     },
     {
       "id": 41956,
@@ -172,6 +137,39 @@
       "vote_average": 7.5,
       "vote_count": 328,
       "release_date": "2011-10-25"
+    },
+    {
+      "id": 111803,
+      "media_type": "tv",
+      "title": "Білий лотос",
+      "original_title": "The White Lotus",
+      "overview": "Це історія про постояльців і обслуговуючий персонал фешенебельного гавайського готелю. Багатії, які прибули на курорт розважитися, відпочити і, що називається, перезавантажитися, замість цього притягли з собою на райський острів всі свої проблеми. Дбайливо створювана працівниками закладу атмосфера ідилії довго не протримається.",
+      "poster_path": "/zs4rJT480JvzCrqudVQnayntI9I.jpg",
+      "backdrop_path": "/rCTLaPwuApDx8vLGjYZ9pRl7zRB.jpg",
+      "genre_ids": [
+        35,
+        18,
+        9648
+      ],
+      "vote_average": 7.596,
+      "vote_count": 1462,
+      "release_date": "2021-07-11"
+    },
+    {
+      "id": 120998,
+      "media_type": "tv",
+      "title": "Покерфейс",
+      "original_title": "Poker Face",
+      "overview": "Чарлі має незвичайну здатність визначати, коли хтось бреше. Вона вирушає в дорогу на своєму Plymouth Barracuda і на кожній зупинці зустрічає нових героїв та дивні злочини, які не може не розкрити.",
+      "poster_path": "/fFfldZFxhUtvEoNT5nSPehT3Rp2.jpg",
+      "backdrop_path": "/ccOzCmrglAjRGtqv5ClTaBEsWt8.jpg",
+      "genre_ids": [
+        80,
+        9648
+      ],
+      "vote_average": 7.4,
+      "vote_count": 510,
+      "release_date": "2023-01-26"
     }
   ]
 }
