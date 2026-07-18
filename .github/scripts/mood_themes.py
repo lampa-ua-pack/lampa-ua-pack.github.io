@@ -174,18 +174,22 @@ THEMES = [
             "underdog wins, good-hearted humor. EXCLUDE bittersweet or downer endings."
         ),
         "styles": [
-            "underdog sports triumphs", "joyful musicals & dance films",
-            "feel-good friendship comedies", "inspirational true stories",
-            "optimistic coming-of-age", "unlikely-mentor & found-family",
-            "chasing-the-dream stories", "heartwarming non-anime animation",
-            "community-comes-together stories", "upbeat road-trip self-discovery",
+            "underdog sports triumphs", "joyful, upbeat musicals (nothing tragic — no Dancer in the Dark / Les Miserables)",
+            "feel-good friendship comedies", "uplifting inspirational true stories (triumphant, not tragic)",
+            "feel-good, funny coming-of-age (happy ending, not bittersweet dramas)", "warm mentor & found-family stories (no abusive-mentor dramas)",
+            "feel-good dream-chasers that end in triumph",
+            "cheerful, upbeat non-anime animation (nothing sad or heavy)",
+            "community-comes-together stories", "feel-good holiday & Christmas movies",
             "rom-coms with a joyful ending", "fish-out-of-water heartwarmers",
-            "second-chance & reinvention stories",
+            "hopeful comeback & second-chance stories (uplifting, not tragic)",
         ],
         "craft": (
-            "Must leave the viewer lighter, with a clearly happy or hopeful ending; avoid "
-            "bittersweet. No dark, heavy or intense films even if technically 'inspiring' "
-            "(no Whiplash, no downer or ambiguous endings); earned uplift, not saccharine."
+            "OVERRIDING GATE (beats the sub-style): EVERY pick must FEEL uplifting and end happily. "
+            "Before adding a title, judge its overall tone and ending — if it is sad, heavy, bleak, "
+            "tragic or bittersweet, DROP it however acclaimed or well-fitting (NO Whiplash, "
+            "The Wrestler, Black Swan, Requiem for a Dream, Dancer in the Dark, Mary and Max, "
+            "The Breadwinner, Persepolis, Grave of the Fireflies, Manchester by the Sea, Blue "
+            "Valentine, Into the Wild, Wild). Earned uplift, not saccharine."
         ),
         "genre_whitelist": {10402, 10749, 35, 10751},
         "discover_movie": [10402, 10749],
