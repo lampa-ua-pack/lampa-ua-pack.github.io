@@ -367,10 +367,13 @@ THEMES = [
             "rom-coms that are genuinely funny", "sports comedies",
         ],
         "craft": (
-            "Every pick must be a real COMEDY that actually makes you laugh — if a title is more "
-            "drama than laughs, DROP it. NOT dry arthouse, bleak or political satire, and NO "
-            "coming-of-age dramas (no Perks of Being a Wallflower, Moonlight, Lady Bird, "
-            "Eighth Grade, Boyhood, Mean Creek — those are dramas, not comedies)."
+            "Every pick must be a film you'd call a COMEDY first — its main job is to make you "
+            "laugh. TEST: if a reasonable viewer would describe it as a drama (even a funny, "
+            "touching or bittersweet one), EXCLUDE it. INCLUDE laugh-first films even if a little "
+            "heartfelt (Mean Girls, Superbad, 10 Things I Hate About You, Booksmart); EXCLUDE "
+            "drama-first coming-of-age / bittersweet indies (no Perks of Being a Wallflower, "
+            "Moonlight, Lady Bird, Eighth Grade, Boyhood, Mean Creek, The Way Way Back, Little "
+            "Miss Sunshine). Also not dry arthouse or bleak/political satire."
         ),
         "require_genre": {35},
         "genre_whitelist": {35},
