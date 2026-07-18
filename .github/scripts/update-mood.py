@@ -764,19 +764,27 @@ def process_theme(theme: dict, suggestions: list, global_used) -> dict:
     fresh = [v for v in valid if v[0] not in prev_set]   # яких не було в минулій версії
     seen = [v for v in valid if v[0] in prev_set]         # торішні — лише на добір
 
-    # якісний тир + РІВНОМІРНА вибірка в межах тиру: спершу свіжі 7+, тоді свіжі нижче
-    # (послаблення), тоді торішні 7+, торішні нижче. Рандомізація не змінюється — це той самий
-    # rng.sample, лише спершу з якісного відра; планку 7+ також просимо в промті.
+    # М'який жанровий гард + якісний тир + РІВНОМІРНА вибірка в межах тиру.
+    # Черговість відер: свіжі перед торішніми; у межах — спершу ЖАНР-збіг, тоді якість (>=qmin).
+    # М'який гард (theme.require_genre, напр. laugh->Comedy): не-жанрові тайтли беруться ЛИШЕ
+    # коли жанрових бракує на TARGET — не хард-дроп, а пріоритет. Рандомізація в тирі — той
+    # самий rng.sample. Теми без require_genre поводяться як раніше (не-жанрові відра порожні).
     def _va(v):
         return v[1].get("vote_average") or 0
     qmin = float(theme.get("quality_min", QUALITY_MIN))  # тема може мати свій поріг (напр. попкорн)
-    fresh_hi = [v for v in fresh if _va(v) >= qmin]
-    fresh_lo = [v for v in fresh if _va(v) < qmin]
-    seen_hi = [v for v in seen if _va(v) >= qmin]
-    seen_lo = [v for v in seen if _va(v) < qmin]
+    req_genre = set(theme.get("require_genre") or ())
+    def _gmatch(v):
+        return (not req_genre) or bool(set(v[1].get("genre_ids") or ()) & req_genre)
+
+    def _tier(pool):
+        gm = [v for v in pool if _gmatch(v)]
+        ng = [v for v in pool if not _gmatch(v)]
+        return ([v for v in gm if _va(v) >= qmin], [v for v in gm if _va(v) < qmin],
+                [v for v in ng if _va(v) >= qmin], [v for v in ng if _va(v) < qmin])
+
     rng = day_rng(slug)
     picked = []
-    for bucket in (fresh_hi, fresh_lo, seen_hi, seen_lo):
+    for bucket in (*_tier(fresh), *_tier(seen)):
         if len(picked) >= TARGET_COUNT:
             break
         need = TARGET_COUNT - len(picked)
