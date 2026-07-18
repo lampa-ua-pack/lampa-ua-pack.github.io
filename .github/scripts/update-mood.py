@@ -767,10 +767,11 @@ def process_theme(theme: dict, suggestions: list, global_used) -> dict:
     # rng.sample, лише спершу з якісного відра; планку 7+ також просимо в промті.
     def _va(v):
         return v[1].get("vote_average") or 0
-    fresh_hi = [v for v in fresh if _va(v) >= QUALITY_MIN]
-    fresh_lo = [v for v in fresh if _va(v) < QUALITY_MIN]
-    seen_hi = [v for v in seen if _va(v) >= QUALITY_MIN]
-    seen_lo = [v for v in seen if _va(v) < QUALITY_MIN]
+    qmin = float(theme.get("quality_min", QUALITY_MIN))  # тема може мати свій поріг (напр. попкорн)
+    fresh_hi = [v for v in fresh if _va(v) >= qmin]
+    fresh_lo = [v for v in fresh if _va(v) < qmin]
+    seen_hi = [v for v in seen if _va(v) >= qmin]
+    seen_lo = [v for v in seen if _va(v) < qmin]
     rng = day_rng(slug)
     picked = []
     for bucket in (fresh_hi, fresh_lo, seen_hi, seen_lo):

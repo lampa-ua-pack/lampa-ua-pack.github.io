@@ -35,18 +35,19 @@ THEMES = [
             "buddy/heist capers, light action-adventure. EXCLUDE dark, heavy, or twisty plots."
         ),
         "styles": [
-            "buddy-cop & mismatched-duo action-comedy", "light-hearted heist capers",
+            "buddy-cop & mismatched-duo action-comedy", "light-hearted heist & caper comedies",
             "fish-out-of-water comedies", "globe-trotting treasure-hunt adventures",
             "spy spoofs & breezy spy-action", "underdog sports crowd-pleasers",
-            "fun creature/monster popcorn (non-scary)", "disaster-spectacle popcorn",
-            "car & racing action romps", "family adventure romps", "road-trip comedies",
-            "80s/90s action-comedy throwbacks", "animated adventure for all ages",
+            "fun non-scary creature & monster adventures", "martial-arts & kung-fu comedy romps",
+            "car & racing action romps", "family adventure comedy movies", "road-trip comedies",
+            "80s/90s action-comedy throwbacks", "comedy Westerns & adventure spoofs",
             "comedy remakes/reboots that actually work",
         ],
         "craft": (
             "Deep cuts here = fun, well-liked crowd-pleasers people forgot about, not "
-            "critically-panned junk; keep it truly breezy and plot-light."
+            "critically-panned junk; keep it truly breezy and plot-light; movies over TV."
         ),
+        "quality_min": 6.0,
         "genre_whitelist": {35, 12, 10751, 10759},
         "discover_movie": [12, 35],
         "discover_tv": [35],
@@ -116,16 +117,17 @@ THEMES = [
         ),
         "styles": [
             "gentle slice-of-life dramas", "food & cooking comfort films",
-            "small-town charm stories", "gentle non-anime hand-drawn / stop-motion animation",
+            "small-town charm stories",
+            "gentle Western/European stop-motion & hand-drawn animation (NO anime)",
             "warm friendship stories", "cozy period / British gentle dramas",
             "bookshop / cafe / quaint-setting films", "gentle seasonal & holiday comfort",
             "pastoral & nature calm", "cozy low-stakes rom-coms",
-            "wholesome family gentle films", "gentle feel-good musicals",
+            "wholesome family gentle films", "quiet feel-good indie comedies",
             "cozy non-violent mysteries",
         ],
         "craft": (
-            "Warm, soft, low-stakes above all — nothing tense, loud, or sad; gentle non-anime "
-            "animation and quiet slice-of-life are gold."
+            "Warm, soft, low-stakes above all — nothing tense, loud, or sad; quiet slice-of-life "
+            "and gentle non-anime animation are gold. NO Japanese anime (including Ghibli)."
         ),
         "genre_whitelist": {16, 10751, 10402, 35},
         "discover_movie": [16, 10751],
