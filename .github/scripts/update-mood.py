@@ -117,6 +117,14 @@ MAX_THEME_REUSE = int(os.environ.get("MAX_THEME_REUSE", "2"))  # у скільк
 
 MOOD_ONLY = [s.strip() for s in os.environ.get("MOOD_ONLY", "").split(",") if s.strip()]
 
+# Нонс прогону: різний КОЖЕН запуск (крон і ручний), навіть у межах одного дня. Дає шар
+# рандомізації ран-до-ран ПОВЕРХ денної ротації саб-жанрів (яку тримає daily_style за датою).
+# Пріоритет: MOOD_RUN_SEED (відтворювані тести) -> GITHUB_RUN_ID (унікальний на кожен ран
+# Actions, включно з ручним) -> час у нс (локальний прогін).
+RUN_SEED = (os.environ.get("MOOD_RUN_SEED", "").strip()
+            or os.environ.get("GITHUB_RUN_ID", "").strip()
+            or str(time.time_ns()))
+
 # Спільна сесія: пул з'єднань під розмір пулу потоків (щоб воркери не блокувались на конекшенах).
 session = requests.Session()
 _adapter = HTTPAdapter(pool_connections=MAX_WORKERS, pool_maxsize=MAX_WORKERS, max_retries=2)
@@ -144,23 +152,48 @@ def today_str() -> str:
     return os.environ.get("MOOD_DAY") or datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
 
-def day_rng(slug: str) -> random.Random:
-    """Детермінований генератор на (день, тема): у межах дня стабільно, між днями різне."""
-    return random.Random(f"{today_str()}|{slug}")
+def run_rng(tag: str) -> random.Random:
+    """RNG на КОНКРЕТНИЙ прогін: сид = (день, тег, RUN_SEED) → різний щозапуск, навіть між
+    ручними ре-ранами того самого дня. Для шафлу пулу та фінальної вибірки — щоб добірка
+    помітно відрізнялась ран-до-ран (денну ротацію PRIMARY-саб-жанру тримає daily_style за датою)."""
+    return random.Random(f"{today_str()}|{tag}|{RUN_SEED}")
 
 
-# Ротирующий САБ-ЖАНР дня (константний розмір промту). У кожної теми власний курований
-# список `styles` (mood_themes.py). Модель без цього тяжіє до «greatest hits» (ті самі якорі
-# щодня); сильний КОНКРЕТНИЙ саб-жанр щодня заганяє її в інший кут теми → різні глибокі
-# добірки, менше повторів. Настрій — головний, саб-жанр — вторинна лінза (див. RULES).
+# М'які орто-модифікатори лінзи — комбінуються з парою саб-жанрів, ротуються per-run (RUN_SEED).
+# Нейтральні + "where the era/theme allows", бо craft/EXCLUDE теми у промті головніші (nostalgia
+# з max_year підстрахований ще й кодовим фільтром, тож "recent" безпечний).
+RUN_LENSES = [
+    "with an international / world-cinema slant where the theme allows",
+    "leaning older / classic where the era fits",
+    "leaning more recent where the era fits",
+    "favoring lesser-known hidden gems",
+    "favoring the big beloved pillars",
+    "spanning a deliberate mix of countries and decades",
+    "played straight — no extra modifier",
+]
+
+# Для тем з overriding tone-gate (theme["tone_strict"], напр. mood-up/cozy-rain) — лише безпечні
+# модифікатори. Ризикові прибрані: hidden-gems тягне артхаус/bittersweet (Shape of Water, Frances
+# Ha), older/recent зсуває тон. Лишаємо pillars/international/mix/straight — вони тон не ламають.
+STRICT_LENSES = [
+    "favoring the big beloved pillars",
+    "with an international / world-cinema slant where the theme allows",
+    "spanning a deliberate mix of countries and decades",
+    "played straight — no extra modifier",
+]
+
+
+# КОМБІНОВАНА ЛІНЗА (константний розмір промту). У кожної теми власний курований список `styles`
+# (mood_themes.py). Замість ОДНОГО саб-жанру лінза комбінує ДВА + м'який модифікатор: пар
+# n*(n-1) × модифікатори × RUN_SEED → простір різноманіття величезний, а обидві осі — з курованого
+# (mood-safe) списку, тож настрій не пливе. Настрій — головний, саб-жанри — вторинна лінза.
 def daily_style(theme: dict) -> str:
-    """Один сильний ротирующий саб-жанр на день, підпорядкований настрою теми.
+    """Комбінована лінза: PRIMARY (саб-жанр за ДНЕМ) × SECONDARY (саб-жанр за ПРОГОНОМ) × MODIFIER.
     Порожньо, якщо у теми немає `styles`.
 
-    Вибір НЕ випадковий незалежно щодня (тоді сусідні дні можуть збігтися — день1==день3),
-    а перебір ПЕРЕМІШАНОЇ перестановки за порядковим номером дня: у межах циклу з len(styles)
-    днів кожен стиль трапляється рівно раз → сусідні дні й день1/день3 НІКОЛИ не повторюють
-    стиль. Кожен новий цикл перемішується інакше (сид від номера циклу)."""
+    PRIMARY тримає день-к-дню: стабільна перестановка на тему + крок +1 за ordinal → сусідні дні
+    й день1/день3 НІКОЛИ не повторюють PRIMARY (при n>=3). SECONDARY і MODIFIER крутяться від
+    RUN_SEED → різні щопрогін, тож навіть ручні ре-рани того самого дня дають інший зріз."""
     styles = theme.get("styles") or []
     if not styles:
         return ""
@@ -169,19 +202,38 @@ def daily_style(theme: dict) -> str:
         ordinal = datetime.strptime(today_str(), "%Y-%m-%d").toordinal()
     except Exception:
         ordinal = 0
-    # СТАБІЛЬНА перестановка на тему + крок +1 щодня: 3 підряд дні дають ordinal%n, (o+1)%n,
-    # (o+2)%n — при n>=3 завжди РІЗНІ індекси, тож сусідні дні й день1/день3 НІКОЛИ не збігаються
-    # (без reshuffle на границі циклу, який раніше давав повтори). Період повного циклу = n днів.
     order = list(range(n))
     random.Random("styleorder|" + theme["slug"]).shuffle(order)
-    style = styles[order[ordinal % n]]
+    primary = styles[order[ordinal % n]]
+
+    secondary = ""
+    if n >= 2:
+        j = run_rng("secondary|" + theme["slug"]).randrange(n)
+        if styles[j] == primary:
+            j = (j + 1) % n
+        secondary = styles[j]
+    lenses = STRICT_LENSES if theme.get("tone_strict") else RUN_LENSES
+    modifier = ""
+    if lenses:
+        modifier = lenses[run_rng("lens|" + theme["slug"]).randrange(len(lenses))]
+
+    # видимість у логах: перевірити, що PRIMARY стабільний у межах дня, а комбінація різна по ранах
+    print(f"  [lens] {theme['slug']}: PRIMARY={primary} | SECONDARY={secondary or '-'} | MOD={modifier or '-'}")
+
+    if secondary:
+        return (
+            f" THIS RUN, build the list from TWO angles of this mood — PRIMARY sub-style: {primary}; "
+            f"SECONDARY sub-style (for variety): {secondary}. Slant: {modifier}. "
+            f"RULES: (1) MOST of the list must clearly BE the PRIMARY sub-style, with a solid chunk "
+            f"from the SECONDARY — do NOT retreat to generic go-to picks for the mood. "
+            f"(2) Core mood OVERRIDES — if a sub-style title breaks the mood, drop THAT title. "
+            f"(3) MIX mainstream pillars with lesser-known gems — not only obscure picks."
+        )
     return (
-        f" THIS RUN, lean hard into ONE specific sub-style: {style}. "
-        f"RULES: (1) COMMIT to this sub-style — MOST of the list must clearly BE this sub-style, "
-        f"not generic go-to picks for the mood; do NOT retreat to the usual crowd-pleasers. "
-        f"(2) Still keep the core mood above — if a specific sub-style title breaks the mood, drop "
-        f"THAT title (but do NOT abandon the sub-style). "
-        f"(3) MIX the sub-style's mainstream pillars with lesser-known gems — not only obscure picks."
+        f" THIS RUN, lean hard into ONE specific sub-style: {primary}. Slant: {modifier}. "
+        f"RULES: (1) COMMIT — MOST of the list must clearly BE this sub-style, not generic go-to "
+        f"picks. (2) Core mood OVERRIDES — drop any title that breaks it. "
+        f"(3) MIX mainstream pillars with lesser-known gems."
     )
 
 
@@ -314,7 +366,8 @@ def ai_suggest_batch(batch: list) -> dict:
     user_prompt = (
         f"Themes:\n{theme_blocks}\n\n"
         f"For EACH theme id return {AI_REQUEST_COUNT} titles that fit THAT mood. "
-        f"JSON object keyed by the exact ids."
+        f"This is an independent fresh run (variation token {RUN_SEED}) — vary hard from your "
+        f"obvious defaults and from the AVOID lists. JSON object keyed by the exact ids."
     )
 
     content = _opencode_chat(system_prompt, user_prompt, "batch:" + ",".join(slugs))
@@ -753,7 +806,7 @@ def process_theme(theme: dict, suggestions: list, global_used) -> dict:
     # той самий верх, звідси цикл повторів. Тепер день-сеяний shuffle зсуває вікно cap
     # день-у-день (анти-повтор); ai_order лишається для ФІНАЛЬНОГО порядку виводу нижче.
     ai_cands = [c for c in filtered if c["source"] == "ai"]
-    day_rng("pool|" + slug).shuffle(ai_cands)
+    run_rng("pool|" + slug).shuffle(ai_cands)
     other_cands = sorted((c for c in filtered if c["source"] != "ai"),
                          key=rank_key, reverse=True)
     ranked_keys = [(c["media_type"], c["id"]) for c in ai_cands + other_cands]
@@ -793,7 +846,7 @@ def process_theme(theme: dict, suggestions: list, global_used) -> dict:
         return ([v for v in gm if _va(v) >= qmin], [v for v in gm if _va(v) < qmin],
                 [v for v in ng if _va(v) >= qmin], [v for v in ng if _va(v) < qmin])
 
-    rng = day_rng(slug)
+    rng = run_rng(slug)
     picked = []
     for bucket in (*_tier(fresh), *_tier(seen)):
         if len(picked) >= TARGET_COUNT:
