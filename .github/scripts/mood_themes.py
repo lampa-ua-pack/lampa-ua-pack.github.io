@@ -412,8 +412,9 @@ THEMES = [
         "prompt": (
             "Broadly funny, laugh-out-loud crowd-pleasers people quote and rewatch for the "
             "laughs — mainstream and cult comedies, spoofs, slapstick, feel-good farces. "
-            "EXCLUDE dry arthouse comedy, bleak/political satire, comedy-dramas that aren't "
-            "actually funny (no Fleabag / The Lobster / The Death of Stalin), and anything that is "
+            "EXCLUDE dry arthouse comedy, ANY political comedy or political satire, bleak satire, "
+            "comedy-dramas that aren't actually funny (no Fleabag / The Lobster / The Death of "
+            "Stalin / In the Loop / Wag the Dog / Dr. Strangelove), and anything that is "
             "fundamentally a SPORTS movie or a BIOGRAPHY / biopic."
         ),
         "styles": [
@@ -435,9 +436,11 @@ THEMES = [
             "heartfelt (Mean Girls, Superbad, 10 Things I Hate About You, Booksmart); EXCLUDE "
             "drama-first coming-of-age / bittersweet indies (no Perks of Being a Wallflower, "
             "Moonlight, Lady Bird, Eighth Grade, Boyhood, Mean Creek, The Way Way Back, Little "
-            "Miss Sunshine). Also not dry arthouse or bleak/political satire. And NEVER a SPORTS "
-            "movie or a BIOGRAPHY / biopic — even with funny moments those are not comedies (no "
-            "sports dramas, no athlete/musician life-stories)."
+            "Miss Sunshine). Also not dry arthouse or bleak satire, and NEVER political — no "
+            "political comedies or political satire (no The Death of Stalin, In the Loop, Wag the "
+            "Dog, Dr. Strangelove, Veep). And NEVER a SPORTS movie or a BIOGRAPHY / biopic — even "
+            "with funny moments those are not comedies (no sports dramas, no athlete/musician "
+            "life-stories)."
         ),
         "require_genre": {35},
         "genre_whitelist": {35},
