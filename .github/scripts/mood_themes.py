@@ -48,6 +48,7 @@ THEMES = [
             "critically-panned junk; keep it truly breezy and plot-light; movies over TV."
         ),
         "quality_min": 6.0,
+        "require_genre": {35, 12, 10751, 10759, 28, 14, 878, 9648},
         "genre_whitelist": {35, 12, 10751, 10759},
         "discover_movie": [12, 35],
         "discover_tv": [35],
@@ -76,6 +77,7 @@ THEMES = [
             "Favor films whose structure or twist is the whole point and rewards a rewatch; "
             "skip anything whose twist is now common knowledge; clever indie concepts welcome."
         ),
+        "require_genre": {9648, 878, 53, 10765, 18, 14, 27},
         "genre_whitelist": {9648, 878, 53, 10765},
         "discover_movie": [878, 9648],
         "discover_tv": [10765],
@@ -102,6 +104,7 @@ THEMES = [
             "Must genuinely earn the tears through character, not cheap manipulation or "
             "TV-movie sap; foreign-language gut-punches very welcome."
         ),
+        "require_genre": {18, 10749},
         "genre_whitelist": {18, 10749},
         "discover_movie": [18],
         "discover_tv": [18],
@@ -129,6 +132,7 @@ THEMES = [
             "Warm, soft, low-stakes above all — nothing tense, loud, or sad; quiet slice-of-life "
             "and gentle non-anime animation are gold. NO Japanese anime (including Ghibli)."
         ),
+        "require_genre": {16, 10751, 10402, 35, 18, 10749, 99, 14},
         "genre_whitelist": {16, 10751, 10402, 35},
         "discover_movie": [16, 10751],
         "discover_tv": [10751],
@@ -155,6 +159,7 @@ THEMES = [
             "Pace and tension are king — momentum must never sag; prefer lean, propulsive "
             "genre films over bloated blockbusters."
         ),
+        "require_genre": {28, 53, 12, 10759, 80, 27, 878},
         "genre_whitelist": {28, 53, 12, 10759},
         "discover_movie": [28],
         "discover_tv": [10759],
@@ -179,7 +184,8 @@ THEMES = [
         ],
         "craft": (
             "Must leave the viewer lighter, with a clearly happy or hopeful ending; avoid "
-            "bittersweet; earned uplift, not saccharine."
+            "bittersweet. No dark, heavy or intense films even if technically 'inspiring' "
+            "(no Whiplash, no downer or ambiguous endings); earned uplift, not saccharine."
         ),
         "genre_whitelist": {10402, 10749, 35, 10751},
         "discover_movie": [10402, 10749],
@@ -207,6 +213,7 @@ THEMES = [
             "Genuinely bleak and oppressive in tone, not merely 'serious'; morally grey; "
             "acclaimed or cult, not exploitation schlock."
         ),
+        "require_genre": {80, 53, 18, 9648, 27, 10768},
         "genre_whitelist": {80, 53, 18, 9648},
         "discover_movie": [80],
         "discover_tv": [80],
@@ -236,6 +243,7 @@ THEMES = [
             "Charming, warm chemistry that plays for two; keep it swoony and light, never "
             "tragic; span eras and styles — do NOT default to recent indie rom-coms."
         ),
+        "require_genre": {10749, 35, 18},
         "genre_whitelist": {10749, 35, 18},
         "discover_movie": [10749],
         "discover_tv": [10766],
@@ -261,6 +269,7 @@ THEMES = [
             "Shared-memory icons from ~1980s-2000s people rewatch; here the OBVIOUS beloved "
             "ones ARE the point — no obscure deep cuts, nothing after 2010."
         ),
+        "require_genre": {12, 14, 10751, 878, 28, 35, 18, 27, 10749, 53, 80, 10759, 10765},
         "genre_whitelist": {12, 14, 10751, 878, 28, 35, 18},
         "discover_movie": [12, 14],
         "discover_tv": [10759],
@@ -290,6 +299,7 @@ THEMES = [
             "must be genuinely LIGHT and low-attention: no dense serialized dramas, no heavy or "
             "demanding films."
         ),
+        "require_genre": {35, 80, 18, 10759, 10766, 10765, 9648, 10751},
         "genre_whitelist": {35, 80, 18, 10759},
         "discover_movie": [],
         "discover_tv": [35, 80],
@@ -316,6 +326,7 @@ THEMES = [
             "Genuinely scary or suspenseful — dread and tension, not action; prefer acclaimed "
             "and cult horror over direct-to-video schlock; strong foreign horror welcome."
         ),
+        "require_genre": {27, 53, 9648, 10765},
         "genre_whitelist": {27, 53, 9648, 10765},
         "discover_movie": [27],
         "discover_tv": [9648],
@@ -342,6 +353,7 @@ THEMES = [
             "grandeur; skip intimate small-canvas films. Lean MAINSTREAM here: the big beloved "
             "epics belong, mixed with a few lesser-seen ones."
         ),
+        "require_genre": {12, 14, 878, 10752, 36, 28, 10759, 10765, 10768, 37, 18},
         "genre_whitelist": {12, 14, 878, 10752, 36, 28, 10759, 10765, 10768},
         "discover_movie": [36, 10752, 14],
         "discover_tv": [10768],
@@ -402,6 +414,7 @@ THEMES = [
             "Ravishing images and contemplative mood over plot; auteur/arthouse of exceptional "
             "visual beauty; patient pacing is a feature, not a flaw."
         ),
+        "require_genre": {18, 36, 10749, 14, 99, 10402},
         "genre_whitelist": {18, 36, 10749, 14},
         "discover_movie": [36, 18],
         "discover_tv": [18],

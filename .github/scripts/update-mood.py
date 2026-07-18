@@ -91,7 +91,7 @@ AI_WORKERS = int(os.environ.get("AI_WORKERS", "1"))      # ПОСЛІДОВНО:
 AI_BATCH_SIZE = int(os.environ.get("AI_BATCH_SIZE", "1"))  # тем на запит. 1 = легкий надійний запит
                                                            # (single-key fallback є). (14 = один запит на всі)
 
-TARGET_COUNT = int(os.environ.get("TARGET_COUNT", "10"))        # фінальних тайтлів на тему
+TARGET_COUNT = int(os.environ.get("TARGET_COUNT", "15"))        # фінальних тайтлів на тему
 AI_REQUEST_COUNT = int(os.environ.get("AI_REQUEST_COUNT", "24"))  # назв просимо в ІІ (запас на резолв/
                                                                  # дедуп/відсів без перекладу; ІІ — єдине джерело)
 # країни виробництва під блок (СРСР + РФ/СНД) — жорсткий бекстоп до промт-виключення (ISO 3166-1)
