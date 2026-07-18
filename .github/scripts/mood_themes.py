@@ -223,12 +223,14 @@ THEMES = [
         "styles": [
             "classic Old-Hollywood romances (1930s-50s)",
             "sweeping historical / costume period romances", "romantic musicals",
-            "charming foreign-language romances (French, Korean, Italian, etc.)",
+            "charming foreign-language romances (live-action — French, Korean, Italian; NO anime)",
             "epic romantic dramas", "screwball & witty-banter romances",
             "holiday & seasonal romances", "second-chance & later-in-life romances",
             "opposites-attract rom-coms", "friends-to-lovers stories",
-            "dance & music-driven romances", "literary-adaptation romances (Austen & co.)",
-            "road-trip & travel romances", "teen & coming-of-age romances",
+            "enemies-to-lovers romances",
+            "literary-adaptation romances (Austen & co.)",
+            "summer & vacation romances",
+            "teen & high-school romances",
         ],
         "craft": (
             "Charming, warm chemistry that plays for two; keep it swoony and light, never "
@@ -270,20 +272,23 @@ THEMES = [
         "title_uk": "Фоном",
         "title_ru": "Фоном",
         "prompt": (
-            "Easy low-attention TV to half-watch while doing chores — sitcoms, cozy "
-            "procedurals, episodic comfort shows. EXCLUDE dense serialized dramas. TV only."
+            "Easy, low-attention comfort to half-watch while doing chores — sitcoms, cozy "
+            "procedurals, light comedies and feel-good movies alike (TV OR film). EXCLUDE dense "
+            "serialized dramas and anything that demands full attention."
         ),
         "styles": [
-            "classic multi-cam sitcoms", "single-cam workplace comedies",
-            "cozy crime procedurals", "feel-good ensemble comedies",
-            "lighthearted mystery-of-the-week series", "adult animated sitcoms (non-anime)",
-            "Britcoms & panel comfort shows", "easy medical / legal procedurals",
-            "slice-of-life dramedy series", "family sitcoms",
-            "cozy detective episodic series", "comfort rewatch series",
+            "classic multi-cam sitcoms", "single-cam workplace sitcoms",
+            "cozy crime & detective procedurals", "feel-good ensemble comedy series",
+            "lighthearted mystery-of-the-week", "adult animated sitcoms (non-anime)",
+            "Britcoms & comfort panel shows", "easy feel-good comfort movies",
+            "light comedy movies you can half-watch", "cozy rom-com movies",
+            "family sitcoms & light family movies", "comfort rewatch favorites (TV or film)",
         ],
         "craft": (
-            "Half-watchable, episodic, low-plot TV you can drop in and out of; comfort and "
-            "rewatchability over prestige; TV only, no dense serialized dramas."
+            "Half-watchable, low-plot comfort you can drop in and out of — sitcoms, procedurals "
+            "and easy light movies alike; comfort and rewatchability over prestige. Everything "
+            "must be genuinely LIGHT and low-attention: no dense serialized dramas, no heavy or "
+            "demanding films."
         ),
         "genre_whitelist": {35, 80, 18, 10759},
         "discover_movie": [],
