@@ -1,0 +1,164 @@
+{
+  "slug": "background",
+  "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"32\" d=\"M104 288v-24a152 152 0 0 1 304 0v24\"/><rect x=\"80\" y=\"280\" width=\"72\" height=\"128\" rx=\"28\" fill=\"currentColor\"/><rect x=\"360\" y=\"280\" width=\"72\" height=\"128\" rx=\"28\" fill=\"currentColor\"/></svg>",
+  "title": "Фоном",
+  "lang": "ru",
+  "updated_at": "2026-07-18T07:18:33Z",
+  "items": [
+    {
+      "id": 2316,
+      "media_type": "tv",
+      "title": "Офис",
+      "original_title": "The Office",
+      "overview": "Сериал о трудовых буднях небольшого регионального офиса крупной компании, обитатели которого целыми днями должны терпеть закидоны своего непутевого босса.",
+      "poster_path": "/zjW7g5PGsJMy7pIr0hKdBKWcH9V.jpg",
+      "backdrop_path": "/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 8.6,
+      "vote_count": 5304,
+      "release_date": "2005-03-24"
+    },
+    {
+      "id": 62649,
+      "media_type": "tv",
+      "title": "Супермаркет",
+      "original_title": "Superstore",
+      "overview": "Сериал о большом разношерстном коллективе  работников гипермаркета, которые на своём рабочем месте переживают  множество приключений, несмотря на то, что территория их обитания  ограничивается стенами магазина.",
+      "poster_path": "/2tpY5qIYwH85njvjI5BnH4VNA6p.jpg",
+      "backdrop_path": "/gwy5pUl8EH1vROVWfEo1TAmqHNK.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.537,
+      "vote_count": 830,
+      "release_date": "2015-11-30"
+    },
+    {
+      "id": 2490,
+      "media_type": "tv",
+      "title": "Компьютерщики",
+      "original_title": "The IT Crowd",
+      "overview": "Комические злоключения Роя, Мосса и их хитрой начальницы Джен — «разношёрстной команды» айтишников, работающих в крупной корпорации под руководством вспыльчивого яппи.",
+      "poster_path": "/r06TUWcoMgog6BoS9VhzOcfEtIo.jpg",
+      "backdrop_path": "/erljE3cOZ4eyISQunUYmKZ0q7cu.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 8.159,
+      "vote_count": 1635,
+      "release_date": "2006-02-03"
+    },
+    {
+      "id": 86248,
+      "media_type": "tv",
+      "title": "Загрузка",
+      "original_title": "Upload",
+      "overview": "В ближайшем будущем люди, которые находятся на грани смерти, могут быть “загружены” в среду виртуальной реальности. Главная героиня по имени Нора работает как раз в такой компании — Lakeview. Когда ее парень Амелл попадает в аварию, девушка решает загрузить его сознание в ее собственный VR-мир.",
+      "poster_path": "/5L4oYBRw44OKxPgWxVmsWfIDVk4.jpg",
+      "backdrop_path": "/moH3PdysmUl8vrsYVM4l2ZZiRAd.jpg",
+      "genre_ids": [
+        35,
+        10765,
+        18
+      ],
+      "vote_average": 7.781,
+      "vote_count": 1443,
+      "release_date": "2020-04-30"
+    },
+    {
+      "id": 18347,
+      "media_type": "tv",
+      "title": "Сообщество",
+      "original_title": "Community",
+      "overview": "Когда вскрывается, что юридический диплом Джефа Уингера — липовый, он возвращается в колледж и собирает учебную группу из изгоев.",
+      "poster_path": "/24SlWxhbSWraz6IiNqpeZOm49qX.jpg",
+      "backdrop_path": "/1xRfgONYmK3T6FSmbtcuo8eyxVt.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.998,
+      "vote_count": 2103,
+      "release_date": "2009-09-17"
+    },
+    {
+      "id": 32815,
+      "media_type": "tv",
+      "title": "Воспитывая Хоуп",
+      "original_title": "Raising Hope",
+      "overview": "Сериал расскажет о Джимми, 22-летнем мужчине, воспитывающем маленького ребенка. В этом нелегком деле ему помогает его причудливая семья. Мама ребенка, с которой Джимми был всего одну ночь, оказывается в камере смертников.",
+      "poster_path": "/AkMwSCJrNf6SVwON7biaAUOEhDf.jpg",
+      "backdrop_path": "/45hDcAQdlNxHLPX07ZMC33ISfXq.jpg",
+      "genre_ids": [
+        35,
+        10751
+      ],
+      "vote_average": 7.44,
+      "vote_count": 335,
+      "release_date": "2010-09-21"
+    },
+    {
+      "id": 1422,
+      "media_type": "tv",
+      "title": "Бывает и хуже",
+      "original_title": "The Middle",
+      "overview": "Семья Хек живёт в небольшом городке и каждый день пытается справляться с обычными проблемами: работой, учёбой, деньгами, домашними делами и постоянными недоразумениями. Несмотря на бесконечные трудности и хаос, они остаются дружной семьёй и вместе проходят через все жизненные испытания.",
+      "poster_path": "/xaADTNZxCyGPR0v69H6O3mGBAxh.jpg",
+      "backdrop_path": "/82D01BlixH1JD0BCQoERabDjp7h.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.566,
+      "vote_count": 752,
+      "release_date": "2009-09-30"
+    },
+    {
+      "id": 2004,
+      "media_type": "tv",
+      "title": "Малкольм в центре внимания",
+      "original_title": "Malcolm in the Middle",
+      "overview": "Добро пожаловать в семью, где всегда весело! Мамаша-монстр, папаша-лопух и четверо детей — шалопаев! И эта взрывоопасная смесь проживает лишь под одной крышей! Под которой постоянно творится что-то невероятное. И драки, и игры, в мумию, и истерический смех, химические эксперименты, безумные погони мамочки на авто, странные танцы на ягодицах, игра на венике, и море коварных каверзных ситуаций от малолетних дьяволят. Именно в такой семье живет Малкольм. Именно он расскажет вам: что такое очень веселая семья?",
+      "poster_path": "/tuskpLz1wWwDKxdQR9Ih7o47dcV.jpg",
+      "backdrop_path": "/si3OheCrSpEyK2JUtZOThsZPUR4.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 8.468,
+      "vote_count": 4896,
+      "release_date": "2000-01-09"
+    },
+    {
+      "id": 1420,
+      "media_type": "tv",
+      "title": "Новенькая",
+      "original_title": "New Girl",
+      "overview": "Комедия о сексуальных отношениях мужчин и женщин. В центре сюжета — Джессика, оптимистичная, но несчастная в любви учительница начальной школы, которая после последнего разрыва въезжает в квартиру, где уже живут три парня.",
+      "poster_path": "/1eae2nOTTUqzy4XvxwMc3XOsPu3.jpg",
+      "backdrop_path": "/959IFVeGqz2M6qGvQ1RxN2r6Mq6.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.4,
+      "vote_count": 1688,
+      "release_date": "2011-09-20"
+    },
+    {
+      "id": 81357,
+      "media_type": "tv",
+      "title": "Прощай навсегда",
+      "original_title": "Dead to Me",
+      "overview": "В поисках того, кто сбил ее мужа и скрылся с места преступления, отчаянная вдова завязывает дружбу с чудаковатой оптимисткой, у которой есть свои секреты.",
+      "poster_path": "/7qbbX5C3X1hWGQC8eFGFsNBU9ZF.jpg",
+      "backdrop_path": "/j4TXQ7OJsLx1Ba6z8XA7is0DcRZ.jpg",
+      "genre_ids": [
+        18,
+        35,
+        80
+      ],
+      "vote_average": 7.31,
+      "vote_count": 634,
+      "release_date": "2019-05-03"
+    }
+  ]
+}
