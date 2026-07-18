@@ -39,13 +39,14 @@ THEMES = [
             "fish-out-of-water comedies", "globe-trotting treasure-hunt adventures",
             "spy spoofs & breezy spy-action", "underdog sports crowd-pleasers",
             "fun non-scary creature & monster adventures", "martial-arts & kung-fu comedy romps",
-            "car & racing action romps", "family adventure comedy movies", "road-trip comedies",
+            "car & racing action romps", "family adventure comedy movies", "party & vacation comedies (pure laughs, no somber journeys)",
             "80s/90s action-comedy throwbacks", "comedy Westerns & adventure spoofs",
             "comedy remakes/reboots that actually work",
         ],
         "craft": (
             "Deep cuts here = fun, well-liked crowd-pleasers people forgot about, not "
-            "critically-panned junk; keep it truly breezy and plot-light; movies over TV."
+            "critically-panned junk; keep it truly breezy and plot-light — nothing heavy, sad or "
+            "serious, pure light fun; movies over TV."
         ),
         "quality_min": 6.0,
         "require_genre": {35, 12, 10751, 10759, 28, 14, 878, 9648},
@@ -124,12 +125,13 @@ THEMES = [
             "gentle Western/European stop-motion & hand-drawn animation (NO anime)",
             "warm friendship stories", "cozy period / British gentle dramas",
             "bookshop / cafe / quaint-setting films", "gentle seasonal & holiday comfort",
-            "pastoral & nature calm", "cozy low-stakes rom-coms",
+            "cozy village & countryside life (gentle live-action, warm — no war, action or peril)", "cozy low-stakes rom-coms",
             "wholesome family gentle films", "quiet feel-good indie comedies",
             "light cozy whodunits (Agatha Christie / Knives Out tone — no gore, no grim crime or horror)",
         ],
         "craft": (
-            "Warm, soft, low-stakes above all — nothing tense, loud, or sad; quiet slice-of-life "
+            "Warm, soft, low-stakes above all — nothing tense, loud, sad or heavy; no war, trauma "
+            "or grief (no The Breadwinner, Persepolis, Grave of the Fireflies). Quiet slice-of-life "
             "and gentle non-anime animation are gold. NO Japanese anime (including Ghibli)."
         ),
         "require_genre": {16, 10751, 10402, 35, 18, 10749, 99, 14},
@@ -241,11 +243,12 @@ THEMES = [
             "enemies-to-lovers romances",
             "literary-adaptation romances (Austen & co.)",
             "summer & vacation romances",
-            "teen & high-school romances",
+            "sweet teen & high-school romances (fun and warm, not tragic — no Romeo + Juliet / A Walk to Remember)",
         ],
         "craft": (
-            "Charming, warm chemistry that plays for two; keep it swoony and light, never "
-            "tragic; span eras and styles — do NOT default to recent indie rom-coms."
+            "Charming, warm chemistry that plays for two; keep it swoony and light, never tragic "
+            "(no Romeo + Juliet, A Walk to Remember, Blue Valentine); span eras and styles — do "
+            "NOT default to recent indie rom-coms."
         ),
         "require_genre": {10749, 35, 18},
         "genre_whitelist": {10749, 35, 18},
