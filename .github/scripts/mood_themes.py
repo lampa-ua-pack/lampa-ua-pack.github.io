@@ -28,8 +28,8 @@ THEMES = [
     {
         "slug": "no-think",
         "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect x="134" y="96" width="78" height="320" rx="26" fill="currentColor"/><rect x="300" y="96" width="78" height="320" rx="26" fill="currentColor"/></svg>',
-        "title_uk": "Мозок на паузі",
-        "title_ru": "Мозг на паузе",
+        "title_uk": "Розвантаження",
+        "title_ru": "Разгрузка",
         "prompt": (
             "Brain-off popcorn, breezy and easy to follow. INCLUDE broad comedies, "
             "buddy/heist capers, light action-adventure. EXCLUDE dark, heavy, or twisty plots."
@@ -55,8 +55,8 @@ THEMES = [
     {
         "slug": "blow-mind",
         "icon": '<svg viewBox="0 0 875 753" xmlns="http://www.w3.org/2000/svg"><g transform="scale(0.5,-0.5) translate(875,-875)"><path fill="none" stroke="currentColor" stroke-width="100" stroke-linecap="round" stroke-linejoin="round" d="M351.817,-129.806 C367.151,-88.2461,375,-44.2981,375,0 C375,207.107,207.107,375,0,375 C-207.107,375,-375,207.107,-375,0 C-375,-76.957,-351.323,-152.051,-307.182,-215.091 C-283.64,-248.712,-271.012,-288.762,-271.012,-329.806 C-271.012,-440.263,-360.555,-529.806,-471.012,-529.806 C-536.265,-529.806,-597.415,-497.974,-634.843,-444.522 C-726.067,-314.24,-775,-159.045,-775,0 C-775,428.021,-428.021,775,0,775 C428.021,775,775,428.021,775,0 C775,-91.5496,758.779,-182.375,727.089,-268.2655 C669.104,-425.425,519.332,-529.806,351.817,-529.806 C196.046,-529.806,54.4429,-439.376,-11.0774,-298.055 C-30.5166,-256.177,-86.6373,-160.72,-123.471,-124.015 C-156.457,-91.1748,-175,-46.5459,-175,0 C-175,96.6497,-96.6497,175,0,175 C96.6497,175,175,96.6497,175,0 C175,-20.6724,171.337,-41.1814,164.181,-60.5761 C156.003,-82.7417,151.817,-106.181,151.817,-129.806 C151.817,-240.263,241.36,-329.806,351.817,-329.806 C435.574,-329.806,510.46,-277.616,539.453,-199.036 C562.965,-135.311,575,-67.9238,575,0 C575,317.564,317.564,575,0,575 C-317.564,575,-575,317.564,-575,0 C-575,-118.001,-538.695,-233.146,-471.012,-329.806"/></g></svg>',
-        "title_uk": "Зламаєш голову",
-        "title_ru": "Голову сломаешь",
+        "title_uk": "Головоломка",
+        "title_ru": "Головоломка",
         "prompt": (
             "Puzzle-box: time loops, unreliable narrators, reality-bending, rewatch-worthy "
             "twists. EXCLUDE straightforward blockbusters and space operas even if sci-fi."
@@ -84,7 +84,7 @@ THEMES = [
         "slug": "cry",
         "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M256 64C190 180 128 250 128 320a128 128 0 1 0 256 0C384 250 322 180 256 64z"/></svg>',
         "title_uk": "До сліз",
-        "title_ru": "В слёзы",
+        "title_ru": "До слёз",
         "prompt": (
             "Tearjerkers about love, loss, family, sacrifice that genuinely make you cry. "
             "EXCLUDE crime sagas or war epics that are merely 'serious'. TV ok if truly moving."
@@ -109,21 +109,21 @@ THEMES = [
     {
         "slug": "cozy-rain",
         "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect x="104" y="176" width="216" height="208" rx="28" fill="currentColor"/><path fill="none" stroke="currentColor" stroke-width="28" d="M320 224h28a52 52 0 0 1 0 104h-28"/><path fill="none" stroke="currentColor" stroke-width="20" stroke-linecap="round" d="M168 92c-18 22 18 40 0 60M248 92c-18 22 18 40 0 60"/></svg>',
-        "title_uk": "Плед і какао",
-        "title_ru": "Плед и какао",
+        "title_uk": "Затишок",
+        "title_ru": "Уют",
         "prompt": (
             "Gentle low-stakes comfort with a warm, soothing feel. INCLUDE calm films, "
             "slice-of-life, gentle animation. EXCLUDE tension, violence, loud spectacle."
         ),
         "styles": [
-            "gentle slice-of-life dramas", "food & cooking comfort films",
+            "gentle live-action slice-of-life (real people, NOT anime/animation)", "food & cooking comfort films",
             "small-town charm stories",
             "gentle Western/European stop-motion & hand-drawn animation (NO anime)",
             "warm friendship stories", "cozy period / British gentle dramas",
             "bookshop / cafe / quaint-setting films", "gentle seasonal & holiday comfort",
             "pastoral & nature calm", "cozy low-stakes rom-coms",
             "wholesome family gentle films", "quiet feel-good indie comedies",
-            "cozy non-violent mysteries",
+            "light cozy whodunits (Agatha Christie / Knives Out tone — no gore, no grim crime or horror)",
         ],
         "craft": (
             "Warm, soft, low-stakes above all — nothing tense, loud, or sad; quiet slice-of-life "
@@ -162,8 +162,8 @@ THEMES = [
     {
         "slug": "mood-up",
         "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><circle cx="256" cy="256" r="104" fill="currentColor"/><path fill="none" stroke="currentColor" stroke-width="32" stroke-linecap="round" d="M256 40v48M256 424v48M40 256h48M424 256h48M107 107l34 34M371 371l34 34M405 107l-34 34M141 371l-34 34"/></svg>',
-        "title_uk": "Заряд позитиву",
-        "title_ru": "Заряд позитива",
+        "title_uk": "Позитив",
+        "title_ru": "Позитив",
         "prompt": (
             "Feel-good, uplifting, life-affirming with a happy ending. INCLUDE warmth, hope, "
             "underdog wins, good-hearted humor. EXCLUDE bittersweet or downer endings."
@@ -188,8 +188,8 @@ THEMES = [
     {
         "slug": "dark",
         "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><ellipse cx="256" cy="342" rx="216" ry="46" fill="currentColor"/><path fill="currentColor" d="M160 342C146 224 172 132 202 132c18 0 26 24 54 24s36-24 54-24c30 0 56 92 42 210z"/></svg>',
-        "title_uk": "Нуар і тіні",
-        "title_ru": "Нуар и тени",
+        "title_uk": "Нуар",
+        "title_ru": "Нуар",
         "prompt": (
             "Bleak, morally grey, oppressive — noir, psychological, disturbing. EXCLUDE merely "
             "'serious' prestige dramas that aren't actually dark. TV ok if genuinely bleak."
@@ -267,8 +267,8 @@ THEMES = [
     {
         "slug": "background",
         "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke="currentColor" stroke-width="32" d="M104 288v-24a152 152 0 0 1 304 0v24"/><rect x="80" y="280" width="72" height="128" rx="28" fill="currentColor"/><rect x="360" y="280" width="72" height="128" rx="28" fill="currentColor"/></svg>',
-        "title_uk": "Під справи",
-        "title_ru": "Под дела",
+        "title_uk": "Фоном",
+        "title_ru": "Фоном",
         "prompt": (
             "Easy low-attention TV to half-watch while doing chores — sitcoms, cozy "
             "procedurals, episodic comfort shows. EXCLUDE dense serialized dramas. TV only."
@@ -292,8 +292,8 @@ THEMES = [
     {
         "slug": "thrill-nerves",
         "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" fill-rule="evenodd" d="M256 64C158 64 88 138 88 236c0 55 24 98 56 122v46c0 20 16 36 36 36h152c20 0 36-16 36-36v-46c32-24 56-67 56-122 0-98-70-172-168-172zM136 236a44 48 0 1 0 88 0 44 48 0 1 0-88 0zM288 236a44 48 0 1 0 88 0 44 48 0 1 0-88 0zM256 300l30 54h-60z"/></svg>',
-        "title_uk": "Мурахи по шкірі",
-        "title_ru": "Мурашки по коже",
+        "title_uk": "Саспенс",
+        "title_ru": "Саспенс",
         "prompt": (
             "Real horror and suspense — dread, tension, scares, from goosebumps to "
             "terrifying. EXCLUDE action movies with monsters that aren't actually scary."
@@ -318,8 +318,8 @@ THEMES = [
     {
         "slug": "epic",
         "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><polygon fill="currentColor" points="16,436 176,140 288,340 344,248 496,436"/></svg>',
-        "title_uk": "Великий екран",
-        "title_ru": "Большой экран",
+        "title_uk": "Епос",
+        "title_ru": "Эпос",
         "prompt": (
             "Grand-scale spectacle — sweeping sagas, vast worlds, war and history on a huge "
             "canvas, for the big screen. EXCLUDE small, intimate chamber pieces."
@@ -344,8 +344,8 @@ THEMES = [
     {
         "slug": "laugh",
         "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M256,0C114.833,0,0,114.833,0,256s114.833,256,256,256s256-114.833,256-256S397.167,0,256,0z M256,472.341c-119.275,0-216.341-97.066-216.341-216.341S136.725,39.659,256,39.659c119.295,0,216.341,97.066,216.341,216.341S375.275,472.341,256,472.341z"/><circle cx="176" cy="200" r="28" fill="currentColor"/><circle cx="336" cy="200" r="28" fill="currentColor"/><path fill="none" stroke="currentColor" stroke-width="28" stroke-linecap="round" d="M160 300a112 112 0 0 0 192 0"/></svg>',
-        "title_uk": "Сміхота",
-        "title_ru": "Умора",
+        "title_uk": "Сміх",
+        "title_ru": "Смех",
         "prompt": (
             "Broadly funny, laugh-out-loud crowd-pleasers people quote and rewatch for the "
             "laughs — mainstream and cult comedies, spoofs, slapstick, feel-good farces. "
@@ -356,14 +356,15 @@ THEMES = [
             "buddy & mismatched-duo comedies", "raunchy gross-out comedies",
             "spoof & parody (Airplane! / Naked Gun lineage)", "slapstick & physical comedy",
             "workplace & ensemble comedies", "stoner & slacker comedies",
-            "teen & coming-of-age comedies", "action-comedies",
+            "teen & high-school comedies (actually funny, NOT coming-of-age dramas)", "action-comedies",
             "comedy crime capers", "fish-out-of-water comedies",
             "holiday & party comedies", "family-friendly comedies",
             "rom-coms that are genuinely funny", "sports comedies",
         ],
         "craft": (
             "Goal is laugh-out-loud, quotable, rewatchable-for-the-jokes; NOT dry arthouse, "
-            "bleak or political satire, or comedy-dramas that aren't actually funny."
+            "bleak or political satire, or comedy-dramas that aren't actually funny; and NO "
+            "coming-of-age dramas (no Perks of Being a Wallflower / Moonlight / Lady Bird)."
         ),
         "genre_whitelist": {35},
         "discover_movie": [35],
@@ -372,8 +373,8 @@ THEMES = [
     {
         "slug": "slow-beauty",
         "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect x="88" y="96" width="336" height="320" rx="16" fill="none" stroke="currentColor" stroke-width="26"/><g fill="currentColor"><rect x="120" y="128" width="36" height="36" rx="6"/><rect x="120" y="238" width="36" height="36" rx="6"/><rect x="120" y="348" width="36" height="36" rx="6"/><rect x="356" y="128" width="36" height="36" rx="6"/><rect x="356" y="238" width="36" height="36" rx="6"/><rect x="356" y="348" width="36" height="36" rx="6"/></g></svg>',
-        "title_uk": "Естетика кадру",
-        "title_ru": "Эстетика кадра",
+        "title_uk": "Естетика",
+        "title_ru": "Эстетика",
         "prompt": (
             "Visually ravishing slow cinema — painterly, contemplative, mood over plot. "
             "INCLUDE auteur/arthouse of exceptional beauty. EXCLUDE fast, plot-driven films."
