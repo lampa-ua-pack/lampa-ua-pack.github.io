@@ -42,6 +42,9 @@ THEMES = [
             "car & racing action romps", "family adventure comedy movies", "party & vacation comedies (pure laughs, no somber journeys)",
             "80s/90s action-comedy throwbacks", "comedy Westerns & adventure spoofs",
             "comedy remakes/reboots that actually work",
+            "goofy superhero & comic-book romps", "toy & video-game adaptations played for fun",
+            "dance & music feel-good comedies", "talking-animal & creature comedies",
+            "light casino & con-artist caper romps", "goofy sci-fi & alien comedies",
         ],
         "craft": (
             "Deep cuts here = fun, well-liked crowd-pleasers people forgot about, not "
@@ -73,6 +76,9 @@ THEMES = [
             "recursion & nested-structure narratives",
             "philosophical sci-fi that messes with your head",
             "con-artist rug-pull capers", "puzzle-box TV series",
+            "rug-pull heist structures", "closed-room whodunit puzzles",
+            "AI & consciousness mind-benders", "doppelganger & double-identity puzzles",
+            "time-travel paradox films", "Rashomon-style perspective-shifters",
         ],
         "craft": (
             "Favor films whose structure or twist is the whole point and rewards a rewatch; "
@@ -100,6 +106,9 @@ THEMES = [
             "dementia & memory-loss dramas", "long-distance / letters love stories",
             "based-on-a-true-story tragedies", "quiet dramas about goodbyes",
             "foreign-language emotional gut-punches", "redemption & reconciliation dramas",
+            "single-parent & adoption tearjerkers", "sibling-bond dramas",
+            "disability & resilience dramas", "found-family & orphan stories",
+            "old-age & end-of-life dramas", "reunions after long separation",
         ],
         "craft": (
             "Must genuinely earn the tears through character, not cheap manipulation or "
@@ -128,12 +137,16 @@ THEMES = [
             "cozy village & countryside life (gentle live-action, warm — no war, action or peril)", "cozy low-stakes rom-coms",
             "wholesome family gentle films", "quiet feel-good indie comedies",
             "light cozy whodunits (Agatha Christie / Knives Out tone — no gore, no grim crime or horror)",
+            "gentle pet & animal comfort (warm, never sad)", "bakery, craft & garden slice-of-life",
+            "warm intergenerational friendships", "cozy library & bookshop mysteries (no grim crime)",
+            "gentle armchair-travel & scenic comfort", "cozy Christmas-market & seasonal warmth",
         ],
         "craft": (
             "Warm, soft, low-stakes above all — nothing tense, loud, sad or heavy; no war, trauma "
             "or grief (no The Breadwinner, Persepolis, Grave of the Fireflies). Quiet slice-of-life "
             "and gentle non-anime animation are gold. NO Japanese anime (including Ghibli)."
         ),
+        "tone_strict": True,   # затишок = теплий тон понад усе → лише безпечні run-модифікатори
         "require_genre": {16, 10751, 10402, 35, 18, 10749, 99, 14},
         "genre_whitelist": {16, 10751, 10402, 35},
         "discover_movie": [16, 10751],
@@ -156,6 +169,9 @@ THEMES = [
             "natural-disaster survival", "hitman & assassin action",
             "prison-break & escape", "relentless action-horror",
             "revenge rampages", "manhunt & chase thrillers",
+            "spy & espionage action", "vehicular mayhem (bike, boat, train)",
+            "wilderness pursuit & survival chase", "protect-the-target / bodyguard thrillers",
+            "kidnap-rescue ticking-clock", "sieges on transport (plane, train, ship)",
         ],
         "craft": (
             "Pace and tension are king — momentum must never sag; prefer lean, propulsive "
@@ -184,6 +200,10 @@ THEMES = [
             "community-comes-together stories", "feel-good holiday & Christmas movies",
             "rom-coms with a joyful ending", "fish-out-of-water heartwarmers",
             "hopeful comeback & second-chance stories (uplifting, not tragic)",
+            "feel-good pet & animal triumphs (happy ending)", "small-business & workplace success comedies",
+            "uplifting dance & performance crowd-pleasers (triumphant)", "found-family holiday heartwarmers",
+            "underdog competition winners (spelling bee, cook-off, talent)",
+            "kids-and-grownups feel-good adventures (uplifting)",
         ],
         "craft": (
             "OVERRIDING GATE (beats the sub-style): EVERY pick must FEEL uplifting and end happily. "
@@ -193,6 +213,7 @@ THEMES = [
             "The Breadwinner, Persepolis, Grave of the Fireflies, Manchester by the Sea, Blue "
             "Valentine, Into the Wild, Wild). Earned uplift, not saccharine."
         ),
+        "tone_strict": True,   # overriding tone-gate → лише безпечні run-модифікатори (STRICT_LENSES)
         "genre_whitelist": {10402, 10749, 35, 10751},
         "discover_movie": [10402, 10749],
         "discover_tv": [35],
@@ -214,6 +235,9 @@ THEMES = [
             "grim serial-killer procedurals", "addiction & self-destruction dramas",
             "cold Nordic / European noir", "oppressive dystopian bleakness",
             "disturbing character-driven horror", "true-crime-inspired grimness",
+            "hitman & underworld character studies", "bleak prison & incarceration dramas",
+            "morally-grey legal & political noir", "cold-war espionage paranoia",
+            "domestic-thriller dread (marriages gone dark)", "gangland rise-and-fall tragedies",
         ],
         "craft": (
             "Genuinely bleak and oppressive in tone, not merely 'serious'; morally grey; "
@@ -244,6 +268,9 @@ THEMES = [
             "literary-adaptation romances (Austen & co.)",
             "summer & vacation romances",
             "sweet teen & high-school romances (fun and warm, not tragic — no Romeo + Juliet / A Walk to Remember)",
+            "royalty & fairy-tale romances (charming)", "workplace & rivals-to-lovers rom-coms",
+            "dance & music romances (swoony)", "reunited-lovers & letters-across-time (warm ending)",
+            "cross-cultural & travel romances", "witty modern rom-coms with real chemistry",
         ],
         "craft": (
             "Charming, warm chemistry that plays for two; keep it swoony and light, never tragic "
@@ -271,6 +298,9 @@ THEMES = [
             "classic 80s/90s comedy hits", "beloved non-anime animated classics",
             "80s/90s adventure quests", "cult classics of the era",
             "sports classics", "summer-blockbuster nostalgia",
+            "90s/2000s teen comedies", "iconic 80s/90s horror classics",
+            "classic Disney & animated-era favorites (non-anime)", "beloved buddy-cop & action-duo classics",
+            "90s/2000s rom-com staples", "classic creature-feature blockbusters",
         ],
         "craft": (
             "Shared-memory icons from ~1980s-2000s people rewatch; here the OBVIOUS beloved "
@@ -299,6 +329,9 @@ THEMES = [
             "Britcoms & comfort panel shows", "easy feel-good comfort movies",
             "light comedy movies you can half-watch", "cozy rom-com movies",
             "family sitcoms & light family movies", "comfort rewatch favorites (TV or film)",
+            "light medical & legal comfort procedurals", "cooking & baking competition shows",
+            "gentle cozy period comfort series", "half-watchable animated sitcoms (non-anime)",
+            "light feel-good docu-comfort", "easy rewatch action-comedy movies",
         ],
         "craft": (
             "Half-watchable, low-plot comfort you can drop in and out of — sitcoms, procedurals "
@@ -328,6 +361,9 @@ THEMES = [
             "Hitchcockian suspense thrillers", "body horror",
             "cult & ritual horror", "isolation horror (cabin, remote, snowbound)",
             "monster-in-the-dark dread", "acclaimed foreign horror (Korean, Spanish, etc.)",
+            "slasher & masked-killer horror", "vampire & werewolf horror",
+            "zombie & outbreak horror", "haunted-house & haunted-object horror",
+            "witch & folk-occult horror", "techno, screen & AI horror",
         ],
         "craft": (
             "Genuinely scary or suspenseful — dread and tension, not action; prefer acclaimed "
@@ -354,6 +390,9 @@ THEMES = [
             "revolution & empire sagas", "seafaring & swashbuckling adventure epics",
             "sprawling crime sagas of epic scope", "grand mythic & fantasy quests (Conan / Willow scale)",
             "disaster-scale spectacle", "grand historical-figure biopics",
+            "medieval siege & castle-war epics", "naval & age-of-sail battle epics",
+            "samurai & Asian historical epics (live-action, non-anime)", "biblical & mythological spectacle",
+            "frontier & western epics (huge scale)", "dynastic & royal-court sagas",
         ],
         "craft": (
             "Scale and spectacle must feel huge — vast worlds, sweeping scope, big-screen "
@@ -384,6 +423,9 @@ THEMES = [
             "comedy crime capers", "fish-out-of-water comedies",
             "holiday & party comedies", "family-friendly comedies",
             "rom-coms that are genuinely funny", "sports comedies",
+            "mockumentary & improv comedies", "musical & song comedies (funny first)",
+            "goofy horror-comedies (laugh-first)", "buddy road-trip comedies (laugh-out-loud, not soul-searching)",
+            "wedding & party-disaster comedies", "British & Aussie broad comedies",
         ],
         "craft": (
             "Every pick must be a film you'd call a COMEDY first — its main job is to make you "
@@ -401,7 +443,7 @@ THEMES = [
     },
     {
         "slug": "slow-beauty",
-        "icon": '<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect x="88" y="96" width="336" height="320" rx="16" fill="none" stroke="currentColor" stroke-width="26"/><g fill="currentColor"><rect x="120" y="128" width="36" height="36" rx="6"/><rect x="120" y="238" width="36" height="36" rx="6"/><rect x="120" y="348" width="36" height="36" rx="6"/><rect x="356" y="128" width="36" height="36" rx="6"/><rect x="356" y="238" width="36" height="36" rx="6"/><rect x="356" y="348" width="36" height="36" rx="6"/></g></svg>',
+        "icon": '<svg viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg"><path d="M9 0L11.4308 6.56918L18 9L11.4308 11.4308L9 18L6.56918 11.4308L0 9L6.56918 6.56918L9 0Z" fill="currentColor"/></svg>',
         "title_uk": "Естетика",
         "title_ru": "Эстетика",
         "prompt": (
@@ -416,6 +458,9 @@ THEMES = [
             "quiet character portraits", "poetic memory & time films",
             "striking black-and-white cinematography", "dreamlike lyrical films",
             "seasons & pastoral beauty",
+            "painterly food & still-life cinema", "architectural & urban-mood films",
+            "aquatic & underwater visual poems", "winter & snowscape contemplation",
+            "folk-ritual & festival visual tapestries", "colour-drenched melodrama (Wong Kar-wai / Almodovar tone)",
         ],
         "craft": (
             "Ravishing images and contemplative mood over plot; auteur/arthouse of exceptional "
