@@ -2,6 +2,210 @@
   "secuses": true,
   "result": [
     {
+      "id": 2825,
+      "time": 1784357788668,
+      "card_id": "1497873",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/oXhCcvGRns2msPf3xhbkSh3iKvj.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1497873,
+        "original_language": "zh",
+        "title": "Изумрудное озеро",
+        "original_title": "翠湖",
+        "names": [
+          "Изумрудное озеро",
+          "As the Water Flows",
+          "翠湖",
+          "Cui hu"
+        ],
+        "overview": "После смерти жены пожилой мужчина хочет начать новую жизнь, но разногласия с дочерьми вынуждают его признать, что он слишком часто отсутствовал дома и не выполнял своих отцовских обязанностей. Когда старые конфликты вспыхивают снова, он пытается найти способ воссоединить распавшуюся семью.",
+        "poster_path": "/wZyRp9dL9gnXOsB9AXGaLlcR8U1.jpg",
+        "release_date": "2026-01-24",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 1,
+        "popularity": 1.2944,
+        "PG": 0,
+        "release_quality": "webdl",
+        "kinopoisk_id": "12004692",
+        "imdb_id": "tt37186694",
+        "imdb_rating": "7.4",
+        "status": "released",
+        "last_air_date": "2026-07-17",
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2824,
+      "time": 1784300191204,
+      "card_id": "1368337",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+        "genre_ids": [
+          12,
+          28,
+          14
+        ],
+        "id": 1368337,
+        "original_language": "en",
+        "title": "Одиссея",
+        "original_title": "The Odyssey",
+        "names": [
+          "Одиссея",
+          "The Odyssey"
+        ],
+        "overview": "После Троянской войны Одиссей, царь Итаки, во главе небольшого войска возвращается домой к своей жене Пенелопе. На своём пути Одиссей сталкивается со множеством испытаний, встречает циклопов, сирен и великанов-людоедов.",
+        "poster_path": "/exOPvjnLaKMp00fsk8E3UpfPtNC.jpg",
+        "release_date": "2026-07-15",
+        "video": false,
+        "vote_average": 6.301,
+        "vote_count": 73,
+        "popularity": 169.2124,
+        "PG": 18,
+        "release_quality": "ts",
+        "kinopoisk_id": "6385370",
+        "imdb_id": "tt33764258",
+        "status": "released",
+        "last_air_date": "2026-07-16",
+        "countries": [
+          "Великобритания",
+          "США"
+        ],
+        "genres": [
+          "Приключения",
+          "Боевик",
+          "Фэнтези"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2823,
+      "time": 1784296588584,
+      "card_id": "277439",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 277439,
+        "original_language": "en",
+        "name": "Мыс страха",
+        "original_name": "Cape Fear",
+        "names": [
+          "Мыс страха",
+          "Cape Fear"
+        ],
+        "overview": "На счастливую супружескую пару адвокатов надвигается буря, когда из тюрьмы выходит знаменитый киллер из их прошлого.",
+        "poster_path": "/a5CZ7Mh2XcEnenS9bXbWYVFKuGb.jpg",
+        "first_air_date": "2026-06-04",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 67,
+        "popularity": 46.3063,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6576642",
+        "kp_rating": "6.7",
+        "imdb_id": "tt34675596",
+        "imdb_rating": "7.2",
+        "status": "returning series",
+        "last_air_date": "2026-07-17",
+        "seasons": {
+          "1": 8
+        },
+        "episode": {
+          "air_date": "2026-07-16",
+          "episode_number": 8,
+          "name": "Эпизод 8",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 47,
+          "still_path": "/zhUjCo3SL7OmLGBkVf6JtxyTH6N.jpg",
+          "vote_average": 0
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e8",
+      "premiere": 0
+    },
+    {
+      "id": 2822,
+      "time": 1784278588559,
+      "card_id": "278624",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/61fYaqL1CyMyA5c7Zm9zcMcFqHl.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 278624,
+        "original_language": "en",
+        "name": "Лаки",
+        "original_name": "Lucky",
+        "names": [
+          "Лаки",
+          "Lucky"
+        ],
+        "overview": "Многомиллионное ограбление пошло не по плану, и аферистка Лаки вынуждена пуститься в бега. Преследуемая ФБР и безжалостным лидером преступной группировки, Лаки должна найти выход, чтобы выжить.",
+        "poster_path": "/kfdtVs9mWwU7XssjOyb3e3fCHuv.jpg",
+        "first_air_date": "2026-07-14",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 7,
+        "popularity": 15.8569,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6640984",
+        "imdb_id": "tt34866681",
+        "status": "returning series",
+        "last_air_date": "2026-07-16",
+        "seasons": {
+          "1": 2
+        },
+        "episode": {
+          "air_date": "2026-07-14",
+          "episode_number": 2,
+          "name": "Эпизод 2",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 48,
+          "still_path": "/vOa1Lv0rvuPkPk4xYtZHZGR04bX.jpg",
+          "vote_average": 4.8
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e2",
+      "premiere": 0
+    },
+    {
       "id": 2821,
       "time": 1784123788640,
       "card_id": "1397201",
@@ -2546,204 +2750,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2775,
-      "time": 1781878161773,
-      "card_id": "1501018",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/7ImZeJiXNcZYKruKEqMzyW3CwVL.jpg",
-        "genre_ids": [
-          35,
-          80
-        ],
-        "id": 1501018,
-        "original_language": "fr",
-        "title": "Семейка Момо",
-        "original_title": "Une famille de bâtards",
-        "names": [
-          "Семейка Момо",
-          "Une Famille de Bâtards",
-          "Une famille de bâtards"
-        ],
-        "overview": "Париж, 1997 год. После покушения на отца Мохамед неожиданно узнаёт, что у него есть брат и сестра. Вместе им предстоит спасти семейный бар от долгов и местных бандитов. Криминальная комедия о неожиданных родственниках, семейных тайнах и втором шансе стать настоящей семьёй.",
-        "poster_path": "/zuiZDJcjlNWB6EcXHer06u9BQke.jpg",
-        "release_date": "2026-06-12",
-        "video": false,
-        "vote_average": 5.257,
-        "vote_count": 37,
-        "popularity": 34.5755,
-        "PG": 16,
-        "release_quality": "4K",
-        "imdb_id": "tt36963493",
-        "status": "released",
-        "last_air_date": "2026-06-17",
-        "countries": [
-          "Франция",
-          "США"
-        ],
-        "genres": [
-          "Комедия",
-          "Криминал"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2774,
-      "time": 1781869159639,
-      "card_id": "278178",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/2yDDwP48GqL9Fpb6UEgGHyqM63y.jpg",
-        "genre_ids": [
-          18,
-          9648,
-          80
-        ],
-        "id": 278178,
-        "original_language": "en",
-        "name": "Я тебя отыщу",
-        "original_name": "I Will Find You",
-        "names": [
-          "Я тебя отыщу",
-          "I Will Find You",
-          "Я найду тебя"
-        ],
-        "overview": "Отец, несправедливо осужденный за убийство сына, отбывает срок в тюрьме. Узнав, что мальчик еще может быть жив, герой предпринимает отчаянные шаги, стремясь его спасти.",
-        "poster_path": "/tz1msIMyN5IAl2W4C0JBsjIadPj.jpg",
-        "first_air_date": "2026-06-18",
-        "video": false,
-        "vote_average": 10,
-        "vote_count": 5,
-        "popularity": 6.9228,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "9349321",
-        "imdb_id": "tt34771210",
-        "status": "ended",
-        "last_air_date": "2026-06-18",
-        "seasons": {
-          "1": 8
-        },
-        "episode": {
-          "air_date": "2026-06-18",
-          "episode_number": 8,
-          "name": "8 эпизод",
-          "overview": "Дэвид и Рейчел получают неожиданного союзника. У них есть единственный шанс спасти Мэттью из рук похитителей, пока он не ускользнет окончательно.",
-          "season_number": 1,
-          "runtime": 36,
-          "still_path": "/TOs0PsDUEz8mlo3XKAIBKQ0SOW.jpg",
-          "vote_average": 0
-        }
-      },
-      "type": "episode",
-      "hash": "s1;e8",
-      "premiere": 0
-    },
-    {
-      "id": 2773,
-      "time": 1781860159748,
-      "card_id": "1477317",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/wQOhbCP6H8bO5ddlXDZT207orew.jpg",
-        "genre_ids": [
-          10749,
-          18
-        ],
-        "id": 1477317,
-        "original_language": "en",
-        "title": "Твоя вина: Лондон",
-        "original_title": "Your Fault: London",
-        "names": [
-          "Твоя вина: Лондон",
-          "Your Fault: London",
-          "Culpa tuya: Londres"
-        ],
-        "overview": "Ноа уезжает в Оксфорд, чтобы продолжить учёбу, а Ник погружается в работу. В их жизни появляются новые люди, что пробуждает неожиданные эмоции и ревность. Доверие подвергается испытаниям, а отношения, которые казались нерушимыми, начинают давать трещину.  Оказавшись на распутье, Ноа и Ник должны сделать выбор: бороться за любовь, которая их объединила, или рискнуть потерять её навсегда",
-        "poster_path": "/nLxu237EJAisFCYKK48hN9Plobx.jpg",
-        "release_date": "2026-06-17",
-        "video": false,
-        "vote_average": 7.8,
-        "vote_count": 34,
-        "popularity": 115.1238,
-        "PG": 0,
-        "release_quality": "4K",
-        "kinopoisk_id": "9880148",
-        "imdb_id": "tt36958376",
-        "status": "released",
-        "last_air_date": "2026-06-18",
-        "countries": [
-          "Испания",
-          "Великобритания",
-          "США"
-        ],
-        "genres": [
-          "Мелодрама",
-          "Драма"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2772,
-      "time": 1781787823353,
-      "card_id": "1219542",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/xIdshPSkYOPOwE3KZ54VM9LEsvM.jpg",
-        "genre_ids": [
-          12,
-          10751,
-          80
-        ],
-        "id": 1219542,
-        "original_language": "de",
-        "title": "Три сыщика: Проклятие Острова мёртвых",
-        "original_title": "Die drei ??? – Toteninsel",
-        "names": [
-          "Три сыщика: Проклятие Острова мёртвых",
-          "Die drei???: Toteninsel",
-          "Die drei ??? – Toteninsel"
-        ],
-        "overview": "Летние каникулы мечты отменяются! Юстус, Питер и Боб собирались в беззаботный дорожный путешествие, но вместо этого перешли дорогу могущественному тайному ордену. Идя по следу преступников, юные детективы оказываются на Макатао зловещем вулканическом острове, который местные прозвали Островом мёртвых. Смогут ли Три сыщика разгадать тайну древнего проклятия и выбраться из огненной ловушки живыми?",
-        "poster_path": "/cQy8PqmhwRKuSmyb9eFdUe55B9V.jpg",
-        "release_date": "2026-01-22",
-        "video": false,
-        "vote_average": 7,
-        "vote_count": 17,
-        "popularity": 1.4608,
-        "PG": 6,
-        "release_quality": "4K",
-        "imdb_id": "tt38908928",
-        "status": "released",
-        "last_air_date": "2026-06-18",
-        "countries": [
-          "Германия"
-        ],
-        "genres": [
-          "Приключения",
-          "Семейный",
-          "Криминал"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.878068923950195
+  "duration": 6.406889915466309
 }
