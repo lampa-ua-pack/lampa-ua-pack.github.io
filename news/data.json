@@ -2,6 +2,119 @@
   "secuses": true,
   "result": [
     {
+      "id": 2827,
+      "time": 1784458588601,
+      "card_id": "296206",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "id": 296206,
+        "original_language": "ko",
+        "name": "Агент Ким возобновил свою деятельность",
+        "original_name": "김부장",
+        "names": [
+          "Менеджер Ким",
+          "Kim bujang",
+          "Agent Kim Reactivated / Kim-bu-jang",
+          "Агент Ким возобновил свою деятельность.",
+          "김부장",
+          "Агент Ким возобновил свою деятельность"
+        ],
+        "overview": "Обычный семьянин, который однажды раскрывает свою личность как специального агента, чтобы найти свою пропавшую дочь Мин-джи, рискуя всем ради её спасения.",
+        "poster_path": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+        "first_air_date": "2026-06-26",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 28,
+        "popularity": 98.2639,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "9027270",
+        "kp_rating": "8.1",
+        "imdb_id": "tt42127457",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-18",
+        "seasons": {
+          "1": 7
+        },
+        "episode": {
+          "air_date": "2026-07-17",
+          "episode_number": 7,
+          "name": "Эпизод 7",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 68,
+          "still_path": "/q048Dp0gY4FaEGiUtEuVO2yWAYG.jpg",
+          "vote_average": 0
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e7",
+      "premiere": 0
+    },
+    {
+      "id": 2826,
+      "time": 1784456788702,
+      "card_id": "283151",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/lq2aJdPlyOo11aBwojmLvGjlJS1.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 283151,
+        "original_language": "en",
+        "name": "Пятизвёздочный уикенд",
+        "original_name": "The Five Star Weekend",
+        "names": [
+          "Уикенд на пять звёзд",
+          "The Five-Star Weekend",
+          "Пятизвёздочный уикенд",
+          "The Five Star Weekend"
+        ],
+        "overview": "Холлис Шоу, известная фуд-блогерша, славящаяся своими восхитительными рецептами, безупречным вкусом и доброжелательным характером, переживает сокрушительную потерю. Не в силах двигаться дальше, она обнаруживает трещины в своей идеальной жизни — напряженный брак, сложные отношения с дочерью и растущее стремление к одобрению со стороны подписчиков. Пытаясь преодолеть горе и вновь обрести себя, Холлис решает устроить выходные в своем доме на острове Нантакет с тремя подругами, представляющими разные этапы ее жизни: детство, двадцать, тридцать лет и еще одна неожиданная «пятая звезда». На фоне роскошного прибрежного пейзажа они повзрослеют так, как никогда не могли себе представить, будут раздвигаться границы дозволенного и раскрываться тайны.",
+        "poster_path": "/A0Y6xf8IDDL2dBV3mvu8fWPFYLG.jpg",
+        "first_air_date": "2026-07-09",
+        "video": false,
+        "vote_average": 4,
+        "vote_count": 4,
+        "popularity": 14.3338,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "11804682",
+        "imdb_id": "tt35587659",
+        "imdb_rating": "7.2",
+        "status": "returning series",
+        "last_air_date": "2026-07-10",
+        "seasons": {
+          "1": 8
+        },
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2825,
       "time": 1784357788668,
       "card_id": "1497873",
@@ -2640,117 +2753,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2777,
-      "time": 1781941159645,
-      "card_id": "299167",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-        "genre_ids": [
-          37,
-          18
-        ],
-        "id": 299167,
-        "original_language": "en",
-        "name": "Ранчо Даттонов",
-        "original_name": "Dutton Ranch",
-        "names": [
-          "Ранчо Даттонов",
-          "Dutton Ranch",
-          "The Dutton Ranch"
-        ],
-        "overview": "Ранчо Даттонов - дом Бет и Рипа, стало символом той жизни, о которой они мечтали, за которую отчаянно боролись и ради которой едва не пожертвовали всем. Они всей душой привязались к своей земле площадью 7000 акров, превратив её в место, которое готовы защищать любой ценой. Даже в самые тяжёлые времена Бет и Рип делают всё возможное, чтобы выстоять, сохранить своё ранчо и обеспечить достойное будущее себе и своему приёмному сыну Картеру.",
-        "poster_path": "/mmxsx98NnY56CvataUqM1ktt14O.jpg",
-        "first_air_date": "2026-05-15",
-        "video": false,
-        "vote_average": 9.353,
-        "vote_count": 269,
-        "popularity": 162.7442,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7275308",
-        "kp_rating": "8.6",
-        "imdb_id": "tt34991493",
-        "status": "returning series",
-        "last_air_date": "2026-06-19",
-        "seasons": {
-          "1": 7
-        },
-        "episode": {
-          "air_date": "2026-06-19",
-          "episode_number": 7,
-          "name": "Эпизод 7",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 40,
-          "still_path": "/s4kz19IA4SuzywWtiaAuPmED0mu.jpg",
-          "vote_average": 9
-        }
-      },
-      "type": "episode",
-      "hash": "s1;e7",
-      "premiere": 0
-    },
-    {
-      "id": 2776,
-      "time": 1781935761765,
-      "card_id": "278178",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/2yDDwP48GqL9Fpb6UEgGHyqM63y.jpg",
-        "genre_ids": [
-          18,
-          9648,
-          80
-        ],
-        "id": 278178,
-        "original_language": "en",
-        "name": "Я тебя отыщу",
-        "original_name": "I Will Find You",
-        "names": [
-          "Я тебя отыщу",
-          "I Will Find You",
-          "Я найду тебя"
-        ],
-        "overview": "Отец, несправедливо осужденный за убийство сына, отбывает срок в тюрьме. Узнав, что мальчик еще может быть жив, герой предпринимает отчаянные шаги, стремясь его спасти.",
-        "poster_path": "/tz1msIMyN5IAl2W4C0JBsjIadPj.jpg",
-        "first_air_date": "2026-06-18",
-        "video": false,
-        "vote_average": 10,
-        "vote_count": 5,
-        "popularity": 6.9228,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "9349321",
-        "imdb_id": "tt34771210",
-        "status": "ended",
-        "last_air_date": "2026-06-19",
-        "seasons": {
-          "1": 8
-        },
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Драма",
-          "Детектив",
-          "Криминал"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.406889915466309
+  "duration": 5.603362083435059
 }

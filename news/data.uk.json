@@ -2,6 +2,129 @@
   "secuses": true,
   "result": [
     {
+      "id": 2827,
+      "time": 1784458588601,
+      "card_id": "296206",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "id": 296206,
+        "original_language": "ko",
+        "name": "Агент Кім: Реактивація",
+        "original_name": "김부장",
+        "names": [
+          "Агент Кім: Реактивація",
+          "Менеджер Ким",
+          "Kim bujang",
+          "Agent Kim Reactivated / Kim-bu-jang",
+          "Агент Ким возобновил свою деятельность.",
+          "김부장",
+          "Агент Ким возобновил свою деятельность"
+        ],
+        "overview": "Коли в скромного чоловіка зникає донька, він згадує навички із часів участі в спецопераціях, щоб відшукати її, але привертає до себе небажану увагу.",
+        "poster_path": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+        "first_air_date": "2026-06-26",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 28,
+        "popularity": 98.2639,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "9027270",
+        "kp_rating": "8.1",
+        "imdb_id": "tt42127457",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-18",
+        "seasons": {
+          "1": 7
+        },
+        "episode": {
+          "air_date": "2026-07-17",
+          "episode_number": 7,
+          "name": "Серія 7",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 68,
+          "still_path": "/q048Dp0gY4FaEGiUtEuVO2yWAYG.jpg",
+          "vote_average": 0.0
+        },
+        "genres": [
+          "Екшн і Пригоди",
+          "Кримінал",
+          "Драма"
+        ],
+        "countries": [
+          "South Korea"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e7",
+      "premiere": 0
+    },
+    {
+      "id": 2826,
+      "time": 1784456788702,
+      "card_id": "283151",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/lq2aJdPlyOo11aBwojmLvGjlJS1.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 283151,
+        "original_language": "en",
+        "name": "П'ятизірковий вікенд",
+        "original_name": "The Five Star Weekend",
+        "names": [
+          "П'ятизірковий вікенд",
+          "Уикенд на пять звёзд",
+          "The Five-Star Weekend",
+          "Пятизвёздочный уикенд",
+          "The Five Star Weekend"
+        ],
+        "overview": "Після несподіваної смерті чоловіка та публічного нервового зриву відома кулінарка Голліс запрошує своїх найкращих подруг на розкішний вікенд на острові Нантакет.",
+        "poster_path": "/A0Y6xf8IDDL2dBV3mvu8fWPFYLG.jpg",
+        "first_air_date": "2026-07-09",
+        "video": false,
+        "vote_average": 4,
+        "vote_count": 4,
+        "popularity": 14.3338,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "11804682",
+        "imdb_id": "tt35587659",
+        "imdb_rating": "7.2",
+        "status": "returning series",
+        "last_air_date": "2026-07-10",
+        "seasons": {
+          "1": 8
+        },
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2825,
       "time": 1784357788668,
       "card_id": "1497873",
@@ -146,7 +269,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/zhUjCo3SL7OmLGBkVf6JtxyTH6N.jpg",
-          "vote_average": 5.25
+          "vote_average": 6.0
         },
         "genres": [
           "Драма",
@@ -208,7 +331,7 @@
           "season_number": 1,
           "runtime": 48,
           "still_path": "/vOa1Lv0rvuPkPk4xYtZHZGR04bX.jpg",
-          "vote_average": 5.0
+          "vote_average": 5.9
         },
         "genres": [
           "Драма",
@@ -532,7 +655,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/kcKcglqhlje5zqIadRQgc7tvWMN.jpg",
-          "vote_average": 6.2
+          "vote_average": 6.3
         },
         "genres": [
           "Науково фантастичний",
@@ -607,7 +730,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/fo4rjkcVyO4YF30K67a7yy2sKhT.jpg",
-          "vote_average": 8.364
+          "vote_average": 8.333
         },
         "genres": [
           "Мультфільм",
@@ -676,7 +799,7 @@
           "overview": "",
           "season_number": 1,
           "runtime": 69,
-          "still_path": "/mZ0qnO3lKZsw3dyoDjfYrebLTih.jpg",
+          "still_path": "/5nn1Dnb4udjJdnNcYNXM8CeFdsN.jpg",
           "vote_average": 9.0
         },
         "genres": [
@@ -747,7 +870,7 @@
           "season_number": 3,
           "runtime": 49,
           "still_path": "/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg",
-          "vote_average": 3.333
+          "vote_average": 3.957
         },
         "genres": [
           "Науково фантастичний",
@@ -1363,7 +1486,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 5.241
+          "vote_average": 5.226
         },
         "genres": [
           "Науково фантастичний",
@@ -1601,7 +1724,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 6.071
+          "vote_average": 5.931
         },
         "genres": [
           "Науково фантастичний",
@@ -2143,7 +2266,7 @@
           "season_number": 4,
           "runtime": 49,
           "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
-          "vote_average": 5.488
+          "vote_average": 5.378
         },
         "genres": [
           "Детектив",
@@ -2786,7 +2909,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/8OoIdbyrUI7ymR7kYd2yipfQTJZ.jpg",
-          "vote_average": 5.689
+          "vote_average": 5.566
         },
         "genres": [
           "Детектив",
@@ -2850,126 +2973,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2777,
-      "time": 1781941159645,
-      "card_id": "299167",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-        "genre_ids": [
-          37,
-          18
-        ],
-        "id": 299167,
-        "original_language": "en",
-        "name": "Ранчо Даттонів",
-        "original_name": "Dutton Ranch",
-        "names": [
-          "Ранчо Даттонів",
-          "Ранчо Даттонов",
-          "Dutton Ranch",
-          "The Dutton Ranch"
-        ],
-        "overview": "Бет Даттон і Ріп Вілер борються за виживання на своєму улюбленому ранчо площею 7000 акрів в умовах важких часів і жорсткої конкуренції, водночас намагаючись допомогти юному Картеру стати тим чоловіком, яким він має бути.",
-        "poster_path": "/dtKW23O5tfxq7EXUsfeLgBx7gy1.jpg",
-        "first_air_date": "2026-05-15",
-        "video": false,
-        "vote_average": 9.353,
-        "vote_count": 269,
-        "popularity": 162.7442,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7275308",
-        "kp_rating": "8.6",
-        "imdb_id": "tt34991493",
-        "status": "returning series",
-        "last_air_date": "2026-06-19",
-        "seasons": {
-          "1": 7
-        },
-        "episode": {
-          "air_date": "2026-06-19",
-          "episode_number": 7,
-          "name": "Серія 7",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 42,
-          "still_path": "/yFnrtYornkPUnAcRc3rFcQ6RgYz.jpg",
-          "vote_average": 8.6
-        },
-        "genres": [
-          "Вестерн",
-          "Драма"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e7",
-      "premiere": 0
-    },
-    {
-      "id": 2776,
-      "time": 1781935761765,
-      "card_id": "278178",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/yOna5ZGXrvWO2HdOCKcahx2sCDN.jpg",
-        "genre_ids": [
-          18,
-          9648,
-          80
-        ],
-        "id": 278178,
-        "original_language": "en",
-        "name": "Я тебе відшукаю",
-        "original_name": "I Will Find You",
-        "names": [
-          "Я тебе відшукаю",
-          "Я тебя отыщу",
-          "I Will Find You",
-          "Я найду тебя"
-        ],
-        "overview": "Несправедливо засуджений за вбивство свого сина чоловік дізнається, що хлопчик міг вижити, і вирушає на порятунок.",
-        "poster_path": "/lXJDAPb7s8mKzsZbAcT0dlSQbdY.jpg",
-        "first_air_date": "2026-06-18",
-        "video": false,
-        "vote_average": 10,
-        "vote_count": 5,
-        "popularity": 6.9228,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "9349321",
-        "imdb_id": "tt34771210",
-        "status": "ended",
-        "last_air_date": "2026-06-19",
-        "seasons": {
-          "1": 8
-        },
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Драма",
-          "Детектив",
-          "Кримінал"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.406889915466309
+  "duration": 5.603362083435059
 }
