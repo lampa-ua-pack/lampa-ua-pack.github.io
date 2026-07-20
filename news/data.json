@@ -2,6 +2,180 @@
   "secuses": true,
   "result": [
     {
+      "id": 2830,
+      "time": 1784548588615,
+      "card_id": "94997",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 94997,
+        "original_language": "en",
+        "name": "Дом Дракона",
+        "original_name": "House of the Dragon",
+        "names": [
+          "Дом Дракона",
+          "House of the Dragon",
+          "Дом дракона",
+          "Дім Дракона",
+          "Дім дракона",
+          "Game of Thrones: House of the Dragon"
+        ],
+        "overview": "После смерти короля Визериса династия Таргариенов начинает бескомпромиссную борьбу за Железный трон. Предводительницей «черной» ветви становится принцесса Рейнира, а на стороне «зеленой» оказывается ее лучшая подруга и дочь десницы короля Алисента. В битве за престол соперницы заручаются поддержкой неожиданных союзников, плетут интриги — и используют разрушительную мощь драконов.",
+        "poster_path": "/hXyYN6LFo7QnKUA3QBx7B3KsnJE.jpg",
+        "first_air_date": "2022-08-21",
+        "video": false,
+        "vote_average": 8.373,
+        "vote_count": 6612,
+        "popularity": 383.121,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1316601",
+        "kp_rating": "8.1",
+        "imdb_id": "tt11198330",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-07-20",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 5
+        },
+        "episode": {
+          "air_date": "2026-07-19",
+          "episode_number": 5,
+          "name": "Эпизод 5",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 64,
+          "still_path": "/ac4Y1B8dpN48ywZzc4EyL924VUy.jpg",
+          "vote_average": 1.9
+        }
+      },
+      "type": "episode",
+      "hash": "s3;e5",
+      "premiere": 0
+    },
+    {
+      "id": 2829,
+      "time": 1784528788716,
+      "card_id": "241882",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg",
+        "genre_ids": [
+          10759
+        ],
+        "id": 241882,
+        "original_language": "en",
+        "name": "Вместе до конца",
+        "original_name": "Ride or Die",
+        "names": [
+          "Вместе до конца",
+          "Ride or Die"
+        ],
+        "overview": "Лучшие подруги Дебби и Джудит уверены, что знают друг о друге всё, пока Дебби не узнаёт шокирующую правду: её подруга уже много лет ведёт двойную жизнь и является международной наёмной убийцей. Когда неудачное задание и загадочный человек из прошлого Джудит превращают их в главные цели, обе вынуждены пуститься в бега. Преследуемые полицией, элитными киллерами и опасными преступниками, они отправляются в безумное путешествие по Европе, где каждая остановка становится испытанием на выживание, а их дружба — единственным шансом выбраться живыми.",
+        "poster_path": "/uWqEnvpwa2U28QheMdUdEcr4U0M.jpg",
+        "first_air_date": "2026-07-15",
+        "video": false,
+        "vote_average": 3.65,
+        "vote_count": 10,
+        "popularity": 33.3146,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6739953",
+        "imdb_id": "tt30494226",
+        "imdb_rating": "7.6",
+        "status": "returning series",
+        "last_air_date": "2026-07-16",
+        "seasons": {
+          "1": 8
+        },
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Боевик и Приключения"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2828,
+      "time": 1784476588600,
+      "card_id": "296206",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "id": 296206,
+        "original_language": "ko",
+        "name": "Агент Ким возобновил свою деятельность",
+        "original_name": "김부장",
+        "names": [
+          "Менеджер Ким",
+          "Kim bujang",
+          "Agent Kim Reactivated / Kim-bu-jang",
+          "Агент Ким возобновил свою деятельность.",
+          "김부장",
+          "Агент Ким возобновил свою деятельность"
+        ],
+        "overview": "Обычный семьянин, который однажды раскрывает свою личность как специального агента, чтобы найти свою пропавшую дочь Мин-джи, рискуя всем ради её спасения.",
+        "poster_path": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+        "first_air_date": "2026-06-26",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 28,
+        "popularity": 98.2639,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "9027270",
+        "kp_rating": "8.1",
+        "imdb_id": "tt42127457",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-19",
+        "seasons": {
+          "1": 8
+        },
+        "episode": {
+          "air_date": "2026-07-18",
+          "episode_number": 8,
+          "name": "Эпизод 8",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 68,
+          "still_path": "/mUkzzb4D3yJVtu6Py4J2ktfn3Jg.jpg",
+          "vote_average": 0
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e8",
+      "premiere": 0
+    },
+    {
       "id": 2827,
       "time": 1784458588601,
       "card_id": "296206",
@@ -2579,181 +2753,7 @@
       "type": "episode",
       "hash": "s9;e5",
       "premiere": 0
-    },
-    {
-      "id": 2780,
-      "time": 1782121160689,
-      "card_id": "94997",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-        "genre_ids": [
-          10765,
-          18,
-          10759
-        ],
-        "id": 94997,
-        "original_language": "en",
-        "name": "Дом Дракона",
-        "original_name": "House of the Dragon",
-        "names": [
-          "Дом Дракона",
-          "House of the Dragon",
-          "Дом дракона",
-          "Дім Дракона",
-          "Дім дракона",
-          "Game of Thrones: House of the Dragon"
-        ],
-        "overview": "После смерти короля Визериса династия Таргариенов начинает бескомпромиссную борьбу за Железный трон. Предводительницей «черной» ветви становится принцесса Рейнира, а на стороне «зеленой» оказывается ее лучшая подруга и дочь десницы короля Алисента. В битве за престол соперницы заручаются поддержкой неожиданных союзников, плетут интриги — и используют разрушительную мощь драконов.",
-        "poster_path": "/hXyYN6LFo7QnKUA3QBx7B3KsnJE.jpg",
-        "first_air_date": "2022-08-21",
-        "video": false,
-        "vote_average": 8.3,
-        "vote_count": 6047,
-        "popularity": 132.5104,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1316601",
-        "kp_rating": "8.1",
-        "imdb_id": "tt11198330",
-        "imdb_rating": "8.3",
-        "status": "returning series",
-        "last_air_date": "2026-06-22",
-        "seasons": {
-          "1": 10,
-          "2": 8,
-          "3": 1
-        },
-        "episode": {
-          "air_date": "2026-06-21",
-          "episode_number": 1,
-          "name": "Эпизод 1",
-          "overview": "",
-          "season_number": 3,
-          "runtime": 66,
-          "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 4.5
-        }
-      },
-      "type": "episode",
-      "hash": "s3;e1",
-      "premiere": 0
-    },
-    {
-      "id": 2779,
-      "time": 1782049159678,
-      "card_id": "124364",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
-        "genre_ids": [
-          9648,
-          18,
-          10765
-        ],
-        "id": 124364,
-        "original_language": "en",
-        "name": "Извне",
-        "original_name": "FROM",
-        "names": [
-          "Извне",
-          "From",
-          "Ззовні",
-          "FROM"
-        ],
-        "overview": "Затерянный в лесу американский городок пленяет каждого, кому не посчастливилось проехать его по пути — покинуть это место оказывается буквально невозможно. Днем невольные жители пытаются выстроить подобие нормального быта и найти способ выбраться, а по ночам спасаются от пугающих обитателей леса, которые приходят навестить горожан, как только заходит солнце.",
-        "poster_path": "/dFJ8exnjJoEfTlHoR58L4OlTSEu.jpg",
-        "first_air_date": "2022-02-20",
-        "video": false,
-        "vote_average": 8.48,
-        "vote_count": 3682,
-        "popularity": 675.0874,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4476885",
-        "kp_rating": "7.6",
-        "imdb_id": "tt9813792",
-        "imdb_rating": "7.8",
-        "status": "returning series",
-        "last_air_date": "2026-06-21",
-        "seasons": {
-          "1": 10,
-          "2": 10,
-          "3": 10,
-          "4": 9
-        },
-        "episode": {
-          "air_date": "2026-06-21",
-          "episode_number": 9,
-          "name": "Эпизод 9",
-          "overview": "",
-          "season_number": 4,
-          "runtime": 47,
-          "still_path": "/95qRpGinaXgHmyhQy9UvsO48Jmb.jpg",
-          "vote_average": 4
-        }
-      },
-      "type": "episode",
-      "hash": "s4;e9",
-      "premiere": 0
-    },
-    {
-      "id": 2778,
-      "time": 1781944764792,
-      "card_id": "1318413",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
-        "genre_ids": [
-          53,
-          36,
-          10752
-        ],
-        "id": 1318413,
-        "original_language": "en",
-        "title": "Давление",
-        "original_title": "Pressure",
-        "names": [
-          "Давление",
-          "Pressure"
-        ],
-        "overview": "Июнь 1944 года. Высадка в Нормандии, крупнейшая в истории морская десантная операция, уже подготовлена, и любая задержка грозит тем, что немецкая разведка раскроет планы союзников. Главному метеорологу Великобритании Джеймсу Стэггу предстоит убедить все командование союзных сил во главе с генералом Дуайтом Эйзенхауэром довериться его нестандартным методам и изменить планы операции. У ученых остается лишь 72 часа на точный прогноз сразу двух надвигающихся штормов, но от этого зависит судьба всего Западного фронта.",
-        "poster_path": "/xYLbAshji6VK0vQjtLZg2E9bea.jpg",
-        "release_date": "2026-05-25",
-        "video": false,
-        "vote_average": 7.7,
-        "vote_count": 50,
-        "popularity": 78.0296,
-        "PG": 18,
-        "release_quality": "webdl",
-        "kinopoisk_id": "6606844",
-        "kp_rating": "6.9",
-        "imdb_id": "tt32547691",
-        "status": "released",
-        "last_air_date": "2026-05-31",
-        "countries": [
-          "Великобритания",
-          "Франция"
-        ],
-        "genres": [
-          "Триллер",
-          "История",
-          "Военный"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 5.603362083435059
+  "duration": 6.349441051483154
 }
