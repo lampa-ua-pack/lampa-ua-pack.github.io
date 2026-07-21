@@ -2,6 +2,128 @@
   "secuses": true,
   "result": [
     {
+      "id": 2832,
+      "time": 1784618788738,
+      "card_id": "312693",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/rEA2HFF2EIOAiiD7A1HEpMUHe4l.jpg",
+        "genre_ids": [
+          35,
+          18,
+          9648
+        ],
+        "id": 312693,
+        "original_language": "en",
+        "name": "Маленькие пророки",
+        "original_name": "Small Prophets",
+        "names": [
+          "Маленькие пророки",
+          "Small Prophets"
+        ],
+        "overview": "Эксцентричный Майкл Слип, чья возлюбленная Клеа исчезла семь лет назад, решает создать гомункулов — магических духов-прорицателей, способных предсказывать будущее.",
+        "poster_path": "/7aFU7pYMtSQTix1OYPqNWvoc3zh.jpg",
+        "first_air_date": "2026-02-09",
+        "video": false,
+        "vote_average": 8.355,
+        "vote_count": 31,
+        "popularity": 3.0954,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "GB"
+        ],
+        "kinopoisk_id": "11191303",
+        "kp_rating": "7.5",
+        "imdb_id": "tt38504111",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-07-21",
+        "seasons": {
+          "1": 6
+        },
+        "countries": [
+          "Великобритания"
+        ],
+        "genres": [
+          "Комедия",
+          "Драма",
+          "Детектив"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2831,
+      "time": 1784566591082,
+      "card_id": "60625",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "id": 60625,
+        "original_language": "en",
+        "name": "Рик и Морти",
+        "original_name": "Rick and Morty",
+        "names": [
+          "Рик и Морти",
+          "Rick and Morty",
+          "Рік та Морті"
+        ],
+        "overview": "Морти - самый обычный мальчик, который ничем не отличается от своих сверстников. А вот его дедуля Рик занимается необычными научными исследованиями и зачастую полностью неадекватен. Он может в любое время дня и ночи схватить внука и отправиться вместе с ним в безумные приключения с помощью построенной из разного хлама летающей тарелки, которая способна перемещаться сквозь межпространственный тоннель. Каждый раз эта парочка оказывается в самых неожиданных местах и самых нелепых ситуациях.",
+        "poster_path": "/6D1NA4IMUFI8lBNuCBUlp7eLYDP.jpg",
+        "first_air_date": "2013-12-02",
+        "video": false,
+        "vote_average": 8.679,
+        "vote_count": 11110,
+        "popularity": 186.45,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "685246",
+        "kp_rating": "8.9",
+        "imdb_id": "tt2861424",
+        "imdb_rating": "9.0",
+        "status": "returning series",
+        "last_air_date": "2026-07-20",
+        "seasons": {
+          "1": 11,
+          "2": 10,
+          "3": 10,
+          "4": 11,
+          "5": 14,
+          "6": 10,
+          "7": 10,
+          "8": 10,
+          "9": 9
+        },
+        "episode": {
+          "air_date": "2026-07-19",
+          "episode_number": 9,
+          "name": "Эпизод 9",
+          "overview": "",
+          "season_number": 9,
+          "runtime": null,
+          "still_path": "/sGtWCfxmJZ3uy35CUKzn0nuHRrS.jpg",
+          "vote_average": 9
+        }
+      },
+      "type": "episode",
+      "hash": "s9;e9",
+      "premiere": 0
+    },
+    {
       "id": 2830,
       "time": 1784548588615,
       "card_id": "94997",
@@ -2636,124 +2758,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2782,
-      "time": 1782232763688,
-      "card_id": "1084244",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-        "genre_ids": [
-          16,
-          10751,
-          35,
-          12
-        ],
-        "id": 1084244,
-        "original_language": "en",
-        "title": "История игрушек 5",
-        "original_title": "Toy Story 5",
-        "names": [
-          "История игрушек 5",
-          "Toy Story 5"
-        ],
-        "overview": "Вуди, Джесси и Базз Лайтер сталкиваются с новой угрозой — планшетом «ЛилиПад», который стал любимой игрушкой 8-летней Бонни и занимает всё больше её времени.",
-        "poster_path": "/84igQj0DU3TgPrtQ7bHXHCio1sV.jpg",
-        "release_date": "2026-06-17",
-        "video": false,
-        "vote_average": 7.511,
-        "vote_count": 219,
-        "popularity": 345.7913,
-        "PG": 6,
-        "release_quality": "ts",
-        "kinopoisk_id": "5424947",
-        "kp_rating": "7.4",
-        "imdb_id": "tt29355505",
-        "status": "released",
-        "last_air_date": "2026-06-19",
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Мультфильм",
-          "Семейный",
-          "Комедия",
-          "Приключения"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2781,
-      "time": 1782139159657,
-      "card_id": "60625",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
-        "genre_ids": [
-          16,
-          35,
-          10765,
-          10759
-        ],
-        "id": 60625,
-        "original_language": "en",
-        "name": "Рик и Морти",
-        "original_name": "Rick and Morty",
-        "names": [
-          "Рик и Морти",
-          "Rick and Morty",
-          "Рік та Морті"
-        ],
-        "overview": "Морти - самый обычный мальчик, который ничем не отличается от своих сверстников. А вот его дедуля Рик занимается необычными научными исследованиями и зачастую полностью неадекватен. Он может в любое время дня и ночи схватить внука и отправиться вместе с ним в безумные приключения с помощью построенной из разного хлама летающей тарелки, которая способна перемещаться сквозь межпространственный тоннель. Каждый раз эта парочка оказывается в самых неожиданных местах и самых нелепых ситуациях.",
-        "poster_path": "/6D1NA4IMUFI8lBNuCBUlp7eLYDP.jpg",
-        "first_air_date": "2013-12-02",
-        "video": false,
-        "vote_average": 8.679,
-        "vote_count": 10993,
-        "popularity": 152.6207,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "685246",
-        "kp_rating": "8.9",
-        "imdb_id": "tt2861424",
-        "imdb_rating": "9.0",
-        "status": "returning series",
-        "last_air_date": "2026-06-22",
-        "seasons": {
-          "1": 11,
-          "2": 10,
-          "3": 10,
-          "4": 11,
-          "5": 14,
-          "6": 10,
-          "7": 10,
-          "8": 10,
-          "9": 5
-        },
-        "episode": {
-          "air_date": "2026-06-21",
-          "episode_number": 5,
-          "name": "Эпизод 5",
-          "overview": "",
-          "season_number": 9,
-          "runtime": 22,
-          "still_path": "/dQUDeY9qKrERkHwu8sB67XmG6Am.jpg",
-          "vote_average": 9
-        }
-      },
-      "type": "episode",
-      "hash": "s9;e5",
-      "premiere": 0
     }
   ],
-  "duration": 6.349441051483154
+  "duration": 6.764719009399414
 }

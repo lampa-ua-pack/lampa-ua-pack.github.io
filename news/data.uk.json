@@ -2,6 +2,138 @@
   "secuses": true,
   "result": [
     {
+      "id": 2832,
+      "time": 1784618788738,
+      "card_id": "312693",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/rEA2HFF2EIOAiiD7A1HEpMUHe4l.jpg",
+        "genre_ids": [
+          35,
+          18,
+          9648
+        ],
+        "id": 312693,
+        "original_language": "en",
+        "name": "Маленькі віщуни",
+        "original_name": "Small Prophets",
+        "names": [
+          "Маленькі віщуни",
+          "Маленькие пророки",
+          "Small Prophets"
+        ],
+        "overview": "Майкл живе монотонним, нудним життям: робота в будівельному магазині, дрібні суперечки, однакові дні, що зливаються. Єдине, що вирізняється – це його вперта віра в те, що Клеа, дівчина, яка зникла багато років тому, колись повернеться. Для оточення це вже давно пройдений етап, але не для нього. І він не має наміру здаватися. Все починає змінюватися після того, як він дізнається, що можна створити тих, хто допоможе.\n\nІдея про істот, здатних давати відповіді на будь-які запитання, звучить як марення…  допоки Майкл не починає сприймати це серйозно. Зібравши все необхідне і облаштувавши «лабораторію», він робить те, що має дати відповіді – створює істот, що мають передбачити майбутнє.Те, що спершу виглядає як експеримент, швидко виходить з-під контролю. І поки маленькі створіння починають оживати, стає дедалі складніше зрозуміти: чи це шанс отримати відповіді…  чи початок чогось, що краще було не відкривати?",
+        "poster_path": "/dwa5S9efdYhnxMBjUtRdrmlHT5e.jpg",
+        "first_air_date": "2026-02-09",
+        "video": false,
+        "vote_average": 8.355,
+        "vote_count": 31,
+        "popularity": 3.0954,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "GB"
+        ],
+        "kinopoisk_id": "11191303",
+        "kp_rating": "7.5",
+        "imdb_id": "tt38504111",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-07-21",
+        "seasons": {
+          "1": 6
+        },
+        "countries": [
+          "United Kingdom"
+        ],
+        "genres": [
+          "Комедія",
+          "Драма",
+          "Детектив"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2831,
+      "time": 1784566591082,
+      "card_id": "60625",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "id": 60625,
+        "original_language": "en",
+        "name": "Рік та Морті",
+        "original_name": "Rick and Morty",
+        "names": [
+          "Рик и Морти",
+          "Rick and Morty",
+          "Рік та Морті"
+        ],
+        "overview": "Гумористично-фантастичний мультсеріал про пригоди дідуся-винахідника Ріка та його онука-школяра Морті, яких іноді супроводжують інші члени родини: батько-невдаха Джеррі, донька-школярка Саммер та закомплексована мати Бет.",
+        "poster_path": "/tnXwqcZ98EVKuMzRtcvPRJukwI3.jpg",
+        "first_air_date": "2013-12-02",
+        "video": false,
+        "vote_average": 8.679,
+        "vote_count": 11110,
+        "popularity": 186.45,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "685246",
+        "kp_rating": "8.9",
+        "imdb_id": "tt2861424",
+        "imdb_rating": "9.0",
+        "status": "returning series",
+        "last_air_date": "2026-07-20",
+        "seasons": {
+          "1": 11,
+          "2": 10,
+          "3": 10,
+          "4": 11,
+          "5": 14,
+          "6": 10,
+          "7": 10,
+          "8": 10,
+          "9": 9
+        },
+        "episode": {
+          "air_date": "2026-07-19",
+          "episode_number": 9,
+          "name": "Серія 9",
+          "overview": "",
+          "season_number": 9,
+          "runtime": 23,
+          "still_path": "/sGtWCfxmJZ3uy35CUKzn0nuHRrS.jpg",
+          "vote_average": 6.9
+        },
+        "genres": [
+          "Мультфільм",
+          "Комедія",
+          "Науково фантастичний",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s9;e9",
+      "premiere": 0
+    },
+    {
       "id": 2830,
       "time": 1784548588615,
       "card_id": "94997",
@@ -55,9 +187,9 @@
           "name": "Серія 5",
           "overview": "",
           "season_number": 3,
-          "runtime": 63,
-          "still_path": "/ac4Y1B8dpN48ywZzc4EyL924VUy.jpg",
-          "vote_average": 1.692
+          "runtime": 64,
+          "still_path": "/trmxI19SM9arfcd4Petr5sJXrGd.jpg",
+          "vote_average": 3.848
         },
         "genres": [
           "Науково фантастичний",
@@ -113,7 +245,8 @@
           "1": 8
         },
         "countries": [
-          "United States of America"
+          "United States of America",
+          "United Kingdom"
         ],
         "genres": [
           "Екшн і Пригоди"
@@ -178,7 +311,7 @@
           "season_number": 1,
           "runtime": 68,
           "still_path": "/mUkzzb4D3yJVtu6Py4J2ktfn3Jg.jpg",
-          "vote_average": 1.0
+          "vote_average": 5.5
         },
         "genres": [
           "Екшн і Пригоди",
@@ -248,7 +381,7 @@
           "season_number": 1,
           "runtime": 68,
           "still_path": "/q048Dp0gY4FaEGiUtEuVO2yWAYG.jpg",
-          "vote_average": 1.0
+          "vote_average": 7.0
         },
         "genres": [
           "Екшн і Пригоди",
@@ -369,7 +502,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+        "backdrop_path": "/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
         "genre_ids": [
           12,
           28,
@@ -456,12 +589,12 @@
         "episode": {
           "air_date": "2026-07-16",
           "episode_number": 8,
-          "name": "Серія 8",
-          "overview": "",
+          "name": "«Los tiempos de Dios son Perfectos»",
+          "overview": "Макс висуває претензії, Анна й Том переходять у наступ. Наталі намагається перешкодити Максові.",
           "season_number": 1,
           "runtime": 46,
           "still_path": "/zhUjCo3SL7OmLGBkVf6JtxyTH6N.jpg",
-          "vote_average": 6.0
+          "vote_average": 6.7
         },
         "genres": [
           "Драма",
@@ -519,10 +652,10 @@
           "air_date": "2026-07-14",
           "episode_number": 2,
           "name": "Змусь їх танцювати",
-          "overview": "Шукаючи прихистку, Лакі переховується в сім'ї, яка ні про що не здогадується. Прісцилла навідується до батька Лакі.",
+          "overview": "Шукаючи прихистку, Лакі переховується в сім’ї, яка ні про що не здогадується. Прісцилла навідується до батька Лакі.",
           "season_number": 1,
           "runtime": 48,
-          "still_path": "/vOa1Lv0rvuPkPk4xYtZHZGR04bX.jpg",
+          "still_path": "/j9tZvz6gMdm3nAUOpflSzVB9fsr.jpg",
           "vote_average": 5.9
         },
         "genres": [
@@ -553,15 +686,16 @@
         ],
         "id": 1397201,
         "original_language": "ja",
-        "title": "ゴールデンカムイ 網走監獄襲撃編",
+        "title": "Золоте божество: Напад на вʼязницю Абашірі",
         "original_title": "ゴールデンカムイ 網走監獄襲撃編",
         "names": [
+          "Золоте божество: Напад на вʼязницю Абашірі",
           "Золотое божество: Нападение на тюрьму Абасири",
           "Golden Kamuy: Abashiri Kangoku Shûgeki-henэ",
           "ゴールデンカムイ 網走監獄襲撃編",
           "Golden Kamuy: Abashiri Kangoku Shugeki-hen"
         ],
-        "overview": "Сюжет фокусируется на одной из самых культовых и напряженных арок истории — штурме тюрьмы Абасири. Главные герои, ветеран русско-японской войны Саити «Бессмертный» Сугимото и юная девушка-айну Асирпа, отправляются прямиком в укрепленную тюрьму. Их цель — найти загадочного заключенного Ноппэра-бо, который скрывает тайну золота айнов и может оказаться отцом Асирпы. На пути к истине им предстоит столкнуться в жестоком трехстороннем противостоянии с беглыми смертниками и безжалостной 7-й дивизией императорской армии под командованием лейтенанта Цуруми.",
+        "overview": "У розпал запеклої тристоронньої боротьби за запас золота айнів Асірпа й Суґімото вирушають до в’язниці Абашірі, де на них чекають Ноппера-Бо й правда про її батька.",
         "poster_path": "/lcBrjK1mnPrrpLk6VtlVMMCfsLS.jpg",
         "release_date": "2026-03-13",
         "video": false,
@@ -847,7 +981,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/kcKcglqhlje5zqIadRQgc7tvWMN.jpg",
-          "vote_average": 5.788
+          "vote_average": 5.389
         },
         "genres": [
           "Науково фантастичний",
@@ -922,7 +1056,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/fo4rjkcVyO4YF30K67a7yy2sKhT.jpg",
-          "vote_average": 8.333
+          "vote_average": 8.3
         },
         "genres": [
           "Мультфільм",
@@ -992,7 +1126,7 @@
           "season_number": 1,
           "runtime": 69,
           "still_path": "/5nn1Dnb4udjJdnNcYNXM8CeFdsN.jpg",
-          "vote_average": 5.0
+          "vote_average": 6.7
         },
         "genres": [
           "Екшн і Пригоди",
@@ -1062,7 +1196,7 @@
           "season_number": 3,
           "runtime": 49,
           "still_path": "/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg",
-          "vote_average": 4.0
+          "vote_average": 4.269
         },
         "genres": [
           "Науково фантастичний",
@@ -1353,7 +1487,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/6UIHqNk9f8BlNsAZb30Jb3N4YBr.jpg",
-          "vote_average": 8.5
+          "vote_average": 8.575
         },
         "genres": [
           "Мультфільм",
@@ -1423,7 +1557,7 @@
           "season_number": 1,
           "runtime": 61,
           "still_path": "/2yGGXfQmvcHlxktR17CowgcxVyp.jpg",
-          "vote_average": 6.875
+          "vote_average": 7.5
         },
         "genres": [
           "Екшн і Пригоди",
@@ -1553,7 +1687,7 @@
           "season_number": 3,
           "runtime": 57,
           "still_path": "/rtSucmBIzQPcBejfWXqRC8ElcEQ.jpg",
-          "vote_average": 6.4
+          "vote_average": 6.255
         },
         "genres": [
           "Науково фантастичний",
@@ -1677,7 +1811,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 5.2
+          "vote_average": 5.094
         },
         "genres": [
           "Науково фантастичний",
@@ -1915,7 +2049,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 5.931
+          "vote_average": 5.908
         },
         "genres": [
           "Науково фантастичний",
@@ -2202,8 +2336,8 @@
           "overview": "",
           "season_number": 9,
           "runtime": 24,
-          "still_path": "/ptYOQnNi81EHeh4LxcMRs2gfKz5.jpg",
-          "vote_average": 8.533
+          "still_path": "/uye472viIZrJZNf9VgqLO1xwpBk.jpg",
+          "vote_average": 8.6
         },
         "genres": [
           "Мультфільм",
@@ -2386,8 +2520,8 @@
           "overview": "Поки Алісент ризикує всім, щоб виконати свою частину угоди, Рейніра мусить вирішити, чи вартий Залізний Трон таких жертв.",
           "season_number": 3,
           "runtime": 64,
-          "still_path": "/6qXcvZEnD9InL1itud7eK88CDzC.jpg",
-          "vote_average": 7.2
+          "still_path": "/fjUv1wQ02FxhM5O6ICQgbSHErI.jpg",
+          "vote_average": 7.154
         },
         "genres": [
           "Науково фантастичний",
@@ -2457,7 +2591,7 @@
           "season_number": 4,
           "runtime": 49,
           "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
-          "vote_average": 5.274
+          "vote_average": 5.36
         },
         "genres": [
           "Детектив",
@@ -2793,7 +2927,8 @@
         "genres": [
           "Кримінал",
           "Драма",
-          "Мелодрама"
+          "Мелодрама",
+          "Трилер"
         ]
       },
       "type": "now",
@@ -2846,134 +2981,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2782,
-      "time": 1782232763688,
-      "card_id": "1084244",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-        "genre_ids": [
-          16,
-          10751,
-          35,
-          12
-        ],
-        "id": 1084244,
-        "original_language": "en",
-        "title": "Історія іграшок 5",
-        "original_title": "Toy Story 5",
-        "names": [
-          "Історія іграшок 5",
-          "История игрушек 5",
-          "Toy Story 5"
-        ],
-        "overview": "У новому розділі культової історії Базз, Вуді, Джессі та їхні друзі зіштовхуються з неочікуваною суперницею — Ліліпад, високотехнологічним планшетом у формі жабки, що перевертає їхній світ догори дриґом. Вона стає справжнім випробуванням для старих героїв, змушуючи їх знову об’єднатися, щоб врятувати улюблений світ дитинства. Тим часом до команди приєднується новий кумедний герой — Смарті Пентс — іграшка, що має привчати малюків до горщика.",
-        "poster_path": "/lqW1DxFiUt6FKIdUllYKm1VRiZq.jpg",
-        "release_date": "2026-06-17",
-        "video": false,
-        "vote_average": 7.511,
-        "vote_count": 219,
-        "popularity": 345.7913,
-        "PG": 6,
-        "release_quality": "ts",
-        "kinopoisk_id": "5424947",
-        "kp_rating": "7.4",
-        "imdb_id": "tt29355505",
-        "status": "released",
-        "last_air_date": "2026-06-19",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Мультфільм",
-          "Сімейний",
-          "Комедія",
-          "Пригоди"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2781,
-      "time": 1782139159657,
-      "card_id": "60625",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
-        "genre_ids": [
-          16,
-          35,
-          10765,
-          10759
-        ],
-        "id": 60625,
-        "original_language": "en",
-        "name": "Рік та Морті",
-        "original_name": "Rick and Morty",
-        "names": [
-          "Рик и Морти",
-          "Rick and Morty",
-          "Рік та Морті"
-        ],
-        "overview": "Гумористично-фантастичний мультсеріал про пригоди дідуся-винахідника Ріка та його онука-школяра Морті, яких іноді супроводжують інші члени родини: батько-невдаха Джеррі, донька-школярка Саммер та закомплексована мати Бет.",
-        "poster_path": "/tnXwqcZ98EVKuMzRtcvPRJukwI3.jpg",
-        "first_air_date": "2013-12-02",
-        "video": false,
-        "vote_average": 8.679,
-        "vote_count": 10993,
-        "popularity": 152.6207,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "685246",
-        "kp_rating": "8.9",
-        "imdb_id": "tt2861424",
-        "imdb_rating": "9.0",
-        "status": "returning series",
-        "last_air_date": "2026-06-22",
-        "seasons": {
-          "1": 11,
-          "2": 10,
-          "3": 10,
-          "4": 11,
-          "5": 14,
-          "6": 10,
-          "7": 10,
-          "8": 10,
-          "9": 5
-        },
-        "episode": {
-          "air_date": "2026-06-21",
-          "episode_number": 5,
-          "name": "Серія 5",
-          "overview": "",
-          "season_number": 9,
-          "runtime": 23,
-          "still_path": "/dQUDeY9qKrERkHwu8sB67XmG6Am.jpg",
-          "vote_average": 7.8
-        },
-        "genres": [
-          "Мультфільм",
-          "Комедія",
-          "Науково фантастичний",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s9;e5",
-      "premiere": 0
     }
   ],
-  "duration": 6.349441051483154
+  "duration": 6.764719009399414
 }
