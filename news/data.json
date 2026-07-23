@@ -2,6 +2,52 @@
   "secuses": true,
   "result": [
     {
+      "id": 2834,
+      "time": 1784791592612,
+      "card_id": "1628071",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/6HBbzW5D7StUBRi0yO6ZEq9rNB5.jpg",
+        "genre_ids": [
+          28
+        ],
+        "id": 1628071,
+        "original_language": "zh",
+        "title": "Ип Ман: Битва кланов",
+        "original_title": "宗师叶问2",
+        "names": [
+          "Ип Ман: Битва кланов",
+          "Ip Man: Kung Fu Legend",
+          "Zong shi ye wen 2",
+          "宗师叶问2"
+        ],
+        "overview": "Гонконг, 1950-е. Британские торговцы и китайские триады объединяют силы для расширения своей территории. Они начинают сносить фабрики, не обращая внимания на то, что страдают простые люди. Великий мастер Ип Ман, будущий учитель Брюса Ли, сталкивается с давлением кланов со всех сторон. Он намерен восстановить справедливость и собирает боевую команду, чтобы дать отпор беспредельщикам.",
+        "poster_path": "/5vkyoq7AyNXXUU464Z7VNhymUpB.jpg",
+        "release_date": "2026-07-22",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2,
+        "popularity": 8.1824,
+        "PG": 0,
+        "release_quality": "4K",
+        "kinopoisk_id": "10547374",
+        "kp_rating": "6.3",
+        "imdb_id": "tt38682795",
+        "status": "released",
+        "last_air_date": "2026-07-04",
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "Боевик"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2833,
       "time": 1784728588637,
       "card_id": "278624",
@@ -2721,54 +2767,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2784,
-      "time": 1782464174736,
-      "card_id": "1329471",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/112sW296vEx3d71C8fzOqoFIomN.jpg",
-        "genre_ids": [
-          80,
-          18,
-          10749
-        ],
-        "id": 1329471,
-        "original_language": "en",
-        "title": "Каролина Кэролайн",
-        "original_title": "Carolina Caroline",
-        "names": [
-          "Каролина Кэролайн",
-          "Carolina Caroline"
-        ],
-        "overview": "Молодая женщина присоединяется к обаятельному мошеннику, находящемуся в бегах, оставляя за собой след преступления и страсти, когда они спешат по Юго-востоку в поисках её матери, с которой она рассталась.",
-        "poster_path": "/61Dam4eJTY43R8ikC38iv2Vuit8.jpg",
-        "release_date": "2026-06-05",
-        "video": false,
-        "vote_average": 7.3,
-        "vote_count": 9,
-        "popularity": 27.0235,
-        "PG": 17,
-        "kinopoisk_id": "7026396",
-        "imdb_id": "tt33365126",
-        "imdb_rating": "7.1",
-        "status": "released",
-        "last_air_date": "2026-06-24",
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Криминал",
-          "Драма",
-          "Мелодрама"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.165217399597168
+  "duration": 4.759265899658203
 }

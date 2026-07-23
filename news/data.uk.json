@@ -2,6 +2,52 @@
   "secuses": true,
   "result": [
     {
+      "id": 2834,
+      "time": 1784791592612,
+      "card_id": "1628071",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/6HBbzW5D7StUBRi0yO6ZEq9rNB5.jpg",
+        "genre_ids": [
+          28
+        ],
+        "id": 1628071,
+        "original_language": "zh",
+        "title": "宗师叶问2",
+        "original_title": "宗师叶问2",
+        "names": [
+          "Ип Ман: Битва кланов",
+          "Ip Man: Kung Fu Legend",
+          "Zong shi ye wen 2",
+          "宗师叶问2"
+        ],
+        "overview": "Гонконг, 1950-е. Британские торговцы и китайские триады объединяют силы для расширения своей территории. Они начинают сносить фабрики, не обращая внимания на то, что страдают простые люди. Великий мастер Ип Ман, будущий учитель Брюса Ли, сталкивается с давлением кланов со всех сторон. Он намерен восстановить справедливость и собирает боевую команду, чтобы дать отпор беспредельщикам.",
+        "poster_path": "/QcHi4NdJi6FoXeU8DDmJAT71K0.jpg",
+        "release_date": "2026-07-22",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2,
+        "popularity": 8.1824,
+        "PG": 0,
+        "release_quality": "4K",
+        "kinopoisk_id": "10547374",
+        "kp_rating": "6.3",
+        "imdb_id": "tt38682795",
+        "status": "released",
+        "last_air_date": "2026-07-04",
+        "countries": [
+          "China"
+        ],
+        "genres": [
+          "Бойовик"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2833,
       "time": 1784728588637,
       "card_id": "278624",
@@ -51,7 +97,7 @@
           "season_number": 1,
           "runtime": 45,
           "still_path": "/jKeFPdISdSCfB6BlBgEfu6K2GBp.jpg",
-          "vote_average": 2.8
+          "vote_average": 4.053
         },
         "genres": [
           "Драма",
@@ -182,7 +228,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/sGtWCfxmJZ3uy35CUKzn0nuHRrS.jpg",
-          "vote_average": 6.955
+          "vote_average": 6.731
         },
         "genres": [
           "Мультфільм",
@@ -254,7 +300,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/trmxI19SM9arfcd4Petr5sJXrGd.jpg",
-          "vote_average": 4.6
+          "vote_average": 5.063
         },
         "genres": [
           "Науково фантастичний",
@@ -376,7 +422,7 @@
           "season_number": 1,
           "runtime": 68,
           "still_path": "/mUkzzb4D3yJVtu6Py4J2ktfn3Jg.jpg",
-          "vote_average": 6.667
+          "vote_average": 6.7
         },
         "genres": [
           "Екшн і Пригоди",
@@ -567,7 +613,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+        "backdrop_path": "/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
         "genre_ids": [
           12,
           28,
@@ -1046,7 +1092,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/kcKcglqhlje5zqIadRQgc7tvWMN.jpg",
-          "vote_average": 5.514
+          "vote_average": 5.744
         },
         "genres": [
           "Науково фантастичний",
@@ -1121,7 +1167,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/fo4rjkcVyO4YF30K67a7yy2sKhT.jpg",
-          "vote_average": 8.5
+          "vote_average": 8.4
         },
         "genres": [
           "Мультфільм",
@@ -1191,7 +1237,7 @@
           "season_number": 1,
           "runtime": 69,
           "still_path": "/5nn1Dnb4udjJdnNcYNXM8CeFdsN.jpg",
-          "vote_average": 6.7
+          "vote_average": 6.75
         },
         "genres": [
           "Екшн і Пригоди",
@@ -1261,7 +1307,7 @@
           "season_number": 3,
           "runtime": 49,
           "still_path": "/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg",
-          "vote_average": 4.429
+          "vote_average": 4.903
         },
         "genres": [
           "Науково фантастичний",
@@ -1552,7 +1598,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/6UIHqNk9f8BlNsAZb30Jb3N4YBr.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.659
         },
         "genres": [
           "Мультфільм",
@@ -1752,7 +1798,7 @@
           "season_number": 3,
           "runtime": 57,
           "still_path": "/rtSucmBIzQPcBejfWXqRC8ElcEQ.jpg",
-          "vote_average": 6.33
+          "vote_average": 6.471
         },
         "genres": [
           "Науково фантастичний",
@@ -1876,7 +1922,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 5.206
+          "vote_average": 5.595
         },
         "genres": [
           "Науково фантастичний",
@@ -2114,7 +2160,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 5.963
+          "vote_average": 6.107
         },
         "genres": [
           "Науково фантастичний",
@@ -2586,7 +2632,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/6qXcvZEnD9InL1itud7eK88CDzC.jpg",
-          "vote_average": 7.2
+          "vote_average": 7.265
         },
         "genres": [
           "Науково фантастичний",
@@ -2950,56 +2996,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2784,
-      "time": 1782464174736,
-      "card_id": "1329471",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/5dE3rixgMUTXOQLuO3zya4zSFav.jpg",
-        "genre_ids": [
-          80,
-          18,
-          10749
-        ],
-        "id": 1329471,
-        "original_language": "en",
-        "title": "Кароліна Керолайн",
-        "original_title": "Carolina Caroline",
-        "names": [
-          "Кароліна Керолайн",
-          "Каролина Кэролайн",
-          "Carolina Caroline"
-        ],
-        "overview": "Молода жінка приєднується до чарівного шахрая-втікача, залишаючи за собою слід із злочинів і пристрасті, мандруючи південним сходом у пошуках своєї матері.",
-        "poster_path": "/jK7jzRTK9tY6abECIaVuVN7456l.jpg",
-        "release_date": "2026-06-05",
-        "video": false,
-        "vote_average": 7.3,
-        "vote_count": 9,
-        "popularity": 27.0235,
-        "PG": 17,
-        "kinopoisk_id": "7026396",
-        "imdb_id": "tt33365126",
-        "imdb_rating": "7.1",
-        "status": "released",
-        "last_air_date": "2026-06-24",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Кримінал",
-          "Драма",
-          "Мелодрама",
-          "Трилер"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.165217399597168
+  "duration": 4.759265899658203
 }
