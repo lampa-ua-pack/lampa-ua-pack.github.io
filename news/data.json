@@ -2,6 +2,174 @@
   "secuses": true,
   "result": [
     {
+      "id": 2837,
+      "time": 1784890588664,
+      "card_id": "125988",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 125988,
+        "original_language": "en",
+        "name": "Укрытие",
+        "original_name": "Silo",
+        "names": [
+          "Бункер",
+          "Silo",
+          "Укрытие",
+          "Таємниця бункера / Бункер",
+          "Wool"
+        ],
+        "overview": "На отравленной гибнущей планете будущего тысячи людей ютятся в огромном подземном укрытии. Нарушение шерифом основного правила и серия загадочных смертей вынуждают инженера Джульетту заняться раскрытием тайн и поиском правды о бункере.",
+        "poster_path": "/gRkvq6FgiGRdtCwhVIozaUqhoDL.jpg",
+        "first_air_date": "2023-05-04",
+        "video": false,
+        "vote_average": 8.173,
+        "vote_count": 2287,
+        "popularity": 206.7894,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4541515",
+        "kp_rating": "7.8",
+        "imdb_id": "tt14688458",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-24",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 4
+        },
+        "episode": {
+          "air_date": "2026-07-23",
+          "episode_number": 4,
+          "name": "Главное — домой не возвращайся",
+          "overview": "Бегство от Камиллы приводит Джульетту к потрясающему открытию. Дэниел ищет помощи у друга.",
+          "season_number": 3,
+          "runtime": 48,
+          "still_path": "/pYnJjrdS64krUWUAGB4ckZsqN1r.jpg",
+          "vote_average": 2.867
+        }
+      },
+      "type": "episode",
+      "hash": "s3;e4",
+      "premiere": 0
+    },
+    {
+      "id": 2836,
+      "time": 1784881588759,
+      "card_id": "1318621",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/idRLKyu43mRhMWNjzd6FiEromNI.jpg",
+        "genre_ids": [
+          14,
+          10751,
+          10770
+        ],
+        "id": 1318621,
+        "original_language": "en",
+        "title": "Наследники: Злодейская Страна Чудес",
+        "original_title": "Descendants: Wicked Wonderland",
+        "names": [
+          "Наследники: Злодейская Страна Чудес",
+          "Descendants: Wicked Wonderland"
+        ],
+        "overview": "Действие разворачивается в современной Стране Чудес, которая принимает Игры Кубка Королевства Аурадон. Главные героини — Рэд (дочь Червонной Королевы) и Хлоя Шарминг (дочь Золушки) — сталкиваются с опасными последствиями своих прошлых путешествий во времени. Хаотичные изменения временной линии приводят к неожиданным результатам, и в Стране Чудес объявляется новый коварный злодей, пытающийся захватить власть. Чтобы спасти королевство и исправить свои ошибки, Рэд и Хлое приходится объединиться с самыми неожиданными союзниками.",
+        "poster_path": "/mLooJ8vkOKzKiLhHQ6foYzedZtg.jpg",
+        "release_date": "2026-07-16",
+        "video": false,
+        "vote_average": 7.678,
+        "vote_count": 87,
+        "popularity": 203.239,
+        "PG": 3,
+        "release_quality": "4K",
+        "kinopoisk_id": "6798158",
+        "imdb_id": "tt34477910",
+        "status": "released",
+        "last_air_date": "2026-07-23",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Фэнтези",
+          "Семейный",
+          "Телевизионный фильм"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2835,
+      "time": 1784816792017,
+      "card_id": "279323",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/8PHBAdPyfIwS5W6cfKLhItEb875.jpg",
+        "genre_ids": [
+          9648,
+          10759,
+          10765,
+          18
+        ],
+        "id": 279323,
+        "original_language": "ko",
+        "name": "Восточный дворец",
+        "original_name": "동궁",
+        "names": [
+          "Дворец Тонгун",
+          "Donggung",
+          "Восточный дворец / The East Palace",
+          "동궁",
+          "Восточный дворец"
+        ],
+        "overview": "Во дворце Тонгун заводятся призраки. Король призывает 2-ух охотников за нечистью, чтобы они избавили принца от проклятия.",
+        "poster_path": "/4aaOQjuuMGJYRN9bSpoGGWRFWBT.jpg",
+        "first_air_date": "2026-07-17",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 32,
+        "popularity": 106.9706,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "6713224",
+        "kp_rating": "7.9",
+        "imdb_id": "tt35051401",
+        "imdb_rating": "7.6",
+        "status": "ended",
+        "last_air_date": "2026-07-17",
+        "seasons": {
+          "1": 8
+        },
+        "countries": [
+          "Южная Корея"
+        ],
+        "genres": [
+          "Детектив",
+          "Боевик и Приключения",
+          "НФ и Фэнтези",
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2834,
       "time": 1784791592612,
       "card_id": "1628071",
@@ -2598,176 +2766,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2787,
-      "time": 1782546975145,
-      "card_id": "82452",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
-        "genre_ids": [
-          10759,
-          18,
-          10751,
-          10765
-        ],
-        "id": 82452,
-        "original_language": "en",
-        "name": "Аватар: Легенда об Аанге",
-        "original_name": "Avatar the Last Airbender",
-        "names": [
-          "Аватар: Легенда об Аанге",
-          "Avatar: The Last Airbender",
-          "Аватар: легенда об Аанге",
-          "Аватар: Останній захисник",
-          "Avatar the Last Airbender"
-        ],
-        "overview": "В мире существуют народы 4-ёх стихий: огня, воды, земли и воздуха. Представитель народа огня решил поработить остальные народы. Спасти мир и прекратить войну подвластно только Аватару, повелевающему всеми 4-мя стихиями. Ответственность внезапно ложится на плечи 19-ти летнего Аанга, которому предстоит отправиться в опасное путешествие.",
-        "poster_path": "/EdUABIsxRsYCousbtWeia8gVzD.jpg",
-        "first_air_date": "2024-02-22",
-        "video": false,
-        "vote_average": 7.8,
-        "vote_count": 1114,
-        "popularity": 32.4331,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1199731",
-        "kp_rating": "7.2",
-        "imdb_id": "tt9018736",
-        "imdb_rating": "7.2",
-        "status": "returning series",
-        "last_air_date": "2026-06-25",
-        "seasons": {
-          "1": 8,
-          "2": 7
-        },
-        "episode": {
-          "air_date": "2026-06-25",
-          "episode_number": 7,
-          "name": "Что-то сломалось",
-          "overview": "Народ Огня приближается, и разбросанная по всему городу команда должна вновь объединиться, чтобы спасти Ба Синг Се. Зуко предстоит решить, кому он на самом деле предан.",
-          "season_number": 2,
-          "runtime": 69,
-          "still_path": "/hGpGatL0EwuGhTZjIy4m6cAXVJt.jpg",
-          "vote_average": 0
-        }
-      },
-      "type": "episode",
-      "hash": "s2;e7",
-      "premiere": 0
-    },
-    {
-      "id": 2786,
-      "time": 1782492973793,
-      "card_id": "299167",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-        "genre_ids": [
-          37,
-          18
-        ],
-        "id": 299167,
-        "original_language": "en",
-        "name": "Ранчо Даттонов",
-        "original_name": "Dutton Ranch",
-        "names": [
-          "Ранчо Даттонов",
-          "Dutton Ranch",
-          "The Dutton Ranch"
-        ],
-        "overview": "Ранчо Даттонов - дом Бет и Рипа, стало символом той жизни, о которой они мечтали, за которую отчаянно боролись и ради которой едва не пожертвовали всем. Они всей душой привязались к своей земле площадью 7000 акров, превратив её в место, которое готовы защищать любой ценой. Даже в самые тяжёлые времена Бет и Рип делают всё возможное, чтобы выстоять, сохранить своё ранчо и обеспечить достойное будущее себе и своему приёмному сыну Картеру.",
-        "poster_path": "/mmxsx98NnY56CvataUqM1ktt14O.jpg",
-        "first_air_date": "2026-05-15",
-        "video": false,
-        "vote_average": 9.285,
-        "vote_count": 305,
-        "popularity": 171.4241,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7275308",
-        "kp_rating": "8.5",
-        "imdb_id": "tt34991493",
-        "status": "returning series",
-        "last_air_date": "2026-06-26",
-        "seasons": {
-          "1": 8
-        },
-        "episode": {
-          "air_date": "2026-06-26",
-          "episode_number": 8,
-          "name": "Эпизод 8",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 45,
-          "still_path": "/8m6dULktFqJbAaeQpcuaUb7RwRn.jpg",
-          "vote_average": 9
-        }
-      },
-      "type": "episode",
-      "hash": "s1;e8",
-      "premiere": 0
-    },
-    {
-      "id": 2785,
-      "time": 1782465975925,
-      "card_id": "1451344",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/zZQQ5dd7jq1PfUnWTT9qH4RMf5a.jpg",
-        "genre_ids": [
-          35,
-          28
-        ],
-        "id": 1451344,
-        "original_language": "ko",
-        "title": "Мужья в действии",
-        "original_title": "남편들",
-        "names": [
-          "Мужья в деле",
-          "Husbands in Action",
-          "Мужья в действии",
-          "남편들",
-          "Nampyeondeul",
-          "Мужья в действии / Husbands in Action"
-        ],
-        "overview": "Детектив объединяется с новым мужем своей бывшей жены, чтобы выследить похитителей. Смогут ли они преодолеть свои разногласия ради безумной спасательной операции?",
-        "poster_path": "/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
-        "release_date": "2026-06-18",
-        "video": false,
-        "vote_average": 7.811,
-        "vote_count": 37,
-        "popularity": 123.8778,
-        "PG": 16,
-        "release_quality": "4K",
-        "kinopoisk_id": "7930395",
-        "kp_rating": "7.3",
-        "imdb_id": "tt36876775",
-        "imdb_rating": "6.3",
-        "status": "released",
-        "last_air_date": "2026-06-20",
-        "countries": [
-          "Южная Корея"
-        ],
-        "genres": [
-          "Комедия",
-          "Боевик"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.759265899658203
+  "duration": 6.292372703552246
 }

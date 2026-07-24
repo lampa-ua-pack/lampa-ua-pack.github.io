@@ -2,6 +2,184 @@
   "secuses": true,
   "result": [
     {
+      "id": 2837,
+      "time": 1784890588664,
+      "card_id": "125988",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 125988,
+        "original_language": "en",
+        "name": "Таємниця бункера",
+        "original_name": "Silo",
+        "names": [
+          "Таємниця бункера",
+          "Бункер",
+          "Silo",
+          "Укрытие",
+          "Таємниця бункера / Бункер",
+          "Wool"
+        ],
+        "overview": "У занапащеному й небезпечному майбутньому тисячі людей живуть у великому підземному бункері. Коли шериф порушує його основоположне правило, а жителі гинуть за загадкових обставин, інженер Джулієт береться розкривати приголомшливі таємниці й правду про бункер.",
+        "poster_path": "/fjo0lVGHPHJS2CqrXOyZN379BXK.jpg",
+        "first_air_date": "2023-05-04",
+        "video": false,
+        "vote_average": 8.173,
+        "vote_count": 2287,
+        "popularity": 206.7894,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4541515",
+        "kp_rating": "7.8",
+        "imdb_id": "tt14688458",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-24",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 4
+        },
+        "episode": {
+          "air_date": "2026-07-23",
+          "episode_number": 4,
+          "name": "Головне – не їдь додому",
+          "overview": "Утеча від Каміл веде Джулієт до приголомшливого відкриття. Деніел звертається по допомогу до друга.",
+          "season_number": 3,
+          "runtime": 48,
+          "still_path": "/pYnJjrdS64krUWUAGB4ckZsqN1r.jpg",
+          "vote_average": 3.0
+        },
+        "genres": [
+          "Науково фантастичний",
+          "Драма"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e4",
+      "premiere": 0
+    },
+    {
+      "id": 2836,
+      "time": 1784881588759,
+      "card_id": "1318621",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/idRLKyu43mRhMWNjzd6FiEromNI.jpg",
+        "genre_ids": [
+          14,
+          10751,
+          10770
+        ],
+        "id": 1318621,
+        "original_language": "en",
+        "title": "Нащадки: Зловісна Країна чудес",
+        "original_title": "Descendants: Wicked Wonderland",
+        "names": [
+          "Нащадки: Зловісна Країна чудес",
+          "Наследники: Злодейская Страна Чудес",
+          "Descendants: Wicked Wonderland"
+        ],
+        "overview": "Нова частина фентезійної серії для підлітків. Коли Країна Див приймає Ігри на Кубок Королівства, Ред і Хлоя Чармінґ мають боротися, щоб урятувати всіх від несподіваного лиходія.",
+        "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
+        "release_date": "2026-07-16",
+        "video": false,
+        "vote_average": 7.678,
+        "vote_count": 87,
+        "popularity": 203.239,
+        "PG": 3,
+        "release_quality": "4K",
+        "kinopoisk_id": "6798158",
+        "imdb_id": "tt34477910",
+        "status": "released",
+        "last_air_date": "2026-07-23",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Фентезі",
+          "Сімейний",
+          "Телефільм"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2835,
+      "time": 1784816792017,
+      "card_id": "279323",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/8PHBAdPyfIwS5W6cfKLhItEb875.jpg",
+        "genre_ids": [
+          9648,
+          10759,
+          10765,
+          18
+        ],
+        "id": 279323,
+        "original_language": "ko",
+        "name": "Східний палац",
+        "original_name": "동궁",
+        "names": [
+          "Східний палац",
+          "Дворец Тонгун",
+          "Donggung",
+          "Восточный дворец / The East Palace",
+          "동궁",
+          "Восточный дворец"
+        ],
+        "overview": "Чоловік, що подорожує світом духів, і придворна дама, що чує голоси мертвих, за наказом короля вирушають до Східного палацу. Чи зможуть вони розкрити його темні таємниці?",
+        "poster_path": "/9RWkj96fEShrxh6BG55uCZNuDfj.jpg",
+        "first_air_date": "2026-07-17",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 32,
+        "popularity": 106.9706,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "6713224",
+        "kp_rating": "7.9",
+        "imdb_id": "tt35051401",
+        "imdb_rating": "7.6",
+        "status": "ended",
+        "last_air_date": "2026-07-17",
+        "seasons": {
+          "1": 8
+        },
+        "countries": [
+          "South Korea"
+        ],
+        "genres": [
+          "Детектив",
+          "Екшн і Пригоди",
+          "Науково фантастичний",
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2834,
       "time": 1784791592612,
       "card_id": "1628071",
@@ -95,9 +273,9 @@
           "name": "Підмічати деталі",
           "overview": "Лакі прагне розшукати Кері й заразом свої гроші. Агент Ранд відстежує пересування Лакі.",
           "season_number": 1,
-          "runtime": 45,
+          "runtime": 46,
           "still_path": "/jKeFPdISdSCfB6BlBgEfu6K2GBp.jpg",
-          "vote_average": 4.053
+          "vote_average": 4.35
         },
         "genres": [
           "Драма",
@@ -422,7 +600,7 @@
           "season_number": 1,
           "runtime": 68,
           "still_path": "/mUkzzb4D3yJVtu6Py4J2ktfn3Jg.jpg",
-          "vote_average": 6.7
+          "vote_average": 7.0
         },
         "genres": [
           "Екшн і Пригоди",
@@ -705,7 +883,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/zhUjCo3SL7OmLGBkVf6JtxyTH6N.jpg",
-          "vote_average": 6.857
+          "vote_average": 7.2
         },
         "genres": [
           "Драма",
@@ -1092,7 +1270,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/kcKcglqhlje5zqIadRQgc7tvWMN.jpg",
-          "vote_average": 5.744
+          "vote_average": 5.813
         },
         "genres": [
           "Науково фантастичний",
@@ -1307,7 +1485,7 @@
           "season_number": 3,
           "runtime": 49,
           "still_path": "/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg",
-          "vote_average": 4.903
+          "vote_average": 4.9
         },
         "genres": [
           "Науково фантастичний",
@@ -1472,7 +1650,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/v9tWgeHzlrEFxtQoNOtKLxbP6t3.jpg",
-          "vote_average": 6.417
+          "vote_average": 6.4
         },
         "genres": [
           "Драма",
@@ -1920,9 +2098,9 @@
           "name": "Усе нормально",
           "overview": "Біллінґс розслідує зникнення. Деніел Кін встряє в суперечку з журналісткою.",
           "season_number": 3,
-          "runtime": 52,
+          "runtime": 51,
           "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 5.595
+          "vote_average": 5.5
         },
         "genres": [
           "Науково фантастичний",
@@ -2043,7 +2221,7 @@
           "season_number": 1,
           "runtime": 57,
           "still_path": "/zA6WWkrhSoJjJuFhB0MvGXiDVLO.jpg",
-          "vote_average": 6.357
+          "vote_average": 6.4
         },
         "genres": [
           "Драма",
@@ -2158,9 +2336,9 @@
           "name": "Хто ти?",
           "overview": "Нова мерка Джулієт не пам'ятає нічого про те, як вийшла на поверхню, – як і про своє минуле.",
           "season_number": 3,
-          "runtime": 52,
+          "runtime": 56,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 6.107
+          "vote_average": 6.1
         },
         "genres": [
           "Науково фантастичний",
@@ -2513,7 +2691,7 @@
           "season_number": 1,
           "runtime": 52,
           "still_path": "/es5WAd84BuHp05SfboYDdzv1GsI.jpg",
-          "vote_average": 7.45
+          "vote_average": 7.5
         },
         "genres": [
           "Драма",
@@ -2702,7 +2880,7 @@
           "season_number": 4,
           "runtime": 49,
           "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
-          "vote_average": 5.36
+          "vote_average": 5.4
         },
         "genres": [
           "Детектив",
@@ -2809,194 +2987,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2787,
-      "time": 1782546975145,
-      "card_id": "82452",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
-        "genre_ids": [
-          10759,
-          18,
-          10751,
-          10765
-        ],
-        "id": 82452,
-        "original_language": "en",
-        "name": "Аватар: Останній захисник",
-        "original_name": "Avatar: The Last Airbender",
-        "names": [
-          "Аватар: Легенда об Аанге",
-          "Avatar: The Last Airbender",
-          "Аватар: легенда об Аанге",
-          "Аватар: Останній захисник",
-          "Avatar the Last Airbender"
-        ],
-        "overview": "Хлопчик, відомий як Аватар, має підкорити чотири стихії, щоб урятувати охоплений війною світ і побороти жорстокого ворога, який прагне його спинити.",
-        "poster_path": "/f4EcbjZYTonkqkQGDKcc2fdr4iH.jpg",
-        "first_air_date": "2024-02-22",
-        "video": false,
-        "vote_average": 7.8,
-        "vote_count": 1114,
-        "popularity": 32.4331,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1199731",
-        "kp_rating": "7.2",
-        "imdb_id": "tt9018736",
-        "imdb_rating": "7.2",
-        "status": "returning series",
-        "last_air_date": "2026-06-25",
-        "seasons": {
-          "1": 8,
-          "2": 7
-        },
-        "episode": {
-          "air_date": "2026-06-25",
-          "episode_number": 7,
-          "name": "Щось зламане",
-          "overview": "Народ Вогню наближається, і розкидана містом команда повинна возз’єднатися, щоб урятувати Ба Сінг Се, а Зуко — визначитися, на чиєму він боці.",
-          "season_number": 2,
-          "runtime": 69,
-          "still_path": "/hGpGatL0EwuGhTZjIy4m6cAXVJt.jpg",
-          "vote_average": 7.667
-        },
-        "genres": [
-          "Екшн і Пригоди",
-          "Науково фантастичний",
-          "Драма",
-          "Сімейний"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e7",
-      "premiere": 0
-    },
-    {
-      "id": 2786,
-      "time": 1782492973793,
-      "card_id": "299167",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-        "genre_ids": [
-          37,
-          18
-        ],
-        "id": 299167,
-        "original_language": "en",
-        "name": "Ранчо Даттонів",
-        "original_name": "Dutton Ranch",
-        "names": [
-          "Ранчо Даттонів",
-          "Ранчо Даттонов",
-          "Dutton Ranch",
-          "The Dutton Ranch"
-        ],
-        "overview": "Бет Даттон і Ріп Вілер борються за виживання на своєму улюбленому ранчо площею 7000 акрів в умовах важких часів і жорсткої конкуренції, водночас намагаючись допомогти юному Картеру стати тим чоловіком, яким він має бути.",
-        "poster_path": "/dtKW23O5tfxq7EXUsfeLgBx7gy1.jpg",
-        "first_air_date": "2026-05-15",
-        "video": false,
-        "vote_average": 9.285,
-        "vote_count": 305,
-        "popularity": 171.4241,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7275308",
-        "kp_rating": "8.5",
-        "imdb_id": "tt34991493",
-        "status": "returning series",
-        "last_air_date": "2026-06-26",
-        "seasons": {
-          "1": 8
-        },
-        "episode": {
-          "air_date": "2026-06-26",
-          "episode_number": 8,
-          "name": "Серія 8",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 45,
-          "still_path": "/iqR3INUH6risbYyOMAxofzwhKsJ.jpg",
-          "vote_average": 8.292
-        },
-        "genres": [
-          "Вестерн",
-          "Драма"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e8",
-      "premiere": 0
-    },
-    {
-      "id": 2785,
-      "time": 1782465975925,
-      "card_id": "1451344",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/doasZ6ROBhD0xIRsvAFdTeZsKhp.jpg",
-        "genre_ids": [
-          35,
-          28
-        ],
-        "id": 1451344,
-        "original_language": "ko",
-        "title": "Чоловіки в дії",
-        "original_title": "남편들",
-        "names": [
-          "Чоловіки в дії",
-          "Мужья в деле",
-          "Husbands in Action",
-          "Мужья в действии",
-          "남편들",
-          "Nampyeondeul",
-          "Мужья в действии / Husbands in Action"
-        ],
-        "overview": "Детектив об’єднується з новим чоловіком колишньої дружини, щоб вистежити її викрадачів. Чи зможуть несподівані партнери відкинути розбіжності заради шаленого порятунку?",
-        "poster_path": "/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
-        "release_date": "2026-06-18",
-        "video": false,
-        "vote_average": 7.811,
-        "vote_count": 37,
-        "popularity": 123.8778,
-        "PG": 16,
-        "release_quality": "4K",
-        "kinopoisk_id": "7930395",
-        "kp_rating": "7.3",
-        "imdb_id": "tt36876775",
-        "imdb_rating": "6.3",
-        "status": "released",
-        "last_air_date": "2026-06-20",
-        "countries": [
-          "South Korea"
-        ],
-        "genres": [
-          "Комедія",
-          "Бойовик"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.759265899658203
+  "duration": 6.292372703552246
 }
