@@ -2,6 +2,124 @@
   "secuses": true,
   "result": [
     {
+      "id": 2839,
+      "time": 1784975196373,
+      "card_id": "277439",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 277439,
+        "original_language": "en",
+        "name": "Мис страху",
+        "original_name": "Cape Fear",
+        "names": [
+          "Мис страху",
+          "Мыс страха",
+          "Cape Fear"
+        ],
+        "overview": "Життя щасливого подружжя адвокатів опиняється під загрозою, коли на волю виходить небезпечний злочинець з їхнього минулого.",
+        "poster_path": "/e9XA7L1DwMzCnPZAkr3jOQ3FDcm.jpg",
+        "first_air_date": "2026-06-04",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 78,
+        "popularity": 38.4931,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6576642",
+        "kp_rating": "6.7",
+        "imdb_id": "tt34675596",
+        "imdb_rating": "7.2",
+        "status": "returning series",
+        "last_air_date": "2026-07-24",
+        "seasons": {
+          "1": 9
+        },
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Драма",
+          "Кримінал"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2838,
+      "time": 1784908591679,
+      "card_id": "277439",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 277439,
+        "original_language": "en",
+        "name": "Мис страху",
+        "original_name": "Cape Fear",
+        "names": [
+          "Мис страху",
+          "Мыс страха",
+          "Cape Fear"
+        ],
+        "overview": "Життя щасливого подружжя адвокатів опиняється під загрозою, коли на волю виходить небезпечний злочинець з їхнього минулого.",
+        "poster_path": "/e9XA7L1DwMzCnPZAkr3jOQ3FDcm.jpg",
+        "first_air_date": "2026-06-04",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 78,
+        "popularity": 38.4931,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6576642",
+        "kp_rating": "6.6",
+        "imdb_id": "tt34675596",
+        "imdb_rating": "7.2",
+        "status": "returning series",
+        "last_air_date": "2026-07-24",
+        "seasons": {
+          "1": 9
+        },
+        "episode": {
+          "air_date": "2026-07-23",
+          "episode_number": 9,
+          "name": "Шрам",
+          "overview": "Анна їде на Мис Страху шукати Крістал — і відповіді. Макс дає Невеї смертоносні вказівки.",
+          "season_number": 1,
+          "runtime": 46,
+          "still_path": "/AqznwL3vGeK7XOazrUkfLEmFQ4X.jpg",
+          "vote_average": 5.0
+        },
+        "genres": [
+          "Драма",
+          "Кримінал"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e9",
+      "premiere": 0
+    },
+    {
       "id": 2837,
       "time": 1784890588664,
       "card_id": "125988",
@@ -56,7 +174,7 @@
           "season_number": 3,
           "runtime": 48,
           "still_path": "/pYnJjrdS64krUWUAGB4ckZsqN1r.jpg",
-          "vote_average": 3.0
+          "vote_average": 3.7
         },
         "genres": [
           "Науково фантастичний",
@@ -275,7 +393,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/jKeFPdISdSCfB6BlBgEfu6K2GBp.jpg",
-          "vote_average": 4.35
+          "vote_average": 4.3
         },
         "genres": [
           "Драма",
@@ -406,7 +524,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/sGtWCfxmJZ3uy35CUKzn0nuHRrS.jpg",
-          "vote_average": 6.731
+          "vote_average": 6.7
         },
         "genres": [
           "Мультфільм",
@@ -478,7 +596,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/trmxI19SM9arfcd4Petr5sJXrGd.jpg",
-          "vote_average": 5.063
+          "vote_average": 5.309
         },
         "genres": [
           "Науково фантастичний",
@@ -883,7 +1001,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/zhUjCo3SL7OmLGBkVf6JtxyTH6N.jpg",
-          "vote_average": 7.2
+          "vote_average": 7.3
         },
         "genres": [
           "Драма",
@@ -945,7 +1063,7 @@
           "season_number": 1,
           "runtime": 48,
           "still_path": "/j9tZvz6gMdm3nAUOpflSzVB9fsr.jpg",
-          "vote_average": 5.9
+          "vote_average": 5.882
         },
         "genres": [
           "Драма",
@@ -1270,7 +1388,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/kcKcglqhlje5zqIadRQgc7tvWMN.jpg",
-          "vote_average": 5.813
+          "vote_average": 5.841
         },
         "genres": [
           "Науково фантастичний",
@@ -1485,7 +1603,7 @@
           "season_number": 3,
           "runtime": 49,
           "still_path": "/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg",
-          "vote_average": 4.9
+          "vote_average": 5.061
         },
         "genres": [
           "Науково фантастичний",
@@ -1557,7 +1675,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
+        "backdrop_path": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
         "genre_ids": [
           10751,
           14,
@@ -1776,7 +1894,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/6UIHqNk9f8BlNsAZb30Jb3N4YBr.jpg",
-          "vote_average": 8.659
+          "vote_average": 8.7
         },
         "genres": [
           "Мультфільм",
@@ -1976,7 +2094,7 @@
           "season_number": 3,
           "runtime": 57,
           "still_path": "/rtSucmBIzQPcBejfWXqRC8ElcEQ.jpg",
-          "vote_average": 6.471
+          "vote_average": 6.481
         },
         "genres": [
           "Науково фантастичний",
@@ -2100,7 +2218,7 @@
           "season_number": 3,
           "runtime": 51,
           "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 5.5
+          "vote_average": 5.675
         },
         "genres": [
           "Науково фантастичний",
@@ -2221,7 +2339,7 @@
           "season_number": 1,
           "runtime": 57,
           "still_path": "/zA6WWkrhSoJjJuFhB0MvGXiDVLO.jpg",
-          "vote_average": 6.4
+          "vote_average": 6.2
         },
         "genres": [
           "Драма",
@@ -2338,7 +2456,7 @@
           "season_number": 3,
           "runtime": 56,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 6.1
+          "vote_average": 6.211
         },
         "genres": [
           "Науково фантастичний",
@@ -2448,7 +2566,7 @@
           "season_number": 1,
           "runtime": 60,
           "still_path": "/yR9CRcKrGM85omkkHAy35o5vSIz.jpg",
-          "vote_average": 8.591
+          "vote_average": 8.625
         },
         "genres": [
           "Вестерн",
@@ -2626,7 +2744,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/uye472viIZrJZNf9VgqLO1xwpBk.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.5
         },
         "genres": [
           "Мультфільм",
@@ -2810,7 +2928,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/6qXcvZEnD9InL1itud7eK88CDzC.jpg",
-          "vote_average": 7.265
+          "vote_average": 7.275
         },
         "genres": [
           "Науково фантастичний",
@@ -2894,100 +3012,7 @@
       "type": "episode",
       "hash": "s4;e10",
       "premiere": 0
-    },
-    {
-      "id": 2789,
-      "time": 1782627973818,
-      "card_id": "1397385",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
-        "genre_ids": [
-          35
-        ],
-        "id": 1397385,
-        "original_language": "en",
-        "title": "Братик",
-        "original_title": "Little Brother",
-        "names": [
-          "Братик",
-          "Little Brother"
-        ],
-        "overview": "Ідеальне життя непривітного рієлтора докорінно змінюється, коли раптово повертається його шалений, але вкрай чарівний «молодший брат».",
-        "poster_path": "/f5pFMkrxAXbTnu6Yx00c4jA5fTz.jpg",
-        "release_date": "2026-06-25",
-        "video": false,
-        "vote_average": 6.056,
-        "vote_count": 18,
-        "popularity": 4.0273,
-        "PG": 16,
-        "release_quality": "4K",
-        "kinopoisk_id": "9147455",
-        "imdb_id": "tt34888871",
-        "status": "released",
-        "last_air_date": "2026-06-28",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Комедія"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2788,
-      "time": 1782550577145,
-      "card_id": "1301421",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
-        "genre_ids": [
-          35,
-          10751,
-          9648
-        ],
-        "id": 1301421,
-        "original_language": "en",
-        "title": "Вівці-детективи",
-        "original_title": "The Sheep Detectives",
-        "names": [
-          "Вівці-детективи",
-          "Следствие ведут овечки",
-          "The Sheep Detectives"
-        ],
-        "overview": "У цьому дотепному детективі нового покоління Джордж — пастух, який щовечора читає своїм улюбленим вівцям детективні романи, вважаючи, що вони не здатні їх зрозуміти. Та коли загадковий інцидент порушує спокійне життя на фермі, вівці усвідомлюють: їм доведеться самим стати детективами. Йдучи слідами підказок і розслідуючи підозрілу справу, вони доводять, що навіть вівці можуть бути блискучими розкривачами злочинів.",
-        "poster_path": "/iAoDs5bnmlKhIQIhqYHM5GWOu71.jpg",
-        "release_date": "2026-04-30",
-        "video": false,
-        "vote_average": 7.618,
-        "vote_count": 182,
-        "popularity": 26.9746,
-        "PG": 6,
-        "release_quality": "webdl",
-        "kinopoisk_id": "6447742",
-        "kp_rating": "7.5",
-        "imdb_id": "tt32565993",
-        "status": "released",
-        "last_air_date": "2026-06-03",
-        "countries": [
-          "United States of America",
-          "United Kingdom"
-        ],
-        "genres": [
-          "Комедія",
-          "Сімейний",
-          "Детектив"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.292372703552246
+  "duration": 8.040833473205566
 }

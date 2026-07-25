@@ -2,6 +2,115 @@
   "secuses": true,
   "result": [
     {
+      "id": 2839,
+      "time": 1784975196373,
+      "card_id": "277439",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 277439,
+        "original_language": "en",
+        "name": "Мыс страха",
+        "original_name": "Cape Fear",
+        "names": [
+          "Мыс страха",
+          "Cape Fear"
+        ],
+        "overview": "На счастливую супружескую пару адвокатов надвигается буря, когда из тюрьмы выходит знаменитый киллер из их прошлого.",
+        "poster_path": "/rZK0ZsGsFv3XNKKi4qcdbqEVo9i.jpg",
+        "first_air_date": "2026-06-04",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 78,
+        "popularity": 38.4931,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6576642",
+        "kp_rating": "6.7",
+        "imdb_id": "tt34675596",
+        "imdb_rating": "7.2",
+        "status": "returning series",
+        "last_air_date": "2026-07-24",
+        "seasons": {
+          "1": 9
+        },
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Драма",
+          "Криминал"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2838,
+      "time": 1784908591679,
+      "card_id": "277439",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 277439,
+        "original_language": "en",
+        "name": "Мыс страха",
+        "original_name": "Cape Fear",
+        "names": [
+          "Мыс страха",
+          "Cape Fear"
+        ],
+        "overview": "На счастливую супружескую пару адвокатов надвигается буря, когда из тюрьмы выходит знаменитый киллер из их прошлого.",
+        "poster_path": "/rZK0ZsGsFv3XNKKi4qcdbqEVo9i.jpg",
+        "first_air_date": "2026-06-04",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 78,
+        "popularity": 38.4931,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6576642",
+        "kp_rating": "6.6",
+        "imdb_id": "tt34675596",
+        "imdb_rating": "7.2",
+        "status": "returning series",
+        "last_air_date": "2026-07-24",
+        "seasons": {
+          "1": 9
+        },
+        "episode": {
+          "air_date": "2026-07-23",
+          "episode_number": 9,
+          "name": "Шрам",
+          "overview": "Анна едет к Кейп-Фир в поисках Кристал и ответов. Макс дает Невее смертельные указания.",
+          "season_number": 1,
+          "runtime": 46,
+          "still_path": "/AqznwL3vGeK7XOazrUkfLEmFQ4X.jpg",
+          "vote_average": 4
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e9",
+      "premiere": 0
+    },
+    {
       "id": 2837,
       "time": 1784890588664,
       "card_id": "125988",
@@ -2673,100 +2782,7 @@
       "type": "episode",
       "hash": "s4;e10",
       "premiere": 0
-    },
-    {
-      "id": 2789,
-      "time": 1782627973818,
-      "card_id": "1397385",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
-        "genre_ids": [
-          35
-        ],
-        "id": 1397385,
-        "original_language": "en",
-        "title": "Братик",
-        "original_title": "Little Brother",
-        "names": [
-          "Братик",
-          "Little Brother"
-        ],
-        "overview": "Идеальная жизнь сдержанного риелтора кардинально меняется, когда внезапно появляется его милый и эксцентричный «младший брат».",
-        "poster_path": "/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-        "release_date": "2026-06-25",
-        "video": false,
-        "vote_average": 6.056,
-        "vote_count": 18,
-        "popularity": 4.0273,
-        "PG": 16,
-        "release_quality": "4K",
-        "kinopoisk_id": "9147455",
-        "imdb_id": "tt34888871",
-        "status": "released",
-        "last_air_date": "2026-06-28",
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Комедия"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2788,
-      "time": 1782550577145,
-      "card_id": "1301421",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
-        "genre_ids": [
-          35,
-          10751,
-          9648
-        ],
-        "id": 1301421,
-        "original_language": "en",
-        "title": "Следствие ведут овечки",
-        "original_title": "The Sheep Detectives",
-        "names": [
-          "Следствие ведут овечки",
-          "The Sheep Detectives"
-        ],
-        "overview": "Джордж – пастух, который каждый вечер читает детективные романы своим любимым овцам, полагая, что они ничего не поймут. Но когда на ферме происходит загадочное происшествие, овцы понимают, что им придётся стать детективами. Следуя подсказкам и проверяя подозреваемых людей, они доказывают, что даже овцы могут блестяще раскрывать преступления.",
-        "poster_path": "/JHRxN92OgTixFDR1T8FdZfrPvn.jpg",
-        "release_date": "2026-04-30",
-        "video": false,
-        "vote_average": 7.618,
-        "vote_count": 182,
-        "popularity": 26.9746,
-        "PG": 6,
-        "release_quality": "webdl",
-        "kinopoisk_id": "6447742",
-        "kp_rating": "7.5",
-        "imdb_id": "tt32565993",
-        "status": "released",
-        "last_air_date": "2026-06-03",
-        "countries": [
-          "США",
-          "Великобритания"
-        ],
-        "genres": [
-          "Комедия",
-          "Криминал",
-          "Детектив",
-          "Семейный"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.292372703552246
+  "duration": 8.040833473205566
 }
