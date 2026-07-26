@@ -2,6 +2,112 @@
   "secuses": true,
   "result": [
     {
+      "id": 2841,
+      "time": 1785056352798,
+      "card_id": "949838",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/hL5EIk48251OXlbIbRJq3yaBHk8.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 949838,
+        "original_language": "en",
+        "title": "72 часа",
+        "original_title": "72 HOURS",
+        "names": [
+          "72 часа",
+          "72 Hours",
+          "72 HOURS"
+        ],
+        "overview": "Ради спасения карьеры 40-летний топ-менеджер вливается в компанию 20-тилетних на безумном мальчишнике в Майами, после того как его случайно добавили в их групповой чат.",
+        "poster_path": "/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+        "release_date": "2026-07-20",
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 15,
+        "popularity": 49.2932,
+        "PG": 17,
+        "release_quality": "4K",
+        "kinopoisk_id": "9278136",
+        "imdb_id": "tt36304003",
+        "status": "released",
+        "last_air_date": "2026-07-26",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Комедия"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2840,
+      "time": 1784998588668,
+      "card_id": "296206",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "id": 296206,
+        "original_language": "ko",
+        "name": "Агент Ким возобновил свою деятельность",
+        "original_name": "김부장",
+        "names": [
+          "Менеджер Ким",
+          "Kim bujang",
+          "Agent Kim Reactivated / Kim-bu-jang",
+          "Агент Ким возобновил свою деятельность.",
+          "김부장",
+          "Агент Ким возобновил свою деятельность",
+          "Агент Ким / Agent Kim Reactivated / Kim-bu-jang"
+        ],
+        "overview": "Обычный семьянин, который однажды раскрывает свою личность как специального агента, чтобы найти свою пропавшую дочь Мин-джи, рискуя всем ради её спасения.",
+        "poster_path": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+        "first_air_date": "2026-06-26",
+        "video": false,
+        "vote_average": 7.203,
+        "vote_count": 37,
+        "popularity": 123.3108,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "9027270",
+        "kp_rating": "7.9",
+        "imdb_id": "tt42127457",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-24",
+        "seasons": {
+          "1": 9
+        },
+        "episode": {
+          "air_date": "2026-07-24",
+          "episode_number": 9,
+          "name": "Эпизод 9",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 60,
+          "still_path": "/ubfdRTXrwaFfiHqLwXjO7u6clRR.jpg",
+          "vote_average": 4.5
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e9",
+      "premiere": 0
+    },
+    {
       "id": 2839,
       "time": 1784975196373,
       "card_id": "277439",
@@ -2657,132 +2763,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2791,
-      "time": 1782717598758,
-      "card_id": "94997",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-        "genre_ids": [
-          10765,
-          18,
-          10759
-        ],
-        "id": 94997,
-        "original_language": "en",
-        "name": "Дом Дракона",
-        "original_name": "House of the Dragon",
-        "names": [
-          "Дом Дракона",
-          "House of the Dragon",
-          "Дом дракона",
-          "Дім Дракона",
-          "Дім дракона",
-          "Game of Thrones: House of the Dragon"
-        ],
-        "overview": "После смерти короля Визериса династия Таргариенов начинает бескомпромиссную борьбу за Железный трон. Предводительницей «черной» ветви становится принцесса Рейнира, а на стороне «зеленой» оказывается ее лучшая подруга и дочь десницы короля Алисента. В битве за престол соперницы заручаются поддержкой неожиданных союзников, плетут интриги — и используют разрушительную мощь драконов.",
-        "poster_path": "/hXyYN6LFo7QnKUA3QBx7B3KsnJE.jpg",
-        "first_air_date": "2022-08-21",
-        "video": false,
-        "vote_average": 8.338,
-        "vote_count": 6287,
-        "popularity": 493.3086,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1316601",
-        "kp_rating": "8.1",
-        "imdb_id": "tt11198330",
-        "imdb_rating": "8.3",
-        "status": "returning series",
-        "last_air_date": "2026-06-29",
-        "seasons": {
-          "1": 10,
-          "2": 8,
-          "3": 2
-        },
-        "episode": {
-          "air_date": "2026-06-28",
-          "episode_number": 2,
-          "name": "Эпизод 2",
-          "overview": "",
-          "season_number": 3,
-          "runtime": 66,
-          "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 6.9
-        }
-      },
-      "type": "episode",
-      "hash": "s3;e2",
-      "premiere": 0
-    },
-    {
-      "id": 2790,
-      "time": 1782663598728,
-      "card_id": "124364",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
-        "genre_ids": [
-          9648,
-          18,
-          10765
-        ],
-        "id": 124364,
-        "original_language": "en",
-        "name": "Извне",
-        "original_name": "FROM",
-        "names": [
-          "Извне",
-          "From",
-          "Ззовні",
-          "FROM"
-        ],
-        "overview": "Затерянный в лесу американский городок пленяет каждого, кому не посчастливилось проехать его по пути — покинуть это место оказывается буквально невозможно. Днем невольные жители пытаются выстроить подобие нормального быта и найти способ выбраться, а по ночам спасаются от пугающих обитателей леса, которые приходят навестить горожан, как только заходит солнце.",
-        "poster_path": "/dFJ8exnjJoEfTlHoR58L4OlTSEu.jpg",
-        "first_air_date": "2022-02-20",
-        "video": false,
-        "vote_average": 8.492,
-        "vote_count": 3774,
-        "popularity": 779.0279,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4476885",
-        "kp_rating": "7.6",
-        "imdb_id": "tt9813792",
-        "imdb_rating": "7.8",
-        "status": "returning series",
-        "last_air_date": "2026-06-28",
-        "seasons": {
-          "1": 10,
-          "2": 10,
-          "3": 10,
-          "4": 10
-        },
-        "episode": {
-          "air_date": "2026-06-28",
-          "episode_number": 10,
-          "name": "Эпизод 10",
-          "overview": "",
-          "season_number": 4,
-          "runtime": null,
-          "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
-          "vote_average": 3.875
-        }
-      },
-      "type": "episode",
-      "hash": "s4;e10",
-      "premiere": 0
     }
   ],
-  "duration": 8.040833473205566
+  "duration": 7.334115028381348
 }
