@@ -2,6 +2,200 @@
   "secuses": true,
   "result": [
     {
+      "id": 2844,
+      "time": 1785155352726,
+      "card_id": "60625",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "id": 60625,
+        "original_language": "en",
+        "name": "Рік та Морті",
+        "original_name": "Rick and Morty",
+        "names": [
+          "Рик и Морти",
+          "Rick and Morty",
+          "Рік та Морті"
+        ],
+        "overview": "Гумористично-фантастичний мультсеріал про пригоди дідуся-винахідника Ріка та його онука-школяра Морті, яких іноді супроводжують інші члени родини: батько-невдаха Джеррі, донька-школярка Саммер та закомплексована мати Бет.",
+        "poster_path": "/tnXwqcZ98EVKuMzRtcvPRJukwI3.jpg",
+        "first_air_date": "2013-12-02",
+        "video": false,
+        "vote_average": 8.7,
+        "vote_count": 11160,
+        "popularity": 215.3392,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "685246",
+        "kp_rating": "8.9",
+        "imdb_id": "tt2861424",
+        "imdb_rating": "9.0",
+        "status": "returning series",
+        "last_air_date": "2026-07-27",
+        "seasons": {
+          "1": 11,
+          "2": 10,
+          "3": 10,
+          "4": 11,
+          "5": 14,
+          "6": 10,
+          "7": 10,
+          "8": 10,
+          "9": 10
+        },
+        "episode": {
+          "air_date": "2026-07-26",
+          "episode_number": 10,
+          "name": "Серія 10",
+          "overview": "",
+          "season_number": 9,
+          "runtime": 24,
+          "still_path": "/fOaRHSP4uHujzFlgYFA8ufZ9kJN.jpg",
+          "vote_average": 10.0
+        },
+        "genres": [
+          "Мультфільм",
+          "Комедія",
+          "Науково фантастичний",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s9;e10",
+      "premiere": 0
+    },
+    {
+      "id": 2843,
+      "time": 1785146354904,
+      "card_id": "1468683",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 1468683,
+        "original_language": "en",
+        "title": "Коли завмирає серце: Назавжди",
+        "original_title": "Heartstopper Forever",
+        "names": [
+          "Коли завмирає серце: Назавжди",
+          "Трепет сердца навсегда",
+          "Heartstopper Forever"
+        ],
+        "overview": "У школі Тругем починається новий навчальний рік. Стосунки Чарлі й Ніка зміцнюються, але обидва хлопці вже розмірковують про життя після випускного.",
+        "poster_path": "/ch28kJu4pG2x07sN22valXvV3JY.jpg",
+        "release_date": "2026-07-14",
+        "video": false,
+        "vote_average": 7.161,
+        "vote_count": 155,
+        "popularity": 46.7107,
+        "PG": 16,
+        "release_quality": "4K",
+        "kinopoisk_id": "7855748",
+        "imdb_id": "tt36619926",
+        "status": "released",
+        "last_air_date": "2026-07-20",
+        "countries": [
+          "United Kingdom"
+        ],
+        "genres": [
+          "Мелодрама",
+          "Драма"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2842,
+      "time": 1785083352696,
+      "card_id": "296206",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "id": 296206,
+        "original_language": "ko",
+        "name": "Агент Кім: Реактивація",
+        "original_name": "김부장",
+        "names": [
+          "Агент Кім: Реактивація",
+          "Менеджер Ким",
+          "Kim bujang",
+          "Agent Kim Reactivated / Kim-bu-jang",
+          "Агент Ким возобновил свою деятельность.",
+          "김부장",
+          "Агент Ким возобновил свою деятельность",
+          "Агент Ким / Agent Kim Reactivated / Kim-bu-jang",
+          "Агент Ким снова в деле / Agent Kim Reactivated / Kim-bu-jang"
+        ],
+        "overview": "Коли в скромного чоловіка зникає донька, він згадує навички із часів участі в спецопераціях, щоб відшукати її, але привертає до себе небажану увагу.",
+        "poster_path": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+        "first_air_date": "2026-06-26",
+        "video": false,
+        "vote_average": 7.203,
+        "vote_count": 37,
+        "popularity": 123.3108,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "9027270",
+        "kp_rating": "7.9",
+        "imdb_id": "tt42127457",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-26",
+        "seasons": {
+          "1": 10
+        },
+        "episode": {
+          "air_date": "2026-07-25",
+          "episode_number": 10,
+          "name": "Серія 10",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 73,
+          "still_path": "/ySFDgVK2lKXYkFi4TuORq45TmmF.jpg",
+          "vote_average": 7.5
+        },
+        "genres": [
+          "Екшн і Пригоди",
+          "Кримінал",
+          "Драма"
+        ],
+        "countries": [
+          "South Korea"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e10",
+      "premiere": 0
+    },
+    {
       "id": 2841,
       "time": 1785056352798,
       "card_id": "949838",
@@ -39,7 +233,8 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія"
+          "Комедія",
+          "Кримінал"
         ]
       },
       "type": "uhd",
@@ -221,7 +416,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/AqznwL3vGeK7XOazrUkfLEmFQ4X.jpg",
-          "vote_average": 6.25
+          "vote_average": 6.8
         },
         "genres": [
           "Драма",
@@ -290,7 +485,7 @@
           "season_number": 3,
           "runtime": 48,
           "still_path": "/pYnJjrdS64krUWUAGB4ckZsqN1r.jpg",
-          "vote_average": 5.042
+          "vote_average": 5.519
         },
         "genres": [
           "Науково фантастичний",
@@ -588,7 +783,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+        "backdrop_path": "/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
         "genre_ids": [
           16,
           35,
@@ -641,7 +836,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/sGtWCfxmJZ3uy35CUKzn0nuHRrS.jpg",
-          "vote_average": 6.906
+          "vote_average": 6.8
         },
         "genres": [
           "Мультфільм",
@@ -713,7 +908,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/ac4Y1B8dpN48ywZzc4EyL924VUy.jpg",
-          "vote_average": 5.4
+          "vote_average": 5.5
         },
         "genres": [
           "Науково фантастичний",
@@ -1026,7 +1221,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
+        "backdrop_path": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
         "genre_ids": [
           12,
           28,
@@ -1505,7 +1700,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/kcKcglqhlje5zqIadRQgc7tvWMN.jpg",
-          "vote_average": 5.8
+          "vote_average": 5.94
         },
         "genres": [
           "Науково фантастичний",
@@ -1527,7 +1722,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+        "backdrop_path": "/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
         "genre_ids": [
           16,
           35,
@@ -1580,7 +1775,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/fo4rjkcVyO4YF30K67a7yy2sKhT.jpg",
-          "vote_average": 8.125
+          "vote_average": 8.176
         },
         "genres": [
           "Мультфільм",
@@ -1720,7 +1915,7 @@
           "season_number": 3,
           "runtime": 49,
           "still_path": "/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg",
-          "vote_average": 5.286
+          "vote_average": 5.514
         },
         "genres": [
           "Науково фантастичний",
@@ -1958,7 +2153,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+        "backdrop_path": "/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
         "genre_ids": [
           16,
           35,
@@ -2011,7 +2206,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/6UIHqNk9f8BlNsAZb30Jb3N4YBr.jpg",
-          "vote_average": 8.688
+          "vote_average": 8.74
         },
         "genres": [
           "Мультфільм",
@@ -2079,7 +2274,7 @@
           "name": "Серія 4",
           "overview": "",
           "season_number": 1,
-          "runtime": 61,
+          "runtime": 62,
           "still_path": "/2yGGXfQmvcHlxktR17CowgcxVyp.jpg",
           "vote_average": 7.5
         },
@@ -2211,7 +2406,7 @@
           "season_number": 3,
           "runtime": 57,
           "still_path": "/rtSucmBIzQPcBejfWXqRC8ElcEQ.jpg",
-          "vote_average": 6.5
+          "vote_average": 6.591
         },
         "genres": [
           "Науково фантастичний",
@@ -2335,7 +2530,7 @@
           "season_number": 3,
           "runtime": 51,
           "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 5.675
+          "vote_average": 5.81
         },
         "genres": [
           "Науково фантастичний",
@@ -2573,7 +2768,7 @@
           "season_number": 3,
           "runtime": 56,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 6.25
+          "vote_average": 6.302
         },
         "genres": [
           "Науково фантастичний",
@@ -2704,7 +2899,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
+        "backdrop_path": "/yNcfMiULkoh1h2yyNKFm4T9FvRM.jpg",
         "genre_ids": [
           9648,
           53,
@@ -2800,195 +2995,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2794,
-      "time": 1782753598747,
-      "card_id": "60625",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
-        "genre_ids": [
-          16,
-          35,
-          10765,
-          10759
-        ],
-        "id": 60625,
-        "original_language": "en",
-        "name": "Рік та Морті",
-        "original_name": "Rick and Morty",
-        "names": [
-          "Рик и Морти",
-          "Rick and Morty",
-          "Рік та Морті"
-        ],
-        "overview": "Гумористично-фантастичний мультсеріал про пригоди дідуся-винахідника Ріка та його онука-школяра Морті, яких іноді супроводжують інші члени родини: батько-невдаха Джеррі, донька-школярка Саммер та закомплексована мати Бет.",
-        "poster_path": "/tnXwqcZ98EVKuMzRtcvPRJukwI3.jpg",
-        "first_air_date": "2013-12-02",
-        "video": false,
-        "vote_average": 8.7,
-        "vote_count": 11013,
-        "popularity": 152.444,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "685246",
-        "kp_rating": "8.9",
-        "imdb_id": "tt2861424",
-        "imdb_rating": "9.0",
-        "status": "returning series",
-        "last_air_date": "2026-06-29",
-        "seasons": {
-          "1": 11,
-          "2": 10,
-          "3": 10,
-          "4": 11,
-          "5": 14,
-          "6": 10,
-          "7": 10,
-          "8": 10,
-          "9": 6
-        },
-        "episode": {
-          "air_date": "2026-06-28",
-          "episode_number": 6,
-          "name": "Серія 6",
-          "overview": "",
-          "season_number": 9,
-          "runtime": 24,
-          "still_path": "/uye472viIZrJZNf9VgqLO1xwpBk.jpg",
-          "vote_average": 8.474
-        },
-        "genres": [
-          "Мультфільм",
-          "Комедія",
-          "Науково фантастичний",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s9;e6",
-      "premiere": 0
-    },
-    {
-      "id": 2793,
-      "time": 1782735600774,
-      "card_id": "277439",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 277439,
-        "original_language": "en",
-        "name": "Мис страху",
-        "original_name": "Cape Fear",
-        "names": [
-          "Мис страху",
-          "Мыс страха",
-          "Cape Fear"
-        ],
-        "overview": "Життя щасливого подружжя адвокатів опиняється під загрозою, коли на волю виходить небезпечний злочинець з їхнього минулого.",
-        "poster_path": "/e9XA7L1DwMzCnPZAkr3jOQ3FDcm.jpg",
-        "first_air_date": "2026-06-04",
-        "video": false,
-        "vote_average": 6.882,
-        "vote_count": 51,
-        "popularity": 49.5282,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6576642",
-        "kp_rating": "7.0",
-        "imdb_id": "tt34675596",
-        "status": "returning series",
-        "last_air_date": "2026-06-27",
-        "seasons": {
-          "1": 5
-        },
-        "episode": {
-          "air_date": "2026-06-25",
-          "episode_number": 5,
-          "name": "Віра",
-          "overview": "До Макса навідується людина з минулого. Анна розслідує, хто така Невея. У Томовій новій справі виникають ускладнення.",
-          "season_number": 1,
-          "runtime": 52,
-          "still_path": "/es5WAd84BuHp05SfboYDdzv1GsI.jpg",
-          "vote_average": 7.5
-        },
-        "genres": [
-          "Драма",
-          "Кримінал"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e5",
-      "premiere": 0
-    },
-    {
-      "id": 2792,
-      "time": 1782721202786,
-      "card_id": "1081003",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/wj1CsxIx5Y7a2jFuW7p5MqVJoTx.jpg",
-        "genre_ids": [
-          28,
-          12,
-          878
-        ],
-        "id": 1081003,
-        "original_language": "en",
-        "title": "Суперґьорл",
-        "original_title": "Supergirl",
-        "names": [
-          "Суперґьорл",
-          "Супергёрл",
-          "Supergirl"
-        ],
-        "overview": "Кара Зор-Ел, відома як Суперґьорл, роками намагалася триматися осторонь людських справ. Та коли невідомий і безжальний ворог завдає удару надто близько до дому, Кара вимушено об’єднується з неочікуваним напарником і вирушає у міжгалактичну подорож, сповнену помсти, боротьби за справедливість і випробувань, які визначать її шлях.",
-        "poster_path": "/sAaAVBiQr4HpRPhtvkapvDYmUc3.jpg",
-        "release_date": "2026-06-23",
-        "video": false,
-        "vote_average": 6.271,
-        "vote_count": 48,
-        "popularity": 144.8921,
-        "PG": 13,
-        "release_quality": "ts",
-        "kinopoisk_id": "1184898",
-        "kp_rating": "6.1",
-        "imdb_id": "tt8814476",
-        "status": "released",
-        "last_air_date": "2026-06-26",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Бойовик",
-          "Пригоди",
-          "Фантастика"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.334115028381348
+  "duration": 5.198213577270508
 }
