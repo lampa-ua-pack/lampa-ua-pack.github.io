@@ -2,6 +2,119 @@
   "secuses": true,
   "result": [
     {
+      "id": 2846,
+      "time": 1785230957222,
+      "card_id": "1375646",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
+        "genre_ids": [
+          28,
+          53,
+          27
+        ],
+        "id": 1375646,
+        "original_language": "ko",
+        "title": "Колония",
+        "original_title": "군체",
+        "names": [
+          "Колония",
+          "Gunche",
+          "군체"
+        ],
+        "overview": "Во время конференции по биотехнологиям опасный вирус вырывается на свободу, и люди оказываются заблокированы в небоскрёбе — огромном выставочном центре, где начинается настоящий кошмар.",
+        "poster_path": "/uQIlX1zpvM7FAKRbeyLDJN3zxrX.jpg",
+        "release_date": "2026-05-21",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 89,
+        "popularity": 13.801,
+        "PG": 18,
+        "release_quality": "webdl",
+        "kinopoisk_id": "6705911",
+        "kp_rating": "6.9",
+        "imdb_id": "tt34385135",
+        "imdb_rating": "6.9",
+        "status": "released",
+        "last_air_date": "2026-05-25",
+        "countries": [
+          "Южная Корея"
+        ],
+        "genres": [
+          "Боевик",
+          "Ужасы",
+          "Фантастика"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2845,
+      "time": 1785173353744,
+      "card_id": "94997",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 94997,
+        "original_language": "en",
+        "name": "Дом Дракона",
+        "original_name": "House of the Dragon",
+        "names": [
+          "Дом Дракона",
+          "House of the Dragon",
+          "Дом дракона",
+          "Дім Дракона",
+          "Дім дракона",
+          "Game of Thrones: House of the Dragon"
+        ],
+        "overview": "После смерти короля Визериса династия Таргариенов начинает бескомпромиссную борьбу за Железный трон. Предводительницей «черной» ветви становится принцесса Рейнира, а на стороне «зеленой» оказывается ее лучшая подруга и дочь десницы короля Алисента. В битве за престол соперницы заручаются поддержкой неожиданных союзников, плетут интриги — и используют разрушительную мощь драконов.",
+        "poster_path": "/hXyYN6LFo7QnKUA3QBx7B3KsnJE.jpg",
+        "first_air_date": "2022-08-21",
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 6716,
+        "popularity": 321.724,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1316601",
+        "kp_rating": "8.1",
+        "imdb_id": "tt11198330",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-07-27",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 6
+        },
+        "episode": {
+          "air_date": "2026-07-26",
+          "episode_number": 6,
+          "name": "Эпизод 6",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 63,
+          "still_path": "/6nU7pbPWspOKjud544KV2VEamUe.jpg",
+          "vote_average": 3.5
+        }
+      },
+      "type": "episode",
+      "hash": "s3;e6",
+      "premiere": 0
+    },
+    {
       "id": 2844,
       "time": 1785155352726,
       "card_id": "60625",
@@ -2666,109 +2779,7 @@
       "type": "episode",
       "hash": "s1;e9",
       "premiere": 0
-    },
-    {
-      "id": 2796,
-      "time": 1782994501699,
-      "card_id": "1202033",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
-        "genre_ids": [
-          9648,
-          53,
-          12,
-          80
-        ],
-        "id": 1202033,
-        "original_language": "en",
-        "title": "Энола Холмс 3",
-        "original_title": "Enola Holmes 3",
-        "names": [
-          "Энола Холмс 3",
-          "Enola Holmes 3"
-        ],
-        "overview": "Детектив Энола Холмс отправляется на Мальту, однако ее планы выйти замуж рушатся: из-за исчезновения Шерлока она втягивается в опасное дело.",
-        "poster_path": "/eTjUnXaWpkQbuDcBQV8oI1IeC9r.jpg",
-        "release_date": "2026-06-30",
-        "video": false,
-        "vote_average": 7.5,
-        "vote_count": 21,
-        "popularity": 11.3265,
-        "PG": 13,
-        "release_quality": "4K",
-        "kinopoisk_id": "6281573",
-        "imdb_id": "tt32278481",
-        "status": "released",
-        "last_air_date": "2026-07-01",
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Приключения",
-          "Криминал",
-          "Детектив"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2795,
-      "time": 1782929702818,
-      "card_id": "286360",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/oBJ6dZ6A1tY1O94RmWnJkkQVbLz.jpg",
-        "genre_ids": [
-          9648,
-          18
-        ],
-        "id": 286360,
-        "original_language": "ko",
-        "name": "Студент на последнем ряду",
-        "original_name": "맨 끝줄 소년",
-        "names": [
-          "Студент на последнем ряду",
-          "Maen kkeutjul sonyeon",
-          "Notes from the Last Row / The Boy in the Last Row",
-          "맨 끝줄 소년"
-        ],
-        "overview": "Профессор литературы замечает талант студента и предлагает ему уроки писательства. Однако чем глубже он погружается в сюжет, тем необузданнее становятся их занятия.",
-        "poster_path": "/xSSp3JHoZFxc69aeFtc9JTgVMeu.jpg",
-        "first_air_date": "2026-06-26",
-        "video": false,
-        "vote_average": 10,
-        "vote_count": 1,
-        "popularity": 7.5856,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "KR"
-        ],
-        "kinopoisk_id": "8067299",
-        "imdb_id": "tt36270432",
-        "imdb_rating": "7.5",
-        "status": "ended",
-        "last_air_date": "2026-06-28",
-        "seasons": {
-          "1": 6
-        },
-        "countries": [
-          "Южная Корея"
-        ],
-        "genres": [
-          "Детектив",
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 5.198213577270508
+  "duration": 6.844212532043457
 }
