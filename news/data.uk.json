@@ -108,7 +108,7 @@
           "season_number": 3,
           "runtime": 63,
           "still_path": "/6nU7pbPWspOKjud544KV2VEamUe.jpg",
-          "vote_average": 6.476
+          "vote_average": 6.688
         },
         "genres": [
           "Науково фантастичний",
@@ -183,7 +183,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/fOaRHSP4uHujzFlgYFA8ufZ9kJN.jpg",
-          "vote_average": 9.0
+          "vote_average": 9.063
         },
         "genres": [
           "Мультфільм",
@@ -607,7 +607,7 @@
           "season_number": 3,
           "runtime": 48,
           "still_path": "/pYnJjrdS64krUWUAGB4ckZsqN1r.jpg",
-          "vote_average": 5.935
+          "vote_average": 6.0
         },
         "genres": [
           "Науково фантастичний",
@@ -827,7 +827,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/jKeFPdISdSCfB6BlBgEfu6K2GBp.jpg",
-          "vote_average": 4.3
+          "vote_average": 4.19
         },
         "genres": [
           "Драма",
@@ -1343,7 +1343,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+        "backdrop_path": "/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
         "genre_ids": [
           12,
           28,
@@ -1497,7 +1497,7 @@
           "season_number": 1,
           "runtime": 48,
           "still_path": "/j9tZvz6gMdm3nAUOpflSzVB9fsr.jpg",
-          "vote_average": 5.9
+          "vote_average": 5.611
         },
         "genres": [
           "Драма",
@@ -1822,7 +1822,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/kcKcglqhlje5zqIadRQgc7tvWMN.jpg",
-          "vote_average": 5.942
+          "vote_average": 5.9
         },
         "genres": [
           "Науково фантастичний",
@@ -2037,7 +2037,7 @@
           "season_number": 3,
           "runtime": 49,
           "still_path": "/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg",
-          "vote_average": 5.744
+          "vote_average": 5.902
         },
         "genres": [
           "Науково фантастичний",
@@ -2527,7 +2527,7 @@
           "overview": "Рейніра дізнається, що ситуація в Королівській Гавані не така, як вона очікувала. Не маючи змоги виявити своїх ворогів і стикаючись із вимогами з усіх боків, Рейніра мусить дотримуватися делікатного балансу між задоволенням очікувань своїх прихильників та зміцненням своєї влади.",
           "season_number": 3,
           "runtime": 57,
-          "still_path": "/rtSucmBIzQPcBejfWXqRC8ElcEQ.jpg",
+          "still_path": "/lsbACWH0s4tjAbEckCGcXUFRST2.jpg",
           "vote_average": 6.6
         },
         "genres": [
@@ -2652,7 +2652,7 @@
           "season_number": 3,
           "runtime": 51,
           "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 6.0
+          "vote_average": 6.109
         },
         "genres": [
           "Науково фантастичний",
@@ -2794,7 +2794,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
+        "backdrop_path": "/4mKczHAW4XPDXGk7V5k7Ui3dgUk.jpg",
         "genre_ids": [
           18,
           36
@@ -3015,5 +3015,5 @@
       "premiere": 0
     }
   ],
-  "duration": 6.844212532043457
+  "duration": 6.773979187011719
 }
