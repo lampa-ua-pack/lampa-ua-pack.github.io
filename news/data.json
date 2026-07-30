@@ -2,6 +2,62 @@
   "secuses": true,
   "result": [
     {
+      "id": 2847,
+      "time": 1785335352732,
+      "card_id": "278624",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 278624,
+        "original_language": "en",
+        "name": "Лаки",
+        "original_name": "Lucky",
+        "names": [
+          "Лаки",
+          "Lucky"
+        ],
+        "overview": "Многомиллионное ограбление пошло не по плану, и аферистка Лаки вынуждена пуститься в бега. Преследуемая ФБР и безжалостным лидером преступной группировки, Лаки должна найти выход, чтобы выжить.",
+        "poster_path": "/kfdtVs9mWwU7XssjOyb3e3fCHuv.jpg",
+        "first_air_date": "2026-07-14",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 81,
+        "popularity": 115.8344,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6640984",
+        "kp_rating": "6.4",
+        "imdb_id": "tt34866681",
+        "imdb_rating": "6.8",
+        "status": "returning series",
+        "last_air_date": "2026-07-29",
+        "seasons": {
+          "1": 4
+        },
+        "episode": {
+          "air_date": "2026-07-28",
+          "episode_number": 4,
+          "name": "Не замечать очевидного",
+          "overview": "Лаки выясняет причины предательства, но старые обиды отходят на второй план, когда нужно выжить в смертельной погоне.",
+          "season_number": 1,
+          "runtime": 40,
+          "still_path": "/wIqlraRAqpeXOKFOFrhFaqv8hYN.jpg",
+          "vote_average": 1
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e4",
+      "premiere": 0
+    },
+    {
       "id": 2846,
       "time": 1785230957222,
       "card_id": "1375646",
@@ -2723,63 +2779,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2797,
-      "time": 1783147501751,
-      "card_id": "299167",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-        "genre_ids": [
-          37,
-          18
-        ],
-        "id": 299167,
-        "original_language": "en",
-        "name": "Ранчо Даттонов",
-        "original_name": "Dutton Ranch",
-        "names": [
-          "Ранчо Даттонов",
-          "Dutton Ranch",
-          "The Dutton Ranch"
-        ],
-        "overview": "Ранчо Даттонов - дом Бет и Рипа, стало символом той жизни, о которой они мечтали, за которую отчаянно боролись и ради которой едва не пожертвовали всем. Они всей душой привязались к своей земле площадью 7000 акров, превратив её в место, которое готовы защищать любой ценой. Даже в самые тяжёлые времена Бет и Рип делают всё возможное, чтобы выстоять, сохранить своё ранчо и обеспечить достойное будущее себе и своему приёмному сыну Картеру.",
-        "poster_path": "/mmxsx98NnY56CvataUqM1ktt14O.jpg",
-        "first_air_date": "2026-05-15",
-        "video": false,
-        "vote_average": 9.282,
-        "vote_count": 335,
-        "popularity": 231.5716,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7275308",
-        "kp_rating": "8.5",
-        "imdb_id": "tt34991493",
-        "status": "returning series",
-        "last_air_date": "2026-07-03",
-        "seasons": {
-          "1": 9
-        },
-        "episode": {
-          "air_date": "2026-07-03",
-          "episode_number": 9,
-          "name": "Эпизод 9",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 48,
-          "still_path": "/tzlA6pW657XmVoIi1D2B5B1j81K.jpg",
-          "vote_average": 10
-        }
-      },
-      "type": "episode",
-      "hash": "s1;e9",
-      "premiere": 0
     }
   ],
-  "duration": 6.773979187011719
+  "duration": 7.055927276611328
 }

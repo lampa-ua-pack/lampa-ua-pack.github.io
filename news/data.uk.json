@@ -2,6 +2,71 @@
   "secuses": true,
   "result": [
     {
+      "id": 2847,
+      "time": 1785335352732,
+      "card_id": "278624",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 278624,
+        "original_language": "en",
+        "name": "Лакі",
+        "original_name": "Lucky",
+        "names": [
+          "Лакі",
+          "Лаки",
+          "Lucky"
+        ],
+        "overview": "Коли пограбування на мільйони доларів зривається, аферистка Лакі змушена тікати. Опинившись під прицілом ФБР та безжального кримінального боса, Лакі бореться за життя і шукає вихід із ситуації.",
+        "poster_path": "/tdcQyS4YbaRJnliqh595qD6e8mY.jpg",
+        "first_air_date": "2026-07-14",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 81,
+        "popularity": 115.8344,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6640984",
+        "kp_rating": "6.4",
+        "imdb_id": "tt34866681",
+        "imdb_rating": "6.8",
+        "status": "returning series",
+        "last_air_date": "2026-07-29",
+        "seasons": {
+          "1": 4
+        },
+        "episode": {
+          "air_date": "2026-07-28",
+          "episode_number": 4,
+          "name": "Впритул не бачити очевидного",
+          "overview": "Лакі з’ясовує причини чоловікового підступу, але давні чвари відходять на другий план заради виживання у смертельній гонитві.",
+          "season_number": 1,
+          "runtime": 40,
+          "still_path": "/wIqlraRAqpeXOKFOFrhFaqv8hYN.jpg",
+          "vote_average": 4.0
+        },
+        "genres": [
+          "Драма",
+          "Кримінал"
+        ],
+        "countries": [
+          "United States of America",
+          "United Kingdom"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e4",
+      "premiere": 0
+    },
+    {
       "id": 2846,
       "time": 1785230957222,
       "card_id": "1375646",
@@ -108,7 +173,7 @@
           "season_number": 3,
           "runtime": 63,
           "still_path": "/6nU7pbPWspOKjud544KV2VEamUe.jpg",
-          "vote_average": 6.688
+          "vote_average": 6.833
         },
         "genres": [
           "Науково фантастичний",
@@ -183,7 +248,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/fOaRHSP4uHujzFlgYFA8ufZ9kJN.jpg",
-          "vote_average": 9.063
+          "vote_average": 8.833
         },
         "genres": [
           "Мультфільм",
@@ -302,7 +367,7 @@
           "season_number": 1,
           "runtime": 73,
           "still_path": "/ySFDgVK2lKXYkFi4TuORq45TmmF.jpg",
-          "vote_average": 7.5
+          "vote_average": 7.667
         },
         "genres": [
           "Екшн і Пригоди",
@@ -419,7 +484,7 @@
           "season_number": 1,
           "runtime": 60,
           "still_path": "/yr9ZDaEz7bNSCFycTZBWftCjL2h.jpg",
-          "vote_average": 6.3
+          "vote_average": 6.75
         },
         "genres": [
           "Екшн і Пригоди",
@@ -559,7 +624,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "backdrop_path": "/l0U6SoFpMvJXWz4SByxKkhcIJES.jpg",
         "genre_ids": [
           10765,
           18
@@ -607,7 +672,7 @@
           "season_number": 3,
           "runtime": 48,
           "still_path": "/pYnJjrdS64krUWUAGB4ckZsqN1r.jpg",
-          "vote_average": 6.0
+          "vote_average": 6.147
         },
         "genres": [
           "Науково фантастичний",
@@ -827,7 +892,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/jKeFPdISdSCfB6BlBgEfu6K2GBp.jpg",
-          "vote_average": 4.19
+          "vote_average": 4.2
         },
         "genres": [
           "Драма",
@@ -958,7 +1023,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/sGtWCfxmJZ3uy35CUKzn0nuHRrS.jpg",
-          "vote_average": 6.8
+          "vote_average": 6.972
         },
         "genres": [
           "Мультфільм",
@@ -1030,7 +1095,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/trmxI19SM9arfcd4Petr5sJXrGd.jpg",
-          "vote_average": 5.5
+          "vote_average": 5.6
         },
         "genres": [
           "Науково фантастичний",
@@ -1343,7 +1408,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
+        "backdrop_path": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
         "genre_ids": [
           12,
           28,
@@ -1496,8 +1561,8 @@
           "overview": "Шукаючи прихистку, Лакі переховується в сім’ї, яка ні про що не здогадується. Прісцилла навідується до батька Лакі.",
           "season_number": 1,
           "runtime": 48,
-          "still_path": "/j9tZvz6gMdm3nAUOpflSzVB9fsr.jpg",
-          "vote_average": 5.611
+          "still_path": "/eR9ffKHOTj5U9gCRZIRLL6ZtYiS.jpg",
+          "vote_average": 5.7
         },
         "genres": [
           "Драма",
@@ -1897,7 +1962,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/fo4rjkcVyO4YF30K67a7yy2sKhT.jpg",
-          "vote_average": 8.2
+          "vote_average": 7.778
         },
         "genres": [
           "Мультфільм",
@@ -1989,7 +2054,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "backdrop_path": "/l0U6SoFpMvJXWz4SByxKkhcIJES.jpg",
         "genre_ids": [
           10765,
           18
@@ -2037,7 +2102,7 @@
           "season_number": 3,
           "runtime": 49,
           "still_path": "/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg",
-          "vote_average": 5.902
+          "vote_average": 5.952
         },
         "genres": [
           "Науково фантастичний",
@@ -2328,7 +2393,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/6UIHqNk9f8BlNsAZb30Jb3N4YBr.jpg",
-          "vote_average": 8.7
+          "vote_average": 8.442
         },
         "genres": [
           "Мультфільм",
@@ -2527,7 +2592,7 @@
           "overview": "Рейніра дізнається, що ситуація в Королівській Гавані не така, як вона очікувала. Не маючи змоги виявити своїх ворогів і стикаючись із вимогами з усіх боків, Рейніра мусить дотримуватися делікатного балансу між задоволенням очікувань своїх прихильників та зміцненням своєї влади.",
           "season_number": 3,
           "runtime": 57,
-          "still_path": "/lsbACWH0s4tjAbEckCGcXUFRST2.jpg",
+          "still_path": "/rtSucmBIzQPcBejfWXqRC8ElcEQ.jpg",
           "vote_average": 6.6
         },
         "genres": [
@@ -2604,7 +2669,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "backdrop_path": "/l0U6SoFpMvJXWz4SByxKkhcIJES.jpg",
         "genre_ids": [
           10765,
           18
@@ -2842,7 +2907,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "backdrop_path": "/l0U6SoFpMvJXWz4SByxKkhcIJES.jpg",
         "genre_ids": [
           10765,
           18
@@ -2949,71 +3014,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2797,
-      "time": 1783147501751,
-      "card_id": "299167",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-        "genre_ids": [
-          37,
-          18
-        ],
-        "id": 299167,
-        "original_language": "en",
-        "name": "Ранчо Даттонів",
-        "original_name": "Dutton Ranch",
-        "names": [
-          "Ранчо Даттонів",
-          "Ранчо Даттонов",
-          "Dutton Ranch",
-          "The Dutton Ranch"
-        ],
-        "overview": "Бет Даттон і Ріп Вілер борються за виживання на своєму улюбленому ранчо площею 7000 акрів в умовах важких часів і жорсткої конкуренції, водночас намагаючись допомогти юному Картеру стати тим чоловіком, яким він має бути.",
-        "poster_path": "/dtKW23O5tfxq7EXUsfeLgBx7gy1.jpg",
-        "first_air_date": "2026-05-15",
-        "video": false,
-        "vote_average": 9.282,
-        "vote_count": 335,
-        "popularity": 231.5716,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7275308",
-        "kp_rating": "8.5",
-        "imdb_id": "tt34991493",
-        "status": "returning series",
-        "last_air_date": "2026-07-03",
-        "seasons": {
-          "1": 9
-        },
-        "episode": {
-          "air_date": "2026-07-03",
-          "episode_number": 9,
-          "name": "Серія 9",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 60,
-          "still_path": "/yR9CRcKrGM85omkkHAy35o5vSIz.jpg",
-          "vote_average": 8.731
-        },
-        "genres": [
-          "Вестерн",
-          "Драма"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e9",
-      "premiere": 0
     }
   ],
-  "duration": 6.773979187011719
+  "duration": 7.055927276611328
 }
