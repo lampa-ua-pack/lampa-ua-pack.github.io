@@ -2,6 +2,264 @@
   "secuses": true,
   "result": [
     {
+      "id": 2852,
+      "time": 1785497352771,
+      "card_id": "125988",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 125988,
+        "original_language": "en",
+        "name": "Укрытие",
+        "original_name": "Silo",
+        "names": [
+          "Бункер",
+          "Silo",
+          "Укрытие",
+          "Таємниця бункера / Бункер",
+          "Wool"
+        ],
+        "overview": "На отравленной гибнущей планете будущего тысячи людей ютятся в огромном подземном укрытии. Нарушение шерифом основного правила и серия загадочных смертей вынуждают инженера Джульетту заняться раскрытием тайн и поиском правды о бункере.",
+        "poster_path": "/gRkvq6FgiGRdtCwhVIozaUqhoDL.jpg",
+        "first_air_date": "2023-05-04",
+        "video": false,
+        "vote_average": 8.184,
+        "vote_count": 2342,
+        "popularity": 206.3233,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4541515",
+        "kp_rating": "7.8",
+        "imdb_id": "tt14688458",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-31",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 5
+        },
+        "episode": {
+          "air_date": "2026-07-30",
+          "episode_number": 5,
+          "name": "Память",
+          "overview": "Выясняются события, происшедшие после возвращения Джульетты, и заключаются неожиданные союзы.",
+          "season_number": 3,
+          "runtime": 54,
+          "still_path": "/zcbjuLkbVPHSphOHClKQM0v1Zjf.jpg",
+          "vote_average": 5
+        }
+      },
+      "type": "episode",
+      "hash": "s3;e5",
+      "premiere": 0
+    },
+    {
+      "id": 2851,
+      "time": 1785491959598,
+      "card_id": "278624",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 278624,
+        "original_language": "en",
+        "name": "Лаки",
+        "original_name": "Lucky",
+        "names": [
+          "Лаки",
+          "Lucky"
+        ],
+        "overview": "Многомиллионное ограбление пошло не по плану, и аферистка Лаки вынуждена пуститься в бега. Преследуемая ФБР и безжалостным лидером преступной группировки, Лаки должна найти выход, чтобы выжить.",
+        "poster_path": "/kfdtVs9mWwU7XssjOyb3e3fCHuv.jpg",
+        "first_air_date": "2026-07-14",
+        "video": false,
+        "vote_average": 7.125,
+        "vote_count": 96,
+        "popularity": 120.0698,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6640984",
+        "kp_rating": "6.3",
+        "imdb_id": "tt34866681",
+        "imdb_rating": "6.8",
+        "status": "returning series",
+        "last_air_date": "2026-07-29",
+        "seasons": {
+          "1": 4
+        },
+        "countries": [
+          "США",
+          "Великобритания"
+        ],
+        "genres": [
+          "Драма",
+          "Криминал"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2850,
+      "time": 1785488356391,
+      "card_id": "1361774",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/tJQhL95q63ITeBy5OTGPx51sFks.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1361774,
+        "original_language": "en",
+        "title": "Динк",
+        "original_title": "The Dink",
+        "names": [
+          "Динк",
+          "The Dink"
+        ],
+        "overview": "Дасти Бойду по прозвищу Молот, вышедшему в тираж профессиональному теннисисту, очень нужна победа. Стремясь спасти убыточный загородный клуб и завоевать уважение отца, Дасти нарушает священную клятву и совершает немыслимое — начинает играть в пиклбол.",
+        "poster_path": "/qzro574xelekqSTESEL09qpO2qh.jpg",
+        "release_date": "2026-07-23",
+        "video": false,
+        "vote_average": 6.207,
+        "vote_count": 58,
+        "popularity": 74.919,
+        "PG": 16,
+        "release_quality": "4K",
+        "kinopoisk_id": "6631656",
+        "imdb_id": "tt33499146",
+        "status": "released",
+        "last_air_date": "2026-07-31",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Комедия"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2849,
+      "time": 1785482957213,
+      "card_id": "969681",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "id": 969681,
+        "original_language": "en",
+        "title": "Человек-паук: Новый день",
+        "original_title": "Spider-Man: Brand New Day",
+        "names": [
+          "Человек-паук: Новый день",
+          "Spider-Man: Brand New Day"
+        ],
+        "overview": "Одинокий и повзрослевший Питер Паркер полностью посвящает себя борьбе с преступностью в Нью-Йорке, поскольку 4 года назад после заклинания Доктора Стренджа мир и все близкие забыли его. Но с ростом угроз и нагрузки на Человека-паука его способности претерпевают странные изменения, способные поставить под угрозу его существование. Тем временем в городе случается новая цепочка преступлений, которая приводит к появлению одного из самых опасных противников в жизни Питера.",
+        "poster_path": "/jjY37mmqRWvKPRafuroumvRbR9p.jpg",
+        "release_date": "2026-07-28",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 137,
+        "popularity": 912.2268,
+        "PG": 12,
+        "release_quality": "ts",
+        "kinopoisk_id": "5494049",
+        "kp_rating": "8.1",
+        "imdb_id": "tt22084616",
+        "status": "released",
+        "last_air_date": "2026-07-31",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Фантастика",
+          "Боевик",
+          "Приключения"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2848,
+      "time": 1785441552876,
+      "card_id": "296756",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "id": 296756,
+        "original_language": "en",
+        "name": "Президент Кертис",
+        "original_name": "President Curtis",
+        "names": [
+          "Президент Кертис",
+          "President Curtis"
+        ],
+        "overview": "Спин-офф «Рика и Морти» о президенте США Андре Кёртисе и его эксцентричной команде советников. Вместе они расследуют паранормальные явления, устраняют межпространственные угрозы и решают другие кризисы, которые Рик Санчес счёл бы слишком скучными для себя.",
+        "poster_path": "/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
+        "first_air_date": "2026-07-26",
+        "video": false,
+        "vote_average": 1,
+        "vote_count": 1,
+        "popularity": 10.5605,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "8607693",
+        "imdb_id": "tt37692332",
+        "imdb_rating": "7.3",
+        "status": "returning series",
+        "last_air_date": "2026-07-27",
+        "seasons": {
+          "1": 1
+        },
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Мультфильм",
+          "Комедия"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2847,
       "time": 1785335352732,
       "card_id": "278624",
@@ -2513,273 +2771,7 @@
       "type": "episode",
       "hash": "s3;e2",
       "premiere": 0
-    },
-    {
-      "id": 2802,
-      "time": 1783235702376,
-      "card_id": "253960",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/qIMNDToguvTIaVReD8GgeDgfXVr.jpg",
-        "genre_ids": [
-          10765,
-          80
-        ],
-        "id": 253960,
-        "original_language": "ja",
-        "name": "Газовый человек",
-        "original_name": "ガス人間",
-        "names": [
-          "Газовый человек",
-          "Gas Ningen",
-          "Human Vapor",
-          "ガス人間",
-          "Gas Ningen / Human Vapor"
-        ],
-        "overview": "За смертью в прямом эфире на ТВ и преступником, превращающимся в газ, скрывается секретный проект, где используют уязвимых людей. Детектив пытается докопаться до истины.",
-        "poster_path": "/b9K6fvpHqDJFcLn1OOjbLi1VEgn.jpg",
-        "first_air_date": "2026-07-02",
-        "video": false,
-        "vote_average": 7.8,
-        "vote_count": 5,
-        "popularity": 80.0844,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "JP",
-          "KR"
-        ],
-        "kinopoisk_id": "6099853",
-        "imdb_id": "tt33083249",
-        "imdb_rating": "7.0",
-        "status": "ended",
-        "last_air_date": "2026-07-04",
-        "seasons": {
-          "1": 8
-        },
-        "countries": [
-          "Южная Корея",
-          "Япония"
-        ],
-        "genres": [
-          "НФ и Фэнтези",
-          "Криминал"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2801,
-      "time": 1783183503959,
-      "card_id": "277439",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 277439,
-        "original_language": "en",
-        "name": "Мыс страха",
-        "original_name": "Cape Fear",
-        "names": [
-          "Мыс страха",
-          "Cape Fear"
-        ],
-        "overview": "На счастливую супружескую пару адвокатов надвигается буря, когда из тюрьмы выходит знаменитый киллер из их прошлого.",
-        "poster_path": "/a5CZ7Mh2XcEnenS9bXbWYVFKuGb.jpg",
-        "first_air_date": "2026-06-04",
-        "video": false,
-        "vote_average": 6.9,
-        "vote_count": 55,
-        "popularity": 43.3931,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6576642",
-        "kp_rating": "6.9",
-        "imdb_id": "tt34675596",
-        "status": "returning series",
-        "last_air_date": "2026-07-03",
-        "seasons": {
-          "1": 6
-        },
-        "episode": {
-          "air_date": "2026-07-02",
-          "episode_number": 6,
-          "name": "Опоссум",
-          "overview": "Боудены улаживают вопросы с новым соседом. Натали задает вопросы о своем прошлом. У семьи случается приход.",
-          "season_number": 1,
-          "runtime": 56,
-          "still_path": "/zA6WWkrhSoJjJuFhB0MvGXiDVLO.jpg",
-          "vote_average": 7
-        }
-      },
-      "type": "episode",
-      "hash": "s1;e6",
-      "premiere": 0
-    },
-    {
-      "id": 2800,
-      "time": 1783169106005,
-      "card_id": "1317149",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg",
-        "genre_ids": [
-          18,
-          36
-        ],
-        "id": 1317149,
-        "original_language": "en",
-        "title": "Я ругаюсь",
-        "original_title": "I Swear",
-        "names": [
-          "Я ругаюсь",
-          "I Swear"
-        ],
-        "overview": "1983 год. Подросток из Шотландии Джон мечтает о футболе, но внезапно появившиеся тики делают его жертвой школьной травли. После нервного срыва ему диагностируют синдром Туретта. Вскоре о болезни Джона выходит документальный фильм, который приносит ему известность, но навсегда меняет жизнь семьи и осложняет отношения с матерью.",
-        "poster_path": "/lP3WZIsuAaJ4C2Bj4ag753XsJga.jpg",
-        "release_date": "2025-09-22",
-        "video": false,
-        "vote_average": 8.232,
-        "vote_count": 368,
-        "popularity": 16.0431,
-        "PG": 17,
-        "release_quality": "4K",
-        "kinopoisk_id": "8472578",
-        "kp_rating": "8.5",
-        "imdb_id": "tt31514146",
-        "imdb_rating": "8.4",
-        "status": "released",
-        "last_air_date": "0001-01-01",
-        "countries": [
-          "Великобритания"
-        ],
-        "genres": [
-          "Драма",
-          "История"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2799,
-      "time": 1783165501858,
-      "card_id": "125988",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "genre_ids": [
-          10765,
-          18
-        ],
-        "id": 125988,
-        "original_language": "en",
-        "name": "Укрытие",
-        "original_name": "Silo",
-        "names": [
-          "Бункер",
-          "Silo",
-          "Укрытие",
-          "Таємниця бункера / Бункер",
-          "Wool"
-        ],
-        "overview": "На отравленной гибнущей планете будущего тысячи людей ютятся в огромном подземном укрытии. Нарушение шерифом основного правила и серия загадочных смертей вынуждают инженера Джульетту заняться раскрытием тайн и поиском правды о бункере.",
-        "poster_path": "/hjbi9TfsJ9kENZOZqVNJa5IRMM2.jpg",
-        "first_air_date": "2023-05-04",
-        "video": false,
-        "vote_average": 8.164,
-        "vote_count": 2122,
-        "popularity": 64.7131,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4541515",
-        "kp_rating": "7.8",
-        "imdb_id": "tt14688458",
-        "imdb_rating": "8.1",
-        "status": "returning series",
-        "last_air_date": "2026-07-04",
-        "seasons": {
-          "1": 10,
-          "2": 10,
-          "3": 1
-        },
-        "episode": {
-          "air_date": "2026-07-02",
-          "episode_number": 1,
-          "name": "Кто ты?",
-          "overview": "Новый мэр Джульетта ничего не помнит о времени, проведенном во внешнем мире, а также о своем прошлом.",
-          "season_number": 3,
-          "runtime": 52,
-          "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 3.95
-        }
-      },
-      "type": "episode",
-      "hash": "s3;e1",
-      "premiere": 0
-    },
-    {
-      "id": 2798,
-      "time": 1783154703030,
-      "card_id": "1310677",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/gXU1At9HJ023Wjm1mHCLnhf80pi.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 1310677,
-        "original_language": "ko",
-        "title": "Покидая Северную Корею",
-        "original_title": "하나 코리아",
-        "names": [
-          "Покидая Северную Корею",
-          "Hana Korea",
-          "하나 코리아"
-        ],
-        "overview": "Хе-сон бежит в Южную Корею с одной целью — заработать деньги для больной матери. Здесь её ждёт не только долгожданная свобода, но и новые правила, незнакомые люди и высокие ожидания общества. Девушка не теряет надежды и готова бороться за место под солнцем.",
-        "poster_path": "/x2a9OCdLBINEYiZ0gsFnrnnItVe.jpg",
-        "release_date": "2026-07-08",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "popularity": 4.1952,
-        "PG": 0,
-        "release_quality": "webdl",
-        "kinopoisk_id": "11701242",
-        "imdb_id": "tt33344480",
-        "imdb_rating": "7.0",
-        "status": "released",
-        "last_air_date": "2026-06-29",
-        "countries": [
-          "Южная Корея",
-          "Дания"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.055927276611328
+  "duration": 6.047489166259766
 }

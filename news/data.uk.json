@@ -2,6 +2,276 @@
   "secuses": true,
   "result": [
     {
+      "id": 2852,
+      "time": 1785497352771,
+      "card_id": "125988",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 125988,
+        "original_language": "en",
+        "name": "Таємниця бункера",
+        "original_name": "Silo",
+        "names": [
+          "Таємниця бункера",
+          "Бункер",
+          "Silo",
+          "Укрытие",
+          "Таємниця бункера / Бункер",
+          "Wool"
+        ],
+        "overview": "У занапащеному й небезпечному майбутньому тисячі людей живуть у великому підземному бункері. Коли шериф порушує його основоположне правило, а жителі гинуть за загадкових обставин, інженер Джулієт береться розкривати приголомшливі таємниці й правду про бункер.",
+        "poster_path": "/fjo0lVGHPHJS2CqrXOyZN379BXK.jpg",
+        "first_air_date": "2023-05-04",
+        "video": false,
+        "vote_average": 8.184,
+        "vote_count": 2342,
+        "popularity": 206.3233,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4541515",
+        "kp_rating": "7.8",
+        "imdb_id": "tt14688458",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-31",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 5
+        },
+        "episode": {
+          "air_date": "2026-07-30",
+          "episode_number": 5,
+          "name": "Пам'ять",
+          "overview": "На поверхню випливають події після повернення Джулієт – і формуються неочікувані союзи.",
+          "season_number": 3,
+          "runtime": 54,
+          "still_path": "/zcbjuLkbVPHSphOHClKQM0v1Zjf.jpg",
+          "vote_average": 5.2
+        },
+        "genres": [
+          "Науково фантастичний",
+          "Драма"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e5",
+      "premiere": 0
+    },
+    {
+      "id": 2851,
+      "time": 1785491959598,
+      "card_id": "278624",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 278624,
+        "original_language": "en",
+        "name": "Лакі",
+        "original_name": "Lucky",
+        "names": [
+          "Лакі",
+          "Лаки",
+          "Lucky"
+        ],
+        "overview": "Коли пограбування на мільйони доларів зривається, аферистка Лакі змушена тікати. Опинившись під прицілом ФБР та безжального кримінального боса, Лакі бореться за життя і шукає вихід із ситуації.",
+        "poster_path": "/tdcQyS4YbaRJnliqh595qD6e8mY.jpg",
+        "first_air_date": "2026-07-14",
+        "video": false,
+        "vote_average": 7.125,
+        "vote_count": 96,
+        "popularity": 120.0698,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6640984",
+        "kp_rating": "6.3",
+        "imdb_id": "tt34866681",
+        "imdb_rating": "6.8",
+        "status": "returning series",
+        "last_air_date": "2026-07-29",
+        "seasons": {
+          "1": 4
+        },
+        "countries": [
+          "United States of America",
+          "United Kingdom"
+        ],
+        "genres": [
+          "Драма",
+          "Кримінал"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2850,
+      "time": 1785488356391,
+      "card_id": "1361774",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/tJQhL95q63ITeBy5OTGPx51sFks.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1361774,
+        "original_language": "en",
+        "title": "Дінк",
+        "original_title": "The Dink",
+        "names": [
+          "Дінк",
+          "Динк",
+          "The Dink"
+        ],
+        "overview": "Дасті «Молот» Бойд – колишня зірка тенісу, якому дуже потрібна перемога. Щоб врятувати місцевий клуб від банкрутства і здобути повагу батька, Дасті порушує священну клятву й наважується на немислиме: йде грати в піклбол.",
+        "poster_path": "/lEgaZhqDMPWQRjszeOlekqUo0A6.jpg",
+        "release_date": "2026-07-23",
+        "video": false,
+        "vote_average": 6.207,
+        "vote_count": 58,
+        "popularity": 74.919,
+        "PG": 16,
+        "release_quality": "4K",
+        "kinopoisk_id": "6631656",
+        "imdb_id": "tt33499146",
+        "status": "released",
+        "last_air_date": "2026-07-31",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Комедія"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2849,
+      "time": 1785482957213,
+      "card_id": "969681",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "id": 969681,
+        "original_language": "en",
+        "title": "Людина-павук: Абсолютно новий день",
+        "original_title": "Spider-Man: Brand New Day",
+        "names": [
+          "Людина-павук: Абсолютно новий день",
+          "Человек-паук: Новый день",
+          "Spider-Man: Brand New Day"
+        ],
+        "overview": "Минуло чотири роки від подій «Додому шляху немає». Пітер подорослішав і живе в цілковитій самотності, добровільно стерши себе з пам’яті тих, кого любить. Продовжуючи боротися зі злочинністю у Нью-Йорку, який більше не знає його імені, він цілковито присвятив себе захисту міста. Та зі зростанням навантаження тиск на нього лише посилюється, спричиняючи несподівану фізичну трансформацію, що загрожує самому його існуванню. Водночас дивна нова хвиля злочинів призводить до появи одного з наймогутніших ворогів, з якими йому коли-небудь доводилося зіштовхнутися.",
+        "poster_path": "/mVuRjX8WWyQ6NB2459vGY3cxybo.jpg",
+        "release_date": "2026-07-28",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 137,
+        "popularity": 912.2268,
+        "PG": 12,
+        "release_quality": "ts",
+        "kinopoisk_id": "5494049",
+        "kp_rating": "8.1",
+        "imdb_id": "tt22084616",
+        "status": "released",
+        "last_air_date": "2026-07-31",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Фантастика",
+          "Бойовик",
+          "Пригоди"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2848,
+      "time": 1785441552876,
+      "card_id": "296756",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "id": 296756,
+        "original_language": "en",
+        "name": "Президент Кертіс",
+        "original_name": "President Curtis",
+        "names": [
+          "Президент Кертіс",
+          "Президент Кертис",
+          "President Curtis"
+        ],
+        "overview": "Слідкуйте за президентом Сполучених Штатів та його ексцентричною командою, які розв'язують проблеми, за які Рік Санчез ніколи б не взявся, — від міжвимірної дипломатії до паранормальних розслідувань і незбагненних явищ.",
+        "poster_path": "/iodnbgbZt5kBRbKKblSdSb5gbSP.jpg",
+        "first_air_date": "2026-07-26",
+        "video": false,
+        "vote_average": 1,
+        "vote_count": 1,
+        "popularity": 10.5605,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "8607693",
+        "imdb_id": "tt37692332",
+        "imdb_rating": "7.3",
+        "status": "returning series",
+        "last_air_date": "2026-07-27",
+        "seasons": {
+          "1": 1
+        },
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Мультфільм",
+          "Комедія"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2847,
       "time": 1785335352732,
       "card_id": "278624",
@@ -51,7 +321,7 @@
           "season_number": 1,
           "runtime": 40,
           "still_path": "/wIqlraRAqpeXOKFOFrhFaqv8hYN.jpg",
-          "vote_average": 4.0
+          "vote_average": 5.083
         },
         "genres": [
           "Драма",
@@ -173,7 +443,7 @@
           "season_number": 3,
           "runtime": 63,
           "still_path": "/6nU7pbPWspOKjud544KV2VEamUe.jpg",
-          "vote_average": 6.833
+          "vote_average": 6.948
         },
         "genres": [
           "Науково фантастичний",
@@ -248,7 +518,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/fOaRHSP4uHujzFlgYFA8ufZ9kJN.jpg",
-          "vote_average": 8.833
+          "vote_average": 7.958
         },
         "genres": [
           "Мультфільм",
@@ -506,7 +776,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
+        "backdrop_path": "/dz7p0quExY3L8R4aPj2QJUVhp74.jpg",
         "genre_ids": [
           18,
           80
@@ -545,8 +815,8 @@
           "United States of America"
         ],
         "genres": [
-          "Драма",
-          "Кримінал"
+          "Кримінал",
+          "Драма"
         ]
       },
       "type": "now_playing",
@@ -560,7 +830,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
+        "backdrop_path": "/dz7p0quExY3L8R4aPj2QJUVhp74.jpg",
         "genre_ids": [
           18,
           80
@@ -606,8 +876,8 @@
           "vote_average": 6.8
         },
         "genres": [
-          "Драма",
-          "Кримінал"
+          "Кримінал",
+          "Драма"
         ],
         "countries": [
           "United States of America"
@@ -624,7 +894,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/l0U6SoFpMvJXWz4SByxKkhcIJES.jpg",
+        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
         "genre_ids": [
           10765,
           18
@@ -672,7 +942,7 @@
           "season_number": 3,
           "runtime": 48,
           "still_path": "/pYnJjrdS64krUWUAGB4ckZsqN1r.jpg",
-          "vote_average": 6.147
+          "vote_average": 6.1
         },
         "genres": [
           "Науково фантастичний",
@@ -892,7 +1162,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/jKeFPdISdSCfB6BlBgEfu6K2GBp.jpg",
-          "vote_average": 4.2
+          "vote_average": 4.318
         },
         "genres": [
           "Драма",
@@ -1023,7 +1293,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/sGtWCfxmJZ3uy35CUKzn0nuHRrS.jpg",
-          "vote_average": 6.972
+          "vote_average": 6.7
         },
         "genres": [
           "Мультфільм",
@@ -1457,7 +1727,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
+        "backdrop_path": "/dz7p0quExY3L8R4aPj2QJUVhp74.jpg",
         "genre_ids": [
           18,
           80
@@ -1503,8 +1773,8 @@
           "vote_average": 7.3
         },
         "genres": [
-          "Драма",
-          "Кримінал"
+          "Кримінал",
+          "Драма"
         ],
         "countries": [
           "United States of America"
@@ -1562,7 +1832,7 @@
           "season_number": 1,
           "runtime": 48,
           "still_path": "/eR9ffKHOTj5U9gCRZIRLL6ZtYiS.jpg",
-          "vote_average": 5.7
+          "vote_average": 5.75
         },
         "genres": [
           "Драма",
@@ -1962,7 +2232,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/fo4rjkcVyO4YF30K67a7yy2sKhT.jpg",
-          "vote_average": 7.778
+          "vote_average": 7.8
         },
         "genres": [
           "Мультфільм",
@@ -2054,7 +2324,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/l0U6SoFpMvJXWz4SByxKkhcIJES.jpg",
+        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
         "genre_ids": [
           10765,
           18
@@ -2102,7 +2372,7 @@
           "season_number": 3,
           "runtime": 49,
           "still_path": "/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg",
-          "vote_average": 5.952
+          "vote_average": 6.0
         },
         "genres": [
           "Науково фантастичний",
@@ -2224,7 +2494,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
+        "backdrop_path": "/dz7p0quExY3L8R4aPj2QJUVhp74.jpg",
         "genre_ids": [
           18,
           80
@@ -2270,8 +2540,8 @@
           "vote_average": 6.4
         },
         "genres": [
-          "Драма",
-          "Кримінал"
+          "Кримінал",
+          "Драма"
         ],
         "countries": [
           "United States of America"
@@ -2669,7 +2939,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/l0U6SoFpMvJXWz4SByxKkhcIJES.jpg",
+        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
         "genre_ids": [
           10765,
           18
@@ -2717,7 +2987,7 @@
           "season_number": 3,
           "runtime": 51,
           "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 6.109
+          "vote_average": 6.1
         },
         "genres": [
           "Науково фантастичний",
@@ -2730,291 +3000,7 @@
       "type": "episode",
       "hash": "s3;e2",
       "premiere": 0
-    },
-    {
-      "id": 2802,
-      "time": 1783235702376,
-      "card_id": "253960",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/tDjLCYMaJK27PEZHiAtCYujXdRo.jpg",
-        "genre_ids": [
-          10765,
-          80
-        ],
-        "id": 253960,
-        "original_language": "ja",
-        "name": "Людина-пара",
-        "original_name": "ガス人間",
-        "names": [
-          "Людина-пара",
-          "Газовый человек",
-          "Gas Ningen",
-          "Human Vapor",
-          "ガス人間",
-          "Gas Ningen / Human Vapor"
-        ],
-        "overview": "Смерть у прямому ефірі. Злочинець, що перетворюється на газ. Таємний проєкт, що використовує і позбувається уразливих людей. Детектив намагається розкрити похмуру правду.",
-        "poster_path": "/2qwdD7CiLLscPZijVbRsCXILQwY.jpg",
-        "first_air_date": "2026-07-02",
-        "video": false,
-        "vote_average": 7.8,
-        "vote_count": 5,
-        "popularity": 80.0844,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "JP",
-          "KR"
-        ],
-        "kinopoisk_id": "6099853",
-        "imdb_id": "tt33083249",
-        "imdb_rating": "7.0",
-        "status": "ended",
-        "last_air_date": "2026-07-04",
-        "seasons": {
-          "1": 8
-        },
-        "countries": [
-          "South Korea",
-          "Japan"
-        ],
-        "genres": [
-          "Науково фантастичний",
-          "Кримінал"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2801,
-      "time": 1783183503959,
-      "card_id": "277439",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 277439,
-        "original_language": "en",
-        "name": "Мис страху",
-        "original_name": "Cape Fear",
-        "names": [
-          "Мис страху",
-          "Мыс страха",
-          "Cape Fear"
-        ],
-        "overview": "Життя щасливого подружжя адвокатів опиняється під загрозою, коли на волю виходить небезпечний злочинець з їхнього минулого.",
-        "poster_path": "/e9XA7L1DwMzCnPZAkr3jOQ3FDcm.jpg",
-        "first_air_date": "2026-06-04",
-        "video": false,
-        "vote_average": 6.9,
-        "vote_count": 55,
-        "popularity": 43.3931,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6576642",
-        "kp_rating": "6.9",
-        "imdb_id": "tt34675596",
-        "status": "returning series",
-        "last_air_date": "2026-07-03",
-        "seasons": {
-          "1": 6
-        },
-        "episode": {
-          "air_date": "2026-07-02",
-          "episode_number": 6,
-          "name": "Опосум",
-          "overview": "Боудени розбираються з новим сусідом. Наталі сумнівається в своєму минулому. Сімʼя вирушає в подорож.",
-          "season_number": 1,
-          "runtime": 57,
-          "still_path": "/zA6WWkrhSoJjJuFhB0MvGXiDVLO.jpg",
-          "vote_average": 6.2
-        },
-        "genres": [
-          "Драма",
-          "Кримінал"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e6",
-      "premiere": 0
-    },
-    {
-      "id": 2800,
-      "time": 1783169106005,
-      "card_id": "1317149",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/4mKczHAW4XPDXGk7V5k7Ui3dgUk.jpg",
-        "genre_ids": [
-          18,
-          36
-        ],
-        "id": 1317149,
-        "original_language": "en",
-        "title": "Я лаюсь",
-        "original_title": "I Swear",
-        "names": [
-          "Я лаюсь",
-          "Я ругаюсь",
-          "I Swear"
-        ],
-        "overview": "Джон Девідсон: у дитинстві йому діагностували синдром Туретта, через що він відчував відчуження від однолітків і змушений був боротися з розладом, який мало хто бачив на власні очі.",
-        "poster_path": "/ovaHNnDV65VvW3y6ttaBZ2nzkwE.jpg",
-        "release_date": "2025-09-22",
-        "video": false,
-        "vote_average": 8.232,
-        "vote_count": 368,
-        "popularity": 16.0431,
-        "PG": 17,
-        "release_quality": "4K",
-        "kinopoisk_id": "8472578",
-        "kp_rating": "8.5",
-        "imdb_id": "tt31514146",
-        "imdb_rating": "8.4",
-        "status": "released",
-        "last_air_date": "0001-01-01",
-        "countries": [
-          "United Kingdom"
-        ],
-        "genres": [
-          "Драма",
-          "Історичний"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2799,
-      "time": 1783165501858,
-      "card_id": "125988",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/l0U6SoFpMvJXWz4SByxKkhcIJES.jpg",
-        "genre_ids": [
-          10765,
-          18
-        ],
-        "id": 125988,
-        "original_language": "en",
-        "name": "Таємниця бункера",
-        "original_name": "Silo",
-        "names": [
-          "Таємниця бункера",
-          "Бункер",
-          "Silo",
-          "Укрытие",
-          "Таємниця бункера / Бункер",
-          "Wool"
-        ],
-        "overview": "У занапащеному й небезпечному майбутньому тисячі людей живуть у великому підземному бункері. Коли шериф порушує його основоположне правило, а жителі гинуть за загадкових обставин, інженер Джулієт береться розкривати приголомшливі таємниці й правду про бункер.",
-        "poster_path": "/fjo0lVGHPHJS2CqrXOyZN379BXK.jpg",
-        "first_air_date": "2023-05-04",
-        "video": false,
-        "vote_average": 8.164,
-        "vote_count": 2122,
-        "popularity": 64.7131,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4541515",
-        "kp_rating": "7.8",
-        "imdb_id": "tt14688458",
-        "imdb_rating": "8.1",
-        "status": "returning series",
-        "last_air_date": "2026-07-04",
-        "seasons": {
-          "1": 10,
-          "2": 10,
-          "3": 1
-        },
-        "episode": {
-          "air_date": "2026-07-02",
-          "episode_number": 1,
-          "name": "Хто ти?",
-          "overview": "Нова мерка Джулієт не пам'ятає нічого про те, як вийшла на поверхню, – як і про своє минуле.",
-          "season_number": 3,
-          "runtime": 56,
-          "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 6.52
-        },
-        "genres": [
-          "Науково фантастичний",
-          "Драма"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s3;e1",
-      "premiere": 0
-    },
-    {
-      "id": 2798,
-      "time": 1783154703030,
-      "card_id": "1310677",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/gXU1At9HJ023Wjm1mHCLnhf80pi.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 1310677,
-        "original_language": "ko",
-        "title": "하나 코리아",
-        "original_title": "하나 코리아",
-        "names": [
-          "Покидая Северную Корею",
-          "Hana Korea",
-          "하나 코리아"
-        ],
-        "overview": "Хе-сон бежит в Южную Корею с одной целью — заработать деньги для больной матери. Здесь её ждёт не только долгожданная свобода, но и новые правила, незнакомые люди и высокие ожидания общества. Девушка не теряет надежды и готова бороться за место под солнцем.",
-        "poster_path": "/fy83JSOatI4XPG5M9Sj4ezVkRNA.jpg",
-        "release_date": "2026-07-08",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "popularity": 4.1952,
-        "PG": 0,
-        "release_quality": "webdl",
-        "kinopoisk_id": "11701242",
-        "imdb_id": "tt33344480",
-        "imdb_rating": "7.0",
-        "status": "released",
-        "last_air_date": "2026-06-29",
-        "countries": [
-          "South Korea",
-          "Denmark"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.055927276611328
+  "duration": 6.047489166259766
 }
