@@ -2,6 +2,70 @@
   "secuses": true,
   "result": [
     {
+      "id": 2853,
+      "time": 1785515353771,
+      "card_id": "277439",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/dz7p0quExY3L8R4aPj2QJUVhp74.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 277439,
+        "original_language": "en",
+        "name": "Мис страху",
+        "original_name": "Cape Fear",
+        "names": [
+          "Мис страху",
+          "Мыс страха",
+          "Cape Fear"
+        ],
+        "overview": "Життя щасливого подружжя адвокатів опиняється під загрозою, коли на волю виходить небезпечний злочинець з їхнього минулого.",
+        "poster_path": "/e9XA7L1DwMzCnPZAkr3jOQ3FDcm.jpg",
+        "first_air_date": "2026-06-04",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 79,
+        "popularity": 63.3921,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6576642",
+        "kp_rating": "6.7",
+        "imdb_id": "tt34675596",
+        "imdb_rating": "7.2",
+        "status": "returning series",
+        "last_air_date": "2026-07-31",
+        "seasons": {
+          "1": 10
+        },
+        "episode": {
+          "air_date": "2026-07-30",
+          "episode_number": 10,
+          "name": "Кати",
+          "overview": "Боудени мусять захищати все, що мають. Максу втрачати нічого.",
+          "season_number": 1,
+          "runtime": 49,
+          "still_path": "/aRvAJ30DWRgcLp3hMc8xYYCXvs0.jpg",
+          "vote_average": 8.25
+        },
+        "genres": [
+          "Кримінал",
+          "Драма"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e10",
+      "premiere": 0
+    },
+    {
       "id": 2852,
       "time": 1785497352771,
       "card_id": "125988",
@@ -54,9 +118,9 @@
           "name": "Пам'ять",
           "overview": "На поверхню випливають події після повернення Джулієт – і формуються неочікувані союзи.",
           "season_number": 3,
-          "runtime": 54,
+          "runtime": 53,
           "still_path": "/zcbjuLkbVPHSphOHClKQM0v1Zjf.jpg",
-          "vote_average": 5.2
+          "vote_average": 6.469
         },
         "genres": [
           "Науково фантастичний",
@@ -176,7 +240,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+        "backdrop_path": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
         "genre_ids": [
           878,
           28,
@@ -321,7 +385,7 @@
           "season_number": 1,
           "runtime": 40,
           "still_path": "/wIqlraRAqpeXOKFOFrhFaqv8hYN.jpg",
-          "vote_average": 5.083
+          "vote_average": 5.8
         },
         "genres": [
           "Драма",
@@ -443,7 +507,7 @@
           "season_number": 3,
           "runtime": 63,
           "still_path": "/6nU7pbPWspOKjud544KV2VEamUe.jpg",
-          "vote_average": 6.948
+          "vote_average": 6.766
         },
         "genres": [
           "Науково фантастичний",
@@ -518,7 +582,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/fOaRHSP4uHujzFlgYFA8ufZ9kJN.jpg",
-          "vote_average": 7.958
+          "vote_average": 8.1
         },
         "genres": [
           "Мультфільм",
@@ -942,7 +1006,7 @@
           "season_number": 3,
           "runtime": 48,
           "still_path": "/pYnJjrdS64krUWUAGB4ckZsqN1r.jpg",
-          "vote_average": 6.1
+          "vote_average": 6.311
         },
         "genres": [
           "Науково фантастичний",
@@ -995,9 +1059,9 @@
           "United States of America"
         ],
         "genres": [
-          "Фентезі",
-          "Сімейний",
           "Телефільм",
+          "Сімейний",
+          "Фентезі",
           "Пригоди"
         ]
       },
@@ -1162,7 +1226,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/jKeFPdISdSCfB6BlBgEfu6K2GBp.jpg",
-          "vote_average": 4.318
+          "vote_average": 4.0
         },
         "genres": [
           "Драма",
@@ -1678,7 +1742,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+        "backdrop_path": "/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
         "genre_ids": [
           12,
           28,
@@ -1770,7 +1834,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/zhUjCo3SL7OmLGBkVf6JtxyTH6N.jpg",
-          "vote_average": 7.3
+          "vote_average": 7.5
         },
         "genres": [
           "Кримінал",
@@ -1832,7 +1896,7 @@
           "season_number": 1,
           "runtime": 48,
           "still_path": "/eR9ffKHOTj5U9gCRZIRLL6ZtYiS.jpg",
-          "vote_average": 5.75
+          "vote_average": 5.8
         },
         "genres": [
           "Драма",
@@ -2372,7 +2436,7 @@
           "season_number": 3,
           "runtime": 49,
           "still_path": "/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg",
-          "vote_average": 6.0
+          "vote_average": 6.067
         },
         "genres": [
           "Науково фантастичний",
@@ -2663,7 +2727,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/6UIHqNk9f8BlNsAZb30Jb3N4YBr.jpg",
-          "vote_average": 8.442
+          "vote_average": 8.4
         },
         "genres": [
           "Мультфільм",
@@ -2931,76 +2995,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2803,
-      "time": 1783255502361,
-      "card_id": "125988",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "genre_ids": [
-          10765,
-          18
-        ],
-        "id": 125988,
-        "original_language": "en",
-        "name": "Таємниця бункера",
-        "original_name": "Silo",
-        "names": [
-          "Таємниця бункера",
-          "Бункер",
-          "Silo",
-          "Укрытие",
-          "Таємниця бункера / Бункер",
-          "Wool"
-        ],
-        "overview": "У занапащеному й небезпечному майбутньому тисячі людей живуть у великому підземному бункері. Коли шериф порушує його основоположне правило, а жителі гинуть за загадкових обставин, інженер Джулієт береться розкривати приголомшливі таємниці й правду про бункер.",
-        "poster_path": "/fjo0lVGHPHJS2CqrXOyZN379BXK.jpg",
-        "first_air_date": "2023-05-04",
-        "video": false,
-        "vote_average": 8.164,
-        "vote_count": 2122,
-        "popularity": 64.7131,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4541515",
-        "kp_rating": "7.8",
-        "imdb_id": "tt14688458",
-        "imdb_rating": "8.1",
-        "status": "returning series",
-        "last_air_date": "2026-07-05",
-        "seasons": {
-          "1": 10,
-          "2": 10,
-          "3": 2
-        },
-        "episode": {
-          "air_date": "2026-07-09",
-          "episode_number": 2,
-          "name": "Усе нормально",
-          "overview": "Біллінґс розслідує зникнення. Деніел Кін встряє в суперечку з журналісткою.",
-          "season_number": 3,
-          "runtime": 51,
-          "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 6.1
-        },
-        "genres": [
-          "Науково фантастичний",
-          "Драма"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s3;e2",
-      "premiere": 0
     }
   ],
-  "duration": 6.047489166259766
+  "duration": 4.066925048828125
 }

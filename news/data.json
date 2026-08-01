@@ -2,6 +2,62 @@
   "secuses": true,
   "result": [
     {
+      "id": 2853,
+      "time": 1785515353771,
+      "card_id": "277439",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 277439,
+        "original_language": "en",
+        "name": "Мыс страха",
+        "original_name": "Cape Fear",
+        "names": [
+          "Мыс страха",
+          "Cape Fear"
+        ],
+        "overview": "На счастливую супружескую пару адвокатов надвигается буря, когда из тюрьмы выходит знаменитый киллер из их прошлого.",
+        "poster_path": "/rZK0ZsGsFv3XNKKi4qcdbqEVo9i.jpg",
+        "first_air_date": "2026-06-04",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 79,
+        "popularity": 63.3921,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6576642",
+        "kp_rating": "6.7",
+        "imdb_id": "tt34675596",
+        "imdb_rating": "7.2",
+        "status": "returning series",
+        "last_air_date": "2026-07-31",
+        "seasons": {
+          "1": 10
+        },
+        "episode": {
+          "air_date": "2026-07-30",
+          "episode_number": 10,
+          "name": "Палачи",
+          "overview": "У Боуденов на кону всё. Максу больше нечего терять.",
+          "season_number": 1,
+          "runtime": 49,
+          "still_path": "/aRvAJ30DWRgcLp3hMc8xYYCXvs0.jpg",
+          "vote_average": 8
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e10",
+      "premiere": 0
+    },
+    {
       "id": 2852,
       "time": 1785497352771,
       "card_id": "125988",
@@ -2710,68 +2766,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2803,
-      "time": 1783255502361,
-      "card_id": "125988",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "genre_ids": [
-          10765,
-          18
-        ],
-        "id": 125988,
-        "original_language": "en",
-        "name": "Укрытие",
-        "original_name": "Silo",
-        "names": [
-          "Бункер",
-          "Silo",
-          "Укрытие",
-          "Таємниця бункера / Бункер",
-          "Wool"
-        ],
-        "overview": "На отравленной гибнущей планете будущего тысячи людей ютятся в огромном подземном укрытии. Нарушение шерифом основного правила и серия загадочных смертей вынуждают инженера Джульетту заняться раскрытием тайн и поиском правды о бункере.",
-        "poster_path": "/hjbi9TfsJ9kENZOZqVNJa5IRMM2.jpg",
-        "first_air_date": "2023-05-04",
-        "video": false,
-        "vote_average": 8.164,
-        "vote_count": 2122,
-        "popularity": 64.7131,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4541515",
-        "kp_rating": "7.8",
-        "imdb_id": "tt14688458",
-        "imdb_rating": "8.1",
-        "status": "returning series",
-        "last_air_date": "2026-07-05",
-        "seasons": {
-          "1": 10,
-          "2": 10,
-          "3": 2
-        },
-        "episode": {
-          "air_date": "2026-07-09",
-          "episode_number": 2,
-          "name": "Всё хорошо",
-          "overview": "Биллингс расследует исчезновение. Дэниел Кин вступает в перепалку с журналисткой.",
-          "season_number": 3,
-          "runtime": 52,
-          "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 2.8
-        }
-      },
-      "type": "episode",
-      "hash": "s3;e2",
-      "premiere": 0
     }
   ],
-  "duration": 6.047489166259766
+  "duration": 4.066925048828125
 }
