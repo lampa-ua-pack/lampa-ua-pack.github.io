@@ -8,7 +8,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/dz7p0quExY3L8R4aPj2QJUVhp74.jpg",
+        "backdrop_path": "/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
         "genre_ids": [
           18,
           80
@@ -118,9 +118,9 @@
           "name": "Пам'ять",
           "overview": "На поверхню випливають події після повернення Джулієт – і формуються неочікувані союзи.",
           "season_number": 3,
-          "runtime": 53,
+          "runtime": 52,
           "still_path": "/zcbjuLkbVPHSphOHClKQM0v1Zjf.jpg",
-          "vote_average": 6.469
+          "vote_average": 6.6
         },
         "genres": [
           "Науково фантастичний",
@@ -385,7 +385,7 @@
           "season_number": 1,
           "runtime": 40,
           "still_path": "/wIqlraRAqpeXOKFOFrhFaqv8hYN.jpg",
-          "vote_average": 5.8
+          "vote_average": 5.938
         },
         "genres": [
           "Драма",
@@ -505,9 +505,9 @@
           "name": "Серія 6",
           "overview": "",
           "season_number": 3,
-          "runtime": 63,
+          "runtime": 64,
           "still_path": "/6nU7pbPWspOKjud544KV2VEamUe.jpg",
-          "vote_average": 6.766
+          "vote_average": 6.8
         },
         "genres": [
           "Науково фантастичний",
@@ -582,7 +582,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/fOaRHSP4uHujzFlgYFA8ufZ9kJN.jpg",
-          "vote_average": 8.1
+          "vote_average": 8.133
         },
         "genres": [
           "Мультфільм",
@@ -840,7 +840,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/dz7p0quExY3L8R4aPj2QJUVhp74.jpg",
+        "backdrop_path": "/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
         "genre_ids": [
           18,
           80
@@ -894,7 +894,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/dz7p0quExY3L8R4aPj2QJUVhp74.jpg",
+        "backdrop_path": "/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
         "genre_ids": [
           18,
           80
@@ -1006,7 +1006,7 @@
           "season_number": 3,
           "runtime": 48,
           "still_path": "/pYnJjrdS64krUWUAGB4ckZsqN1r.jpg",
-          "vote_average": 6.311
+          "vote_average": 6.2
         },
         "genres": [
           "Науково фантастичний",
@@ -1357,7 +1357,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/sGtWCfxmJZ3uy35CUKzn0nuHRrS.jpg",
-          "vote_average": 6.7
+          "vote_average": 6.762
         },
         "genres": [
           "Мультфільм",
@@ -1427,9 +1427,9 @@
           "name": "Непохитні, непокорені",
           "overview": "Поки тривають пошуки Емонда та Вхагара, Деймон намагається взяти під контроль ситуацію в Королівській Гавані, яка дедалі більше виходить з-під контролю.",
           "season_number": 3,
-          "runtime": 64,
+          "runtime": 67,
           "still_path": "/trmxI19SM9arfcd4Petr5sJXrGd.jpg",
-          "vote_average": 5.6
+          "vote_average": 5.7
         },
         "genres": [
           "Науково фантастичний",
@@ -1742,7 +1742,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
+        "backdrop_path": "/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
         "genre_ids": [
           12,
           28,
@@ -1791,7 +1791,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/dz7p0quExY3L8R4aPj2QJUVhp74.jpg",
+        "backdrop_path": "/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
         "genre_ids": [
           18,
           80
@@ -2221,7 +2221,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/kcKcglqhlje5zqIadRQgc7tvWMN.jpg",
-          "vote_average": 5.9
+          "vote_average": 6.0
         },
         "genres": [
           "Науково фантастичний",
@@ -2436,7 +2436,7 @@
           "season_number": 3,
           "runtime": 49,
           "still_path": "/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg",
-          "vote_average": 6.067
+          "vote_average": 6.1
         },
         "genres": [
           "Науково фантастичний",
@@ -2558,7 +2558,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/dz7p0quExY3L8R4aPj2QJUVhp74.jpg",
+        "backdrop_path": "/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
         "genre_ids": [
           18,
           80
@@ -2997,5 +2997,5 @@
       "premiere": 0
     }
   ],
-  "duration": 4.066925048828125
+  "duration": 5.553343772888184
 }
