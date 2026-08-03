@@ -2,13 +2,178 @@
   "secuses": true,
   "result": [
     {
+      "id": 2856,
+      "time": 1785758357435,
+      "card_id": "1564614",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
+        "genre_ids": [
+          27,
+          10749
+        ],
+        "id": 1564614,
+        "original_language": "en",
+        "title": "Левит",
+        "original_title": "Leviticus",
+        "names": [
+          "Левит",
+          "Leviticus"
+        ],
+        "overview": "Двоє підлітків повинні втекти від жорстокої сутності, яка набуває вигляду людини, яку вони бажають найбільше — одне одного.",
+        "poster_path": "/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
+        "release_date": "2026-06-17",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 85,
+        "popularity": 168.5217,
+        "PG": 17,
+        "release_quality": "4K",
+        "kinopoisk_id": "11127891",
+        "kp_rating": "6.7",
+        "imdb_id": "tt39143902",
+        "imdb_rating": "6.7",
+        "status": "released",
+        "last_air_date": "2026-07-30",
+        "countries": [
+          "Australia",
+          "United States of America"
+        ],
+        "genres": [
+          "Жахи",
+          "Мелодрама"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2855,
+      "time": 1785749352813,
+      "card_id": "94997",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 94997,
+        "original_language": "en",
+        "name": "Дім дракона",
+        "original_name": "House of the Dragon",
+        "names": [
+          "Дом Дракона",
+          "House of the Dragon",
+          "Дом дракона",
+          "Дім Дракона",
+          "Дім дракона",
+          "Game of Thrones: House of the Dragon"
+        ],
+        "overview": "Члени дому Тарґарієнів залишають приречену Валірію і відправляються на захід, де знаходять величезну територію, населену ворогуючими королівствами.",
+        "poster_path": "/yaGOa7I9xIug8qsw7vXzkeMZ1mb.jpg",
+        "first_air_date": "2022-08-21",
+        "video": false,
+        "vote_average": 8.375,
+        "vote_count": 6782,
+        "popularity": 338.9244,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1316601",
+        "kp_rating": "8.1",
+        "imdb_id": "tt11198330",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-08-03",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 7
+        },
+        "episode": {
+          "air_date": "2026-08-02",
+          "episode_number": 7,
+          "name": "Серія 7",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 63,
+          "still_path": "/cBsXy1Jxoun2H5mYKkzNkUysoni.jpg",
+          "vote_average": 3.1
+        },
+        "genres": [
+          "Науково фантастичний",
+          "Драма",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e7",
+      "premiere": 0
+    },
+    {
+      "id": 2854,
+      "time": 1785740352900,
+      "card_id": "1481343",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/hwnTaa6eT7c5xxOiJL2NhcVt8qX.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 1481343,
+        "original_language": "en",
+        "title": "Паща диявола",
+        "original_title": "The Devil's Mouth",
+        "names": [
+          "Паща диявола",
+          "Пасть дьявола",
+          "The Devil's Mouth"
+        ],
+        "overview": "Пригоди групи друзів у Таїланді обертаються смертельною небезпекою, коли вони опиняються у пастці у затоплених печерах разом із хижаком. У міру того, як кисень закінчується, у їхній відчайдушній боротьбі за виживання спливають старі конфлікти.",
+        "poster_path": "/lFvrtlaUS2B3qs0DBJoZbgacxSi.jpg",
+        "release_date": "2026-07-29",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 14,
+        "popularity": 3.2367,
+        "PG": 13,
+        "release_quality": "4K",
+        "kinopoisk_id": "7947915",
+        "imdb_id": "tt36958312",
+        "status": "released",
+        "last_air_date": "2026-07-31",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Жахи",
+          "Трилер"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2853,
       "time": 1785515353771,
       "card_id": "277439",
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
+        "backdrop_path": "/cl5Rs0z5Il3KHUJfOtDJs2N8Cb.jpg",
         "genre_ids": [
           18,
           80
@@ -51,7 +216,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/aRvAJ30DWRgcLp3hMc8xYYCXvs0.jpg",
-          "vote_average": 8.25
+          "vote_average": 7.214
         },
         "genres": [
           "Кримінал",
@@ -120,7 +285,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/zcbjuLkbVPHSphOHClKQM0v1Zjf.jpg",
-          "vote_average": 6.6
+          "vote_average": 6.8
         },
         "genres": [
           "Науково фантастичний",
@@ -240,7 +405,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+        "backdrop_path": "/b0LviwKbDto7Qq0D4DzGoVHpF4C.jpg",
         "genre_ids": [
           878,
           28,
@@ -385,7 +550,7 @@
           "season_number": 1,
           "runtime": 40,
           "still_path": "/wIqlraRAqpeXOKFOFrhFaqv8hYN.jpg",
-          "vote_average": 5.938
+          "vote_average": 5.389
         },
         "genres": [
           "Драма",
@@ -507,7 +672,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/6nU7pbPWspOKjud544KV2VEamUe.jpg",
-          "vote_average": 6.8
+          "vote_average": 6.6
         },
         "genres": [
           "Науково фантастичний",
@@ -582,7 +747,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/fOaRHSP4uHujzFlgYFA8ufZ9kJN.jpg",
-          "vote_average": 8.133
+          "vote_average": 8.25
         },
         "genres": [
           "Мультфільм",
@@ -701,7 +866,7 @@
           "season_number": 1,
           "runtime": 73,
           "still_path": "/ySFDgVK2lKXYkFi4TuORq45TmmF.jpg",
-          "vote_average": 7.667
+          "vote_average": 7.7
         },
         "genres": [
           "Екшн і Пригоди",
@@ -818,7 +983,7 @@
           "season_number": 1,
           "runtime": 60,
           "still_path": "/yr9ZDaEz7bNSCFycTZBWftCjL2h.jpg",
-          "vote_average": 6.75
+          "vote_average": 6.8
         },
         "genres": [
           "Екшн і Пригоди",
@@ -840,7 +1005,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
+        "backdrop_path": "/cl5Rs0z5Il3KHUJfOtDJs2N8Cb.jpg",
         "genre_ids": [
           18,
           80
@@ -894,7 +1059,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
+        "backdrop_path": "/cl5Rs0z5Il3KHUJfOtDJs2N8Cb.jpg",
         "genre_ids": [
           18,
           80
@@ -937,7 +1102,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/AqznwL3vGeK7XOazrUkfLEmFQ4X.jpg",
-          "vote_average": 6.8
+          "vote_average": 5.833
         },
         "genres": [
           "Кримінал",
@@ -1357,7 +1522,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/sGtWCfxmJZ3uy35CUKzn0nuHRrS.jpg",
-          "vote_average": 6.762
+          "vote_average": 6.864
         },
         "genres": [
           "Мультфільм",
@@ -1791,7 +1956,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
+        "backdrop_path": "/cl5Rs0z5Il3KHUJfOtDJs2N8Cb.jpg",
         "genre_ids": [
           18,
           80
@@ -1896,7 +2061,7 @@
           "season_number": 1,
           "runtime": 48,
           "still_path": "/eR9ffKHOTj5U9gCRZIRLL6ZtYiS.jpg",
-          "vote_average": 5.8
+          "vote_average": 5.524
         },
         "genres": [
           "Драма",
@@ -2296,7 +2461,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/fo4rjkcVyO4YF30K67a7yy2sKhT.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.842
         },
         "genres": [
           "Мультфільм",
@@ -2436,7 +2601,7 @@
           "season_number": 3,
           "runtime": 49,
           "still_path": "/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg",
-          "vote_average": 6.1
+          "vote_average": 6.12
         },
         "genres": [
           "Науково фантастичний",
@@ -2558,7 +2723,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
+        "backdrop_path": "/cl5Rs0z5Il3KHUJfOtDJs2N8Cb.jpg",
         "genre_ids": [
           18,
           80
@@ -2601,7 +2766,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/v9tWgeHzlrEFxtQoNOtKLxbP6t3.jpg",
-          "vote_average": 6.4
+          "vote_average": 5.643
         },
         "genres": [
           "Кримінал",
@@ -2811,191 +2976,7 @@
       "type": "episode",
       "hash": "s1;e4",
       "premiere": 0
-    },
-    {
-      "id": 2806,
-      "time": 1783343706503,
-      "card_id": "296206",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
-        "genre_ids": [
-          10759,
-          80,
-          18
-        ],
-        "id": 296206,
-        "original_language": "ko",
-        "name": "Агент Кім: Реактивація",
-        "original_name": "김부장",
-        "names": [
-          "Агент Кім: Реактивація",
-          "Менеджер Ким",
-          "Kim bujang",
-          "Agent Kim Reactivated / Kim-bu-jang",
-          "Агент Ким возобновил свою деятельность.",
-          "김부장",
-          "Агент Ким возобновил свою деятельность"
-        ],
-        "overview": "Коли в скромного чоловіка зникає донька, він згадує навички із часів участі в спецопераціях, щоб відшукати її, але привертає до себе небажану увагу.",
-        "poster_path": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-        "first_air_date": "2026-06-26",
-        "video": false,
-        "vote_average": 8.2,
-        "vote_count": 13,
-        "popularity": 224.5247,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "KR"
-        ],
-        "kinopoisk_id": "9027270",
-        "imdb_id": "tt42127457",
-        "imdb_rating": "8.1",
-        "status": "returning series",
-        "last_air_date": "2026-07-05",
-        "seasons": {
-          "1": 4
-        },
-        "countries": [
-          "South Korea"
-        ],
-        "genres": [
-          "Екшн і Пригоди",
-          "Кримінал",
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2805,
-      "time": 1783327502563,
-      "card_id": "94997",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-        "genre_ids": [
-          10765,
-          18,
-          10759
-        ],
-        "id": 94997,
-        "original_language": "en",
-        "name": "Дім дракона",
-        "original_name": "House of the Dragon",
-        "names": [
-          "Дом Дракона",
-          "House of the Dragon",
-          "Дом дракона",
-          "Дім Дракона",
-          "Дім дракона",
-          "Game of Thrones: House of the Dragon"
-        ],
-        "overview": "Члени дому Тарґарієнів залишають приречену Валірію і відправляються на захід, де знаходять величезну територію, населену ворогуючими королівствами.",
-        "poster_path": "/yaGOa7I9xIug8qsw7vXzkeMZ1mb.jpg",
-        "first_air_date": "2022-08-21",
-        "video": false,
-        "vote_average": 8.352,
-        "vote_count": 6400,
-        "popularity": 523.0711,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1316601",
-        "kp_rating": "8.1",
-        "imdb_id": "tt11198330",
-        "imdb_rating": "8.3",
-        "status": "returning series",
-        "last_air_date": "2026-07-06",
-        "seasons": {
-          "1": 10,
-          "2": 8,
-          "3": 3
-        },
-        "episode": {
-          "air_date": "2026-07-05",
-          "episode_number": 3,
-          "name": "Тріумф Рейніри",
-          "overview": "Рейніра дізнається, що ситуація в Королівській Гавані не така, як вона очікувала. Не маючи змоги виявити своїх ворогів і стикаючись із вимогами з усіх боків, Рейніра мусить дотримуватися делікатного балансу між задоволенням очікувань своїх прихильників та зміцненням своєї влади.",
-          "season_number": 3,
-          "runtime": 57,
-          "still_path": "/rtSucmBIzQPcBejfWXqRC8ElcEQ.jpg",
-          "vote_average": 6.6
-        },
-        "genres": [
-          "Науково фантастичний",
-          "Драма",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s3;e3",
-      "premiere": 0
-    },
-    {
-      "id": 2804,
-      "time": 1783325703029,
-      "card_id": "230311",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/xEUcPKH4Nfm6XSuyzgkox6mh775.jpg",
-        "genre_ids": [
-          18,
-          35
-        ],
-        "id": 230311,
-        "original_language": "zh",
-        "name": "爱情有烟火",
-        "original_name": "爱情有烟火",
-        "names": [
-          "Фейерверк любви",
-          "Ai qing you yan huo",
-          "Love Has Fireworks",
-          "爱情有烟火"
-        ],
-        "overview": "После разрыва с женихом Цянь Фэй решает сдать комнату молодому карьеристу, который вскоре перевернёт её жизнь.",
-        "poster_path": "/vjRI8Vnxoetq4Rkl0aJYUYZ95iN.jpg",
-        "first_air_date": "2026-06-15",
-        "video": false,
-        "vote_average": 7.5,
-        "vote_count": 4,
-        "popularity": 22.9495,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "CN"
-        ],
-        "kinopoisk_id": "12935648",
-        "imdb_id": "tt28131816",
-        "imdb_rating": "7.4",
-        "status": "ended",
-        "last_air_date": "2026-07-05",
-        "seasons": {
-          "1": 20
-        },
-        "countries": [
-          "China"
-        ],
-        "genres": [
-          "Драма",
-          "Комедія"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 5.553343772888184
+  "duration": 6.596487998962402
 }

@@ -2,6 +2,162 @@
   "secuses": true,
   "result": [
     {
+      "id": 2856,
+      "time": 1785758357435,
+      "card_id": "1564614",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
+        "genre_ids": [
+          27,
+          10749
+        ],
+        "id": 1564614,
+        "original_language": "en",
+        "title": "Левит",
+        "original_title": "Leviticus",
+        "names": [
+          "Левит",
+          "Leviticus"
+        ],
+        "overview": "Двое несчастных подростков должны спастись от жестокой сущности, которая принимает облик того, кого они желают больше всего на свете, — друг друга.",
+        "poster_path": "/pIzQTDGwYVlMss2oeeSdViIw4BU.jpg",
+        "release_date": "2026-06-17",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 85,
+        "popularity": 168.5217,
+        "PG": 17,
+        "release_quality": "4K",
+        "kinopoisk_id": "11127891",
+        "kp_rating": "6.7",
+        "imdb_id": "tt39143902",
+        "imdb_rating": "6.7",
+        "status": "released",
+        "last_air_date": "2026-07-30",
+        "countries": [
+          "Австралия",
+          "США"
+        ],
+        "genres": [
+          "Ужасы",
+          "Мелодрама"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2855,
+      "time": 1785749352813,
+      "card_id": "94997",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 94997,
+        "original_language": "en",
+        "name": "Дом Дракона",
+        "original_name": "House of the Dragon",
+        "names": [
+          "Дом Дракона",
+          "House of the Dragon",
+          "Дом дракона",
+          "Дім Дракона",
+          "Дім дракона",
+          "Game of Thrones: House of the Dragon"
+        ],
+        "overview": "После смерти короля Визериса династия Таргариенов начинает бескомпромиссную борьбу за Железный трон. Предводительницей «черной» ветви становится принцесса Рейнира, а на стороне «зеленой» оказывается ее лучшая подруга и дочь десницы короля Алисента. В битве за престол соперницы заручаются поддержкой неожиданных союзников, плетут интриги — и используют разрушительную мощь драконов.",
+        "poster_path": "/hXyYN6LFo7QnKUA3QBx7B3KsnJE.jpg",
+        "first_air_date": "2022-08-21",
+        "video": false,
+        "vote_average": 8.375,
+        "vote_count": 6782,
+        "popularity": 338.9244,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1316601",
+        "kp_rating": "8.1",
+        "imdb_id": "tt11198330",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-08-03",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 7
+        },
+        "episode": {
+          "air_date": "2026-08-02",
+          "episode_number": 7,
+          "name": "Эпизод 7",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 68,
+          "still_path": "/cBsXy1Jxoun2H5mYKkzNkUysoni.jpg",
+          "vote_average": 2.8
+        }
+      },
+      "type": "episode",
+      "hash": "s3;e7",
+      "premiere": 0
+    },
+    {
+      "id": 2854,
+      "time": 1785740352900,
+      "card_id": "1481343",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/w8z3ThhLehGPJuAShostzeKxJvK.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 1481343,
+        "original_language": "en",
+        "title": "Пасть дьявола",
+        "original_title": "The Devil's Mouth",
+        "names": [
+          "Пасть дьявола",
+          "The Devil's Mouth"
+        ],
+        "overview": "5 друзей отправляются в Таиланд, чтобы ярко провести последние совместные каникулы перед началом взрослой жизни. В поисках острых ощущений они решают исследовать знаменитую подводную пещеру «Пасть Дьявола». Однако обычное приключение быстро превращается в смертельную ловушку, когда группа оказывается заперта под водой вместе с агрессивной бычьей акулой.",
+        "poster_path": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+        "release_date": "2026-07-29",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 14,
+        "popularity": 3.2367,
+        "PG": 13,
+        "release_quality": "4K",
+        "kinopoisk_id": "7947915",
+        "imdb_id": "tt36958312",
+        "status": "released",
+        "last_air_date": "2026-07-31",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Ужасы",
+          "Триллер"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2853,
       "time": 1785515353771,
       "card_id": "277439",
@@ -2591,182 +2747,7 @@
       "type": "episode",
       "hash": "s1;e4",
       "premiere": 0
-    },
-    {
-      "id": 2806,
-      "time": 1783343706503,
-      "card_id": "296206",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
-        "genre_ids": [
-          10759,
-          80,
-          18
-        ],
-        "id": 296206,
-        "original_language": "ko",
-        "name": "Агент Ким возобновил свою деятельность",
-        "original_name": "김부장",
-        "names": [
-          "Менеджер Ким",
-          "Kim bujang",
-          "Agent Kim Reactivated / Kim-bu-jang",
-          "Агент Ким возобновил свою деятельность.",
-          "김부장",
-          "Агент Ким возобновил свою деятельность"
-        ],
-        "overview": "Обычный семьянин, который однажды раскрывает свою личность как специального агента, чтобы найти свою пропавшую дочь Мин-джи, рискуя всем ради её спасения.",
-        "poster_path": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-        "first_air_date": "2026-06-26",
-        "video": false,
-        "vote_average": 8.2,
-        "vote_count": 13,
-        "popularity": 224.5247,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "KR"
-        ],
-        "kinopoisk_id": "9027270",
-        "imdb_id": "tt42127457",
-        "imdb_rating": "8.1",
-        "status": "returning series",
-        "last_air_date": "2026-07-05",
-        "seasons": {
-          "1": 4
-        },
-        "countries": [
-          "Южная Корея"
-        ],
-        "genres": [
-          "Боевик и Приключения",
-          "Криминал",
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2805,
-      "time": 1783327502563,
-      "card_id": "94997",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/h37hqVLmCW00ImewLAHT1DadOky.jpg",
-        "genre_ids": [
-          10765,
-          18,
-          10759
-        ],
-        "id": 94997,
-        "original_language": "en",
-        "name": "Дом Дракона",
-        "original_name": "House of the Dragon",
-        "names": [
-          "Дом Дракона",
-          "House of the Dragon",
-          "Дом дракона",
-          "Дім Дракона",
-          "Дім дракона",
-          "Game of Thrones: House of the Dragon"
-        ],
-        "overview": "После смерти короля Визериса династия Таргариенов начинает бескомпромиссную борьбу за Железный трон. Предводительницей «черной» ветви становится принцесса Рейнира, а на стороне «зеленой» оказывается ее лучшая подруга и дочь десницы короля Алисента. В битве за престол соперницы заручаются поддержкой неожиданных союзников, плетут интриги — и используют разрушительную мощь драконов.",
-        "poster_path": "/hXyYN6LFo7QnKUA3QBx7B3KsnJE.jpg",
-        "first_air_date": "2022-08-21",
-        "video": false,
-        "vote_average": 8.352,
-        "vote_count": 6400,
-        "popularity": 523.0711,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1316601",
-        "kp_rating": "8.1",
-        "imdb_id": "tt11198330",
-        "imdb_rating": "8.3",
-        "status": "returning series",
-        "last_air_date": "2026-07-06",
-        "seasons": {
-          "1": 10,
-          "2": 8,
-          "3": 3
-        },
-        "episode": {
-          "air_date": "2026-07-05",
-          "episode_number": 3,
-          "name": "Эпизод 3",
-          "overview": "",
-          "season_number": 3,
-          "runtime": 56,
-          "still_path": "/7W7IzIQdEKJdbWNgxIQ413TFG14.jpg",
-          "vote_average": 4.9
-        }
-      },
-      "type": "episode",
-      "hash": "s3;e3",
-      "premiere": 0
-    },
-    {
-      "id": 2804,
-      "time": 1783325703029,
-      "card_id": "230311",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/2BOVqhVEYIWn7jIdVlyn7C0VJIn.jpg",
-        "genre_ids": [
-          18,
-          35
-        ],
-        "id": 230311,
-        "original_language": "zh",
-        "name": "Фейерверк любви",
-        "original_name": "爱情有烟火",
-        "names": [
-          "Фейерверк любви",
-          "Ai qing you yan huo",
-          "Love Has Fireworks",
-          "爱情有烟火"
-        ],
-        "overview": "После разрыва с женихом Цянь Фэй решает сдать комнату молодому карьеристу, который вскоре перевернёт её жизнь.",
-        "poster_path": "/vjRI8Vnxoetq4Rkl0aJYUYZ95iN.jpg",
-        "first_air_date": "2026-06-15",
-        "video": false,
-        "vote_average": 7.5,
-        "vote_count": 4,
-        "popularity": 22.9495,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "CN"
-        ],
-        "kinopoisk_id": "12935648",
-        "imdb_id": "tt28131816",
-        "imdb_rating": "7.4",
-        "status": "ended",
-        "last_air_date": "2026-07-05",
-        "seasons": {
-          "1": 20
-        },
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "Драма",
-          "Комедия"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 5.553343772888184
+  "duration": 6.596487998962402
 }
