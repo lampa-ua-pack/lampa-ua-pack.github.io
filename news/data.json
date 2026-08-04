@@ -2,6 +2,59 @@
   "secuses": true,
   "result": [
     {
+      "id": 2857,
+      "time": 1785837557520,
+      "card_id": "286506",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 286506,
+        "original_language": "zh",
+        "name": "Расцвет силы",
+        "original_name": "百花杀",
+        "names": [
+          "Расцвет силы",
+          "Bai hua sha",
+          "Расцвет власти / Убийство ста цветов / Blossoms Of Power",
+          "百花杀"
+        ],
+        "overview": "Единственная выжившая после кровопролития, Гу Цинчжи, просыпается под новым именем Шэнь Сихэ, принцесса Северо-Запада. Некогда гордая и энергичная роза пограничья, теперь она превратилась в холодную и расчётливую фигуру, решившую взять под контроль свою судьбу и главенствовать в игре за власть. Наследный принц Сяо Хуаюн, хрупкий телом, но с острым, как бритва, умом, видит насквозь коварные игры при дворе. По мере того, как судьбы героев переплетаются, они становятся ближе, объединяя силы, чтобы управлять ветрами судьбы.",
+        "poster_path": "/sWdiop8BQwODB6tVOMeTfi0XHE3.jpg",
+        "first_air_date": "2026-07-09",
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 1,
+        "popularity": 66.5223,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "CN"
+        ],
+        "kinopoisk_id": "13165242",
+        "kp_rating": "8.5",
+        "imdb_id": "tt36204806",
+        "imdb_rating": "7.0",
+        "status": "ended",
+        "last_air_date": "2026-07-30",
+        "seasons": {
+          "1": 26
+        },
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2856,
       "time": 1785758357435,
       "card_id": "1564614",
@@ -2687,67 +2740,7 @@
       "type": "episode",
       "hash": "s9;e7",
       "premiere": 0
-    },
-    {
-      "id": 2807,
-      "time": 1783345505353,
-      "card_id": "296206",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
-        "genre_ids": [
-          10759,
-          80,
-          18
-        ],
-        "id": 296206,
-        "original_language": "ko",
-        "name": "Агент Ким возобновил свою деятельность",
-        "original_name": "김부장",
-        "names": [
-          "Менеджер Ким",
-          "Kim bujang",
-          "Agent Kim Reactivated / Kim-bu-jang",
-          "Агент Ким возобновил свою деятельность.",
-          "김부장",
-          "Агент Ким возобновил свою деятельность"
-        ],
-        "overview": "Обычный семьянин, который однажды раскрывает свою личность как специального агента, чтобы найти свою пропавшую дочь Мин-джи, рискуя всем ради её спасения.",
-        "poster_path": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-        "first_air_date": "2026-06-26",
-        "video": false,
-        "vote_average": 8.2,
-        "vote_count": 13,
-        "popularity": 224.5247,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "KR"
-        ],
-        "kinopoisk_id": "9027270",
-        "imdb_id": "tt42127457",
-        "imdb_rating": "8.1",
-        "status": "returning series",
-        "last_air_date": "2026-07-05",
-        "seasons": {
-          "1": 4
-        },
-        "episode": {
-          "air_date": "2026-07-04",
-          "episode_number": 4,
-          "name": "Эпизод 4",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 61,
-          "still_path": "/8FuIiSK8fnTQny1DrOTe5jp4MB2.jpg",
-          "vote_average": 0
-        }
-      },
-      "type": "episode",
-      "hash": "s1;e4",
-      "premiere": 0
     }
   ],
-  "duration": 6.596487998962402
+  "duration": 6.2753753662109375
 }

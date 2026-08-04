@@ -2,6 +2,59 @@
   "secuses": true,
   "result": [
     {
+      "id": 2857,
+      "time": 1785837557520,
+      "card_id": "286506",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/oSUWFmPPQkEFUDhLWPJcNumIWll.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 286506,
+        "original_language": "zh",
+        "name": "百花杀",
+        "original_name": "百花杀",
+        "names": [
+          "Расцвет силы",
+          "Bai hua sha",
+          "Расцвет власти / Убийство ста цветов / Blossoms Of Power",
+          "百花杀"
+        ],
+        "overview": "Единственная выжившая после кровопролития, Гу Цинчжи, просыпается под новым именем Шэнь Сихэ, принцесса Северо-Запада. Некогда гордая и энергичная роза пограничья, теперь она превратилась в холодную и расчётливую фигуру, решившую взять под контроль свою судьбу и главенствовать в игре за власть. Наследный принц Сяо Хуаюн, хрупкий телом, но с острым, как бритва, умом, видит насквозь коварные игры при дворе. По мере того, как судьбы героев переплетаются, они становятся ближе, объединяя силы, чтобы управлять ветрами судьбы.",
+        "poster_path": "/sWdiop8BQwODB6tVOMeTfi0XHE3.jpg",
+        "first_air_date": "2026-07-09",
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 1,
+        "popularity": 66.5223,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "CN"
+        ],
+        "kinopoisk_id": "13165242",
+        "kp_rating": "8.5",
+        "imdb_id": "tt36204806",
+        "imdb_rating": "7.0",
+        "status": "ended",
+        "last_air_date": "2026-07-30",
+        "seasons": {
+          "1": 26
+        },
+        "countries": [
+          "China"
+        ],
+        "genres": [
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2856,
       "time": 1785758357435,
       "card_id": "1564614",
@@ -100,12 +153,12 @@
         "episode": {
           "air_date": "2026-08-02",
           "episode_number": 7,
-          "name": "Серія 7",
-          "overview": "",
+          "name": "Дракон узимку",
+          "overview": "Розриваючись між баченнями Місарії та Деймона щодо її правління, Рейніра все більше прагне отримати знак того, що вона переможе.",
           "season_number": 3,
           "runtime": 63,
           "still_path": "/cBsXy1Jxoun2H5mYKkzNkUysoni.jpg",
-          "vote_average": 3.1
+          "vote_average": 5.6
         },
         "genres": [
           "Науково фантастичний",
@@ -127,7 +180,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/hwnTaa6eT7c5xxOiJL2NhcVt8qX.jpg",
+        "backdrop_path": "/se8LfmZYFiNerF6U7zMUKePV0vE.jpg",
         "genre_ids": [
           27,
           53
@@ -405,7 +458,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/b0LviwKbDto7Qq0D4DzGoVHpF4C.jpg",
+        "backdrop_path": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
         "genre_ids": [
           878,
           28,
@@ -589,7 +642,7 @@
           "군체"
         ],
         "overview": "Професорка біотехнології приїжджає на наукову конференцію — і стає мимовільною свідкою катастрофи: невідомий вірус наздоганяє всіх і кожного. Люди починають еволюціонувати в непередбачувані форми, об’єднуючись у нову структуру — «колонію», яка ставить під загрозу життя небагатьох уцілілих.",
-        "poster_path": "/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
+        "poster_path": "/l3tWIFYpumlE6Gi5K5LSvXHvFRY.jpg",
         "release_date": "2026-05-21",
         "video": false,
         "vote_average": 7.2,
@@ -667,12 +720,12 @@
         "episode": {
           "air_date": "2026-07-26",
           "episode_number": 6,
-          "name": "Серія 6",
-          "overview": "",
+          "name": "Безликі",
+          "overview": "Поки Рейнера та Деймон зосереджуються на тому, як найкраще впоратися з Ормундом, напруга серед їхніх знехтуваних союзників починає вириватися назовні.",
           "season_number": 3,
           "runtime": 64,
           "still_path": "/6nU7pbPWspOKjud544KV2VEamUe.jpg",
-          "vote_average": 6.6
+          "vote_average": 6.5
         },
         "genres": [
           "Науково фантастичний",
@@ -694,7 +747,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
+        "backdrop_path": "/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
         "genre_ids": [
           16,
           35,
@@ -747,7 +800,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/fOaRHSP4uHujzFlgYFA8ufZ9kJN.jpg",
-          "vote_average": 8.25
+          "vote_average": 8.2
         },
         "genres": [
           "Мультфільм",
@@ -1192,7 +1245,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/idRLKyu43mRhMWNjzd6FiEromNI.jpg",
+        "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg",
         "genre_ids": [
           14,
           10751,
@@ -1391,7 +1444,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/jKeFPdISdSCfB6BlBgEfu6K2GBp.jpg",
-          "vote_average": 4.0
+          "vote_average": 4.295
         },
         "genres": [
           "Драма",
@@ -1469,7 +1522,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
+        "backdrop_path": "/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
         "genre_ids": [
           16,
           35,
@@ -2408,7 +2461,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
+        "backdrop_path": "/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
         "genre_ids": [
           16,
           35,
@@ -2601,7 +2654,7 @@
           "season_number": 3,
           "runtime": 49,
           "still_path": "/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg",
-          "vote_average": 6.12
+          "vote_average": 6.1
         },
         "genres": [
           "Науково фантастичний",
@@ -2766,7 +2819,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/v9tWgeHzlrEFxtQoNOtKLxbP6t3.jpg",
-          "vote_average": 5.643
+          "vote_average": 6.188
         },
         "genres": [
           "Кримінал",
@@ -2839,7 +2892,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
+        "backdrop_path": "/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
         "genre_ids": [
           16,
           35,
@@ -2907,76 +2960,7 @@
       "type": "episode",
       "hash": "s9;e7",
       "premiere": 0
-    },
-    {
-      "id": 2807,
-      "time": 1783345505353,
-      "card_id": "296206",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
-        "genre_ids": [
-          10759,
-          80,
-          18
-        ],
-        "id": 296206,
-        "original_language": "ko",
-        "name": "Агент Кім: Реактивація",
-        "original_name": "김부장",
-        "names": [
-          "Агент Кім: Реактивація",
-          "Менеджер Ким",
-          "Kim bujang",
-          "Agent Kim Reactivated / Kim-bu-jang",
-          "Агент Ким возобновил свою деятельность.",
-          "김부장",
-          "Агент Ким возобновил свою деятельность"
-        ],
-        "overview": "Коли в скромного чоловіка зникає донька, він згадує навички із часів участі в спецопераціях, щоб відшукати її, але привертає до себе небажану увагу.",
-        "poster_path": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-        "first_air_date": "2026-06-26",
-        "video": false,
-        "vote_average": 8.2,
-        "vote_count": 13,
-        "popularity": 224.5247,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "KR"
-        ],
-        "kinopoisk_id": "9027270",
-        "imdb_id": "tt42127457",
-        "imdb_rating": "8.1",
-        "status": "returning series",
-        "last_air_date": "2026-07-05",
-        "seasons": {
-          "1": 4
-        },
-        "episode": {
-          "air_date": "2026-07-04",
-          "episode_number": 4,
-          "name": "Серія 4",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 62,
-          "still_path": "/2yGGXfQmvcHlxktR17CowgcxVyp.jpg",
-          "vote_average": 7.5
-        },
-        "genres": [
-          "Екшн і Пригоди",
-          "Кримінал",
-          "Драма"
-        ],
-        "countries": [
-          "South Korea"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e4",
-      "premiere": 0
     }
   ],
-  "duration": 6.596487998962402
+  "duration": 6.2753753662109375
 }
