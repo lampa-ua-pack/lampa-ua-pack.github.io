@@ -2,6 +2,53 @@
   "secuses": true,
   "result": [
     {
+      "id": 2858,
+      "time": 1785918553033,
+      "card_id": "1392469",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/6tROOVmV5vRymO2g52aR8kWlfoT.jpg",
+        "genre_ids": [
+          10749,
+          35
+        ],
+        "id": 1392469,
+        "original_language": "hi",
+        "title": "कॉकटेल २",
+        "original_title": "कॉकटेल २",
+        "names": [
+          "Коктейль 2",
+          "Cocktail 2",
+          "कॉकटेल २"
+        ],
+        "overview": "Продолжение исследует современные отношения, эмоциональные переживания, темы любви, дружбы и разочарований в современном контексте. При этом это не прямое продолжение истории оригинала, а часть более крупной франшизы с похожей атмосферой, но новыми персонажами. После десяти лет вместе отношения Дии и Кунала начинают рушиться, когда старая подруга Алли возвращается в их жизнь.",
+        "poster_path": "/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
+        "release_date": "2026-06-19",
+        "video": false,
+        "vote_average": 5.684,
+        "vote_count": 19,
+        "popularity": 3.6161,
+        "PG": 12,
+        "release_quality": "ts",
+        "kinopoisk_id": "10436978",
+        "imdb_id": "tt35064672",
+        "imdb_rating": "8.3",
+        "status": "released",
+        "last_air_date": "2026-08-03",
+        "countries": [
+          "India"
+        ],
+        "genres": [
+          "Мелодрама",
+          "Комедія"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2857,
       "time": 1785837557520,
       "card_id": "286506",
@@ -156,9 +203,9 @@
           "name": "Дракон узимку",
           "overview": "Розриваючись між баченнями Місарії та Деймона щодо її правління, Рейніра все більше прагне отримати знак того, що вона переможе.",
           "season_number": 3,
-          "runtime": 63,
+          "runtime": 64,
           "still_path": "/cBsXy1Jxoun2H5mYKkzNkUysoni.jpg",
-          "vote_average": 5.6
+          "vote_average": 6.3
         },
         "genres": [
           "Науково фантастичний",
@@ -226,7 +273,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/cl5Rs0z5Il3KHUJfOtDJs2N8Cb.jpg",
+        "backdrop_path": "/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
         "genre_ids": [
           18,
           80
@@ -603,7 +650,7 @@
           "season_number": 1,
           "runtime": 40,
           "still_path": "/wIqlraRAqpeXOKFOFrhFaqv8hYN.jpg",
-          "vote_average": 5.389
+          "vote_average": 4.95
         },
         "genres": [
           "Драма",
@@ -723,7 +770,7 @@
           "name": "Безликі",
           "overview": "Поки Рейнера та Деймон зосереджуються на тому, як найкраще впоратися з Ормундом, напруга серед їхніх знехтуваних союзників починає вириватися назовні.",
           "season_number": 3,
-          "runtime": 64,
+          "runtime": 63,
           "still_path": "/6nU7pbPWspOKjud544KV2VEamUe.jpg",
           "vote_average": 6.5
         },
@@ -1058,7 +1105,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/cl5Rs0z5Il3KHUJfOtDJs2N8Cb.jpg",
+        "backdrop_path": "/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
         "genre_ids": [
           18,
           80
@@ -1112,7 +1159,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/cl5Rs0z5Il3KHUJfOtDJs2N8Cb.jpg",
+        "backdrop_path": "/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
         "genre_ids": [
           18,
           80
@@ -1444,7 +1491,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/jKeFPdISdSCfB6BlBgEfu6K2GBp.jpg",
-          "vote_average": 4.295
+          "vote_average": 4.3
         },
         "genres": [
           "Драма",
@@ -1645,7 +1692,7 @@
           "name": "Непохитні, непокорені",
           "overview": "Поки тривають пошуки Емонда та Вхагара, Деймон намагається взяти під контроль ситуацію в Королівській Гавані, яка дедалі більше виходить з-під контролю.",
           "season_number": 3,
-          "runtime": 67,
+          "runtime": 64,
           "still_path": "/trmxI19SM9arfcd4Petr5sJXrGd.jpg",
           "vote_average": 5.7
         },
@@ -2009,7 +2056,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/cl5Rs0z5Il3KHUJfOtDJs2N8Cb.jpg",
+        "backdrop_path": "/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
         "genre_ids": [
           18,
           80
@@ -2114,7 +2161,7 @@
           "season_number": 1,
           "runtime": 48,
           "still_path": "/eR9ffKHOTj5U9gCRZIRLL6ZtYiS.jpg",
-          "vote_average": 5.524
+          "vote_average": 5.7
         },
         "genres": [
           "Драма",
@@ -2776,7 +2823,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/cl5Rs0z5Il3KHUJfOtDJs2N8Cb.jpg",
+        "backdrop_path": "/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
         "genre_ids": [
           18,
           80
@@ -2884,83 +2931,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2808,
-      "time": 1783363503257,
-      "card_id": "60625",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
-        "genre_ids": [
-          16,
-          35,
-          10765,
-          10759
-        ],
-        "id": 60625,
-        "original_language": "en",
-        "name": "Рік та Морті",
-        "original_name": "Rick and Morty",
-        "names": [
-          "Рик и Морти",
-          "Rick and Morty",
-          "Рік та Морті"
-        ],
-        "overview": "Гумористично-фантастичний мультсеріал про пригоди дідуся-винахідника Ріка та його онука-школяра Морті, яких іноді супроводжують інші члени родини: батько-невдаха Джеррі, донька-школярка Саммер та закомплексована мати Бет.",
-        "poster_path": "/tnXwqcZ98EVKuMzRtcvPRJukwI3.jpg",
-        "first_air_date": "2013-12-02",
-        "video": false,
-        "vote_average": 8.677,
-        "vote_count": 11055,
-        "popularity": 152.9319,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "685246",
-        "kp_rating": "8.9",
-        "imdb_id": "tt2861424",
-        "imdb_rating": "9.0",
-        "status": "returning series",
-        "last_air_date": "2026-07-06",
-        "seasons": {
-          "1": 11,
-          "2": 10,
-          "3": 10,
-          "4": 11,
-          "5": 14,
-          "6": 10,
-          "7": 10,
-          "8": 10,
-          "9": 7
-        },
-        "episode": {
-          "air_date": "2026-07-05",
-          "episode_number": 7,
-          "name": "Серія 7",
-          "overview": "",
-          "season_number": 9,
-          "runtime": 24,
-          "still_path": "/6UIHqNk9f8BlNsAZb30Jb3N4YBr.jpg",
-          "vote_average": 8.4
-        },
-        "genres": [
-          "Мультфільм",
-          "Комедія",
-          "Науково фантастичний",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s9;e7",
-      "premiere": 0
     }
   ],
-  "duration": 6.2753753662109375
+  "duration": 4.135336875915527
 }

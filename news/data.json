@@ -2,6 +2,53 @@
   "secuses": true,
   "result": [
     {
+      "id": 2858,
+      "time": 1785918553033,
+      "card_id": "1392469",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/6tROOVmV5vRymO2g52aR8kWlfoT.jpg",
+        "genre_ids": [
+          10749,
+          35
+        ],
+        "id": 1392469,
+        "original_language": "hi",
+        "title": "Коктейль 2",
+        "original_title": "कॉकटेल २",
+        "names": [
+          "Коктейль 2",
+          "Cocktail 2",
+          "कॉकटेल २"
+        ],
+        "overview": "Продолжение исследует современные отношения, эмоциональные переживания, темы любви, дружбы и разочарований в современном контексте. При этом это не прямое продолжение истории оригинала, а часть более крупной франшизы с похожей атмосферой, но новыми персонажами. После десяти лет вместе отношения Дии и Кунала начинают рушиться, когда старая подруга Алли возвращается в их жизнь.",
+        "poster_path": "/mQVJRICOHs2VUtNAAYIuTCL5il0.jpg",
+        "release_date": "2026-06-19",
+        "video": false,
+        "vote_average": 5.684,
+        "vote_count": 19,
+        "popularity": 3.6161,
+        "PG": 12,
+        "release_quality": "ts",
+        "kinopoisk_id": "10436978",
+        "imdb_id": "tt35064672",
+        "imdb_rating": "8.3",
+        "status": "released",
+        "last_air_date": "2026-08-03",
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "Мелодрама",
+          "Комедия"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2857,
       "time": 1785837557520,
       "card_id": "286506",
@@ -2673,74 +2720,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2808,
-      "time": 1783363503257,
-      "card_id": "60625",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
-        "genre_ids": [
-          16,
-          35,
-          10765,
-          10759
-        ],
-        "id": 60625,
-        "original_language": "en",
-        "name": "Рик и Морти",
-        "original_name": "Rick and Morty",
-        "names": [
-          "Рик и Морти",
-          "Rick and Morty",
-          "Рік та Морті"
-        ],
-        "overview": "Морти - самый обычный мальчик, который ничем не отличается от своих сверстников. А вот его дедуля Рик занимается необычными научными исследованиями и зачастую полностью неадекватен. Он может в любое время дня и ночи схватить внука и отправиться вместе с ним в безумные приключения с помощью построенной из разного хлама летающей тарелки, которая способна перемещаться сквозь межпространственный тоннель. Каждый раз эта парочка оказывается в самых неожиданных местах и самых нелепых ситуациях.",
-        "poster_path": "/6D1NA4IMUFI8lBNuCBUlp7eLYDP.jpg",
-        "first_air_date": "2013-12-02",
-        "video": false,
-        "vote_average": 8.677,
-        "vote_count": 11055,
-        "popularity": 152.9319,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "685246",
-        "kp_rating": "8.9",
-        "imdb_id": "tt2861424",
-        "imdb_rating": "9.0",
-        "status": "returning series",
-        "last_air_date": "2026-07-06",
-        "seasons": {
-          "1": 11,
-          "2": 10,
-          "3": 10,
-          "4": 11,
-          "5": 14,
-          "6": 10,
-          "7": 10,
-          "8": 10,
-          "9": 7
-        },
-        "episode": {
-          "air_date": "2026-07-05",
-          "episode_number": 7,
-          "name": "Эпизод 7",
-          "overview": "",
-          "season_number": 9,
-          "runtime": 22,
-          "still_path": "/6UIHqNk9f8BlNsAZb30Jb3N4YBr.jpg",
-          "vote_average": 8.167
-        }
-      },
-      "type": "episode",
-      "hash": "s9;e7",
-      "premiere": 0
     }
   ],
-  "duration": 6.2753753662109375
+  "duration": 4.135336875915527
 }
