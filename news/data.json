@@ -2,6 +2,167 @@
   "secuses": true,
   "result": [
     {
+      "id": 2861,
+      "time": 1786004961875,
+      "card_id": "1212763",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 1212763,
+        "original_language": "en",
+        "title": "Зловещие мертвецы: Пекло",
+        "original_title": "Evil Dead Burn",
+        "names": [
+          "Зловещие мертвецы: Пекло",
+          "Evil Dead Burn"
+        ],
+        "overview": "После смерти мужа, женщина приезжает в отдалённый дом его семьи, надеясь найти там поддержку и покой. Но постепенно всё превращается в кошмар: родственники один за другим становятся одержимыми демонами. В этот момент она осознаёт, что данные ею клятвы любви и верности не заканчиваются даже со смертью.",
+        "poster_path": "/nbQgIssZPp1WsX1BF1OK7rBKe98.jpg",
+        "release_date": "2026-07-07",
+        "video": false,
+        "vote_average": 6.834,
+        "vote_count": 226,
+        "popularity": 45.9765,
+        "PG": 18,
+        "release_quality": "4K",
+        "kinopoisk_id": "5463793",
+        "kp_rating": "6.9",
+        "imdb_id": "tt31170389",
+        "imdb_rating": "6.7",
+        "status": "released",
+        "last_air_date": "2026-07-10",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Ужасы",
+          "Триллер"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2860,
+      "time": 1786001358893,
+      "card_id": "97546",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 97546,
+        "original_language": "en",
+        "name": "Тед Лассо",
+        "original_name": "Ted Lasso",
+        "names": [
+          "Тед Лассо",
+          "Ted Lasso"
+        ],
+        "overview": "Тренер по американскому футболу Тед Лассо неожиданно переезжает в Англию, чтобы возглавить профессиональный футбольный клуб, хотя почти ничего не знает о европейском футболе. Несмотря на скептицизм игроков, болельщиков и руководства, он покоряет окружающих своим оптимизмом, добротой и необычным подходом к работе. Постепенно Тед помогает команде стать сильнее не только на поле, но и за его пределами, пока каждый из её участников проходит собственный путь, сталкиваясь с трудностями, победами и важными жизненными переменами.",
+        "poster_path": "/htV1GTyatTXJB589hjiqUQPegjd.jpg",
+        "first_air_date": "2020-08-14",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 2475,
+        "popularity": 88.0428,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1309707",
+        "kp_rating": "8.5",
+        "imdb_id": "tt10986410",
+        "imdb_rating": "8.7",
+        "status": "returning series",
+        "last_air_date": "2026-08-05",
+        "seasons": {
+          "1": 10,
+          "2": 12,
+          "3": 12,
+          "4": 1
+        },
+        "episode": {
+          "air_date": "2026-08-04",
+          "episode_number": 1,
+          "name": "Эпизод 1",
+          "overview": "",
+          "season_number": 4,
+          "runtime": 42,
+          "still_path": "/7XFZTyugd5Z8HL6wOXIowZQi0wL.jpg",
+          "vote_average": 6.063
+        }
+      },
+      "type": "episode",
+      "hash": "s4;e1",
+      "premiere": 0
+    },
+    {
+      "id": 2859,
+      "time": 1785947352928,
+      "card_id": "278624",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 278624,
+        "original_language": "en",
+        "name": "Лаки",
+        "original_name": "Lucky",
+        "names": [
+          "Лаки",
+          "Lucky"
+        ],
+        "overview": "Многомиллионное ограбление пошло не по плану, и аферистка Лаки вынуждена пуститься в бега. Преследуемая ФБР и безжалостным лидером преступной группировки, Лаки должна найти выход, чтобы выжить.",
+        "poster_path": "/kfdtVs9mWwU7XssjOyb3e3fCHuv.jpg",
+        "first_air_date": "2026-07-14",
+        "video": false,
+        "vote_average": 7.326,
+        "vote_count": 109,
+        "popularity": 102.9409,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6640984",
+        "kp_rating": "6.3",
+        "imdb_id": "tt34866681",
+        "imdb_rating": "6.8",
+        "status": "returning series",
+        "last_air_date": "2026-08-05",
+        "seasons": {
+          "1": 5
+        },
+        "episode": {
+          "air_date": "2026-08-04",
+          "episode_number": 5,
+          "name": "Мы плохие люди?",
+          "overview": "Снова пустившись в бега, Лаки узнаёт ценную информацию. Агент Рэнд разрабатывает план.",
+          "season_number": 1,
+          "runtime": 42,
+          "still_path": "/xSN56H3np7VyAC7bAeAEzFk3mCa.jpg",
+          "vote_average": 5.083
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e5",
+      "premiere": 0
+    },
+    {
       "id": 2858,
       "time": 1785918553033,
       "card_id": "1392469",
@@ -2563,164 +2724,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2811,
-      "time": 1783799109133,
-      "card_id": "1108427",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-        "genre_ids": [
-          10751,
-          14,
-          35,
-          12
-        ],
-        "id": 1108427,
-        "original_language": "en",
-        "title": "Моана",
-        "original_title": "Moana",
-        "names": [
-          "Моана",
-          "Moana"
-        ],
-        "overview": "Моана откликается на зов океана. Впервые в жизни она отправляется за риф своего острова Мотунуи вместе с прославленным полубогом Мауи. Их ждёт незабываемое путешествие, которое должно вернуть процветание её народу.",
-        "poster_path": "/s7o0gbvgpjwb8S0Uc5QaEdwJntb.jpg",
-        "release_date": "2026-07-08",
-        "video": false,
-        "vote_average": 4.6,
-        "vote_count": 32,
-        "popularity": 98.5184,
-        "PG": 6,
-        "release_quality": "ts",
-        "kinopoisk_id": "5301021",
-        "imdb_id": "tt27419466",
-        "status": "released",
-        "last_air_date": "2026-07-10",
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Семейный",
-          "Фэнтези",
-          "Комедия",
-          "Приключения"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2810,
-      "time": 1783759503988,
-      "card_id": "277439",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 277439,
-        "original_language": "en",
-        "name": "Мыс страха",
-        "original_name": "Cape Fear",
-        "names": [
-          "Мыс страха",
-          "Cape Fear"
-        ],
-        "overview": "На счастливую супружескую пару адвокатов надвигается буря, когда из тюрьмы выходит знаменитый киллер из их прошлого.",
-        "poster_path": "/a5CZ7Mh2XcEnenS9bXbWYVFKuGb.jpg",
-        "first_air_date": "2026-06-04",
-        "video": false,
-        "vote_average": 7,
-        "vote_count": 60,
-        "popularity": 43.5515,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6576642",
-        "kp_rating": "6.8",
-        "imdb_id": "tt34675596",
-        "imdb_rating": "7.2",
-        "status": "returning series",
-        "last_air_date": "2026-07-10",
-        "seasons": {
-          "1": 7
-        },
-        "episode": {
-          "air_date": "2026-07-09",
-          "episode_number": 7,
-          "name": "Дворняжка",
-          "overview": "Анна и Том приводят в действие опасный заговор против Макса. Натали отправляется в поездку в поисках ответов.",
-          "season_number": 1,
-          "runtime": 53,
-          "still_path": "/v9tWgeHzlrEFxtQoNOtKLxbP6t3.jpg",
-          "vote_average": 6.5
-        }
-      },
-      "type": "episode",
-      "hash": "s1;e7",
-      "premiere": 0
-    },
-    {
-      "id": 2809,
-      "time": 1783691109078,
-      "card_id": "1280738",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/9XwQphZxNJgGASfjL58mhIkJJpf.jpg",
-        "genre_ids": [
-          28,
-          80,
-          53
-        ],
-        "id": 1280738,
-        "original_language": "zh",
-        "title": "Живая ярость",
-        "original_title": "火遮眼",
-        "names": [
-          "Живая ярость",
-          "Fo ze ngaan",
-          "火遮眼"
-        ],
-        "overview": "Когда дочь мастера-ремесленника Ван Вэя похищает преступная группировка, тот самостоятельно отправляется на поиски. Его единственным союзником становится Навин — неутомимый журналист, чья жена таинственно исчезла. Мужчинам из разных слоёв общества предстоит научиться доверять друг другу и сотрудничать, используя навыки рукопашного боя, полученные благодаря их тайному прошлому.",
-        "poster_path": "/jAN5WQstlgSMsbLISH59Sx7cYfu.jpg",
-        "release_date": "2026-06-10",
-        "video": false,
-        "vote_average": 7.7,
-        "vote_count": 79,
-        "popularity": 95.5841,
-        "PG": 18,
-        "release_quality": "webdl",
-        "kinopoisk_id": "6292456",
-        "kp_rating": "7.3",
-        "imdb_id": "tt33311069",
-        "imdb_rating": "7.9",
-        "status": "released",
-        "last_air_date": "2026-06-13",
-        "countries": [
-          "Гонконг",
-          "США",
-          "Китай"
-        ],
-        "genres": [
-          "Боевик",
-          "Криминал",
-          "Триллер"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.135336875915527
+  "duration": 7.284018516540527
 }

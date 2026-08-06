@@ -2,6 +2,184 @@
   "secuses": true,
   "result": [
     {
+      "id": 2861,
+      "time": 1786004961875,
+      "card_id": "1212763",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 1212763,
+        "original_language": "en",
+        "title": "Зловісні мерці у вогні",
+        "original_title": "Evil Dead Burn",
+        "names": [
+          "Зловісні мерці у вогні",
+          "Зловещие мертвецы: Пекло",
+          "Evil Dead Burn"
+        ],
+        "overview": "Після смерті чоловіка жінка намагається знайти спокій у батьків його родини, вирушаючи до їхнього усамітненого дому. Та коли кожен із них поступово стає дедайтом, сімейні посиденьки обертаються справжнім жахіттям. Саме тоді вона розуміє: обітниці, які вона давала за життя, не зникають навіть після смерті.",
+        "poster_path": "/zziJ8lJgbCFMFJh9GxOr9B7x4Jt.jpg",
+        "release_date": "2026-07-07",
+        "video": false,
+        "vote_average": 6.834,
+        "vote_count": 226,
+        "popularity": 45.9765,
+        "PG": 18,
+        "release_quality": "4K",
+        "kinopoisk_id": "5463793",
+        "kp_rating": "6.9",
+        "imdb_id": "tt31170389",
+        "imdb_rating": "6.7",
+        "status": "released",
+        "last_air_date": "2026-07-10",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Жахи",
+          "Трилер"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2860,
+      "time": 1786001358893,
+      "card_id": "97546",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 97546,
+        "original_language": "en",
+        "name": "Тед Лассо",
+        "original_name": "Ted Lasso",
+        "names": [
+          "Тед Лассо",
+          "Ted Lasso"
+        ],
+        "overview": "Тед Лассо, американський тренер з футболу, переїжджає до Англії, коли його найняли керувати футбольною командою — незважаючи на відсутність досвіду. З цинічними гравцями та сумнівним містечком, чи змусить він їх побачити Шлях Теда Лассо?",
+        "poster_path": "/8G5pL6yWDs8jXKBV7K9Unm1vsxd.jpg",
+        "first_air_date": "2020-08-14",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 2475,
+        "popularity": 88.0428,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1309707",
+        "kp_rating": "8.5",
+        "imdb_id": "tt10986410",
+        "imdb_rating": "8.7",
+        "status": "returning series",
+        "last_air_date": "2026-08-05",
+        "seasons": {
+          "1": 10,
+          "2": 12,
+          "3": 12,
+          "4": 1
+        },
+        "episode": {
+          "air_date": "2026-08-04",
+          "episode_number": 1,
+          "name": "Дім",
+          "overview": "Минуло кілька років, відколи Тед покинув «Ричмонд» — і до нього в Канзас завітали знайомі обличчя... чи це все-таки Міссурі?",
+          "season_number": 4,
+          "runtime": 42,
+          "still_path": "/7XFZTyugd5Z8HL6wOXIowZQi0wL.jpg",
+          "vote_average": 6.389
+        },
+        "genres": [
+          "Драма",
+          "Комедія"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s4;e1",
+      "premiere": 0
+    },
+    {
+      "id": 2859,
+      "time": 1785947352928,
+      "card_id": "278624",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 278624,
+        "original_language": "en",
+        "name": "Лакі",
+        "original_name": "Lucky",
+        "names": [
+          "Лакі",
+          "Лаки",
+          "Lucky"
+        ],
+        "overview": "Коли пограбування на мільйони доларів зривається, аферистка Лакі змушена тікати. Опинившись під прицілом ФБР та безжального кримінального боса, Лакі бореться за життя і шукає вихід із ситуації.",
+        "poster_path": "/tdcQyS4YbaRJnliqh595qD6e8mY.jpg",
+        "first_air_date": "2026-07-14",
+        "video": false,
+        "vote_average": 7.326,
+        "vote_count": 109,
+        "popularity": 102.9409,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6640984",
+        "kp_rating": "6.3",
+        "imdb_id": "tt34866681",
+        "imdb_rating": "6.8",
+        "status": "returning series",
+        "last_air_date": "2026-08-05",
+        "seasons": {
+          "1": 5
+        },
+        "episode": {
+          "air_date": "2026-08-04",
+          "episode_number": 5,
+          "name": "Ми погані люди?",
+          "overview": "Знов тікаючи, Лакі узнає цінну інформацію. Агент Ранд розробляє план дій.",
+          "season_number": 1,
+          "runtime": 42,
+          "still_path": "/xSN56H3np7VyAC7bAeAEzFk3mCa.jpg",
+          "vote_average": 4.643
+        },
+        "genres": [
+          "Драма",
+          "Кримінал"
+        ],
+        "countries": [
+          "United States of America",
+          "United Kingdom"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e5",
+      "premiere": 0
+    },
+    {
       "id": 2858,
       "time": 1785918553033,
       "card_id": "1392469",
@@ -205,7 +383,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/cBsXy1Jxoun2H5mYKkzNkUysoni.jpg",
-          "vote_average": 6.3
+          "vote_average": 6.25
         },
         "genres": [
           "Науково фантастичний",
@@ -385,7 +563,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/zcbjuLkbVPHSphOHClKQM0v1Zjf.jpg",
-          "vote_average": 6.8
+          "vote_average": 6.845
         },
         "genres": [
           "Науково фантастичний",
@@ -650,7 +828,7 @@
           "season_number": 1,
           "runtime": 40,
           "still_path": "/wIqlraRAqpeXOKFOFrhFaqv8hYN.jpg",
-          "vote_average": 4.95
+          "vote_average": 5.125
         },
         "genres": [
           "Драма",
@@ -772,7 +950,7 @@
           "season_number": 3,
           "runtime": 63,
           "still_path": "/6nU7pbPWspOKjud544KV2VEamUe.jpg",
-          "vote_average": 6.5
+          "vote_average": 6.365
         },
         "genres": [
           "Науково фантастичний",
@@ -1308,7 +1486,7 @@
           "Descendants: Wicked Wonderland"
         ],
         "overview": "Нова частина фентезійної серії для підлітків. Коли Країна Див приймає Ігри на Кубок Королівства, Ред і Хлоя Чармінґ мають боротися, щоб урятувати всіх від несподіваного лиходія.",
-        "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
+        "poster_path": "/9tqxCkvtM7IFfBlSDFaudlfzJ4.jpg",
         "release_date": "2026-07-16",
         "video": false,
         "vote_average": 7.678,
@@ -1491,7 +1669,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/jKeFPdISdSCfB6BlBgEfu6K2GBp.jpg",
-          "vote_average": 4.3
+          "vote_average": 4.196
         },
         "genres": [
           "Драма",
@@ -1622,7 +1800,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/sGtWCfxmJZ3uy35CUKzn0nuHRrS.jpg",
-          "vote_average": 6.864
+          "vote_average": 7.0
         },
         "genres": [
           "Мультфільм",
@@ -1694,7 +1872,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/trmxI19SM9arfcd4Petr5sJXrGd.jpg",
-          "vote_average": 5.7
+          "vote_average": 5.573
         },
         "genres": [
           "Науково фантастичний",
@@ -2007,7 +2185,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
+        "backdrop_path": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
         "genre_ids": [
           12,
           28,
@@ -2161,7 +2339,7 @@
           "season_number": 1,
           "runtime": 48,
           "still_path": "/eR9ffKHOTj5U9gCRZIRLL6ZtYiS.jpg",
-          "vote_average": 5.7
+          "vote_average": 5.609
         },
         "genres": [
           "Драма",
@@ -2486,7 +2664,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/kcKcglqhlje5zqIadRQgc7tvWMN.jpg",
-          "vote_average": 6.0
+          "vote_average": 6.011
         },
         "genres": [
           "Науково фантастичний",
@@ -2765,173 +2943,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2811,
-      "time": 1783799109133,
-      "card_id": "1108427",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-        "genre_ids": [
-          10751,
-          14,
-          35,
-          12
-        ],
-        "id": 1108427,
-        "original_language": "en",
-        "title": "Ваяна",
-        "original_title": "Moana",
-        "names": [
-          "Ваяна",
-          "Моана",
-          "Moana"
-        ],
-        "overview": "У лайв-екшн переосмисленні культової історії від Disney юна Ваяна відповідає на поклик Океану й уперше вирушає за межі рідного острова Мотонуї. Дівчина прагне повернути процвітання своєму народу, а її супутником у цій небезпечній подорожі стає легендарний напівбог Мауї. На них чекають величні острови, неспокійне море, племена Какамора, міфічні істоти та випробування, що змінять їх обох. Разом Моана й Мауї повинні знайти силу в собі та усвідомити, що справжня міць — у сміливості, покликанні та голосі власного серця.",
-        "poster_path": "/eg4urMzEuzjikIoMEjWYdZm260J.jpg",
-        "release_date": "2026-07-08",
-        "video": false,
-        "vote_average": 4.6,
-        "vote_count": 32,
-        "popularity": 98.5184,
-        "PG": 6,
-        "release_quality": "ts",
-        "kinopoisk_id": "5301021",
-        "imdb_id": "tt27419466",
-        "status": "released",
-        "last_air_date": "2026-07-10",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Сімейний",
-          "Фентезі",
-          "Комедія",
-          "Пригоди"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2810,
-      "time": 1783759503988,
-      "card_id": "277439",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 277439,
-        "original_language": "en",
-        "name": "Мис страху",
-        "original_name": "Cape Fear",
-        "names": [
-          "Мис страху",
-          "Мыс страха",
-          "Cape Fear"
-        ],
-        "overview": "Життя щасливого подружжя адвокатів опиняється під загрозою, коли на волю виходить небезпечний злочинець з їхнього минулого.",
-        "poster_path": "/e9XA7L1DwMzCnPZAkr3jOQ3FDcm.jpg",
-        "first_air_date": "2026-06-04",
-        "video": false,
-        "vote_average": 7,
-        "vote_count": 60,
-        "popularity": 43.5515,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6576642",
-        "kp_rating": "6.8",
-        "imdb_id": "tt34675596",
-        "imdb_rating": "7.2",
-        "status": "returning series",
-        "last_air_date": "2026-07-10",
-        "seasons": {
-          "1": 7
-        },
-        "episode": {
-          "air_date": "2026-07-09",
-          "episode_number": 7,
-          "name": "Барбос",
-          "overview": "Анна й Том задумують щось небезпечне проти Макса. Шукаючи відповідей, Наталі вирушає в дорогу.",
-          "season_number": 1,
-          "runtime": 53,
-          "still_path": "/v9tWgeHzlrEFxtQoNOtKLxbP6t3.jpg",
-          "vote_average": 6.188
-        },
-        "genres": [
-          "Кримінал",
-          "Драма"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e7",
-      "premiere": 0
-    },
-    {
-      "id": 2809,
-      "time": 1783691109078,
-      "card_id": "1280738",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/9XwQphZxNJgGASfjL58mhIkJJpf.jpg",
-        "genre_ids": [
-          28,
-          80,
-          53
-        ],
-        "id": 1280738,
-        "original_language": "zh",
-        "title": "Він шалений",
-        "original_title": "火遮眼",
-        "names": [
-          "Він шалений",
-          "Живая ярость",
-          "Fo ze ngaan",
-          "火遮眼"
-        ],
-        "overview": "Батько вступає у відчайдушну боротьбу з торговцями людьми, які викрали його доньку. Разом із напарником, який також шукає дружину, вони битимуться з кожним, щоб урятувати найдорожчих!",
-        "poster_path": "/o4HLyElxG8KX1MHUeIDLfe8StAD.jpg",
-        "release_date": "2026-06-10",
-        "video": false,
-        "vote_average": 7.7,
-        "vote_count": 79,
-        "popularity": 95.5841,
-        "PG": 18,
-        "release_quality": "webdl",
-        "kinopoisk_id": "6292456",
-        "kp_rating": "7.3",
-        "imdb_id": "tt33311069",
-        "imdb_rating": "7.9",
-        "status": "released",
-        "last_air_date": "2026-06-13",
-        "countries": [
-          "Hong Kong",
-          "China"
-        ],
-        "genres": [
-          "Бойовик",
-          "Кримінал",
-          "Трилер"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.135336875915527
+  "duration": 7.284018516540527
 }
