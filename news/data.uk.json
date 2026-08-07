@@ -2,6 +2,75 @@
   "secuses": true,
   "result": [
     {
+      "id": 2862,
+      "time": 1786091352970,
+      "card_id": "125988",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 125988,
+        "original_language": "en",
+        "name": "Таємниця бункера",
+        "original_name": "Silo",
+        "names": [
+          "Таємниця бункера",
+          "Бункер",
+          "Silo",
+          "Укрытие",
+          "Таємниця бункера / Бункер",
+          "Wool"
+        ],
+        "overview": "У занапащеному й небезпечному майбутньому тисячі людей живуть у великому підземному бункері. Коли шериф порушує його основоположне правило, а жителі гинуть за загадкових обставин, інженер Джулієт береться розкривати приголомшливі таємниці й правду про бункер.",
+        "poster_path": "/fjo0lVGHPHJS2CqrXOyZN379BXK.jpg",
+        "first_air_date": "2023-05-04",
+        "video": false,
+        "vote_average": 8.188,
+        "vote_count": 2369,
+        "popularity": 220.3794,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4541515",
+        "kp_rating": "7.8",
+        "imdb_id": "tt14688458",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-08-07",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 6
+        },
+        "episode": {
+          "air_date": "2026-08-06",
+          "episode_number": 6,
+          "name": "Поїздка",
+          "overview": "Біллінґс і Генк стикаються з новою таємницею. Деніел і Гелен отримують несподівану пропозицію.",
+          "season_number": 3,
+          "runtime": 55,
+          "still_path": "/hCUVzq1FghJlS75KIG2Ttxua4AL.jpg",
+          "vote_average": 2.3
+        },
+        "genres": [
+          "Науково фантастичний",
+          "Драма"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e6",
+      "premiere": 0
+    },
+    {
       "id": 2861,
       "time": 1786004961875,
       "card_id": "1212763",
@@ -100,7 +169,7 @@
           "season_number": 4,
           "runtime": 42,
           "still_path": "/7XFZTyugd5Z8HL6wOXIowZQi0wL.jpg",
-          "vote_average": 6.389
+          "vote_average": 6.542
         },
         "genres": [
           "Драма",
@@ -164,7 +233,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/xSN56H3np7VyAC7bAeAEzFk3mCa.jpg",
-          "vote_average": 4.643
+          "vote_average": 4.6
         },
         "genres": [
           "Драма",
@@ -383,7 +452,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/cBsXy1Jxoun2H5mYKkzNkUysoni.jpg",
-          "vote_average": 6.25
+          "vote_average": 6.379
         },
         "genres": [
           "Науково фантастичний",
@@ -563,7 +632,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/zcbjuLkbVPHSphOHClKQM0v1Zjf.jpg",
-          "vote_average": 6.845
+          "vote_average": 6.8
         },
         "genres": [
           "Науково фантастичний",
@@ -950,7 +1019,7 @@
           "season_number": 3,
           "runtime": 63,
           "still_path": "/6nU7pbPWspOKjud544KV2VEamUe.jpg",
-          "vote_average": 6.365
+          "vote_average": 6.4
         },
         "genres": [
           "Науково фантастичний",
@@ -1872,7 +1941,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/trmxI19SM9arfcd4Petr5sJXrGd.jpg",
-          "vote_average": 5.573
+          "vote_average": 5.6
         },
         "genres": [
           "Науково фантастичний",
@@ -2339,7 +2408,7 @@
           "season_number": 1,
           "runtime": 48,
           "still_path": "/eR9ffKHOTj5U9gCRZIRLL6ZtYiS.jpg",
-          "vote_average": 5.609
+          "vote_average": 5.625
         },
         "genres": [
           "Драма",
@@ -2892,58 +2961,7 @@
       "type": "episode",
       "hash": "s3;e3",
       "premiere": 0
-    },
-    {
-      "id": 2812,
-      "time": 1783838704220,
-      "card_id": "1308767",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
-        "genre_ids": [
-          36,
-          10752,
-          18
-        ],
-        "id": 1308767,
-        "original_language": "en",
-        "title": "Молодий Вашинґтон",
-        "original_title": "Young Washington",
-        "names": [
-          "Молодий Вашинґтон",
-          "Молодой Вашингтон",
-          "Young Washington"
-        ],
-        "overview": "Незвичайна історія Джорджа Вашинґтона — землевпорядника, який став командувачем, боровся за незалежність Америки та був одноголосно обраний першим президентом країни.",
-        "poster_path": "/ntW9zzhDmbt3sXDyPXb7SHVuDdB.jpg",
-        "release_date": "2026-07-02",
-        "video": false,
-        "vote_average": 8.022,
-        "vote_count": 23,
-        "popularity": 25.9284,
-        "PG": 13,
-        "release_quality": "ts",
-        "kinopoisk_id": "9393122",
-        "imdb_id": "tt32104007",
-        "imdb_rating": "7.3",
-        "status": "released",
-        "last_air_date": "2026-07-11",
-        "countries": [
-          "United States of America",
-          "Ireland",
-          "Canada"
-        ],
-        "genres": [
-          "Історичний",
-          "Військовий",
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.284018516540527
+  "duration": 6.549460411071777
 }

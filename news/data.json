@@ -2,6 +2,67 @@
   "secuses": true,
   "result": [
     {
+      "id": 2862,
+      "time": 1786091352970,
+      "card_id": "125988",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 125988,
+        "original_language": "en",
+        "name": "Укрытие",
+        "original_name": "Silo",
+        "names": [
+          "Бункер",
+          "Silo",
+          "Укрытие",
+          "Таємниця бункера / Бункер",
+          "Wool"
+        ],
+        "overview": "На отравленной гибнущей планете будущего тысячи людей ютятся в огромном подземном укрытии. Нарушение шерифом основного правила и серия загадочных смертей вынуждают инженера Джульетту заняться раскрытием тайн и поиском правды о бункере.",
+        "poster_path": "/gRkvq6FgiGRdtCwhVIozaUqhoDL.jpg",
+        "first_air_date": "2023-05-04",
+        "video": false,
+        "vote_average": 8.188,
+        "vote_count": 2369,
+        "popularity": 220.3794,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4541515",
+        "kp_rating": "7.8",
+        "imdb_id": "tt14688458",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-08-07",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 6
+        },
+        "episode": {
+          "air_date": "2026-08-06",
+          "episode_number": 6,
+          "name": "Поездка",
+          "overview": "Биллингс и Хэнк сталкиваются с новой загадкой. Дэниел и Хелен получают неожиданное предложение.",
+          "season_number": 3,
+          "runtime": 55,
+          "still_path": "/hCUVzq1FghJlS75KIG2Ttxua4AL.jpg",
+          "vote_average": 2.3
+        }
+      },
+      "type": "episode",
+      "hash": "s3;e6",
+      "premiere": 0
+    },
+    {
       "id": 2861,
       "time": 1786004961875,
       "card_id": "1212763",
@@ -2675,56 +2736,7 @@
       "type": "episode",
       "hash": "s3;e3",
       "premiere": 0
-    },
-    {
-      "id": 2812,
-      "time": 1783838704220,
-      "card_id": "1308767",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
-        "genre_ids": [
-          36,
-          10752,
-          18
-        ],
-        "id": 1308767,
-        "original_language": "en",
-        "title": "Молодой Вашингтон",
-        "original_title": "Young Washington",
-        "names": [
-          "Молодой Вашингтон",
-          "Young Washington"
-        ],
-        "overview": "На дальних рубежах колониальной Америки разворачивается нерассказанная история юности Джорджа Вашингтона — двадцатидвухлетнего офицера, которому ещё только предстояло стать отцом нации. Задолго до Революции и Конституции одна роковая ошибка чуть не стоила ему всего. Спровоцировав начало Франко-индейской войны, Вашингтон сталкивается с личными поражениями, тяжёлыми потерями и осознанием огромной ответственности. Из этого испытания рождается не просто будущий военачальник, а человек, закалённый смирением, мужеством и внутренней верой.",
-        "poster_path": "/awPGfes46oGvGncyaW4iKbAM2Ej.jpg",
-        "release_date": "2026-07-02",
-        "video": false,
-        "vote_average": 8.022,
-        "vote_count": 23,
-        "popularity": 25.9284,
-        "PG": 13,
-        "release_quality": "ts",
-        "kinopoisk_id": "9393122",
-        "imdb_id": "tt32104007",
-        "imdb_rating": "7.3",
-        "status": "released",
-        "last_air_date": "2026-07-11",
-        "countries": [
-          "США",
-          "Ирландия"
-        ],
-        "genres": [
-          "История",
-          "Военный",
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.284018516540527
+  "duration": 6.549460411071777
 }
