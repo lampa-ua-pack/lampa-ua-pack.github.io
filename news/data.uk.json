@@ -2,6 +2,122 @@
   "secuses": true,
   "result": [
     {
+      "id": 2864,
+      "time": 1786173869897,
+      "card_id": "1440050",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/dgqBcgTzaUiSLvKJPDF9AbdFEMO.jpg",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "id": 1440050,
+        "original_language": "en",
+        "title": "Годувальник",
+        "original_title": "The Breadwinner",
+        "names": [
+          "Годувальник",
+          "Кормилец",
+          "The Breadwinner"
+        ],
+        "overview": "Після того як його дружина Кеті отримує разову угоду в Shark Tank, яка змушує її вирушити у тривале відрядження, Нейт Вілкокс — який усе життя був годувальником сім’ї — тепер змушений самостійно піклуватися про родину.",
+        "poster_path": "/jwhbOpUapb22zkwjOfVIWYIVuqq.jpg",
+        "release_date": "2026-05-29",
+        "video": false,
+        "vote_average": 7.508,
+        "vote_count": 66,
+        "popularity": 17.8951,
+        "PG": 6,
+        "release_quality": "4K",
+        "kinopoisk_id": "10628574",
+        "imdb_id": "tt34459219",
+        "imdb_rating": "6.5",
+        "status": "released",
+        "last_air_date": "2026-08-08",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Комедія",
+          "Сімейний"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2863,
+      "time": 1786110873498,
+      "card_id": "113962",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+        "genre_ids": [
+          18,
+          10768
+        ],
+        "id": 113962,
+        "original_language": "en",
+        "name": "Спецзагін \"Левиця\"",
+        "original_name": "Lioness",
+        "names": [
+          "Спецзагін \"Левиця\"",
+          "Спецназ: Львица",
+          "Special Ops: Lioness",
+          "Спецоперації: Левиця",
+          "Lioness",
+          "Спецназ: Львица."
+        ],
+        "overview": "Оперативниця ЦРУ Джо намагається збалансувати особисте та професійне життя, будучи вістрям списа у війні агентства з тероризмом.",
+        "poster_path": "/rs5xiB0nfs2hL6Hu8a9VuNL37Mo.jpg",
+        "first_air_date": "2023-07-23",
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 1282,
+        "popularity": 234.9985,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1412084",
+        "kp_rating": "7.2",
+        "imdb_id": "tt13111078",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-08-02",
+        "seasons": {
+          "1": 8,
+          "2": 8,
+          "3": 1
+        },
+        "episode": {
+          "air_date": "2026-08-02",
+          "episode_number": 1,
+          "name": "Серія 1",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 49,
+          "still_path": "/Aatcm1poF3inxNCUwZEg08qqC2t.jpg",
+          "vote_average": 9.318
+        },
+        "genres": [
+          "Драма",
+          "Політика та війна"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e1",
+      "premiere": 0
+    },
+    {
       "id": 2862,
       "time": 1786091352970,
       "card_id": "125988",
@@ -56,7 +172,7 @@
           "season_number": 3,
           "runtime": 55,
           "still_path": "/hCUVzq1FghJlS75KIG2Ttxua4AL.jpg",
-          "vote_average": 2.3
+          "vote_average": 5.265
         },
         "genres": [
           "Науково фантастичний",
@@ -169,7 +285,7 @@
           "season_number": 4,
           "runtime": 42,
           "still_path": "/7XFZTyugd5Z8HL6wOXIowZQi0wL.jpg",
-          "vote_average": 6.542
+          "vote_average": 6.967
         },
         "genres": [
           "Драма",
@@ -403,7 +519,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "backdrop_path": "/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
         "genre_ids": [
           10765,
           18,
@@ -452,7 +568,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/cBsXy1Jxoun2H5mYKkzNkUysoni.jpg",
-          "vote_average": 6.379
+          "vote_average": 6.471
         },
         "genres": [
           "Науково фантастичний",
@@ -563,7 +679,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/aRvAJ30DWRgcLp3hMc8xYYCXvs0.jpg",
-          "vote_average": 7.214
+          "vote_average": 7.25
         },
         "genres": [
           "Кримінал",
@@ -970,7 +1086,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "backdrop_path": "/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
         "genre_ids": [
           10765,
           18,
@@ -1019,7 +1135,7 @@
           "season_number": 3,
           "runtime": 63,
           "still_path": "/6nU7pbPWspOKjud544KV2VEamUe.jpg",
-          "vote_average": 6.4
+          "vote_average": 6.397
         },
         "genres": [
           "Науково фантастичний",
@@ -1518,7 +1634,7 @@
           "season_number": 3,
           "runtime": 48,
           "still_path": "/pYnJjrdS64krUWUAGB4ckZsqN1r.jpg",
-          "vote_average": 6.2
+          "vote_average": 6.207
         },
         "genres": [
           "Науково фантастичний",
@@ -1892,7 +2008,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "backdrop_path": "/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
         "genre_ids": [
           10765,
           18,
@@ -1941,7 +2057,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/trmxI19SM9arfcd4Petr5sJXrGd.jpg",
-          "vote_average": 5.6
+          "vote_average": 5.607
         },
         "genres": [
           "Науково фантастичний",
@@ -2254,7 +2370,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+        "backdrop_path": "/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
         "genre_ids": [
           12,
           28,
@@ -2684,7 +2800,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "backdrop_path": "/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
         "genre_ids": [
           10765,
           18,
@@ -2733,7 +2849,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/kcKcglqhlje5zqIadRQgc7tvWMN.jpg",
-          "vote_average": 6.011
+          "vote_average": 6.031
         },
         "genres": [
           "Науково фантастичний",
@@ -2823,145 +2939,7 @@
       "type": "episode",
       "hash": "s9;e8",
       "premiere": 0
-    },
-    {
-      "id": 2814,
-      "time": 1783885504127,
-      "card_id": "296206",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
-        "genre_ids": [
-          10759,
-          80,
-          18
-        ],
-        "id": 296206,
-        "original_language": "ko",
-        "name": "Агент Кім: Реактивація",
-        "original_name": "김부장",
-        "names": [
-          "Агент Кім: Реактивація",
-          "Менеджер Ким",
-          "Kim bujang",
-          "Agent Kim Reactivated / Kim-bu-jang",
-          "Агент Ким возобновил свою деятельность.",
-          "김부장",
-          "Агент Ким возобновил свою деятельность"
-        ],
-        "overview": "Коли в скромного чоловіка зникає донька, він згадує навички із часів участі в спецопераціях, щоб відшукати її, але привертає до себе небажану увагу.",
-        "poster_path": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-        "first_air_date": "2026-06-26",
-        "video": false,
-        "vote_average": 7.5,
-        "vote_count": 25,
-        "popularity": 154.4532,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "KR"
-        ],
-        "kinopoisk_id": "9027270",
-        "imdb_id": "tt42127457",
-        "imdb_rating": "8.1",
-        "status": "returning series",
-        "last_air_date": "2026-07-12",
-        "seasons": {
-          "1": 6
-        },
-        "episode": {
-          "air_date": "2026-07-11",
-          "episode_number": 6,
-          "name": "Серія 6",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 68,
-          "still_path": "/5nn1Dnb4udjJdnNcYNXM8CeFdsN.jpg",
-          "vote_average": 6.8
-        },
-        "genres": [
-          "Екшн і Пригоди",
-          "Кримінал",
-          "Драма"
-        ],
-        "countries": [
-          "South Korea"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e6",
-      "premiere": 0
-    },
-    {
-      "id": 2813,
-      "time": 1783867504133,
-      "card_id": "125988",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "genre_ids": [
-          10765,
-          18
-        ],
-        "id": 125988,
-        "original_language": "en",
-        "name": "Таємниця бункера",
-        "original_name": "Silo",
-        "names": [
-          "Таємниця бункера",
-          "Бункер",
-          "Silo",
-          "Укрытие",
-          "Таємниця бункера / Бункер",
-          "Wool"
-        ],
-        "overview": "У занапащеному й небезпечному майбутньому тисячі людей живуть у великому підземному бункері. Коли шериф порушує його основоположне правило, а жителі гинуть за загадкових обставин, інженер Джулієт береться розкривати приголомшливі таємниці й правду про бункер.",
-        "poster_path": "/fjo0lVGHPHJS2CqrXOyZN379BXK.jpg",
-        "first_air_date": "2023-05-04",
-        "video": false,
-        "vote_average": 8.173,
-        "vote_count": 2207,
-        "popularity": 226.2373,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4541515",
-        "kp_rating": "7.8",
-        "imdb_id": "tt14688458",
-        "imdb_rating": "8.1",
-        "status": "returning series",
-        "last_air_date": "2026-07-12",
-        "seasons": {
-          "1": 10,
-          "2": 10,
-          "3": 3
-        },
-        "episode": {
-          "air_date": "2026-07-16",
-          "episode_number": 3,
-          "name": "Темна мережа",
-          "overview": "Джулієт бере процес одужання у свої руки. Гелен стикається з наслідками свого розслідування.",
-          "season_number": 3,
-          "runtime": 49,
-          "still_path": "/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg",
-          "vote_average": 6.1
-        },
-        "genres": [
-          "Науково фантастичний",
-          "Драма"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s3;e3",
-      "premiere": 0
     }
   ],
-  "duration": 6.549460411071777
+  "duration": 5.097299575805664
 }

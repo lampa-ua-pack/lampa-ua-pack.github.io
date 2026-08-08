@@ -2,6 +2,113 @@
   "secuses": true,
   "result": [
     {
+      "id": 2864,
+      "time": 1786173869897,
+      "card_id": "1440050",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/dgqBcgTzaUiSLvKJPDF9AbdFEMO.jpg",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "id": 1440050,
+        "original_language": "en",
+        "title": "Кормилец",
+        "original_title": "The Breadwinner",
+        "names": [
+          "Кормилец",
+          "The Breadwinner"
+        ],
+        "overview": "После того как его жена Кэти заключила уникальную сделку на шоу \"Shark Tank\" , которая предполагает длительную деловую поездку, Нейту, всю жизнь обеспечивавшему семью, теперь приходится впервые стать отцом-домохозяином.",
+        "poster_path": "/arHl6Fa9yiEUPwujfHS6aXwqzky.jpg",
+        "release_date": "2026-05-29",
+        "video": false,
+        "vote_average": 7.508,
+        "vote_count": 66,
+        "popularity": 17.8951,
+        "PG": 6,
+        "release_quality": "4K",
+        "kinopoisk_id": "10628574",
+        "imdb_id": "tt34459219",
+        "imdb_rating": "6.5",
+        "status": "released",
+        "last_air_date": "2026-08-08",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Комедия",
+          "Семейный"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2863,
+      "time": 1786110873498,
+      "card_id": "113962",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+        "genre_ids": [
+          18,
+          10768
+        ],
+        "id": 113962,
+        "original_language": "en",
+        "name": "Спецназ: Львица",
+        "original_name": "Lioness",
+        "names": [
+          "Спецназ: Львица",
+          "Special Ops: Lioness",
+          "Спецоперації: Левиця",
+          "Lioness",
+          "Спецназ: Львица."
+        ],
+        "overview": "Шпионский триллер, главной героиней которой является Джо. Она — военнослужащая, стоящая во главе спецотряда, состоящего из женщин-военных, которых обучают и внедряют в террористические и криминальные сети по всему миру. На этот раз им необходимо выполнить опасную миссию и предотвратить теракт на территории США. Чтобы это задание было успешно завершено, Джо нужно найти общий язык с рейдером морской пехоты Круз Мануэлос, чтобы та завела дружбу с дочкой террориста, за которым ведет охоту ЦРУ…",
+        "poster_path": "/yWOwT5xlwdIsboOa3f20jpfxaQK.jpg",
+        "first_air_date": "2023-07-23",
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 1282,
+        "popularity": 234.9985,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1412084",
+        "kp_rating": "7.2",
+        "imdb_id": "tt13111078",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-08-02",
+        "seasons": {
+          "1": 8,
+          "2": 8,
+          "3": 1
+        },
+        "episode": {
+          "air_date": "2026-08-02",
+          "episode_number": 1,
+          "name": "Эпизод 1",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 49,
+          "still_path": "/Aatcm1poF3inxNCUwZEg08qqC2t.jpg",
+          "vote_average": 9.318
+        }
+      },
+      "type": "episode",
+      "hash": "s3;e1",
+      "premiere": 0
+    },
+    {
       "id": 2862,
       "time": 1786091352970,
       "card_id": "125988",
@@ -2615,128 +2722,7 @@
       "type": "episode",
       "hash": "s9;e8",
       "premiere": 0
-    },
-    {
-      "id": 2814,
-      "time": 1783885504127,
-      "card_id": "296206",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
-        "genre_ids": [
-          10759,
-          80,
-          18
-        ],
-        "id": 296206,
-        "original_language": "ko",
-        "name": "Агент Ким возобновил свою деятельность",
-        "original_name": "김부장",
-        "names": [
-          "Менеджер Ким",
-          "Kim bujang",
-          "Agent Kim Reactivated / Kim-bu-jang",
-          "Агент Ким возобновил свою деятельность.",
-          "김부장",
-          "Агент Ким возобновил свою деятельность"
-        ],
-        "overview": "Обычный семьянин, который однажды раскрывает свою личность как специального агента, чтобы найти свою пропавшую дочь Мин-джи, рискуя всем ради её спасения.",
-        "poster_path": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-        "first_air_date": "2026-06-26",
-        "video": false,
-        "vote_average": 7.5,
-        "vote_count": 25,
-        "popularity": 154.4532,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "KR"
-        ],
-        "kinopoisk_id": "9027270",
-        "imdb_id": "tt42127457",
-        "imdb_rating": "8.1",
-        "status": "returning series",
-        "last_air_date": "2026-07-12",
-        "seasons": {
-          "1": 6
-        },
-        "episode": {
-          "air_date": "2026-07-11",
-          "episode_number": 6,
-          "name": "Эпизод 6",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 69,
-          "still_path": "/mZ0qnO3lKZsw3dyoDjfYrebLTih.jpg",
-          "vote_average": 0
-        }
-      },
-      "type": "episode",
-      "hash": "s1;e6",
-      "premiere": 0
-    },
-    {
-      "id": 2813,
-      "time": 1783867504133,
-      "card_id": "125988",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "genre_ids": [
-          10765,
-          18
-        ],
-        "id": 125988,
-        "original_language": "en",
-        "name": "Укрытие",
-        "original_name": "Silo",
-        "names": [
-          "Бункер",
-          "Silo",
-          "Укрытие",
-          "Таємниця бункера / Бункер",
-          "Wool"
-        ],
-        "overview": "На отравленной гибнущей планете будущего тысячи людей ютятся в огромном подземном укрытии. Нарушение шерифом основного правила и серия загадочных смертей вынуждают инженера Джульетту заняться раскрытием тайн и поиском правды о бункере.",
-        "poster_path": "/gRkvq6FgiGRdtCwhVIozaUqhoDL.jpg",
-        "first_air_date": "2023-05-04",
-        "video": false,
-        "vote_average": 8.173,
-        "vote_count": 2207,
-        "popularity": 226.2373,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4541515",
-        "kp_rating": "7.8",
-        "imdb_id": "tt14688458",
-        "imdb_rating": "8.1",
-        "status": "returning series",
-        "last_air_date": "2026-07-12",
-        "seasons": {
-          "1": 10,
-          "2": 10,
-          "3": 3
-        },
-        "episode": {
-          "air_date": "2026-07-16",
-          "episode_number": 3,
-          "name": "Эпизод 3",
-          "overview": "",
-          "season_number": 3,
-          "runtime": 50,
-          "still_path": "/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg",
-          "vote_average": 1
-        }
-      },
-      "type": "episode",
-      "hash": "s3;e3",
-      "premiere": 0
     }
   ],
-  "duration": 6.549460411071777
+  "duration": 5.097299575805664
 }
