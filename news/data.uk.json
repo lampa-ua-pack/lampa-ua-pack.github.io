@@ -2,6 +2,54 @@
   "secuses": true,
   "result": [
     {
+      "id": 2865,
+      "time": 1786207405187,
+      "card_id": "1307118",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
+        "genre_ids": [
+          27,
+          878,
+          53
+        ],
+        "id": 1307118,
+        "original_language": "en",
+        "title": "СОУЛМ8ЙМ",
+        "original_title": "Soulm8te",
+        "names": [
+          "СОУЛМ8ЙМ",
+          "СОУЛМ8ЙТ",
+          "Soulm8te"
+        ],
+        "overview": "Чоловік купує андроїда з штучним інтелектом, щоб впоратися з втратою своєї нещодавно померлої дружини. Намагаючись створити справді свідомого партнера, він ненавмисно перетворює безпечного лавбота на смертельно небезпечну споріднену душу.",
+        "poster_path": "/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+        "release_date": "2026-07-31",
+        "video": false,
+        "vote_average": 6.612,
+        "vote_count": 58,
+        "popularity": 158.734,
+        "PG": 17,
+        "release_quality": "4K",
+        "kinopoisk_id": "5926041",
+        "imdb_id": "tt32654916",
+        "status": "released",
+        "last_air_date": "2026-08-03",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Жахи",
+          "Фантастика",
+          "Трилер"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2864,
       "time": 1786173869897,
       "card_id": "1440050",
@@ -172,7 +220,7 @@
           "season_number": 3,
           "runtime": 55,
           "still_path": "/hCUVzq1FghJlS75KIG2Ttxua4AL.jpg",
-          "vote_average": 5.265
+          "vote_average": 5.658
         },
         "genres": [
           "Науково фантастичний",
@@ -193,7 +241,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
+        "backdrop_path": "/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
         "genre_ids": [
           27
         ],
@@ -225,8 +273,7 @@
           "United States of America"
         ],
         "genres": [
-          "Жахи",
-          "Трилер"
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -284,8 +331,8 @@
           "overview": "Минуло кілька років, відколи Тед покинув «Ричмонд» — і до нього в Канзас завітали знайомі обличчя... чи це все-таки Міссурі?",
           "season_number": 4,
           "runtime": 42,
-          "still_path": "/7XFZTyugd5Z8HL6wOXIowZQi0wL.jpg",
-          "vote_average": 6.967
+          "still_path": "/y0ZzhF4cLWerYRn1PTGXrjWere5.jpg",
+          "vote_average": 6.6
         },
         "genres": [
           "Драма",
@@ -349,7 +396,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/xSN56H3np7VyAC7bAeAEzFk3mCa.jpg",
-          "vote_average": 4.6
+          "vote_average": 5.444
         },
         "genres": [
           "Драма",
@@ -519,7 +566,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
         "genre_ids": [
           10765,
           18,
@@ -748,7 +795,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/zcbjuLkbVPHSphOHClKQM0v1Zjf.jpg",
-          "vote_average": 6.8
+          "vote_average": 6.672
         },
         "genres": [
           "Науково фантастичний",
@@ -1013,7 +1060,7 @@
           "season_number": 1,
           "runtime": 40,
           "still_path": "/wIqlraRAqpeXOKFOFrhFaqv8hYN.jpg",
-          "vote_average": 5.125
+          "vote_average": 5.5
         },
         "genres": [
           "Драма",
@@ -1086,7 +1133,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
         "genre_ids": [
           10765,
           18,
@@ -1248,7 +1295,7 @@
           "Heartstopper Forever"
         ],
         "overview": "У школі Тругем починається новий навчальний рік. Стосунки Чарлі й Ніка зміцнюються, але обидва хлопці вже розмірковують про життя після випускного.",
-        "poster_path": "/ch28kJu4pG2x07sN22valXvV3JY.jpg",
+        "poster_path": "/w4NAWzXeps8bjZTlSwNqMnyqMkf.jpg",
         "release_date": "2026-07-14",
         "video": false,
         "vote_average": 7.161,
@@ -1329,7 +1376,7 @@
           "season_number": 1,
           "runtime": 73,
           "still_path": "/ySFDgVK2lKXYkFi4TuORq45TmmF.jpg",
-          "vote_average": 7.7
+          "vote_average": 7.6
         },
         "genres": [
           "Екшн і Пригоди",
@@ -1446,7 +1493,7 @@
           "season_number": 1,
           "runtime": 60,
           "still_path": "/yr9ZDaEz7bNSCFycTZBWftCjL2h.jpg",
-          "vote_average": 6.8
+          "vote_average": 7.0
         },
         "genres": [
           "Екшн і Пригоди",
@@ -1634,7 +1681,7 @@
           "season_number": 3,
           "runtime": 48,
           "still_path": "/pYnJjrdS64krUWUAGB4ckZsqN1r.jpg",
-          "vote_average": 6.207
+          "vote_average": 6.25
         },
         "genres": [
           "Науково фантастичний",
@@ -1854,7 +1901,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/jKeFPdISdSCfB6BlBgEfu6K2GBp.jpg",
-          "vote_average": 4.196
+          "vote_average": 4.313
         },
         "genres": [
           "Драма",
@@ -1985,7 +2032,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/sGtWCfxmJZ3uy35CUKzn0nuHRrS.jpg",
-          "vote_average": 7.0
+          "vote_average": 7.063
         },
         "genres": [
           "Мультфільм",
@@ -2008,7 +2055,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
         "genre_ids": [
           10765,
           18,
@@ -2057,7 +2104,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/trmxI19SM9arfcd4Petr5sJXrGd.jpg",
-          "vote_average": 5.607
+          "vote_average": 5.616
         },
         "genres": [
           "Науково фантастичний",
@@ -2179,7 +2226,7 @@
           "season_number": 1,
           "runtime": 68,
           "still_path": "/s0NeAeh5x74Gzja767ksNbzh3sz.jpg",
-          "vote_average": 7.0
+          "vote_average": 7.167
         },
         "genres": [
           "Екшн і Пригоди",
@@ -2249,7 +2296,7 @@
           "season_number": 1,
           "runtime": 69,
           "still_path": "/50iNTwCz358iEgJW7dZtugaQ8eA.jpg",
-          "vote_average": 7.0
+          "vote_average": 7.167
         },
         "genres": [
           "Екшн і Пригоди",
@@ -2370,7 +2417,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
+        "backdrop_path": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
         "genre_ids": [
           12,
           28,
@@ -2800,7 +2847,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
         "genre_ids": [
           10765,
           18,
@@ -2849,7 +2896,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/kcKcglqhlje5zqIadRQgc7tvWMN.jpg",
-          "vote_average": 6.031
+          "vote_average": 6.112
         },
         "genres": [
           "Науково фантастичний",
@@ -2863,83 +2910,7 @@
       "type": "episode",
       "hash": "s3;e4",
       "premiere": 0
-    },
-    {
-      "id": 2815,
-      "time": 1783939504493,
-      "card_id": "60625",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
-        "genre_ids": [
-          16,
-          35,
-          10765,
-          10759
-        ],
-        "id": 60625,
-        "original_language": "en",
-        "name": "Рік та Морті",
-        "original_name": "Rick and Morty",
-        "names": [
-          "Рик и Морти",
-          "Rick and Morty",
-          "Рік та Морті"
-        ],
-        "overview": "Гумористично-фантастичний мультсеріал про пригоди дідуся-винахідника Ріка та його онука-школяра Морті, яких іноді супроводжують інші члени родини: батько-невдаха Джеррі, донька-школярка Саммер та закомплексована мати Бет.",
-        "poster_path": "/tnXwqcZ98EVKuMzRtcvPRJukwI3.jpg",
-        "first_air_date": "2013-12-02",
-        "video": false,
-        "vote_average": 8.679,
-        "vote_count": 11089,
-        "popularity": 166.9674,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "685246",
-        "kp_rating": "8.9",
-        "imdb_id": "tt2861424",
-        "imdb_rating": "9.0",
-        "status": "returning series",
-        "last_air_date": "2026-07-13",
-        "seasons": {
-          "1": 11,
-          "2": 10,
-          "3": 10,
-          "4": 11,
-          "5": 14,
-          "6": 10,
-          "7": 10,
-          "8": 10,
-          "9": 8
-        },
-        "episode": {
-          "air_date": "2026-07-12",
-          "episode_number": 8,
-          "name": "Серія 8",
-          "overview": "",
-          "season_number": 9,
-          "runtime": 23,
-          "still_path": "/fo4rjkcVyO4YF30K67a7yy2sKhT.jpg",
-          "vote_average": 7.842
-        },
-        "genres": [
-          "Мультфільм",
-          "Комедія",
-          "Науково фантастичний",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s9;e8",
-      "premiere": 0
     }
   ],
-  "duration": 5.097299575805664
+  "duration": 4.778912544250488
 }

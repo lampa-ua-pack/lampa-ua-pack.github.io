@@ -2,6 +2,53 @@
   "secuses": true,
   "result": [
     {
+      "id": 2865,
+      "time": 1786207405187,
+      "card_id": "1307118",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/ebcOSaZLxdCMHDjJJQzx5PiEyzl.jpg",
+        "genre_ids": [
+          27,
+          878,
+          53
+        ],
+        "id": 1307118,
+        "original_language": "en",
+        "title": "СОУЛМ8ЙТ",
+        "original_title": "Soulm8te",
+        "names": [
+          "СОУЛМ8ЙТ",
+          "Soulm8te"
+        ],
+        "overview": "Мужчина покупает андроида с искусственным интеллектом, чтобы справиться с потерей недавно умершей жены. Пытаясь создать по-настоящему разумного партнера, он случайно превращает безопасного робота-компаньона в смертельно опасную родственную душу.",
+        "poster_path": "/rEZECujbTWvIKAfiSgHSiKYuRAH.jpg",
+        "release_date": "2026-07-31",
+        "video": false,
+        "vote_average": 6.612,
+        "vote_count": 58,
+        "popularity": 158.734,
+        "PG": 17,
+        "release_quality": "4K",
+        "kinopoisk_id": "5926041",
+        "imdb_id": "tt32654916",
+        "status": "released",
+        "last_air_date": "2026-08-03",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Ужасы",
+          "Фантастика",
+          "Триллер"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2864,
       "time": 1786173869897,
       "card_id": "1440050",
@@ -2655,74 +2702,7 @@
       "type": "episode",
       "hash": "s3;e4",
       "premiere": 0
-    },
-    {
-      "id": 2815,
-      "time": 1783939504493,
-      "card_id": "60625",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
-        "genre_ids": [
-          16,
-          35,
-          10765,
-          10759
-        ],
-        "id": 60625,
-        "original_language": "en",
-        "name": "Рик и Морти",
-        "original_name": "Rick and Morty",
-        "names": [
-          "Рик и Морти",
-          "Rick and Morty",
-          "Рік та Морті"
-        ],
-        "overview": "Морти - самый обычный мальчик, который ничем не отличается от своих сверстников. А вот его дедуля Рик занимается необычными научными исследованиями и зачастую полностью неадекватен. Он может в любое время дня и ночи схватить внука и отправиться вместе с ним в безумные приключения с помощью построенной из разного хлама летающей тарелки, которая способна перемещаться сквозь межпространственный тоннель. Каждый раз эта парочка оказывается в самых неожиданных местах и самых нелепых ситуациях.",
-        "poster_path": "/6D1NA4IMUFI8lBNuCBUlp7eLYDP.jpg",
-        "first_air_date": "2013-12-02",
-        "video": false,
-        "vote_average": 8.679,
-        "vote_count": 11089,
-        "popularity": 166.9674,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "685246",
-        "kp_rating": "8.9",
-        "imdb_id": "tt2861424",
-        "imdb_rating": "9.0",
-        "status": "returning series",
-        "last_air_date": "2026-07-13",
-        "seasons": {
-          "1": 11,
-          "2": 10,
-          "3": 10,
-          "4": 11,
-          "5": 14,
-          "6": 10,
-          "7": 10,
-          "8": 10,
-          "9": 8
-        },
-        "episode": {
-          "air_date": "2026-07-12",
-          "episode_number": 8,
-          "name": "Эпизод 8",
-          "overview": "",
-          "season_number": 9,
-          "runtime": null,
-          "still_path": "/fo4rjkcVyO4YF30K67a7yy2sKhT.jpg",
-          "vote_average": 0
-        }
-      },
-      "type": "episode",
-      "hash": "s9;e8",
-      "premiere": 0
     }
   ],
-  "duration": 5.097299575805664
+  "duration": 4.778912544250488
 }
