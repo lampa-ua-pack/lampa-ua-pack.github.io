@@ -261,6 +261,13 @@
     function isPublish() {
         return Lampa.Storage.field('lparty_publish') !== false;
     }
+    function isAndroid() {
+        return !!(Lampa.Platform && Lampa.Platform.is && Lampa.Platform.is('android'));
+    }
+    function playerLaunch() {
+        if (isAndroid() && Lampa.Storage.get('lparty_player', 'lampa') === 'android') return 'android';
+        return 'lampa';
+    }
     function getRelay() {
         var v = (Lampa.Storage.get('lparty_relay', '') || '').toString().trim();
         if (!v) v = DEFAULT_RELAY;
@@ -1401,7 +1408,7 @@
             url: withRoomParam(url),
             title: title || '',
             poster: poster || '',
-            launch_player: 'lampa'
+            launch_player: playerLaunch()
         });
     }
 
@@ -1963,6 +1970,22 @@
             param: { name: 'lparty_display_name', type: 'input', values: '', default: '', placeholder: pid },
             field: { name: T.param_name, description: T.param_name_descr }
         });
+
+        if (isAndroid()) {
+            Lampa.SettingsApi.addParam({
+                component: 'lparty',
+                param: {
+                    name: 'lparty_player',
+                    type: 'select',
+                    values: { lampa: Lampa.Lang.translate('settings_param_player_inner'), android: 'Android' },
+                    default: 'lampa'
+                },
+                field: {
+                    name: Lampa.Lang.translate('settings_player_type'),
+                    description: Lampa.Lang.translate('settings_player_type_descr')
+                }
+            });
+        }
 
         Lampa.SettingsApi.addParam({
             component: 'lparty',
