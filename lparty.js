@@ -9,7 +9,7 @@
 
     var META = {
         name: 'LParty',
-        version: '1.3.5',
+        version: '1.3.6',
         author: 'nrsua, levende'
     };
 
@@ -941,7 +941,28 @@
         startClockTimers();
     }
 
+    function androidRoomHandoff(roomId, password, name, meta) {
+        currentRoomId = roomId;
+        currentRoomPassword = password || '';
+        currentRoomName = name || roomId;
+        currentRoomMeta = {
+            title: (meta && meta.title) || '',
+            poster: (meta && meta.poster) || '',
+            url: (meta && meta.url) || '',
+            tmdb_id: (meta && meta.tmdb_id) || 0,
+            source: (meta && meta.source) || '',
+            type: (meta && meta.type) || 'movie'
+        };
+
+        lplog('android player: room', roomId, 'handed to player, no relay socket from lampa');
+
+        closeSettings();
+        playRoomStream(currentRoomMeta.url, currentRoomMeta.title || currentRoomName, currentRoomMeta.poster);
+    }
+
     function joinRoom(roomId, password, fallbackName) {
+        if (playerLaunch() === 'android') return androidRoomHandoff(roomId, password, fallbackName, null);
+
         Lampa.Noty.show(T.connecting);
 
         joining = true;
@@ -1079,9 +1100,24 @@
             Lampa.Noty.show(T.need_url);
             return;
         }
-        createPending = true;
-
         var id = newRoomId();
+
+        if (playerLaunch() === 'android' && !(hostAlreadyPlaying && playerIsOpen())) {
+            androidRoomHandoff(id, seed.password || '', seed.name || ('Room-' + id), {
+                title: seed.title,
+                poster: seed.poster,
+                url: seed.stream_url,
+                tmdb_id: seed.tmdb_id,
+                source: seed.source,
+                type: seed.type
+            });
+
+            Lampa.Noty.show(T.create_ok(currentRoomName));
+            setTimeout(function () { Lampa.Noty.show(T.room_code(id)); }, 1200);
+            return;
+        }
+
+        createPending = true;
 
         currentRoomName = seed.name || ('Room-' + id);
         currentRoomOwner = pid;
@@ -1425,8 +1461,7 @@
             title: title || '',
             poster: poster || '',
             launch_player: launch,
-            lparty_room: currentRoomId || '',
-            lparty_data: roomMarker()
+            headers: { 'LRoom': roomMarker() }
         });
     }
 
