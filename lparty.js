@@ -701,7 +701,7 @@
 
     function startLobbyAgent() {
         stopLobbyAgent();
-        if (!isPublish() || playerLaunch() === 'android') return;
+        if (!isPublish()) return;
 
         lobbyHost = new Sock({
             channel: LOBBY_CHANNEL,
@@ -929,8 +929,6 @@
         currentRoomPassword = password || '';
         roomAliveAt = Date.now();
 
-        if (playerLaunch() === 'android') { setTimeout(onReady, 0); return; } // socket lives in the android player
-
         room = new Sock({
             channel: roomChannel(roomId, password),
             alias: getDisplayName(),
@@ -944,16 +942,6 @@
     }
 
     function joinRoom(roomId, password, fallbackName) {
-        if (playerLaunch() === 'android') {
-            currentRoomId = roomId;
-            currentRoomPassword = password || '';
-            currentRoomName = fallbackName || roomId;
-            inRoom = true;
-            roomAliveAt = Date.now();
-            closeSettings();
-            return playRoomStream('', currentRoomName, ''); // url приходит плееру из комнаты по LRoom
-        }
-
         Lampa.Noty.show(T.connecting);
 
         joining = true;
@@ -1124,7 +1112,7 @@
 
             var vid = getVideo();
 
-            if (hostAlreadyPlaying && playerIsOpen() && vid && playerLaunch() !== 'android') {
+            if (hostAlreadyPlaying && playerIsOpen() && vid) {
                 roomSend({ t: 'sync', s: vid.paused ? 'paused' : 'playing', p: vid.currentTime || 0 });
             } else {
                 if (hostAlreadyPlaying) lplog('player was expected open but is not - starting it');
@@ -1437,7 +1425,8 @@
             title: title || '',
             poster: poster || '',
             launch_player: launch,
-            headers: launch === 'android' ? { LRoom: roomMarker() } : undefined
+            lparty_room: currentRoomId || '',
+            lparty_data: roomMarker()
         });
     }
 
