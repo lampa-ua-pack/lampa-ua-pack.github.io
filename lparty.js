@@ -2072,18 +2072,18 @@
     });
 
     function showRoomQr() {
-        // тот же ?room=base64(id:password), что и в урле потока
-        var link = withRoomParam('https://lampa-ua-pack.github.io/app/');
-        var qrUrl = 'https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=' + encodeURIComponent(link);
+        var link = withRoomParam('https://siaivo.isroot.in/lparty/');
+        var qrUrl = 'https://api.qrserver.com/v1/create-qr-code/?size=600x600&data=' + encodeURIComponent(link);
 
         var isMobile = Lampa.Platform && Lampa.Platform.screen && Lampa.Platform.screen('mobile');
         uiPrevController = isMobile ? 'player' : 'player_panel';
 
         Lampa.Modal.open({
-            title: T.qr_title + ' - ' + safe(currentRoomName || currentRoomId || ''),
+            title: '',
             size: 'medium',
-            html: $('<div style="text-align:center;padding:1em 0;">' +
-                '<img src="' + qrUrl + '" width="300" height="300" style="background:#fff;padding:12px;border-radius:12px;" />' +
+            html: $('<div style="text-align:center;">' +
+                '<div style="font-size:1.6em;font-weight:300;margin-bottom:0.8em;">' + T.qr_title + ' - ' + safe(currentRoomName || currentRoomId || '') + '</div>' +
+                '<img src="' + qrUrl + '" style="width:20em;max-width:70vw;height:auto;background:#fff;padding:0.6em;border-radius:0.6em;" />' +
                 '<div style="margin-top:1em;opacity:0.7;">' + T.qr_hint + '</div>' +
                 '<div style="margin-top:0.5em;font-size:0.8em;opacity:0.5;word-break:break-all;">' + safe(link) + '</div>' +
                 '</div>'),
