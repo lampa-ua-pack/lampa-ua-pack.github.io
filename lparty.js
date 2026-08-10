@@ -65,6 +65,9 @@
             notice_seeked: function (n) { return n + ' перемотав'; },
             notice_host_changed: function (n) { return 'Новий хост: ' + n; },
             player_create_descr: 'Створити кімнату на цей потік',
+            player_qr_descr: 'Показати QR-код для запрошення друзів',
+            qr_title: 'Приєднатися до кімнати',
+            qr_hint: 'Скануйте камерою телефона',
             already_in_room: function (n) { return 'Ви вже в кімнаті "' + n + '"'; },
             leave_btn: 'Покинути кімнату',
             left_ok: 'Ви покинули кімнату',
@@ -121,6 +124,9 @@
             notice_seeked: function (n) { return n + ' seeked'; },
             notice_host_changed: function (n) { return 'New host: ' + n; },
             player_create_descr: 'Create a room for this stream',
+            player_qr_descr: 'Show a QR code to invite friends',
+            qr_title: 'Join the room',
+            qr_hint: 'Scan with your phone camera',
             already_in_room: function (n) { return 'You are already in room "' + n + '"'; },
             leave_btn: 'Leave room',
             left_ok: 'You left the room',
@@ -177,6 +183,9 @@
             notice_seeked: function (n) { return n + ' перемотал'; },
             notice_host_changed: function (n) { return 'Новый хост: ' + n; },
             player_create_descr: 'Создать комнату с этим потоком',
+            player_qr_descr: 'Показать QR-код для приглашения друзей',
+            qr_title: 'Присоединиться к комнате',
+            qr_hint: 'Сканируйте камерой телефона',
             already_in_room: function (n) { return 'Вы уже в комнате "' + n + '"'; },
             leave_btn: 'Покинуть комнату',
             left_ok: 'Вы покинули комнату',
@@ -855,6 +864,7 @@
         currentRoomName = '';
         currentRoomOwner = null;
         currentRoomMeta = { title: '', poster: '', url: '', tmdb_id: 0, source: '', type: '' };
+        lastStreamUrl = stripRoomParam(lastStreamUrl);
         pidByUid = {};
         knownPids = {};
         echoPending = {};
@@ -886,6 +896,17 @@
         }
         stopLobbyAgent();
         resetRoomState();
+    }
+
+    function stripRoomParam(url) {
+        if (!url) return url;
+        return url.replace(/([?&])room=[^&]*&?/, '$1').replace(/[?&]$/, '');
+    }
+
+    function withRoomParam(url) {
+        if (!url || !currentRoomId || url.search(/[?&]room=/) !== -1) return url;
+        var data = btoa(unescape(encodeURIComponent(currentRoomId + ':' + (currentRoomPassword || ''))));
+        return url + (url.indexOf('?') === -1 ? '?' : '&') + 'room=' + encodeURIComponent(data);
     }
 
     function connectRoom(roomId, password, onReady) {
@@ -971,7 +992,7 @@
         closeSettings();
 
         Lampa.Player.play({
-            url: currentRoomMeta.url,
+            url: withRoomParam(currentRoomMeta.url),
             title: currentRoomMeta.title || currentRoomName,
             poster: currentRoomMeta.poster || ''
         });
@@ -1081,7 +1102,7 @@
                 closeSettings();
 
                 Lampa.Player.play({
-                    url: currentRoomMeta.url,
+                    url: withRoomParam(currentRoomMeta.url),
                     title: currentRoomMeta.title || currentRoomName,
                     poster: currentRoomMeta.poster || ''
                 });
@@ -1239,7 +1260,7 @@
             markEpisodeSwitch();
             try {
                 Lampa.Player.play({
-                    url: m.url,
+                    url: withRoomParam(m.url),
                     title: m.ti || currentRoomName,
                     poster: ''
                 });
@@ -2050,6 +2071,30 @@
         if (inRoom) leaveRoom(true);
     });
 
+    function showRoomQr() {
+        // формат под app/index.html: params.get('room') / params.get('pwd')
+        var link = 'https://lampa-ua-pack.github.io/app/?room=' + encodeURIComponent(currentRoomId || '') +
+            (currentRoomPassword ? '&pwd=' + encodeURIComponent(currentRoomPassword) : '');
+        var qrUrl = 'https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=' + encodeURIComponent(link);
+
+        var isMobile = Lampa.Platform && Lampa.Platform.screen && Lampa.Platform.screen('mobile');
+        uiPrevController = isMobile ? 'player' : 'player_panel';
+
+        Lampa.Modal.open({
+            title: T.qr_title + ' - ' + safe(currentRoomName || currentRoomId || ''),
+            size: 'medium',
+            html: $('<div style="text-align:center;padding:1em 0;">' +
+                '<img src="' + qrUrl + '" width="300" height="300" style="background:#fff;padding:12px;border-radius:12px;" />' +
+                '<div style="margin-top:1em;opacity:0.7;">' + T.qr_hint + '</div>' +
+                '<div style="margin-top:0.5em;font-size:0.8em;opacity:0.5;word-break:break-all;">' + safe(link) + '</div>' +
+                '</div>'),
+            onBack: function () {
+                Lampa.Modal.close();
+                restoreController();
+            }
+        });
+    }
+
     function createRoomFromPlayer() {
         dropStaleRoom();
 
@@ -2108,7 +2153,7 @@
             if (isPlayerSettings) {
                 items.push({
                     title: T.full_card_btn,
-                    subtitle: T.player_create_descr,
+                    subtitle: inRoom ? T.player_qr_descr : T.player_create_descr,
                     method: 'lparty_create',
                     lparty_inject_player: true
                 });
@@ -2116,7 +2161,8 @@
                 var originalOnSelectP = e.active.onSelect;
                 e.active.onSelect = function (a) {
                     if (a && a.lparty_inject_player) {
-                        createRoomFromPlayer();
+                        if (inRoom) showRoomQr();
+                        else createRoomFromPlayer();
                         return;
                     }
                     if (originalOnSelectP) originalOnSelectP(a);
