@@ -2,6 +2,194 @@
   "secuses": true,
   "result": [
     {
+      "id": 2868,
+      "time": 1786360404154,
+      "card_id": "94997",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 94997,
+        "original_language": "en",
+        "name": "Дім дракона",
+        "original_name": "House of the Dragon",
+        "names": [
+          "Дом Дракона",
+          "House of the Dragon",
+          "Дом дракона",
+          "Дім Дракона",
+          "Дім дракона",
+          "Game of Thrones: House of the Dragon"
+        ],
+        "overview": "Члени дому Тарґарієнів залишають приречену Валірію і відправляються на захід, де знаходять величезну територію, населену ворогуючими королівствами.",
+        "poster_path": "/yaGOa7I9xIug8qsw7vXzkeMZ1mb.jpg",
+        "first_air_date": "2022-08-21",
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 6834,
+        "popularity": 406.44,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1316601",
+        "kp_rating": "8.1",
+        "imdb_id": "tt11198330",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-08-10",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 8
+        },
+        "episode": {
+          "air_date": "2026-08-09",
+          "episode_number": 8,
+          "name": "Серія 8",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 70,
+          "still_path": "/3307RKThwUvOoa0h8nhbMYZNpEd.jpg",
+          "vote_average": 3.9
+        },
+        "genres": [
+          "Науково фантастичний",
+          "Драма",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e8",
+      "premiere": 0
+    },
+    {
+      "id": 2867,
+      "time": 1786297404180,
+      "card_id": "1284041",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
+        "genre_ids": [
+          27,
+          878,
+          53
+        ],
+        "id": 1284041,
+        "original_language": "en",
+        "title": "Останній дім",
+        "original_title": "The Last House",
+        "names": [
+          "Останній дім",
+          "Последний дом",
+          "The Last House"
+        ],
+        "overview": "Сім’я загадково опиняється в пастці у власному домі. Щоб вижити, треба триматися разом, хоча їхні запаси тануть на очах, а таємнича сила не відступає.",
+        "poster_path": "/gvrcfqC8DUiN5f7m6Z1r9edz4Iv.jpg",
+        "release_date": "2026-08-06",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 17,
+        "popularity": 10.1319,
+        "PG": 16,
+        "release_quality": "4K",
+        "kinopoisk_id": "6943600",
+        "imdb_id": "tt32268156",
+        "status": "released",
+        "last_air_date": "2026-08-08",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Жахи",
+          "Фантастика",
+          "Трилер"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2866,
+      "time": 1786288404103,
+      "card_id": "113962",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+        "genre_ids": [
+          18,
+          10768
+        ],
+        "id": 113962,
+        "original_language": "en",
+        "name": "Спецзагін \"Левиця\"",
+        "original_name": "Lioness",
+        "names": [
+          "Спецзагін \"Левиця\"",
+          "Спецназ: Львица",
+          "Special Ops: Lioness",
+          "Спецоперації: Левиця",
+          "Lioness",
+          "Спецназ: Львица."
+        ],
+        "overview": "Оперативниця ЦРУ Джо намагається збалансувати особисте та професійне життя, будучи вістрям списа у війні агентства з тероризмом.",
+        "poster_path": "/rs5xiB0nfs2hL6Hu8a9VuNL37Mo.jpg",
+        "first_air_date": "2023-07-23",
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 1282,
+        "popularity": 234.9985,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1412084",
+        "kp_rating": "7.2",
+        "imdb_id": "tt13111078",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-08-09",
+        "seasons": {
+          "1": 8,
+          "2": 8,
+          "3": 2
+        },
+        "episode": {
+          "air_date": "2026-08-09",
+          "episode_number": 2,
+          "name": "Серія 2",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 53,
+          "still_path": "/Gq9Z0uNqJ2MtDEaMGRWSSvXGdL.jpg",
+          "vote_average": 9.4
+        },
+        "genres": [
+          "Драма",
+          "Політика та війна"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e2",
+      "premiere": 0
+    },
+    {
       "id": 2865,
       "time": 1786207405187,
       "card_id": "1307118",
@@ -151,7 +339,7 @@
           "season_number": 3,
           "runtime": 49,
           "still_path": "/Aatcm1poF3inxNCUwZEg08qqC2t.jpg",
-          "vote_average": 9.318
+          "vote_average": 9.3
         },
         "genres": [
           "Драма",
@@ -220,7 +408,7 @@
           "season_number": 3,
           "runtime": 55,
           "still_path": "/hCUVzq1FghJlS75KIG2Ttxua4AL.jpg",
-          "vote_average": 5.658
+          "vote_average": 5.587
         },
         "genres": [
           "Науково фантастичний",
@@ -241,7 +429,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
+        "backdrop_path": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
         "genre_ids": [
           27
         ],
@@ -331,8 +519,8 @@
           "overview": "Минуло кілька років, відколи Тед покинув «Ричмонд» — і до нього в Канзас завітали знайомі обличчя... чи це все-таки Міссурі?",
           "season_number": 4,
           "runtime": 42,
-          "still_path": "/y0ZzhF4cLWerYRn1PTGXrjWere5.jpg",
-          "vote_average": 6.6
+          "still_path": "/xKnpiILK8q0FR1DgNvsYBdKuFDN.jpg",
+          "vote_average": 6.8
         },
         "genres": [
           "Драма",
@@ -615,7 +803,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/cBsXy1Jxoun2H5mYKkzNkUysoni.jpg",
-          "vote_average": 6.471
+          "vote_average": 6.585
         },
         "genres": [
           "Науково фантастичний",
@@ -795,7 +983,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/zcbjuLkbVPHSphOHClKQM0v1Zjf.jpg",
-          "vote_average": 6.672
+          "vote_average": 6.543
         },
         "genres": [
           "Науково фантастичний",
@@ -915,7 +1103,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+        "backdrop_path": "/pq1Mhdt9LbkQM5TOjuVZpcczbf.jpg",
         "genre_ids": [
           878,
           28,
@@ -1060,7 +1248,7 @@
           "season_number": 1,
           "runtime": 40,
           "still_path": "/wIqlraRAqpeXOKFOFrhFaqv8hYN.jpg",
-          "vote_average": 5.5
+          "vote_average": 5.75
         },
         "genres": [
           "Драма",
@@ -1182,7 +1370,7 @@
           "season_number": 3,
           "runtime": 63,
           "still_path": "/6nU7pbPWspOKjud544KV2VEamUe.jpg",
-          "vote_average": 6.397
+          "vote_average": 6.5
         },
         "genres": [
           "Науково фантастичний",
@@ -1901,7 +2089,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/jKeFPdISdSCfB6BlBgEfu6K2GBp.jpg",
-          "vote_average": 4.313
+          "vote_average": 4.5
         },
         "genres": [
           "Драма",
@@ -2104,7 +2292,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/trmxI19SM9arfcd4Petr5sJXrGd.jpg",
-          "vote_average": 5.616
+          "vote_average": 5.6
         },
         "genres": [
           "Науково фантастичний",
@@ -2739,178 +2927,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2818,
-      "time": 1784020504709,
-      "card_id": "1057265",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
-        "genre_ids": [
-          28,
-          18
-        ],
-        "id": 1057265,
-        "original_language": "te",
-        "title": "పెద్ది",
-        "original_title": "పెద్ది",
-        "names": [
-          "Педди",
-          "Peddi",
-          "పెద్ది"
-        ],
-        "overview": "В 2016 году чиновник из Министерства спорта получает выговор от министра за неудовлетворительные результаты Индии на Олимпийских играх. Во время поездки в город в Андхра-Прадеше чиновник наблюдает за местной молодежью, демонстрирующей исключительную преданность легкой атлетике. Все они считают своим вдохновителем человека по имени Педди. Заинтригованный чиновник отправляется в трудный путь через леса и холмы, чтобы добраться до отдаленной безымянной деревни на вершине холма и узнать историю Педди...",
-        "poster_path": "/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
-        "release_date": "2026-06-03",
-        "video": false,
-        "vote_average": 6.1,
-        "vote_count": 54,
-        "popularity": 75.7414,
-        "PG": 16,
-        "release_quality": "4K",
-        "kinopoisk_id": "12743608",
-        "imdb_id": "tt23865918",
-        "imdb_rating": "6.1",
-        "status": "released",
-        "last_air_date": "2026-07-13",
-        "countries": [
-          "India"
-        ],
-        "genres": [
-          "Бойовик",
-          "Драма"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2817,
-      "time": 1784009705681,
-      "card_id": "288603",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/h1bGO8w5hyn22DGNv0MOZKTog1X.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 288603,
-        "original_language": "zh",
-        "name": "炽夏",
-        "original_name": "炽夏",
-        "names": [
-          "Пылающее лето",
-          "Chi xia",
-          "Never-Ending Summer / Xi Feng Xiang Wan",
-          "炽夏"
-        ],
-        "overview": "Скромная, но невероятно стойкая отличница Чжоу Вань (Бао Шан Энь) отчаянно нуждается в деньгах на операцию для тяжелобольной бабушки. Получив отказ от бросившей её матери, девушка решает намеренно сблизиться с Лу Си Сяо (Чжоу Кэ Юй) — богатым и неуправляемым юношей, который является пасынком её матери. То, что начиналось как холодный расчет, перерастает в искреннее и глубокое чувство. Герои становятся спасением друг для друга в самые темные моменты жизни. Однако юношеский максимализм, тайны прошлого и жестокая реальность разрушают их союз, заставляя расстаться из-за болезненного недопонимания. Спустя десять лет судьба вновь сталкивает героев уже в деловом мире. Лу Си Сяо, все еще помнящий старую обиду, поначалу пытается усложнить жизнь Чжоу Вань. Но совместное расследование крупного промышленного инцидента на фабрике заставляет их раскрыть карты и понять: чувства друг к другу никогда не угасали. Экранизация романа \"Падение\" автора Sweet Vinegar Fish.",
-        "poster_path": "/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
-        "first_air_date": "2026-06-16",
-        "video": false,
-        "vote_average": 9.125,
-        "vote_count": 5,
-        "popularity": 50.7398,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "CN"
-        ],
-        "kinopoisk_id": "12935649",
-        "kp_rating": "8.4",
-        "imdb_id": "tt36982964",
-        "imdb_rating": "8.7",
-        "status": "ended",
-        "last_air_date": "2026-06-28",
-        "seasons": {
-          "1": 15
-        },
-        "countries": [
-          "China"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2816,
-      "time": 1783957505532,
-      "card_id": "94997",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-        "genre_ids": [
-          10765,
-          18,
-          10759
-        ],
-        "id": 94997,
-        "original_language": "en",
-        "name": "Дім дракона",
-        "original_name": "House of the Dragon",
-        "names": [
-          "Дом Дракона",
-          "House of the Dragon",
-          "Дом дракона",
-          "Дім Дракона",
-          "Дім дракона",
-          "Game of Thrones: House of the Dragon"
-        ],
-        "overview": "Члени дому Тарґарієнів залишають приречену Валірію і відправляються на захід, де знаходять величезну територію, населену ворогуючими королівствами.",
-        "poster_path": "/yaGOa7I9xIug8qsw7vXzkeMZ1mb.jpg",
-        "first_air_date": "2022-08-21",
-        "video": false,
-        "vote_average": 8.368,
-        "vote_count": 6539,
-        "popularity": 373.6276,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1316601",
-        "kp_rating": "8.1",
-        "imdb_id": "tt11198330",
-        "imdb_rating": "8.3",
-        "status": "returning series",
-        "last_air_date": "2026-07-13",
-        "seasons": {
-          "1": 10,
-          "2": 8,
-          "3": 4
-        },
-        "episode": {
-          "air_date": "2026-07-12",
-          "episode_number": 4,
-          "name": "Тамблтон",
-          "overview": "Вторгнення Ормунда в Тамблетон ставить Рейніру в безвихідне становище.",
-          "season_number": 3,
-          "runtime": 62,
-          "still_path": "/kcKcglqhlje5zqIadRQgc7tvWMN.jpg",
-          "vote_average": 6.112
-        },
-        "genres": [
-          "Науково фантастичний",
-          "Драма",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s3;e4",
-      "premiere": 0
     }
   ],
-  "duration": 4.778912544250488
+  "duration": 5.420403480529785
 }
