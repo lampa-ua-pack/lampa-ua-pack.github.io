@@ -9,7 +9,7 @@
 
     var META = {
         name: 'LParty',
-        version: '1.3.1',
+        version: '1.3.2',
         author: 'nrsua'
     };
 
@@ -201,6 +201,7 @@
 
     var LOBBY_COLLECT_MS = 1500;
     var JOIN_TIMEOUT_MS = 6000;
+    var JOIN_EMPTY_TIMEOUT_MS = 2500;
     var PING_INTERVAL_MS = 20000;
     var ECHO_TIMEOUT_MS = 30000;
     var RECONNECT_MS = 4000;
@@ -935,11 +936,13 @@
         currentRoomName = fallbackName || roomId;
 
         connectRoom(roomId, password, function (ev) {
-            if (ev.total <= 1) {
-                failJoin();
-                return;
-            }
+            lplog('join: channel ready, total', ev.total);
             roomSend({ t: 'hello', n: getDisplayName() });
+
+            if (ev.total <= 1) {
+                if (joinTimer) clearTimeout(joinTimer);
+                joinTimer = setTimeout(failJoin, JOIN_EMPTY_TIMEOUT_MS);
+            }
         });
 
         if (joinTimer) clearTimeout(joinTimer);
@@ -948,8 +951,15 @@
 
     function failJoin() {
         if (!joining) return;
+        lplog('join failed - no answer from room');
         Lampa.Noty.show(T.no_room);
         leaveRoom(false);
+    }
+
+    function extendJoinDeadline() {
+        if (!joining) return;
+        if (joinTimer) clearTimeout(joinTimer);
+        joinTimer = setTimeout(failJoin, JOIN_TIMEOUT_MS);
     }
 
     function acceptRoomState(msg, atServerTime) {
@@ -991,11 +1001,7 @@
 
         closeSettings();
 
-        Lampa.Player.play({
-            url: withRoomParam(currentRoomMeta.url),
-            title: currentRoomMeta.title || currentRoomName,
-            poster: currentRoomMeta.poster || ''
-        });
+        playRoomStream(currentRoomMeta.url, currentRoomMeta.title || currentRoomName, currentRoomMeta.poster || '');
     }
 
     function askCreateRoom() {
@@ -1101,11 +1107,7 @@
 
                 closeSettings();
 
-                Lampa.Player.play({
-                    url: withRoomParam(currentRoomMeta.url),
-                    title: currentRoomMeta.title || currentRoomName,
-                    poster: currentRoomMeta.poster || ''
-                });
+                playRoomStream(currentRoomMeta.url, currentRoomMeta.title || currentRoomName, currentRoomMeta.poster || '');
             }
         });
 
@@ -1219,6 +1221,7 @@
         if (m.t === 'hold') {
             if (!inRoom && !joining) return;
             if (currentRoomOwner && m.u !== currentRoomOwner) return;
+            extendJoinDeadline();
             applyHold(m.p || 0);
             return;
         }
@@ -1259,11 +1262,7 @@
             currentRoomMeta.title = m.ti || currentRoomMeta.title;
             markEpisodeSwitch();
             try {
-                Lampa.Player.play({
-                    url: withRoomParam(m.url),
-                    title: m.ti || currentRoomName,
-                    poster: ''
-                });
+                playRoomStream(m.url, m.ti || currentRoomName, '');
             } catch (err) {}
             return;
         }
@@ -1393,6 +1392,17 @@
         if (typeof Lampa.PlayerVideo !== 'undefined' && Lampa.PlayerVideo.video) vid = Lampa.PlayerVideo.video();
         if (!vid) vid = document.querySelector('.player-video__display video') || document.querySelector('.player video') || document.querySelector('video');
         return vid;
+    }
+
+    function playRoomStream(url, title, poster) {
+        lplog('start room stream', url ? url.substr(0, 60) : '');
+
+        Lampa.Player.play({
+            url: withRoomParam(url),
+            title: title || '',
+            poster: poster || '',
+            launch_player: 'lampa'
+        });
     }
 
     function pauseVideo(vid) {
@@ -1770,6 +1780,21 @@
             var wasExpected = expectedState.play;
             expectedState.play = false;
             if (wasExpected) return;
+
+            if (holdActive) {
+                lplog('user started playback during hold - releasing it');
+                lastUserActionTime = Date.now();
+
+                if (iAmHost()) {
+                    finishHold();
+                } else {
+                    holdReadySent = true;
+                    roomSend({ t: 'ready' });
+                    releaseHold(holdPosition);
+                }
+                return;
+            }
+
             if (isRewinding()) { lastUserActionTime = Date.now(); return; }
             if (vid._lp_buffer_paused) { vid._lp_buffer_paused = false; return; }
             lastUserActionTime = Date.now();
