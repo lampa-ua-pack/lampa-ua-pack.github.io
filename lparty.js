@@ -2072,9 +2072,8 @@
     });
 
     function showRoomQr() {
-        // формат под app/index.html: params.get('room') / params.get('pwd')
-        var link = 'https://lampa-ua-pack.github.io/app/?room=' + encodeURIComponent(currentRoomId || '') +
-            (currentRoomPassword ? '&pwd=' + encodeURIComponent(currentRoomPassword) : '');
+        // тот же ?room=base64(id:password), что и в урле потока
+        var link = withRoomParam('https://lampa-ua-pack.github.io/app/');
         var qrUrl = 'https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=' + encodeURIComponent(link);
 
         var isMobile = Lampa.Platform && Lampa.Platform.screen && Lampa.Platform.screen('mobile');

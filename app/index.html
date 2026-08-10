@@ -615,9 +615,17 @@ $('refresh').onclick = refreshLobby;
 
 // A ?room=ABC123&pwd=... link only fills the form: joining must happen on a click,
 // otherwise the browser blocks play() as autoplay without a user gesture.
+// ?room= holds either a plain code or base64("CODE:password"), the same payload
+// the Lampa plugin appends to the stream URL.
 if (params.get('room')) {
-  $('join-code').value = params.get('room');
-  $('join-pwd').value = params.get('pwd') || '';
+  let code = params.get('room'), pwd = params.get('pwd') || '';
+  try {
+    const dec = decodeURIComponent(escape(atob(code)));
+    const i = dec.indexOf(':');
+    if (i > 0 && /^[A-Z2-9]{4,12}$/.test(dec.slice(0, i))) { code = dec.slice(0, i); pwd = dec.slice(i + 1); }
+  } catch (e) { /* not base64 - keep the plain code */ }
+  $('join-code').value = code;
+  $('join-pwd').value = pwd;
 }
 if (params.get('relay')) { cfg.relay = params.get('relay'); $('cfg-relay').value = cfg.relay; party.setRelay(cfg.relay); }
 
