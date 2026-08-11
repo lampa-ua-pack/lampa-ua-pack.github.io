@@ -9,7 +9,7 @@
 
     var META = {
         name: 'LParty',
-        version: '1.3.7',
+        version: '1.3.6',
         author: 'nrsua, levende'
     };
 
@@ -1741,6 +1741,41 @@
         return Date.now() < seekGuardUntil;
     }
 
+    function broadcastUserSeek(vid) {
+        if (Math.abs((vid.currentTime || 0) - lastKnownPosition) < SEEK_MIN_JUMP_S) {
+            console.log('[LParty]', 'seek ignored, position barely moved', (vid.currentTime || 0).toFixed(2));
+            return;
+        }
+
+        if (isRewinding()) rewindUntil = Date.now() + 400;
+        lastKnownPosition = vid.currentTime || 0;
+        lastUserActionTime = Date.now();
+
+        // throttle defers the burst, never drops it - a dropped seek means the host
+        // heartbeat drags us back to its old position two seconds later
+        if (Date.now() - lastSeekBroadcastAt < SEEK_BROADCAST_MIN_MS) {
+            console.log('[LParty]', 'seek broadcast deferred at', (vid.currentTime || 0).toFixed(2));
+            // debounce, not a periodic flush: a long scrub must end in ONE extra broadcast,
+            // not one every SEEK_BROADCAST_MIN_MS - each of those costs everyone a hard seek
+            if (pendingSeekBroadcast) clearTimeout(pendingSeekBroadcast);
+            pendingSeekBroadcast = setTimeout(function () {
+                pendingSeekBroadcast = null;
+                if (!inRoom || initialSyncLock || holdActive) return;
+                var v = getVideo();
+                if (!v) return;
+                lastSeekBroadcastAt = Date.now();
+                lastKnownPosition = v.currentTime || 0;
+                lastUserActionTime = Date.now();
+                sendSync(v.paused ? 'paused' : 'playing', 'seeked');
+            }, SEEK_BROADCAST_MIN_MS);
+            return;
+        }
+
+        if (pendingSeekBroadcast) { clearTimeout(pendingSeekBroadcast); pendingSeekBroadcast = null; }
+        lastSeekBroadcastAt = Date.now();
+        sendSync(vid.paused ? 'paused' : 'playing', 'seeked');
+    }
+
     function isRewinding() {
         return Date.now() < rewindUntil;
     }
@@ -1770,7 +1805,10 @@
     }
 
     function videoBusy(vid) {
-        return !!vid._lp_buffering || vid.readyState < 3;
+        // a seek in flight is the loader working - same rule as buffering, do not fight it.
+        // a long jump can stay seeking for many seconds; correcting position mid-flight
+        // is what dragged the seeker back to the old spot
+        return !!vid._lp_buffering || vid.readyState < 3 || !!vid.seeking;
     }
 
     var appleNative = (function () {
@@ -1990,38 +2028,15 @@
 
             if (expectedState.seek !== -1) clearExpectedSeek();
 
-            if (Math.abs((vid.currentTime || 0) - lastKnownPosition) < SEEK_MIN_JUMP_S) {
-                console.log('[LParty]', 'seek ignored, position barely moved', (vid.currentTime || 0).toFixed(2));
-                return;
-            }
+            broadcastUserSeek(vid);
+        });
 
-            if (isRewinding()) rewindUntil = Date.now() + 400;
-            lastKnownPosition = vid.currentTime || 0;
-            lastUserActionTime = Date.now();
-
-            // throttle defers the burst, never drops it - a dropped seek means the host
-            // heartbeat drags us back to its old position two seconds later
-            if (Date.now() - lastSeekBroadcastAt < SEEK_BROADCAST_MIN_MS) {
-                console.log('[LParty]', 'seek broadcast deferred at', (vid.currentTime || 0).toFixed(2));
-                // debounce, not a periodic flush: a long scrub must end in ONE extra broadcast,
-                // not one every SEEK_BROADCAST_MIN_MS - each of those costs everyone a hard seek
-                if (pendingSeekBroadcast) clearTimeout(pendingSeekBroadcast);
-                pendingSeekBroadcast = setTimeout(function () {
-                    pendingSeekBroadcast = null;
-                    if (!inRoom || initialSyncLock || holdActive) return;
-                    var v = getVideo();
-                    if (!v) return;
-                    lastSeekBroadcastAt = Date.now();
-                    lastKnownPosition = v.currentTime || 0;
-                    lastUserActionTime = Date.now();
-                    sendSync(v.paused ? 'paused' : 'playing', 'seeked');
-                }, SEEK_BROADCAST_MIN_MS);
-                return;
-            }
-
-            if (pendingSeekBroadcast) { clearTimeout(pendingSeekBroadcast); pendingSeekBroadcast = null; }
-            lastSeekBroadcastAt = Date.now();
-            sendSync(vid.paused ? 'paused' : 'playing', 'seeked');
+        // announce the jump when it STARTS, not when it settles: currentTime already holds the
+        // target, while a long jump can stay unsettled for many seconds - and an unannounced
+        // seeker gets dragged back by the host heartbeat the moment its buffer is ready
+        vid.addEventListener('seeking', function () {
+            if (initialSyncLock || isSystemSyncing || seekIsOurs()) return;
+            broadcastUserSeek(vid);
         });
     }, 1000);
 
