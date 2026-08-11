@@ -270,8 +270,7 @@
         return !!(Lampa.Platform && Lampa.Platform.is && Lampa.Platform.is('android'));
     }
     function playerLaunch() {
-        if (isAndroid() && Lampa.Storage.get('lparty_player', 'lampa') === 'android') return 'android';
-        return 'lampa';
+        return Lampa.Storage.get('lparty_player', 'lampa');
     }
     function getRelay() {
         var v = (Lampa.Storage.get('lparty_relay', '') || '').toString().trim();
@@ -1455,6 +1454,8 @@
         var launch = playerLaunch();
 
         lplog('start room stream via', launch, url ? url.substr(0, 60) : '');
+
+        debugger;
 
         Lampa.Player.play({
             url: url,
