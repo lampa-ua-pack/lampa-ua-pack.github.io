@@ -1331,6 +1331,9 @@
 
             if (isRewinding() || holdActive) return;
             if (Date.now() - lastUserActionTime < 2000) return;
+            // a seek of ours is waiting out the debounce - the heartbeat cannot know about it yet,
+            // so its position is stale by definition. explicit acts still get through
+            if (m.t === 'sync' && pendingSeekBroadcast) return;
 
             // anything newer supersedes a deferred seek - never let a stale snapshot outlive it
             pendingAct = null;
@@ -2035,7 +2038,11 @@
         // target, while a long jump can stay unsettled for many seconds - and an unannounced
         // seeker gets dragged back by the host heartbeat the moment its buffer is ready
         vid.addEventListener('seeking', function () {
-            if (initialSyncLock || isSystemSyncing || seekIsOurs()) return;
+            // deliberately NOT gated on isSystemSyncing: that flag stays up 500ms after every
+            // applied sync, i.e. a quarter of the time at a 2s heartbeat, and it swallowed any
+            // user seek started in that window. seekIsOurs() is armed only when we actually
+            // moved the position ourselves, which is the real question here
+            if (initialSyncLock || seekIsOurs()) return;
             broadcastUserSeek(vid);
         });
     }, 1000);
