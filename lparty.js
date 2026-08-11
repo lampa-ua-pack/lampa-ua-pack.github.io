@@ -2,14 +2,14 @@
     'use strict';
 
     if (window.LParty_plugin_started) {
-        console.log('lparty', 'already running');
+        console.log('[LParty]', 'Already running.');
         return;
     }
     window.LParty_plugin_started = true;
 
     var META = {
         name: 'LParty',
-        version: '1.3.7',
+        version: '1.3.6',
         author: 'nrsua, levende'
     };
 
@@ -246,8 +246,6 @@
         logRing.push(stamp + '  ' + text);
         if (logRing.length > LOG_LIMIT) logRing.shift();
 
-        console.log('lparty', text);
-
         return text;
     }
 
@@ -458,7 +456,7 @@
             }
 
             self.ws.onopen = function () {
-                lplog('ws open', self.channel);
+                console.log('[LParty] ws open', self.channel);
                 self.onEvent({ kind: 'open' });
             };
 
@@ -493,7 +491,7 @@
                 }
 
                 if (d.type === 'error') {
-                    lplog('relay error:', d.message);
+                    console.log('[LParty] relay error:', d.message);
                     self.onEvent({ kind: 'error', date: d.date, text: d.message });
                     return;
                 }
@@ -511,7 +509,7 @@
             };
 
             self.ws.onclose = function () {
-                lplog('ws close', self.channel, self.closed ? '(by us)' : '(remote)');
+                console.log('[LParty] ws close', self.channel, self.closed ? '(by us)' : '(remote)');
                 self.uid = null;
                 self.members = [];
                 self.onEvent({ kind: 'close' });
@@ -672,7 +670,7 @@
             for (var key in echoPending) {
                 if (!echoPending.hasOwnProperty(key)) continue;
                 if (now - echoPending[key] > ECHO_TIMEOUT_MS) {
-                    lplog('echo watchdog timeout - forcing reconnect');
+                    console.log('[LParty]', lplog('echo watchdog timeout - forcing reconnect'));
                     echoPending = {};
                     try { room.ws.close(); } catch (err) {}
                     return;
@@ -894,7 +892,7 @@
 
     function dropStaleRoom() {
         if ((inRoom || joining) && !playerIsOpen()) {
-            lplog('stale room detected (player closed) - leaving');
+            console.log('[LParty]', lplog('stale room detected (player closed) - leaving'));
             leaveRoom(true);
             return true;
         }
@@ -902,7 +900,7 @@
     }
 
     function leaveRoom(sendBye) {
-        if (inRoom || joining) lplog('leave room', currentRoomId || '');
+        if (inRoom || joining) console.log('[LParty]', lplog('leave room', currentRoomId || ''));
         if (room) {
             if (sendBye && room.alive()) roomSend({ t: 'bye' });
             room.close();
@@ -953,15 +951,13 @@
         currentRoomMeta = {
             title: (meta && meta.title) || '',
             poster: (meta && meta.poster) || '',
-            // join: url лежит только в реле, куда lampa не ходит - плеер резолвит поток сам по маркеру.
-            // ponytail: https-инвайт, а не своя схема - lparty:// не проходит через android intent
             url: (meta && meta.url) || inviteLink(),
             tmdb_id: (meta && meta.tmdb_id) || 0,
             source: (meta && meta.source) || '',
             type: (meta && meta.type) || 'movie'
         };
 
-        lplog('android player: room', roomId, 'handed to player, no relay socket from lampa');
+        console.log('[LParty] android player: room', roomId, 'handed to player, no relay socket from lampa');
 
         closeSettings();
         playRoomStream(currentRoomMeta.url, currentRoomMeta.title || currentRoomName, currentRoomMeta.poster);
@@ -976,7 +972,7 @@
         currentRoomName = fallbackName || roomId;
 
         connectRoom(roomId, password, function (ev) {
-            lplog('join: channel ready, total', ev.total);
+            console.log('[LParty] join: channel ready, total', ev.total);
             roomSend({ t: 'hello', n: getDisplayName() });
 
             if (ev.total <= 1) {
@@ -991,7 +987,7 @@
 
     function failJoin() {
         if (!joining) return;
-        lplog('join failed - no answer from room');
+        console.log('[LParty] join failed - no answer from room');
         Lampa.Noty.show(T.no_room);
         leaveRoom(false);
     }
@@ -1107,24 +1103,10 @@
             Lampa.Noty.show(T.need_url);
             return;
         }
-        var id = newRoomId();
-
-        if (playerLaunch === 'android') {
-            androidRoomHandoff(id, seed.password || '', seed.name || ('Room-' + id), {
-                title: seed.title,
-                poster: seed.poster,
-                url: seed.stream_url,
-                tmdb_id: seed.tmdb_id,
-                source: seed.source,
-                type: seed.type
-            });
-
-            Lampa.Noty.show(T.create_ok(currentRoomName));
-            setTimeout(function () { Lampa.Noty.show(T.room_code(id)); }, 1200);
-            return;
-        }
 
         createPending = true;
+
+        var id = newRoomId();
 
         currentRoomName = seed.name || ('Room-' + id);
         currentRoomOwner = pid;
@@ -1158,7 +1140,7 @@
             if (hostAlreadyPlaying && playerIsOpen() && vid) {
                 roomSend({ t: 'sync', s: vid.paused ? 'paused' : 'playing', p: vid.currentTime || 0 });
             } else {
-                if (hostAlreadyPlaying) lplog('player was expected open but is not - starting it');
+                if (hostAlreadyPlaying) console.log('[LParty]', lplog('player was expected open but is not - starting it'));
 
                 closeSettings();
 
@@ -1260,7 +1242,7 @@
             var reconnected = seenAt && (Date.now() - seenAt) < RECONNECT_HELLO_MS;
             if (m.u) knownPids[m.u] = Date.now();
 
-            lplog('hello from', m.u, reconnected ? '(reconnect)' : '(new)');
+            console.log('[LParty] hello from', m.u, reconnected ? '(reconnect)' : '(new)');
 
             if (iAmHost() && !reconnected) startJoinHold(m.u);
 
@@ -1459,7 +1441,7 @@
     }
 
     function playRoomStream(url, title, poster) {
-        lplog('start room stream via', playerLaunch, url ? url.substr(0, 60) : '');
+        console.log('[LParty]', 'start room stream via', playerLaunch, url ? url.substr(0, 60) : '');
 
         if (Lampa.Player.runas) Lampa.Player.runas(playerLaunch);
 
@@ -1517,13 +1499,13 @@
         var idle = now - (holdBufferAt || now);
 
         if (ahead >= HOLD_MIN_BUFFER_S && idle > HOLD_STALL_MS) {
-            lplog('hold: buffer stopped growing at', ahead.toFixed(2) + 's - accepting');
+            console.log('[LParty]', 'hold: buffer stopped growing at', ahead.toFixed(2) + 's - accepting');
             return true;
         }
 
         if (!holdNudgeDone && idle > HOLD_NUDGE_MS && vid.readyState >= 1) {
             holdNudgeDone = true;
-            lplog('hold: nudging loader, ahead=' + ahead.toFixed(2) + ' pos=' + (vid.currentTime || 0).toFixed(2));
+            console.log('[LParty]', 'hold: nudging loader, ahead=' + ahead.toFixed(2) + ' pos=' + (vid.currentTime || 0).toFixed(2));
             setExpectedSeek(holdPosition);
             vid.currentTime = holdPosition + 0.05;
         }
@@ -1555,7 +1537,7 @@
             }
 
             Lampa.Noty.show(T.notice_hold);
-            lplog('hold start at', holdPosition.toFixed(2));
+            console.log('[LParty]', 'hold start at', holdPosition.toFixed(2));
         }
 
         if (newcomerPid && newcomerPid !== pid) holdWaiting[newcomerPid] = true;
@@ -1589,7 +1571,7 @@
 
         var position = holdPosition;
 
-        lplog('hold finish at', position.toFixed(2));
+        console.log('[LParty]', 'hold finish at', position.toFixed(2));
         roomSend({ t: 'go', p: position });
         releaseHold(position);
     }
@@ -1629,7 +1611,7 @@
         resetHoldProgress();
 
         Lampa.Noty.show(T.notice_hold);
-        lplog('hold received at', holdPosition.toFixed(2));
+        console.log('[LParty]', 'hold received at', holdPosition.toFixed(2));
 
         var vid = getVideo();
         if (!vid) return;
@@ -1657,7 +1639,7 @@
         if (!roomSend({ t: 'ready' })) return;
 
         holdReadySent = true;
-        lplog('hold: ready sent, ahead=' + bufferedAhead(vid, holdPosition).toFixed(2));
+        console.log('[LParty]', 'hold: ready sent, ahead=' + bufferedAhead(vid, holdPosition).toFixed(2));
     }
 
     function sendSync(state, verb) {
@@ -1764,11 +1746,11 @@
 
                 if (Date.now() - lastHardSeekAt > HARD_SEEK_COOLDOWN_MS) {
                     lastHardSeekAt = Date.now();
-                    lplog('hard seek', vid.currentTime.toFixed(2), '->', expected.toFixed(2));
+                    console.log('[LParty]', 'hard seek', vid.currentTime.toFixed(2), '->', expected.toFixed(2));
                     setExpectedSeek(expected);
                     vid.currentTime = expected;
                 } else {
-                    lplog('hard seek skipped (cooldown), drift', absDiff.toFixed(2));
+                    console.log('[LParty]', 'hard seek skipped (cooldown), drift', absDiff.toFixed(2));
                 }
             } else if (canAdjustRate() && (vid._lp_correcting ? absDiff > SYNC_TOLERANCE_S : absDiff > SYNC_CORRECT_ON_S)) {
                 vid._lp_correcting = true;
@@ -1806,7 +1788,7 @@
         if (inRoom || joining) {
             if (playerIsOpen()) roomAliveAt = Date.now();
             else if (roomAliveAt && Date.now() - roomAliveAt > ROOM_ORPHAN_MS) {
-                lplog('room without player - auto leave');
+                console.log('[LParty]', lplog('room without player - auto leave'));
                 leaveRoom(true);
             }
         }
@@ -1856,20 +1838,20 @@
 
         vid.addEventListener('waiting', function () {
             vid._lp_buffering = true;
-            lplog('buffering start at', (vid.currentTime || 0).toFixed(2));
+            console.log('[LParty]', 'buffering start at', (vid.currentTime || 0).toFixed(2));
         });
         vid.addEventListener('canplay', function () {
-            if (vid._lp_buffering) lplog('buffering end at', (vid.currentTime || 0).toFixed(2));
+            if (vid._lp_buffering) console.log('[LParty]', 'buffering end at', (vid.currentTime || 0).toFixed(2));
             vid._lp_buffering = false;
         });
         vid.addEventListener('playing', function () {
-            if (vid._lp_buffering) lplog('buffering end at', (vid.currentTime || 0).toFixed(2));
+            if (vid._lp_buffering) console.log('[LParty]', 'buffering end at', (vid.currentTime || 0).toFixed(2));
             vid._lp_buffering = false;
         });
         vid.addEventListener('error', function () {
-            lplog('video error', vid.error ? ('code ' + vid.error.code) : '');
+            console.log('[LParty]', 'video error', vid.error ? ('code ' + vid.error.code) : '');
         });
-        vid.addEventListener('stalled', function () { lplog('video stalled'); });
+        vid.addEventListener('stalled', function () { console.log('[LParty]', 'video stalled'); });
 
         vid.addEventListener('play', function () {
             if (initialSyncLock) {
@@ -1883,7 +1865,7 @@
             if (wasExpected) return;
 
             if (holdActive) {
-                lplog('user started playback during hold - releasing it');
+                console.log('[LParty]', 'user started playback during hold - releasing it');
                 lastUserActionTime = Date.now();
 
                 if (iAmHost()) {
@@ -1930,7 +1912,7 @@
             if (isSystemSyncing) return;
 
             if (seekIsOurs()) {
-                lplog('own seek settled at', (vid.currentTime || 0).toFixed(2));
+                console.log('[LParty]', 'own seek settled at', (vid.currentTime || 0).toFixed(2));
                 clearExpectedSeek();
                 lastKnownPosition = vid.currentTime || 0;
                 return;
@@ -1939,12 +1921,12 @@
             if (expectedState.seek !== -1) clearExpectedSeek();
 
             if (Math.abs((vid.currentTime || 0) - lastKnownPosition) < SEEK_MIN_JUMP_S) {
-                lplog('seek ignored, position barely moved', (vid.currentTime || 0).toFixed(2));
+                console.log('[LParty]', 'seek ignored, position barely moved', (vid.currentTime || 0).toFixed(2));
                 return;
             }
 
             if (Date.now() - lastSeekBroadcastAt < SEEK_BROADCAST_MIN_MS) {
-                lplog('seek broadcast throttled at', (vid.currentTime || 0).toFixed(2));
+                console.log('[LParty]', 'seek broadcast throttled at', (vid.currentTime || 0).toFixed(2));
                 return;
             }
 
@@ -2094,7 +2076,6 @@
                 onChange: function (value) {
                     Lampa.Storage.set('lparty_player', value);
                     playerLaunch = value;
-                    Lampa.Noty.show(playerLaunch);
                 }
             });
         }
@@ -2192,7 +2173,7 @@
                 uiPrevController = 'player';
 
                 setTimeout(function () {
-                    lplog('auto create room from card menu');
+                    console.log('[LParty]', 'auto create room from card menu');
                     autoCreateRoomFromPending(card, url);
                 }, SHARE_START_DELAY_MS);
             }
@@ -2365,5 +2346,5 @@
     };
 
     registerSettings();
-    lplog('started, relay: ' + getRelay() + ', lang: ' + _rawLang);
+    console.log('[LParty]', lplog('started, relay: ' + getRelay() + ', lang: ' + _rawLang));
 })();
