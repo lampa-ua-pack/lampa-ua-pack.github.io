@@ -947,7 +947,7 @@
         currentRoomMeta = {
             title: (meta && meta.title) || '',
             poster: (meta && meta.poster) || '',
-            url: (meta && meta.url) || '',
+            url: (meta && meta.url) || ('lparty://' + roomMarker()),
             tmdb_id: (meta && meta.tmdb_id) || 0,
             source: (meta && meta.source) || '',
             type: (meta && meta.type) || 'movie'
@@ -1455,20 +1455,11 @@
 
         lplog('start room stream via', launch, url ? url.substr(0, 60) : '');
 
-        console.log('lparty', {
-            url: url,
-            title: title || '',
-            poster: poster || '',
-            launch_player: launch,
-            headers: { 'LRoom': roomMarker() }
-        });
-
         Lampa.Player.play({
             url: url,
             title: title || '',
             poster: poster || '',
-            launch_player: launch,
-            headers: { 'LRoom': roomMarker() }
+            launch_player: launch
         });
     }
 
