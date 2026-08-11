@@ -2,7 +2,7 @@
     'use strict';
 
     if (window.LParty_plugin_started) {
-        console.log('[LParty] Already running.');
+        console.log('lparty', 'already running');
         return;
     }
     window.LParty_plugin_started = true;
@@ -243,6 +243,8 @@
 
         logRing.push(stamp + '  ' + text);
         if (logRing.length > LOG_LIMIT) logRing.shift();
+
+        console.log('lparty', text);
 
         return text;
     }
@@ -491,7 +493,7 @@
                 }
 
                 if (d.type === 'error') {
-                    console.log('[LParty] relay error:', d.message);
+                    lplog('relay error:', d.message);
                     self.onEvent({ kind: 'error', date: d.date, text: d.message });
                     return;
                 }
@@ -670,7 +672,7 @@
             for (var key in echoPending) {
                 if (!echoPending.hasOwnProperty(key)) continue;
                 if (now - echoPending[key] > ECHO_TIMEOUT_MS) {
-                    console.log('[LParty]', lplog('echo watchdog timeout - forcing reconnect'));
+                    lplog('echo watchdog timeout - forcing reconnect');
                     echoPending = {};
                     try { room.ws.close(); } catch (err) {}
                     return;
@@ -892,7 +894,7 @@
 
     function dropStaleRoom() {
         if ((inRoom || joining) && !playerIsOpen()) {
-            console.log('[LParty]', lplog('stale room detected (player closed) - leaving'));
+            lplog('stale room detected (player closed) - leaving');
             leaveRoom(true);
             return true;
         }
@@ -922,6 +924,8 @@
     }
 
     function connectRoom(roomId, password, onReady) {
+        lplog('connectRoom', roomId, 'launch=' + playerLaunch());
+
         if (room) { room.close(); room = null; }
 
         currentRoomId = roomId;
@@ -1798,7 +1802,7 @@
         if (inRoom || joining) {
             if (playerIsOpen()) roomAliveAt = Date.now();
             else if (roomAliveAt && Date.now() - roomAliveAt > ROOM_ORPHAN_MS) {
-                console.log('[LParty]', lplog('room without player - auto leave'));
+                lplog('room without player - auto leave');
                 leaveRoom(true);
             }
         }
@@ -2353,6 +2357,6 @@
     };
 
     registerSettings();
-    console.log('[LParty]', lplog('started v' + META.version + ', relay: ' + getRelay() + ', lang: ' + _rawLang +
-        ', android: ' + isAndroid() + ', launch: ' + playerLaunch()));
+    lplog('started v' + META.version + ', relay: ' + getRelay() + ', lang: ' + _rawLang +
+        ', android: ' + isAndroid() + ', launch: ' + playerLaunch());
 })();
