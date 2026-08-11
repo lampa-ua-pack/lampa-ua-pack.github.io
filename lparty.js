@@ -9,7 +9,7 @@
 
     var META = {
         name: 'LParty',
-        version: '1.3.8',
+        version: '1.3.7',
         author: 'nrsua, levende'
     };
 
@@ -267,9 +267,6 @@
     }
     function isPublish() {
         return Lampa.Storage.field('lparty_publish') !== false;
-    }
-    function isAndroid() {
-        return !!(Lampa.Platform && Lampa.Platform.is && Lampa.Platform.is('android'));
     }
     function playerLaunch() {
         return Lampa.Storage.get('lparty_player', 'lampa');
@@ -928,8 +925,6 @@
     }
 
     function connectRoom(roomId, password, onReady) {
-        lplog('connectRoom', roomId, 'launch=' + playerLaunch());
-
         if (room) { room.close(); room = null; }
 
         currentRoomId = roomId;
@@ -2080,7 +2075,7 @@
             field: { name: T.param_name, description: T.param_name_descr }
         });
 
-        if (isAndroid()) {
+        if (Lampa.Platform.is('android')) {
             Lampa.SettingsApi.addParam({
                 component: 'lparty',
                 param: {
@@ -2092,6 +2087,9 @@
                 field: {
                     name: Lampa.Lang.translate('settings_player_type'),
                     description: Lampa.Lang.translate('settings_player_type_descr')
+                },
+                onChange: function (value) {
+                    Lampa.Storage.set('lparty_player', value);
                 }
             });
         }
@@ -2334,7 +2332,6 @@
         state: function () {
             var vid = getVideo();
             return {
-                launch: playerLaunch(),
                 room: currentRoomId,
                 name: currentRoomName,
                 host: iAmHost(),
@@ -2363,6 +2360,5 @@
     };
 
     registerSettings();
-    lplog('started v' + META.version + ', relay: ' + getRelay() + ', lang: ' + _rawLang +
-        ', android: ' + isAndroid() + ', launch: ' + playerLaunch());
+    lplog('started, relay: ' + getRelay() + ', lang: ' + _rawLang);
 })();
