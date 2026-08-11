@@ -1101,7 +1101,7 @@
         }
         var id = newRoomId();
 
-        if (playerLaunch() === 'android' && !(hostAlreadyPlaying && playerIsOpen())) {
+        if (playerLaunch() === 'android') {
             androidRoomHandoff(id, seed.password || '', seed.name || ('Room-' + id), {
                 title: seed.title,
                 poster: seed.poster,
@@ -1455,8 +1455,6 @@
 
         lplog('start room stream via', launch, url ? url.substr(0, 60) : '');
 
-        console.log('lparty', url);
-        
         Lampa.Player.play({
             url: url,
             title: title || '',
