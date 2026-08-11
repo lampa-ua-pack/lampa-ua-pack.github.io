@@ -9,7 +9,7 @@
 
     var META = {
         name: 'LParty',
-        version: '1.3.6',
+        version: '1.3.5',
         author: 'nrsua, levende'
     };
 
