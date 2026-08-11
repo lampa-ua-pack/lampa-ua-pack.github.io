@@ -9,7 +9,7 @@
 
     var META = {
         name: 'LParty',
-        version: '1.3.5',
+        version: '1.3.7',
         author: 'nrsua, levende'
     };
 
@@ -2324,6 +2324,7 @@
         state: function () {
             var vid = getVideo();
             return {
+                launch: playerLaunch(),
                 room: currentRoomId,
                 name: currentRoomName,
                 host: iAmHost(),
@@ -2352,5 +2353,6 @@
     };
 
     registerSettings();
-    console.log('[LParty]', lplog('started, relay: ' + getRelay() + ', lang: ' + _rawLang));
+    console.log('[LParty]', lplog('started v' + META.version + ', relay: ' + getRelay() + ', lang: ' + _rawLang +
+        ', android: ' + isAndroid() + ', launch: ' + playerLaunch()));
 })();
