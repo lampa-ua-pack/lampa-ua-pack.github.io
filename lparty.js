@@ -237,6 +237,8 @@
 
     var logRing = [];
 
+    var playerLaunch = Lampa.Storage.get('lparty_player', 'lampa');
+
     function lplog() {
         var text = Array.prototype.slice.call(arguments).join(' ');
         var stamp = new Date().toISOString().substr(11, 12);
@@ -259,18 +261,19 @@
         var custom = (Lampa.Storage.get('lparty_display_name', '') || '').toString().trim();
         return custom || pid;
     }
+
     function isUsePassword() {
         return Lampa.Storage.field('lparty_use_password') === true;
     }
+
     function getDefaultPassword() {
         return (Lampa.Storage.get('lparty_default_password', '') || '').toString();
     }
+
     function isPublish() {
         return Lampa.Storage.field('lparty_publish') !== false;
     }
-    function playerLaunch() {
-        return Lampa.Storage.get('lparty_player', 'lampa');
-    }
+
     function getRelay() {
         var v = (Lampa.Storage.get('lparty_relay', '') || '').toString().trim();
         if (!v) v = DEFAULT_RELAY;
@@ -965,7 +968,7 @@
     }
 
     function joinRoom(roomId, password, fallbackName) {
-        if (playerLaunch() === 'android') return androidRoomHandoff(roomId, password, fallbackName, null);
+        if (playerLaunch === 'android') return androidRoomHandoff(roomId, password, fallbackName, null);
 
         Lampa.Noty.show(T.connecting);
 
@@ -1106,7 +1109,7 @@
         }
         var id = newRoomId();
 
-        if (playerLaunch() === 'android') {
+        if (playerLaunch === 'android') {
             androidRoomHandoff(id, seed.password || '', seed.name || ('Room-' + id), {
                 title: seed.title,
                 poster: seed.poster,
@@ -1456,7 +1459,7 @@
     }
 
     function playRoomStream(url, title, poster) {
-        var launch = playerLaunch();
+        var launch = playerLaunch;
 
         lplog('start room stream via', launch, url ? url.substr(0, 60) : '');
 
@@ -2090,6 +2093,8 @@
                 },
                 onChange: function (value) {
                     Lampa.Storage.set('lparty_player', value);
+                    playerLaunch = value;
+                    Lampa.Noty.show(playerLaunch);
                 }
             });
         }
