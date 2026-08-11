@@ -923,6 +923,10 @@
         return url + (url.indexOf('?') === -1 ? '?' : '&') + 'room=' + encodeURIComponent(data);
     }
 
+    function inviteLink() {
+        return withRoomParam('https://siaivo.isroot.in/lparty/');
+    }
+
     function connectRoom(roomId, password, onReady) {
         lplog('connectRoom', roomId, 'launch=' + playerLaunch());
 
@@ -951,7 +955,9 @@
         currentRoomMeta = {
             title: (meta && meta.title) || '',
             poster: (meta && meta.poster) || '',
-            url: (meta && meta.url) || ('lparty://' + roomMarker()),
+            // join: url лежит только в реле, куда lampa не ходит - плеер резолвит поток сам по маркеру.
+            // ponytail: https-инвайт, а не своя схема - lparty:// не проходит через android intent
+            url: (meta && meta.url) || inviteLink(),
             tmdb_id: (meta && meta.tmdb_id) || 0,
             source: (meta && meta.source) || '',
             type: (meta && meta.type) || 'movie'
@@ -2223,7 +2229,7 @@
     });
 
     function showRoomQr() {
-        var link = withRoomParam('https://siaivo.isroot.in/lparty/');
+        var link = inviteLink();
         var qrUrl = 'https://api.qrserver.com/v1/create-qr-code/?size=600x600&data=' + encodeURIComponent(link);
 
         var isMobile = Lampa.Platform && Lampa.Platform.screen && Lampa.Platform.screen('mobile');
