@@ -1455,6 +1455,8 @@
 
         lplog('start room stream via', launch, url ? url.substr(0, 60) : '');
 
+        console.log('lparty', url);
+        
         Lampa.Player.play({
             url: url,
             title: title || '',
