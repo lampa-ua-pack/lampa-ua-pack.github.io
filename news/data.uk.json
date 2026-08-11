@@ -57,7 +57,7 @@
           "season_number": 3,
           "runtime": 70,
           "still_path": "/3307RKThwUvOoa0h8nhbMYZNpEd.jpg",
-          "vote_average": 3.9
+          "vote_average": 5.4
         },
         "genres": [
           "Науково фантастичний",
@@ -175,7 +175,7 @@
           "season_number": 3,
           "runtime": 53,
           "still_path": "/Gq9Z0uNqJ2MtDEaMGRWSSvXGdL.jpg",
-          "vote_average": 9.4
+          "vote_average": 9.556
         },
         "genres": [
           "Драма",
@@ -408,7 +408,7 @@
           "season_number": 3,
           "runtime": 55,
           "still_path": "/hCUVzq1FghJlS75KIG2Ttxua4AL.jpg",
-          "vote_average": 5.587
+          "vote_average": 5.604
         },
         "genres": [
           "Науково фантастичний",
@@ -520,7 +520,7 @@
           "season_number": 4,
           "runtime": 42,
           "still_path": "/xKnpiILK8q0FR1DgNvsYBdKuFDN.jpg",
-          "vote_average": 6.8
+          "vote_average": 6.947
         },
         "genres": [
           "Драма",
@@ -584,7 +584,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/xSN56H3np7VyAC7bAeAEzFk3mCa.jpg",
-          "vote_average": 5.444
+          "vote_average": 5.4
         },
         "genres": [
           "Драма",
@@ -803,7 +803,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/cBsXy1Jxoun2H5mYKkzNkUysoni.jpg",
-          "vote_average": 6.585
+          "vote_average": 6.6
         },
         "genres": [
           "Науково фантастичний",
@@ -1103,7 +1103,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/pq1Mhdt9LbkQM5TOjuVZpcczbf.jpg",
+        "backdrop_path": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
         "genre_ids": [
           878,
           28,
@@ -1248,7 +1248,7 @@
           "season_number": 1,
           "runtime": 40,
           "still_path": "/wIqlraRAqpeXOKFOFrhFaqv8hYN.jpg",
-          "vote_average": 5.75
+          "vote_average": 5.8
         },
         "genres": [
           "Драма",
@@ -1270,7 +1270,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
+        "backdrop_path": "/cOKATn8lOcvVnOqqV5oYWaI9z2Z.jpg",
         "genre_ids": [
           28,
           53,
@@ -1869,7 +1869,7 @@
           "season_number": 3,
           "runtime": 48,
           "still_path": "/pYnJjrdS64krUWUAGB4ckZsqN1r.jpg",
-          "vote_average": 6.25
+          "vote_average": 6.291
         },
         "genres": [
           "Науково фантастичний",
@@ -2759,7 +2759,7 @@
           "season_number": 1,
           "runtime": 48,
           "still_path": "/eR9ffKHOTj5U9gCRZIRLL6ZtYiS.jpg",
-          "vote_average": 5.625
+          "vote_average": 5.6
         },
         "genres": [
           "Драма",
@@ -2929,5 +2929,5 @@
       "premiere": 0
     }
   ],
-  "duration": 5.420403480529785
+  "duration": 7.42890739440918
 }
