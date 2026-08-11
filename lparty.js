@@ -9,7 +9,7 @@
 
     var META = {
         name: 'LParty',
-        version: '1.3.6',
+        version: '1.3.7',
         author: 'nrsua, levende'
     };
 
@@ -232,6 +232,7 @@
     var PENDING_SHARE_MS = 300000;
     var SHARE_START_DELAY_MS = 600;
     var HARD_SEEK_COOLDOWN_MS = 3000;
+    var PENDING_ACT_MAX_MS = 15000;
     var RECONNECT_HELLO_MS = 60000;
     var LOG_LIMIT = 400;
 
@@ -858,6 +859,7 @@
         if (vid) clearRateAdjust(vid);
 
         if (expectedSeekTimer) { clearTimeout(expectedSeekTimer); expectedSeekTimer = null; }
+        clearPendingSync();
         expectedState = { seek: -1, play: false, pause: false };
         initialSyncLock = false;
         targetInitialState = null;
@@ -1287,6 +1289,7 @@
 
         if (m.t === 'host') {
             currentRoomOwner = m.u;
+            clearPendingSync();
             Lampa.Noty.show(T.notice_host_changed(m.n || e.alias));
             return;
         }
@@ -1298,6 +1301,7 @@
             currentRoomMeta.url = m.url;
             currentRoomMeta.title = m.ti || currentRoomMeta.title;
             markEpisodeSwitch();
+            clearPendingSync();
             try {
                 playRoomStream(m.url, m.ti || currentRoomName, '');
             } catch (err) {}
@@ -1328,9 +1332,24 @@
             if (isRewinding() || holdActive) return;
             if (Date.now() - lastUserActionTime < 2000) return;
 
+            // anything newer supersedes a deferred seek - never let a stale snapshot outlive it
+            pendingAct = null;
+
             isSystemSyncing = true;
             applySync(vid, state, position, e.date);
             setTimeout(function () { isSystemSyncing = false; }, 500);
+
+            // an explicit seek that could not land (buffering / seek cooldown) is kept and retried
+            // instead of being dropped - dropping it lets our heartbeat drag the peer back.
+            // threshold matches applySync's hard seek, so a drift it chose to fix by playbackRate
+            // is not mistaken for a missed seek
+            if (m.t === 'act' && m.v === 'seeked') {
+                var target = expectedPositionNow(state, position, e.date);
+                if (Math.abs((vid.currentTime || 0) - target) > hardSeekThreshold()) {
+                    pendingAct = { state: state, position: position, atServerTime: e.date, at: Date.now(), until: Date.now() + PENDING_ACT_MAX_MS };
+                    console.log('[LParty]', 'act seek deferred, target', target.toFixed(2));
+                }
+            }
             return;
         }
 
@@ -1396,6 +1415,7 @@
 
             if (uids[0] === room.uid) {
                 currentRoomOwner = pid;
+                clearPendingSync();
                 roomSend({ t: 'host', n: getDisplayName() });
                 Lampa.Noty.show(T.notice_host_changed(getDisplayName()));
                 startLobbyAgent();
@@ -1658,6 +1678,47 @@
     var seekGuardUntil = 0;
     var lastSeekBroadcastAt = 0;
     var lastKnownPosition = 0;
+    var pendingSeekBroadcast = null;
+    var pendingAct = null;
+
+    // both carry a position that only makes sense for the video that was playing when they were
+    // recorded - they must die with it, or they land on the next episode
+    function clearPendingSync() {
+        if (pendingSeekBroadcast) { clearTimeout(pendingSeekBroadcast); pendingSeekBroadcast = null; }
+        pendingAct = null;
+    }
+
+    function applyPendingAct() {
+        if (!pendingAct) return;
+
+        if (Date.now() > pendingAct.until) {
+            console.log('[LParty]', 'act seek given up after ' + PENDING_ACT_MAX_MS + 'ms');
+            pendingAct = null;
+            return;
+        }
+
+        // same gates the live path applies - a retry must never outrank a newer local action
+        if (lastUserActionTime > pendingAct.at) {
+            console.log('[LParty]', 'act seek dropped, superseded by local action');
+            pendingAct = null;
+            return;
+        }
+        if (!inRoom || initialSyncLock || isRewinding() || holdActive) return;
+        if (Date.now() - lastUserActionTime < 2000) return;
+
+        var vid = getVideo();
+        if (!vid) return;
+        if (videoBusy(vid)) return;
+        if (Date.now() - lastHardSeekAt <= HARD_SEEK_COOLDOWN_MS) return;
+
+        var act = pendingAct;
+        pendingAct = null;
+
+        console.log('[LParty]', 'act seek retry');
+        isSystemSyncing = true;
+        applySync(vid, act.state, act.position, act.atServerTime);
+        setTimeout(function () { isSystemSyncing = false; }, 500);
+    }
 
     function setExpectedSeek(pos) {
         expectedState.seek = pos;
@@ -1797,10 +1858,19 @@
             $('.lparty-room-badge').remove();
             return;
         }
+
+        // before the video check - a deferred act must be able to expire while there is no player,
+        // otherwise it silences the host heartbeat indefinitely
+        applyPendingAct();
+
         var vid = getVideo();
         if (!vid) return;
         updateRoomBadge();
         holdTick();
+
+        // our own seek that never produced a 'seeked' event (target equals current position) would
+        // otherwise keep the guard armed for the full SEEK_GUARD_MS and swallow the next user seek
+        if (expectedState.seek >= 0 && !vid.seeking && Math.abs((vid.currentTime || 0) - expectedState.seek) <= 0.5) clearExpectedSeek();
 
         if (!seekIsOurs()) lastKnownPosition = vid.currentTime || 0;
 
@@ -1925,15 +1995,32 @@
                 return;
             }
 
+            if (isRewinding()) rewindUntil = Date.now() + 400;
+            lastKnownPosition = vid.currentTime || 0;
+            lastUserActionTime = Date.now();
+
+            // throttle defers the burst, never drops it - a dropped seek means the host
+            // heartbeat drags us back to its old position two seconds later
             if (Date.now() - lastSeekBroadcastAt < SEEK_BROADCAST_MIN_MS) {
-                console.log('[LParty]', 'seek broadcast throttled at', (vid.currentTime || 0).toFixed(2));
+                console.log('[LParty]', 'seek broadcast deferred at', (vid.currentTime || 0).toFixed(2));
+                // debounce, not a periodic flush: a long scrub must end in ONE extra broadcast,
+                // not one every SEEK_BROADCAST_MIN_MS - each of those costs everyone a hard seek
+                if (pendingSeekBroadcast) clearTimeout(pendingSeekBroadcast);
+                pendingSeekBroadcast = setTimeout(function () {
+                    pendingSeekBroadcast = null;
+                    if (!inRoom || initialSyncLock || holdActive) return;
+                    var v = getVideo();
+                    if (!v) return;
+                    lastSeekBroadcastAt = Date.now();
+                    lastKnownPosition = v.currentTime || 0;
+                    lastUserActionTime = Date.now();
+                    sendSync(v.paused ? 'paused' : 'playing', 'seeked');
+                }, SEEK_BROADCAST_MIN_MS);
                 return;
             }
 
-            if (isRewinding()) rewindUntil = Date.now() + 400;
+            if (pendingSeekBroadcast) { clearTimeout(pendingSeekBroadcast); pendingSeekBroadcast = null; }
             lastSeekBroadcastAt = Date.now();
-            lastKnownPosition = vid.currentTime || 0;
-            lastUserActionTime = Date.now();
             sendSync(vid.paused ? 'paused' : 'playing', 'seeked');
         });
     }, 1000);
@@ -1942,6 +2029,7 @@
         if (!inRoom || initialSyncLock || isSystemSyncing || holdActive) return;
         if (!iAmHost()) return;
         if (expectedState.seek !== -1) return;
+        if (pendingAct) return;
         var vid = getVideo();
         if (!vid) return;
         sendSync(vid.paused ? 'paused' : 'playing', null);
@@ -2188,6 +2276,8 @@
     if (typeof Lampa.Player !== 'undefined' && Lampa.Player.listener) {
         Lampa.Player.listener.follow('start', onPlayerStart);
         Lampa.Player.listener.follow('destroy', function () {
+            clearPendingSync();
+
             var vid = getVideo();
             if (vid) {
                 vid._lp_hooked = false;
