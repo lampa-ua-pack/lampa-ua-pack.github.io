@@ -1459,15 +1459,15 @@
     }
 
     function playRoomStream(url, title, poster) {
-        var launch = playerLaunch;
-
         lplog('start room stream via', launch, url ? url.substr(0, 60) : '');
+
+        if (Lampa.Player.runas) Lampa.Player.runas(playerLaunch);
 
         Lampa.Player.play({
             url: url,
             title: title || '',
             poster: poster || '',
-            launch_player: launch
+            launch_player: playerLaunch
         });
     }
 
