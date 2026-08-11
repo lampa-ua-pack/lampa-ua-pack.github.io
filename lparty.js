@@ -2084,7 +2084,7 @@
                 param: {
                     name: 'lparty_player',
                     type: 'select',
-                    values: { lampa: Lampa.Lang.translate('settings_param_player_inner'), android: 'Android' },
+                    values: { inner: Lampa.Lang.translate('settings_param_player_inner'), android: 'Android' },
                     default: 'inner'
                 },
                 field: {
