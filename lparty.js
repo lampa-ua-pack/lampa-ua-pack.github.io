@@ -237,7 +237,7 @@
 
     var logRing = [];
 
-    var playerLaunch = Lampa.Storage.get('lparty_player', 'lampa');
+    var playerLaunch = Lampa.Storage.get('lparty_player', 'inner');
 
     function lplog() {
         var text = Array.prototype.slice.call(arguments).join(' ');
@@ -2085,7 +2085,7 @@
                     name: 'lparty_player',
                     type: 'select',
                     values: { lampa: Lampa.Lang.translate('settings_param_player_inner'), android: 'Android' },
-                    default: 'lampa'
+                    default: 'inner'
                 },
                 field: {
                     name: Lampa.Lang.translate('settings_player_type'),
@@ -2293,7 +2293,7 @@
             if (hasPlayer && hasFileMenu) {
                 items.push({
                     title: T.full_card_btn,
-                    player: 'lampa',
+                    player: 'inner',
                     lparty_inject: true
                 });
 
