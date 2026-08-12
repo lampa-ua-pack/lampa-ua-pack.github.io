@@ -2,6 +2,121 @@
   "secuses": true,
   "result": [
     {
+      "id": 2870,
+      "time": 1786540405105,
+      "card_id": "278624",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 278624,
+        "original_language": "en",
+        "name": "Лаки",
+        "original_name": "Lucky",
+        "names": [
+          "Лаки",
+          "Lucky"
+        ],
+        "overview": "Многомиллионное ограбление пошло не по плану, и аферистка Лаки вынуждена пуститься в бега. Преследуемая ФБР и безжалостным лидером преступной группировки, Лаки должна найти выход, чтобы выжить.",
+        "poster_path": "/kfdtVs9mWwU7XssjOyb3e3fCHuv.jpg",
+        "first_air_date": "2026-07-14",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 123,
+        "popularity": 102.0652,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6640984",
+        "kp_rating": "6.3",
+        "imdb_id": "tt34866681",
+        "imdb_rating": "6.8",
+        "status": "returning series",
+        "last_air_date": "2026-08-12",
+        "seasons": {
+          "1": 6
+        },
+        "episode": {
+          "air_date": "2026-08-11",
+          "episode_number": 6,
+          "name": "От себя не убежишь",
+          "overview": "Строя планы на будущее, Лаки должна примириться с прошлым.",
+          "season_number": 1,
+          "runtime": 49,
+          "still_path": "/ipUpVlpqI7tsDc37Lc3AOM6Bbef.jpg",
+          "vote_average": 1
+        }
+      },
+      "type": "episode",
+      "hash": "s1;e6",
+      "premiere": 0
+    },
+    {
+      "id": 2869,
+      "time": 1786522404105,
+      "card_id": "97546",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 97546,
+        "original_language": "en",
+        "name": "Тед Лассо",
+        "original_name": "Ted Lasso",
+        "names": [
+          "Тед Лассо",
+          "Ted Lasso"
+        ],
+        "overview": "Тренер по американскому футболу Тед Лассо неожиданно переезжает в Англию, чтобы возглавить профессиональный футбольный клуб, хотя почти ничего не знает о европейском футболе. Несмотря на скептицизм игроков, болельщиков и руководства, он покоряет окружающих своим оптимизмом, добротой и необычным подходом к работе. Постепенно Тед помогает команде стать сильнее не только на поле, но и за его пределами, пока каждый из её участников проходит собственный путь, сталкиваясь с трудностями, победами и важными жизненными переменами.",
+        "poster_path": "/gO2kQUDfZWsvdDetUljaTI6t87i.jpg",
+        "first_air_date": "2020-08-14",
+        "video": false,
+        "vote_average": 8.344,
+        "vote_count": 2508,
+        "popularity": 143.4798,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1309707",
+        "kp_rating": "8.5",
+        "imdb_id": "tt10986410",
+        "imdb_rating": "8.7",
+        "status": "returning series",
+        "last_air_date": "2026-08-12",
+        "seasons": {
+          "1": 10,
+          "2": 12,
+          "3": 12,
+          "4": 2
+        },
+        "episode": {
+          "air_date": "2026-08-11",
+          "episode_number": 2,
+          "name": "Эпизод 2",
+          "overview": "",
+          "season_number": 4,
+          "runtime": 46,
+          "still_path": "/uQh0LIEnvwp4j3Z2Rnab4K1kG0Y.jpg",
+          "vote_average": 4
+        }
+      },
+      "type": "episode",
+      "hash": "s4;e2",
+      "premiere": 0
+    },
+    {
       "id": 2868,
       "time": 1786360404154,
       "card_id": "94997",
@@ -2610,107 +2725,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2820,
-      "time": 1784102193658,
-      "card_id": "1368314",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
-        "genre_ids": [
-          27,
-          53
-        ],
-        "id": 1368314,
-        "original_language": "en",
-        "title": "Пассажир",
-        "original_title": "Passenger",
-        "names": [
-          "Пассажир",
-          "Passenger"
-        ],
-        "overview": "Через несколько недель после начала жизни в доме на колёсах молодая пара становится свидетелями страшной аварии, в которой погибает водитель. Вскоре их начинает преследовать демоническая сущность, от которой невозможно уйти — куда бы они ни отправились, она следует за ними.",
-        "poster_path": "/grlCRoCv2uT7WGvpkWSKxjPPVqc.jpg",
-        "release_date": "2026-05-20",
-        "video": false,
-        "vote_average": 6.807,
-        "vote_count": 254,
-        "popularity": 232.1839,
-        "PG": 18,
-        "release_quality": "webdl",
-        "kinopoisk_id": "9259355",
-        "kp_rating": "5.8",
-        "imdb_id": "tt33763941",
-        "imdb_rating": "5.6",
-        "status": "released",
-        "last_air_date": "2026-05-23",
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Ужасы",
-          "Триллер"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2819,
-      "time": 1784033109699,
-      "card_id": "1315772",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
-        "genre_ids": [
-          12,
-          16,
-          35,
-          10751,
-          14
-        ],
-        "id": 1315772,
-        "original_language": "en",
-        "title": "Миньоны и монстры",
-        "original_title": "Minions & Monsters",
-        "names": [
-          "Миньоны и монстры",
-          "Minions & Monsters"
-        ],
-        "overview": "1920-е годы. Миньоны снимаются в кино и покоряют Голливуд. Чтобы снять свой собственный фильм о монстрах, они отправляются на поиски самых пугающих существ.",
-        "poster_path": "/5Bu0nKJxTQd2bVUDF9qrpEEFt1a.jpg",
-        "release_date": "2026-06-24",
-        "video": false,
-        "vote_average": 6.388,
-        "vote_count": 139,
-        "popularity": 149.9811,
-        "PG": 6,
-        "release_quality": "webdl",
-        "kinopoisk_id": "6020597",
-        "kp_rating": "6.4",
-        "imdb_id": "tt32890033",
-        "imdb_rating": "6.5",
-        "status": "released",
-        "last_air_date": "2026-06-26",
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Приключения",
-          "Мультфильм",
-          "Комедия",
-          "Семейный",
-          "Фэнтези"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.42890739440918
+  "duration": 6.919768333435059
 }

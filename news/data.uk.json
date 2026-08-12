@@ -2,6 +2,137 @@
   "secuses": true,
   "result": [
     {
+      "id": 2870,
+      "time": 1786540405105,
+      "card_id": "278624",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 278624,
+        "original_language": "en",
+        "name": "Лакі",
+        "original_name": "Lucky",
+        "names": [
+          "Лакі",
+          "Лаки",
+          "Lucky"
+        ],
+        "overview": "Коли пограбування на мільйони доларів зривається, аферистка Лакі змушена тікати. Опинившись під прицілом ФБР та безжального кримінального боса, Лакі бореться за життя і шукає вихід із ситуації.",
+        "poster_path": "/tdcQyS4YbaRJnliqh595qD6e8mY.jpg",
+        "first_air_date": "2026-07-14",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 123,
+        "popularity": 102.0652,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6640984",
+        "kp_rating": "6.3",
+        "imdb_id": "tt34866681",
+        "imdb_rating": "6.8",
+        "status": "returning series",
+        "last_air_date": "2026-08-12",
+        "seasons": {
+          "1": 6
+        },
+        "episode": {
+          "air_date": "2026-08-11",
+          "episode_number": 6,
+          "name": "Від себе не втечеш",
+          "overview": "Будуючи плани на майбутнє, Лакі повинна примиритися з минулим.",
+          "season_number": 1,
+          "runtime": 49,
+          "still_path": "/ipUpVlpqI7tsDc37Lc3AOM6Bbef.jpg",
+          "vote_average": 1.0
+        },
+        "genres": [
+          "Драма",
+          "Кримінал"
+        ],
+        "countries": [
+          "United States of America",
+          "United Kingdom"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e6",
+      "premiere": 0
+    },
+    {
+      "id": 2869,
+      "time": 1786522404105,
+      "card_id": "97546",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 97546,
+        "original_language": "en",
+        "name": "Тед Лассо",
+        "original_name": "Ted Lasso",
+        "names": [
+          "Тед Лассо",
+          "Ted Lasso"
+        ],
+        "overview": "Тед Лассо, американський тренер з футболу, переїжджає до Англії, коли його найняли керувати футбольною командою — незважаючи на відсутність досвіду. З цинічними гравцями та сумнівним містечком, чи змусить він їх побачити Шлях Теда Лассо?",
+        "poster_path": "/8G5pL6yWDs8jXKBV7K9Unm1vsxd.jpg",
+        "first_air_date": "2020-08-14",
+        "video": false,
+        "vote_average": 8.344,
+        "vote_count": 2508,
+        "popularity": 143.4798,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1309707",
+        "kp_rating": "8.5",
+        "imdb_id": "tt10986410",
+        "imdb_rating": "8.7",
+        "status": "returning series",
+        "last_air_date": "2026-08-12",
+        "seasons": {
+          "1": 10,
+          "2": 12,
+          "3": 12,
+          "4": 2
+        },
+        "episode": {
+          "air_date": "2026-08-11",
+          "episode_number": 2,
+          "name": "Цікавіше й цікавіше",
+          "overview": "Тед повертається в «Ричмонд» і знайомиться з леді-ґрейгаундами, та далеко не всі раді його появі.",
+          "season_number": 4,
+          "runtime": 46,
+          "still_path": "/uQh0LIEnvwp4j3Z2Rnab4K1kG0Y.jpg",
+          "vote_average": 5.2
+        },
+        "genres": [
+          "Драма",
+          "Комедія"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s4;e2",
+      "premiere": 0
+    },
+    {
       "id": 2868,
       "time": 1786360404154,
       "card_id": "94997",
@@ -55,9 +186,9 @@
           "name": "Серія 8",
           "overview": "",
           "season_number": 3,
-          "runtime": 70,
+          "runtime": 71,
           "still_path": "/3307RKThwUvOoa0h8nhbMYZNpEd.jpg",
-          "vote_average": 5.4
+          "vote_average": 6.345
         },
         "genres": [
           "Науково фантастичний",
@@ -175,7 +306,7 @@
           "season_number": 3,
           "runtime": 53,
           "still_path": "/Gq9Z0uNqJ2MtDEaMGRWSSvXGdL.jpg",
-          "vote_average": 9.556
+          "vote_average": 9.6
         },
         "genres": [
           "Драма",
@@ -339,7 +470,7 @@
           "season_number": 3,
           "runtime": 49,
           "still_path": "/Aatcm1poF3inxNCUwZEg08qqC2t.jpg",
-          "vote_average": 9.3
+          "vote_average": 9.292
         },
         "genres": [
           "Драма",
@@ -408,7 +539,7 @@
           "season_number": 3,
           "runtime": 55,
           "still_path": "/hCUVzq1FghJlS75KIG2Ttxua4AL.jpg",
-          "vote_average": 5.604
+          "vote_average": 5.827
         },
         "genres": [
           "Науково фантастичний",
@@ -429,7 +560,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
+        "backdrop_path": "/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
         "genre_ids": [
           27
         ],
@@ -520,7 +651,7 @@
           "season_number": 4,
           "runtime": 42,
           "still_path": "/xKnpiILK8q0FR1DgNvsYBdKuFDN.jpg",
-          "vote_average": 6.947
+          "vote_average": 7.0
         },
         "genres": [
           "Драма",
@@ -584,7 +715,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/xSN56H3np7VyAC7bAeAEzFk3mCa.jpg",
-          "vote_average": 5.4
+          "vote_average": 5.409
         },
         "genres": [
           "Драма",
@@ -803,7 +934,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/cBsXy1Jxoun2H5mYKkzNkUysoni.jpg",
-          "vote_average": 6.6
+          "vote_average": 6.488
         },
         "genres": [
           "Науково фантастичний",
@@ -983,7 +1114,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/zcbjuLkbVPHSphOHClKQM0v1Zjf.jpg",
-          "vote_average": 6.543
+          "vote_average": 6.597
         },
         "genres": [
           "Науково фантастичний",
@@ -1248,7 +1379,7 @@
           "season_number": 1,
           "runtime": 40,
           "still_path": "/wIqlraRAqpeXOKFOFrhFaqv8hYN.jpg",
-          "vote_average": 5.8
+          "vote_average": 5.469
         },
         "genres": [
           "Драма",
@@ -1370,7 +1501,7 @@
           "season_number": 3,
           "runtime": 63,
           "still_path": "/6nU7pbPWspOKjud544KV2VEamUe.jpg",
-          "vote_average": 6.5
+          "vote_average": 6.433
         },
         "genres": [
           "Науково фантастичний",
@@ -2292,7 +2423,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/trmxI19SM9arfcd4Petr5sJXrGd.jpg",
-          "vote_average": 5.6
+          "vote_average": 5.589
         },
         "genres": [
           "Науково фантастичний",
@@ -2825,109 +2956,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2820,
-      "time": 1784102193658,
-      "card_id": "1368314",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
-        "genre_ids": [
-          27,
-          53
-        ],
-        "id": 1368314,
-        "original_language": "en",
-        "title": "Пасажир",
-        "original_title": "Passenger",
-        "names": [
-          "Пасажир",
-          "Пассажир",
-          "Passenger"
-        ],
-        "overview": "За кілька тижнів після початку подорожі молода пара стає свідками моторошної аварії, в якій гине водій. Незабаром їх починає переслідувати Пасажир — демонічний сталкер, від якого неможливо втекти, і який слідує за ними, куди б вони не вирушили.",
-        "poster_path": "/v9fndC0p2Ix5wWOZV0vD82qohEw.jpg",
-        "release_date": "2026-05-20",
-        "video": false,
-        "vote_average": 6.807,
-        "vote_count": 254,
-        "popularity": 232.1839,
-        "PG": 18,
-        "release_quality": "webdl",
-        "kinopoisk_id": "9259355",
-        "kp_rating": "5.8",
-        "imdb_id": "tt33763941",
-        "imdb_rating": "5.6",
-        "status": "released",
-        "last_air_date": "2026-05-23",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Жахи",
-          "Трилер"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2819,
-      "time": 1784033109699,
-      "card_id": "1315772",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-        "genre_ids": [
-          12,
-          16,
-          35,
-          10751,
-          14
-        ],
-        "id": 1315772,
-        "original_language": "en",
-        "title": "Посіпаки і Монстряки",
-        "original_title": "Minions & Monsters",
-        "names": [
-          "Посіпаки і Монстряки",
-          "Миньоны и монстры",
-          "Minions & Monsters"
-        ],
-        "overview": "Це зухвала, абсурдна і водночас напрочуд правдива історія про те, як посіпаки підкорили Голлівуд, стали кінозірками, втратили все, випустили монстрів на волю — і зрештою змушені були об’єднатися, щоб урятувати планету від хаосу, який самі ж і спричинили.",
-        "poster_path": "/lfASk37BOkRWDxwlm5noCyxaU26.jpg",
-        "release_date": "2026-06-24",
-        "video": false,
-        "vote_average": 6.388,
-        "vote_count": 139,
-        "popularity": 149.9811,
-        "PG": 6,
-        "release_quality": "webdl",
-        "kinopoisk_id": "6020597",
-        "kp_rating": "6.4",
-        "imdb_id": "tt32890033",
-        "imdb_rating": "6.5",
-        "status": "released",
-        "last_air_date": "2026-06-26",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Пригоди",
-          "Мультфільм",
-          "Комедія",
-          "Сімейний",
-          "Фентезі"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.42890739440918
+  "duration": 6.919768333435059
 }
