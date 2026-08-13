@@ -2,6 +2,137 @@
   "secuses": true,
   "result": [
     {
+      "id": 2872,
+      "time": 1786612404118,
+      "card_id": "108978",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "id": 108978,
+        "original_language": "en",
+        "name": "Річер",
+        "original_name": "Reacher",
+        "names": [
+          "Річер",
+          "Джек Ричер",
+          "Jack Reacher",
+          "Джек Річер",
+          "Reacher",
+          "Ричер"
+        ],
+        "overview": "Джека Річера, колишнього майора армійської військової поліції, заарештовують за підозрою у вбивстві. Знявши з себе підозри, герой сам береться за пошуки кілера.",
+        "poster_path": "/pJVJCnjLBvAd8iVQ3y8G4cFgyg8.jpg",
+        "first_air_date": "2022-02-03",
+        "video": false,
+        "vote_average": 8.077,
+        "vote_count": 3002,
+        "popularity": 171.6003,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1209839",
+        "kp_rating": "7.4",
+        "imdb_id": "tt9288030",
+        "imdb_rating": "8.0",
+        "status": "returning series",
+        "last_air_date": "2026-08-12",
+        "seasons": {
+          "1": 8,
+          "2": 8,
+          "3": 8,
+          "4": 3
+        },
+        "episode": {
+          "air_date": "2026-08-12",
+          "episode_number": 3,
+          "name": "Серія 3",
+          "overview": "",
+          "season_number": 4,
+          "runtime": 44,
+          "still_path": "/rNVrMf7gXC1EZBMdgsFYFCHjpEF.jpg",
+          "vote_average": 2.5
+        },
+        "genres": [
+          "Екшн і Пригоди",
+          "Драма",
+          "Кримінал"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s4;e3",
+      "premiere": 0
+    },
+    {
+      "id": 2871,
+      "time": 1786610604222,
+      "card_id": "291496",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 291496,
+        "original_language": "ko",
+        "name": "Липке кохання",
+        "original_name": "이런 엿같은 사랑",
+        "names": [
+          "Липке кохання",
+          "Эта чёртова любовь",
+          "Ireon yeot gateun sarang",
+          "Липкая любовь / Our Sticky Love",
+          "Липкая любовь",
+          "이런 엿같은 사랑",
+          "Эта проклятая любовь",
+          "Ireon Yeot Gateun Sarang"
+        ],
+        "overview": "Утративши пам’ять, амбітна прокурорка переїжджає до тренера з боксу, який стверджує, що є її хлопцем. Чи може ця дивна ситуація перерости в справжнє кохання?",
+        "poster_path": "/ny8zYj40mWGTgKJi1a8hjNFUj9n.jpg",
+        "first_air_date": "2026-08-07",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 6,
+        "popularity": 87.5065,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "7946020",
+        "kp_rating": "8.0",
+        "imdb_id": "tt36955608",
+        "imdb_rating": "7.5",
+        "status": "ended",
+        "last_air_date": "2026-08-09",
+        "seasons": {
+          "1": 12
+        },
+        "countries": [
+          "South Korea"
+        ],
+        "genres": [
+          "Драма",
+          "Комедія"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2870,
       "time": 1786540405105,
       "card_id": "278624",
@@ -51,7 +182,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/ipUpVlpqI7tsDc37Lc3AOM6Bbef.jpg",
-          "vote_average": 1.0
+          "vote_average": 6.125
         },
         "genres": [
           "Драма",
@@ -73,7 +204,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+        "backdrop_path": "/gEQkOMmnJcoh9Hh1vk7fpVYnksR.jpg",
         "genre_ids": [
           18,
           35
@@ -118,7 +249,7 @@
           "season_number": 4,
           "runtime": 46,
           "still_path": "/uQh0LIEnvwp4j3Z2Rnab4K1kG0Y.jpg",
-          "vote_average": 5.2
+          "vote_average": 7.111
         },
         "genres": [
           "Драма",
@@ -188,7 +319,7 @@
           "season_number": 3,
           "runtime": 71,
           "still_path": "/3307RKThwUvOoa0h8nhbMYZNpEd.jpg",
-          "vote_average": 6.345
+          "vote_average": 6.5
         },
         "genres": [
           "Науково фантастичний",
@@ -306,7 +437,7 @@
           "season_number": 3,
           "runtime": 53,
           "still_path": "/Gq9Z0uNqJ2MtDEaMGRWSSvXGdL.jpg",
-          "vote_average": 9.6
+          "vote_average": 9.556
         },
         "genres": [
           "Драма",
@@ -606,7 +737,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+        "backdrop_path": "/gEQkOMmnJcoh9Hh1vk7fpVYnksR.jpg",
         "genre_ids": [
           18,
           35
@@ -651,7 +782,7 @@
           "season_number": 4,
           "runtime": 42,
           "still_path": "/xKnpiILK8q0FR1DgNvsYBdKuFDN.jpg",
-          "vote_average": 7.0
+          "vote_average": 7.143
         },
         "genres": [
           "Драма",
@@ -715,7 +846,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/xSN56H3np7VyAC7bAeAEzFk3mCa.jpg",
-          "vote_average": 5.409
+          "vote_average": 5.688
         },
         "genres": [
           "Драма",
@@ -934,7 +1065,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/cBsXy1Jxoun2H5mYKkzNkUysoni.jpg",
-          "vote_average": 6.488
+          "vote_average": 6.568
         },
         "genres": [
           "Науково фантастичний",
@@ -1379,7 +1510,7 @@
           "season_number": 1,
           "runtime": 40,
           "still_path": "/wIqlraRAqpeXOKFOFrhFaqv8hYN.jpg",
-          "vote_average": 5.469
+          "vote_average": 5.472
         },
         "genres": [
           "Драма",
@@ -1576,7 +1707,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/fOaRHSP4uHujzFlgYFA8ufZ9kJN.jpg",
-          "vote_average": 8.2
+          "vote_average": 8.306
         },
         "genres": [
           "Мультфільм",
@@ -2220,7 +2351,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/jKeFPdISdSCfB6BlBgEfu6K2GBp.jpg",
-          "vote_average": 4.5
+          "vote_average": 4.574
         },
         "genres": [
           "Драма",
@@ -2841,122 +2972,7 @@
       "type": "episode",
       "hash": "s1;e8",
       "premiere": 0
-    },
-    {
-      "id": 2822,
-      "time": 1784278588559,
-      "card_id": "278624",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 278624,
-        "original_language": "en",
-        "name": "Лакі",
-        "original_name": "Lucky",
-        "names": [
-          "Лакі",
-          "Лаки",
-          "Lucky"
-        ],
-        "overview": "Коли пограбування на мільйони доларів зривається, аферистка Лакі змушена тікати. Опинившись під прицілом ФБР та безжального кримінального боса, Лакі бореться за життя і шукає вихід із ситуації.",
-        "poster_path": "/tdcQyS4YbaRJnliqh595qD6e8mY.jpg",
-        "first_air_date": "2026-07-14",
-        "video": false,
-        "vote_average": 4.3,
-        "vote_count": 7,
-        "popularity": 15.8569,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6640984",
-        "imdb_id": "tt34866681",
-        "status": "returning series",
-        "last_air_date": "2026-07-16",
-        "seasons": {
-          "1": 2
-        },
-        "episode": {
-          "air_date": "2026-07-14",
-          "episode_number": 2,
-          "name": "Змусь їх танцювати",
-          "overview": "Шукаючи прихистку, Лакі переховується в сім’ї, яка ні про що не здогадується. Прісцилла навідується до батька Лакі.",
-          "season_number": 1,
-          "runtime": 48,
-          "still_path": "/eR9ffKHOTj5U9gCRZIRLL6ZtYiS.jpg",
-          "vote_average": 5.6
-        },
-        "genres": [
-          "Драма",
-          "Кримінал"
-        ],
-        "countries": [
-          "United States of America",
-          "United Kingdom"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e2",
-      "premiere": 0
-    },
-    {
-      "id": 2821,
-      "time": 1784123788640,
-      "card_id": "1397201",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/eeiZikJBrnx5H5AQOaTD9Lt6DU3.jpg",
-        "genre_ids": [
-          28,
-          12,
-          36
-        ],
-        "id": 1397201,
-        "original_language": "ja",
-        "title": "Золоте божество: Напад на вʼязницю Абашірі",
-        "original_title": "ゴールデンカムイ 網走監獄襲撃編",
-        "names": [
-          "Золоте божество: Напад на вʼязницю Абашірі",
-          "Золотое божество: Нападение на тюрьму Абасири",
-          "Golden Kamuy: Abashiri Kangoku Shûgeki-henэ",
-          "ゴールデンカムイ 網走監獄襲撃編",
-          "Golden Kamuy: Abashiri Kangoku Shugeki-hen"
-        ],
-        "overview": "У розпал запеклої тристоронньої боротьби за запас золота айнів Асірпа й Суґімото вирушають до в’язниці Абашірі, де на них чекають Ноппера-Бо й правда про її батька.",
-        "poster_path": "/lcBrjK1mnPrrpLk6VtlVMMCfsLS.jpg",
-        "release_date": "2026-03-13",
-        "video": false,
-        "vote_average": 7.5,
-        "vote_count": 6,
-        "popularity": 18.1924,
-        "PG": 17,
-        "release_quality": "webdl",
-        "kinopoisk_id": "10435589",
-        "imdb_id": "tt38109660",
-        "imdb_rating": "7.7",
-        "status": "released",
-        "last_air_date": "2026-07-15",
-        "countries": [
-          "Japan"
-        ],
-        "genres": [
-          "Бойовик",
-          "Драма",
-          "Історичний",
-          "Пригоди"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.919768333435059
+  "duration": 4.497321128845215
 }
