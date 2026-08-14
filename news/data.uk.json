@@ -2,6 +2,75 @@
   "secuses": true,
   "result": [
     {
+      "id": 2873,
+      "time": 1786702404201,
+      "card_id": "125988",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 125988,
+        "original_language": "en",
+        "name": "Таємниця бункера",
+        "original_name": "Silo",
+        "names": [
+          "Таємниця бункера",
+          "Бункер",
+          "Silo",
+          "Укрытие",
+          "Таємниця бункера / Бункер",
+          "Wool"
+        ],
+        "overview": "У занапащеному й небезпечному майбутньому тисячі людей живуть у великому підземному бункері. Коли шериф порушує його основоположне правило, а жителі гинуть за загадкових обставин, інженер Джулієт береться розкривати приголомшливі таємниці й правду про бункер.",
+        "poster_path": "/fjo0lVGHPHJS2CqrXOyZN379BXK.jpg",
+        "first_air_date": "2023-05-04",
+        "video": false,
+        "vote_average": 8.186,
+        "vote_count": 2390,
+        "popularity": 236.6381,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4541515",
+        "kp_rating": "7.8",
+        "imdb_id": "tt14688458",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-08-14",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 7
+        },
+        "episode": {
+          "air_date": "2026-08-13",
+          "episode_number": 7,
+          "name": "Радіо",
+          "overview": "Джулієт посилає Лукаса й Кеннеді на завдання, а Каміл відчайдушно вимагає в Роберта правди.",
+          "season_number": 3,
+          "runtime": 56,
+          "still_path": "/hT47PUyS6fQrmukmbyXrL9nBgKc.jpg",
+          "vote_average": 4.6
+        },
+        "genres": [
+          "Науково фантастичний",
+          "Драма"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e7",
+      "premiere": 0
+    },
+    {
       "id": 2872,
       "time": 1786612404118,
       "card_id": "108978",
@@ -58,7 +127,7 @@
           "season_number": 4,
           "runtime": 44,
           "still_path": "/rNVrMf7gXC1EZBMdgsFYFCHjpEF.jpg",
-          "vote_average": 2.5
+          "vote_average": 4.95
         },
         "genres": [
           "Екшн і Пригоди",
@@ -182,7 +251,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/ipUpVlpqI7tsDc37Lc3AOM6Bbef.jpg",
-          "vote_average": 6.125
+          "vote_average": 5.5
         },
         "genres": [
           "Драма",
@@ -204,7 +273,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/gEQkOMmnJcoh9Hh1vk7fpVYnksR.jpg",
+        "backdrop_path": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
         "genre_ids": [
           18,
           35
@@ -244,12 +313,12 @@
         "episode": {
           "air_date": "2026-08-11",
           "episode_number": 2,
-          "name": "Цікавіше й цікавіше",
+          "name": "Цікавіше й цікавіше!",
           "overview": "Тед повертається в «Ричмонд» і знайомиться з леді-ґрейгаундами, та далеко не всі раді його появі.",
           "season_number": 4,
-          "runtime": 46,
+          "runtime": 47,
           "still_path": "/uQh0LIEnvwp4j3Z2Rnab4K1kG0Y.jpg",
-          "vote_average": 7.111
+          "vote_average": 7.4
         },
         "genres": [
           "Драма",
@@ -314,12 +383,12 @@
         "episode": {
           "air_date": "2026-08-09",
           "episode_number": 8,
-          "name": "Серія 8",
-          "overview": "",
+          "name": "Зради у Тамблтоні",
+          "overview": "Зміни в союзах безповоротно змінюють хід війни, оскільки війська Рейнери збираються навколо Тамблетона, а обидві сторони змагаються за перевагу.",
           "season_number": 3,
           "runtime": 71,
           "still_path": "/3307RKThwUvOoa0h8nhbMYZNpEd.jpg",
-          "vote_average": 6.5
+          "vote_average": 6.6
         },
         "genres": [
           "Науково фантастичний",
@@ -437,7 +506,7 @@
           "season_number": 3,
           "runtime": 53,
           "still_path": "/Gq9Z0uNqJ2MtDEaMGRWSSvXGdL.jpg",
-          "vote_average": 9.556
+          "vote_average": 9.364
         },
         "genres": [
           "Драма",
@@ -601,7 +670,7 @@
           "season_number": 3,
           "runtime": 49,
           "still_path": "/Aatcm1poF3inxNCUwZEg08qqC2t.jpg",
-          "vote_average": 9.292
+          "vote_average": 9.269
         },
         "genres": [
           "Драма",
@@ -670,7 +739,7 @@
           "season_number": 3,
           "runtime": 55,
           "still_path": "/hCUVzq1FghJlS75KIG2Ttxua4AL.jpg",
-          "vote_average": 5.827
+          "vote_average": 6.054
         },
         "genres": [
           "Науково фантастичний",
@@ -737,7 +806,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/gEQkOMmnJcoh9Hh1vk7fpVYnksR.jpg",
+        "backdrop_path": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
         "genre_ids": [
           18,
           35
@@ -846,7 +915,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/xSN56H3np7VyAC7bAeAEzFk3mCa.jpg",
-          "vote_average": 5.688
+          "vote_average": 5.412
         },
         "genres": [
           "Драма",
@@ -1065,7 +1134,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/cBsXy1Jxoun2H5mYKkzNkUysoni.jpg",
-          "vote_average": 6.568
+          "vote_average": 6.4
         },
         "genres": [
           "Науково фантастичний",
@@ -1087,7 +1156,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/se8LfmZYFiNerF6U7zMUKePV0vE.jpg",
+        "backdrop_path": "/4wmvU2Px3C8v3qqyNpBmgJrWQEx.jpg",
         "genre_ids": [
           27,
           53
@@ -1510,7 +1579,7 @@
           "season_number": 1,
           "runtime": 40,
           "still_path": "/wIqlraRAqpeXOKFOFrhFaqv8hYN.jpg",
-          "vote_average": 5.472
+          "vote_average": 5.025
         },
         "genres": [
           "Драма",
@@ -1532,7 +1601,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/cOKATn8lOcvVnOqqV5oYWaI9z2Z.jpg",
+        "backdrop_path": "/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
         "genre_ids": [
           28,
           53,
@@ -1632,7 +1701,7 @@
           "season_number": 3,
           "runtime": 63,
           "still_path": "/6nU7pbPWspOKjud544KV2VEamUe.jpg",
-          "vote_average": 6.433
+          "vote_average": 6.315
         },
         "genres": [
           "Науково фантастичний",
@@ -2554,7 +2623,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/trmxI19SM9arfcd4Petr5sJXrGd.jpg",
-          "vote_average": 5.589
+          "vote_average": 5.663
         },
         "genres": [
           "Науково фантастичний",
@@ -2908,71 +2977,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2823,
-      "time": 1784296588584,
-      "card_id": "277439",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 277439,
-        "original_language": "en",
-        "name": "Мис страху",
-        "original_name": "Cape Fear",
-        "names": [
-          "Мис страху",
-          "Мыс страха",
-          "Cape Fear"
-        ],
-        "overview": "Життя щасливого подружжя адвокатів опиняється під загрозою, коли на волю виходить небезпечний злочинець з їхнього минулого.",
-        "poster_path": "/e9XA7L1DwMzCnPZAkr3jOQ3FDcm.jpg",
-        "first_air_date": "2026-06-04",
-        "video": false,
-        "vote_average": 7,
-        "vote_count": 67,
-        "popularity": 46.3063,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6576642",
-        "kp_rating": "6.7",
-        "imdb_id": "tt34675596",
-        "imdb_rating": "7.2",
-        "status": "returning series",
-        "last_air_date": "2026-07-17",
-        "seasons": {
-          "1": 8
-        },
-        "episode": {
-          "air_date": "2026-07-16",
-          "episode_number": 8,
-          "name": "«Los tiempos de Dios son Perfectos»",
-          "overview": "Макс висуває претензії, Анна й Том переходять у наступ. Наталі намагається перешкодити Максові.",
-          "season_number": 1,
-          "runtime": 46,
-          "still_path": "/zhUjCo3SL7OmLGBkVf6JtxyTH6N.jpg",
-          "vote_average": 7.5
-        },
-        "genres": [
-          "Кримінал",
-          "Драма"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e8",
-      "premiere": 0
     }
   ],
-  "duration": 4.497321128845215
+  "duration": 6.202027320861816
 }

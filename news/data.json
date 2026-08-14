@@ -2,6 +2,67 @@
   "secuses": true,
   "result": [
     {
+      "id": 2873,
+      "time": 1786702404201,
+      "card_id": "125988",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 125988,
+        "original_language": "en",
+        "name": "Укрытие",
+        "original_name": "Silo",
+        "names": [
+          "Бункер",
+          "Silo",
+          "Укрытие",
+          "Таємниця бункера / Бункер",
+          "Wool"
+        ],
+        "overview": "На отравленной гибнущей планете будущего тысячи людей ютятся в огромном подземном укрытии. Нарушение шерифом основного правила и серия загадочных смертей вынуждают инженера Джульетту заняться раскрытием тайн и поиском правды о бункере.",
+        "poster_path": "/gRkvq6FgiGRdtCwhVIozaUqhoDL.jpg",
+        "first_air_date": "2023-05-04",
+        "video": false,
+        "vote_average": 8.186,
+        "vote_count": 2390,
+        "popularity": 236.6381,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4541515",
+        "kp_rating": "7.8",
+        "imdb_id": "tt14688458",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-08-14",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 7
+        },
+        "episode": {
+          "air_date": "2026-08-13",
+          "episode_number": 7,
+          "name": "Рация",
+          "overview": "Джульетта посылает Лукаса и Кеннеди на задание, а Камилла в отчаянии требует от Роберта правды.",
+          "season_number": 3,
+          "runtime": 56,
+          "still_path": "/hT47PUyS6fQrmukmbyXrL9nBgKc.jpg",
+          "vote_average": 3.5
+        }
+      },
+      "type": "episode",
+      "hash": "s3;e7",
+      "premiere": 0
+    },
+    {
       "id": 2872,
       "time": 1786612404118,
       "card_id": "108978",
@@ -2685,63 +2746,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2823,
-      "time": 1784296588584,
-      "card_id": "277439",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 277439,
-        "original_language": "en",
-        "name": "Мыс страха",
-        "original_name": "Cape Fear",
-        "names": [
-          "Мыс страха",
-          "Cape Fear"
-        ],
-        "overview": "На счастливую супружескую пару адвокатов надвигается буря, когда из тюрьмы выходит знаменитый киллер из их прошлого.",
-        "poster_path": "/a5CZ7Mh2XcEnenS9bXbWYVFKuGb.jpg",
-        "first_air_date": "2026-06-04",
-        "video": false,
-        "vote_average": 7,
-        "vote_count": 67,
-        "popularity": 46.3063,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6576642",
-        "kp_rating": "6.7",
-        "imdb_id": "tt34675596",
-        "imdb_rating": "7.2",
-        "status": "returning series",
-        "last_air_date": "2026-07-17",
-        "seasons": {
-          "1": 8
-        },
-        "episode": {
-          "air_date": "2026-07-16",
-          "episode_number": 8,
-          "name": "Эпизод 8",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 47,
-          "still_path": "/zhUjCo3SL7OmLGBkVf6JtxyTH6N.jpg",
-          "vote_average": 0
-        }
-      },
-      "type": "episode",
-      "hash": "s1;e8",
-      "premiere": 0
     }
   ],
-  "duration": 4.497321128845215
+  "duration": 6.202027320861816
 }
