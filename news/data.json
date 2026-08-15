@@ -2,6 +2,55 @@
   "secuses": true,
   "result": [
     {
+      "id": 2874,
+      "time": 1786778008389,
+      "card_id": "950028",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
+        "genre_ids": [
+          18,
+          35,
+          10749
+        ],
+        "id": 950028,
+        "original_language": "en",
+        "title": "Приглашение",
+        "original_title": "The Invite",
+        "names": [
+          "Приглашение",
+          "The Invite"
+        ],
+        "overview": "Отношения Джо и Анджелы уже не так искрят, как раньше. Желая получить яркие впечатления, Анджела приглашает в гости соседей — эффектную пару, отношения которых, наоборот, полны страсти, судя по громким стонам из их квартиры. Но вечер идёт не по плану — светская беседа очень быстро меняет направление, ведь дерзкие соседи выступают с весьма необычным предложением.",
+        "poster_path": "/7CrrtqCpZmJsosektfOsakY2fMz.jpg",
+        "release_date": "2026-06-25",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 146,
+        "popularity": 74.1983,
+        "PG": 16,
+        "release_quality": "4K",
+        "kinopoisk_id": "5138994",
+        "kp_rating": "6.9",
+        "imdb_id": "tt14173636",
+        "imdb_rating": "7.0",
+        "status": "released",
+        "last_air_date": "2026-06-28",
+        "countries": [
+          "США"
+        ],
+        "genres": [
+          "Комедия",
+          "Драма",
+          "Мелодрама"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2873,
       "time": 1786702404201,
       "card_id": "125988",
@@ -2698,55 +2747,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2824,
-      "time": 1784300191204,
-      "card_id": "1368337",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
-        "genre_ids": [
-          12,
-          28,
-          14
-        ],
-        "id": 1368337,
-        "original_language": "en",
-        "title": "Одиссея",
-        "original_title": "The Odyssey",
-        "names": [
-          "Одиссея",
-          "The Odyssey"
-        ],
-        "overview": "После Троянской войны Одиссей, царь Итаки, во главе небольшого войска возвращается домой к своей жене Пенелопе. На своём пути Одиссей сталкивается со множеством испытаний, встречает циклопов, сирен и великанов-людоедов.",
-        "poster_path": "/exOPvjnLaKMp00fsk8E3UpfPtNC.jpg",
-        "release_date": "2026-07-15",
-        "video": false,
-        "vote_average": 6.301,
-        "vote_count": 73,
-        "popularity": 169.2124,
-        "PG": 18,
-        "release_quality": "ts",
-        "kinopoisk_id": "6385370",
-        "imdb_id": "tt33764258",
-        "status": "released",
-        "last_air_date": "2026-07-16",
-        "countries": [
-          "Великобритания",
-          "США"
-        ],
-        "genres": [
-          "Приключения",
-          "Боевик",
-          "Фэнтези"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.202027320861816
+  "duration": 4.036771774291992
 }

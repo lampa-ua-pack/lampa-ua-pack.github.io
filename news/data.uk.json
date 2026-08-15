@@ -2,6 +2,56 @@
   "secuses": true,
   "result": [
     {
+      "id": 2874,
+      "time": 1786778008389,
+      "card_id": "950028",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+        "genre_ids": [
+          18,
+          35,
+          10749
+        ],
+        "id": 950028,
+        "original_language": "en",
+        "title": "Сусіди зверху",
+        "original_title": "The Invite",
+        "names": [
+          "Сусіди зверху",
+          "Приглашение",
+          "The Invite"
+        ],
+        "overview": "Шлюб Джо й Анджели тримається на волосині. Але після того, як вони запрошують на вечерю своїх таємничих сусідів із поверху вище, вечір набуває зовсім непередбачуваного повороту.",
+        "poster_path": "/aq0JhFR8NAbnyTIWFTKDsv3mUxr.jpg",
+        "release_date": "2026-06-25",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 146,
+        "popularity": 74.1983,
+        "PG": 16,
+        "release_quality": "4K",
+        "kinopoisk_id": "5138994",
+        "kp_rating": "6.9",
+        "imdb_id": "tt14173636",
+        "imdb_rating": "7.0",
+        "status": "released",
+        "last_air_date": "2026-06-28",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Комедія",
+          "Драма",
+          "Мелодрама"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2873,
       "time": 1786702404201,
       "card_id": "125988",
@@ -56,7 +106,7 @@
           "season_number": 3,
           "runtime": 56,
           "still_path": "/hT47PUyS6fQrmukmbyXrL9nBgKc.jpg",
-          "vote_average": 4.6
+          "vote_average": 6.227
         },
         "genres": [
           "Науково фантастичний",
@@ -127,7 +177,7 @@
           "season_number": 4,
           "runtime": 44,
           "still_path": "/rNVrMf7gXC1EZBMdgsFYFCHjpEF.jpg",
-          "vote_average": 4.95
+          "vote_average": 5.75
         },
         "genres": [
           "Екшн і Пригоди",
@@ -251,7 +301,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/ipUpVlpqI7tsDc37Lc3AOM6Bbef.jpg",
-          "vote_average": 5.5
+          "vote_average": 4.958
         },
         "genres": [
           "Драма",
@@ -388,7 +438,7 @@
           "season_number": 3,
           "runtime": 71,
           "still_path": "/3307RKThwUvOoa0h8nhbMYZNpEd.jpg",
-          "vote_average": 6.6
+          "vote_average": 6.657
         },
         "genres": [
           "Науково фантастичний",
@@ -506,7 +556,7 @@
           "season_number": 3,
           "runtime": 53,
           "still_path": "/Gq9Z0uNqJ2MtDEaMGRWSSvXGdL.jpg",
-          "vote_average": 9.364
+          "vote_average": 9.077
         },
         "genres": [
           "Драма",
@@ -739,7 +789,7 @@
           "season_number": 3,
           "runtime": 55,
           "still_path": "/hCUVzq1FghJlS75KIG2Ttxua4AL.jpg",
-          "vote_average": 6.054
+          "vote_average": 6.359
         },
         "genres": [
           "Науково фантастичний",
@@ -915,7 +965,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/xSN56H3np7VyAC7bAeAEzFk3mCa.jpg",
-          "vote_average": 5.412
+          "vote_average": 5.167
         },
         "genres": [
           "Драма",
@@ -1134,7 +1184,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/cBsXy1Jxoun2H5mYKkzNkUysoni.jpg",
-          "vote_average": 6.4
+          "vote_average": 6.438
         },
         "genres": [
           "Науково фантастичний",
@@ -1245,7 +1295,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/aRvAJ30DWRgcLp3hMc8xYYCXvs0.jpg",
-          "vote_average": 7.25
+          "vote_average": 7.444
         },
         "genres": [
           "Кримінал",
@@ -1314,7 +1364,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/zcbjuLkbVPHSphOHClKQM0v1Zjf.jpg",
-          "vote_average": 6.597
+          "vote_average": 6.697
         },
         "genres": [
           "Науково фантастичний",
@@ -1701,7 +1751,7 @@
           "season_number": 3,
           "runtime": 63,
           "still_path": "/6nU7pbPWspOKjud544KV2VEamUe.jpg",
-          "vote_average": 6.315
+          "vote_average": 6.327
         },
         "genres": [
           "Науково фантастичний",
@@ -1776,7 +1826,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/fOaRHSP4uHujzFlgYFA8ufZ9kJN.jpg",
-          "vote_average": 8.306
+          "vote_average": 8.361
         },
         "genres": [
           "Мультфільм",
@@ -2131,7 +2181,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/AqznwL3vGeK7XOazrUkfLEmFQ4X.jpg",
-          "vote_average": 5.833
+          "vote_average": 6.429
         },
         "genres": [
           "Кримінал",
@@ -2200,7 +2250,7 @@
           "season_number": 3,
           "runtime": 48,
           "still_path": "/pYnJjrdS64krUWUAGB4ckZsqN1r.jpg",
-          "vote_average": 6.291
+          "vote_average": 6.307
         },
         "genres": [
           "Науково фантастичний",
@@ -2551,7 +2601,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/sGtWCfxmJZ3uy35CUKzn0nuHRrS.jpg",
-          "vote_average": 7.063
+          "vote_average": 7.18
         },
         "genres": [
           "Мультфільм",
@@ -2623,7 +2673,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/trmxI19SM9arfcd4Petr5sJXrGd.jpg",
-          "vote_average": 5.663
+          "vote_average": 5.67
         },
         "genres": [
           "Науково фантастичний",
@@ -2745,7 +2795,7 @@
           "season_number": 1,
           "runtime": 68,
           "still_path": "/s0NeAeh5x74Gzja767ksNbzh3sz.jpg",
-          "vote_average": 7.167
+          "vote_average": 7.2
         },
         "genres": [
           "Екшн і Пригоди",
@@ -2815,7 +2865,7 @@
           "season_number": 1,
           "runtime": 69,
           "still_path": "/50iNTwCz358iEgJW7dZtugaQ8eA.jpg",
-          "vote_average": 7.167
+          "vote_average": 7.2
         },
         "genres": [
           "Екшн і Пригоди",
@@ -2928,56 +2978,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2824,
-      "time": 1784300191204,
-      "card_id": "1368337",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-        "genre_ids": [
-          12,
-          28,
-          14
-        ],
-        "id": 1368337,
-        "original_language": "en",
-        "title": "Одіссея",
-        "original_title": "The Odyssey",
-        "names": [
-          "Одіссея",
-          "Одиссея",
-          "The Odyssey"
-        ],
-        "overview": "Екранізація однойменного епічного твору Гомера, яка описує небезпечну подорож Одіссея додому після Троянської війни, демонструючи його зустрічі з Поліфемом, Сиренами та Цирцеєю і завершуючись возз’єднанням із дружиною Пенелопою.",
-        "poster_path": "/brhZJ4GyvJDwNaHXkIrsD4CV4re.jpg",
-        "release_date": "2026-07-15",
-        "video": false,
-        "vote_average": 6.301,
-        "vote_count": 73,
-        "popularity": 169.2124,
-        "PG": 18,
-        "release_quality": "ts",
-        "kinopoisk_id": "6385370",
-        "imdb_id": "tt33764258",
-        "status": "released",
-        "last_air_date": "2026-07-16",
-        "countries": [
-          "United Kingdom",
-          "United States of America"
-        ],
-        "genres": [
-          "Пригоди",
-          "Бойовик",
-          "Фентезі"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.202027320861816
+  "duration": 4.036771774291992
 }
