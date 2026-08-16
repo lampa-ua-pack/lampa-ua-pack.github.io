@@ -2,6 +2,52 @@
   "secuses": true,
   "result": [
     {
+      "id": 2875,
+      "time": 1786819404402,
+      "card_id": "1437939",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/zlxcwTkFet8e6FfGTkbKZfgb3PJ.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1437939,
+        "original_language": "fr",
+        "title": "Тест на тещу 2",
+        "original_title": "Cocorico 2",
+        "names": [
+          "Тест на тещу 2",
+          "Неожиданные связи 2",
+          "Cocorico 2"
+        ],
+        "overview": "ДНК-тести, проведені перед весіллям Аліси та Франсуа, показали, що їхні батьки є зовсім не тими, ким себе вважали все життя! Аристократ і автодилер мають сюрпризи в минулому. Поки батьки звикали до нових ролей, лабораторія повідомила, що результати їхнього ДНК-тестування неточні! Тож знову треба з'ясовувати, хто є хто насправді!",
+        "poster_path": "/fkYowGaIj9zugY3JthiFi2l66SA.jpg",
+        "release_date": "2026-04-08",
+        "video": false,
+        "vote_average": 5,
+        "vote_count": 38,
+        "popularity": 9.5295,
+        "PG": 16,
+        "release_quality": "4K",
+        "kinopoisk_id": "10187081",
+        "kp_rating": "6.1",
+        "imdb_id": "tt36933402",
+        "imdb_rating": "5.3",
+        "status": "released",
+        "last_air_date": "2026-08-07",
+        "countries": [
+          "France"
+        ],
+        "genres": [
+          "Комедія"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2874,
       "time": 1786778008389,
       "card_id": "950028",
@@ -104,9 +150,9 @@
           "name": "Радіо",
           "overview": "Джулієт посилає Лукаса й Кеннеді на завдання, а Каміл відчайдушно вимагає в Роберта правди.",
           "season_number": 3,
-          "runtime": 56,
+          "runtime": 55,
           "still_path": "/hT47PUyS6fQrmukmbyXrL9nBgKc.jpg",
-          "vote_average": 6.227
+          "vote_average": 6.6
         },
         "genres": [
           "Науково фантастичний",
@@ -177,7 +223,7 @@
           "season_number": 4,
           "runtime": 44,
           "still_path": "/rNVrMf7gXC1EZBMdgsFYFCHjpEF.jpg",
-          "vote_average": 5.75
+          "vote_average": 5.281
         },
         "genres": [
           "Екшн і Пригоди",
@@ -258,7 +304,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+        "backdrop_path": "/hOJqvvhRnSsAEqMaCUuzfdYJajG.jpg",
         "genre_ids": [
           18,
           80
@@ -368,7 +414,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/uQh0LIEnvwp4j3Z2Rnab4K1kG0Y.jpg",
-          "vote_average": 7.4
+          "vote_average": 7.636
         },
         "genres": [
           "Драма",
@@ -438,7 +484,7 @@
           "season_number": 3,
           "runtime": 71,
           "still_path": "/3307RKThwUvOoa0h8nhbMYZNpEd.jpg",
-          "vote_average": 6.657
+          "vote_average": 6.731
         },
         "genres": [
           "Науково фантастичний",
@@ -460,7 +506,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
+        "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
         "genre_ids": [
           27,
           878,
@@ -556,7 +602,7 @@
           "season_number": 3,
           "runtime": 53,
           "still_path": "/Gq9Z0uNqJ2MtDEaMGRWSSvXGdL.jpg",
-          "vote_average": 9.077
+          "vote_average": 9.1
         },
         "genres": [
           "Драма",
@@ -720,7 +766,7 @@
           "season_number": 3,
           "runtime": 49,
           "still_path": "/Aatcm1poF3inxNCUwZEg08qqC2t.jpg",
-          "vote_average": 9.269
+          "vote_average": 9.3
         },
         "genres": [
           "Драма",
@@ -789,7 +835,7 @@
           "season_number": 3,
           "runtime": 55,
           "still_path": "/hCUVzq1FghJlS75KIG2Ttxua4AL.jpg",
-          "vote_average": 6.359
+          "vote_average": 6.309
         },
         "genres": [
           "Науково фантастичний",
@@ -901,7 +947,7 @@
           "season_number": 4,
           "runtime": 42,
           "still_path": "/xKnpiILK8q0FR1DgNvsYBdKuFDN.jpg",
-          "vote_average": 7.143
+          "vote_average": 7.136
         },
         "genres": [
           "Драма",
@@ -922,7 +968,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+        "backdrop_path": "/hOJqvvhRnSsAEqMaCUuzfdYJajG.jpg",
         "genre_ids": [
           18,
           80
@@ -1184,7 +1230,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/cBsXy1Jxoun2H5mYKkzNkUysoni.jpg",
-          "vote_average": 6.438
+          "vote_average": 6.327
         },
         "genres": [
           "Науково фантастичний",
@@ -1295,7 +1341,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/aRvAJ30DWRgcLp3hMc8xYYCXvs0.jpg",
-          "vote_average": 7.444
+          "vote_average": 7.4
         },
         "genres": [
           "Кримінал",
@@ -1385,7 +1431,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+        "backdrop_path": "/hOJqvvhRnSsAEqMaCUuzfdYJajG.jpg",
         "genre_ids": [
           18,
           80
@@ -1586,7 +1632,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+        "backdrop_path": "/hOJqvvhRnSsAEqMaCUuzfdYJajG.jpg",
         "genre_ids": [
           18,
           80
@@ -2181,7 +2227,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/AqznwL3vGeK7XOazrUkfLEmFQ4X.jpg",
-          "vote_average": 6.429
+          "vote_average": 6.4
         },
         "genres": [
           "Кримінал",
@@ -2250,7 +2296,7 @@
           "season_number": 3,
           "runtime": 48,
           "still_path": "/pYnJjrdS64krUWUAGB4ckZsqN1r.jpg",
-          "vote_average": 6.307
+          "vote_average": 6.367
         },
         "genres": [
           "Науково фантастичний",
@@ -2427,7 +2473,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+        "backdrop_path": "/hOJqvvhRnSsAEqMaCUuzfdYJajG.jpg",
         "genre_ids": [
           18,
           80
@@ -2932,53 +2978,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2825,
-      "time": 1784357788668,
-      "card_id": "1497873",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/oXhCcvGRns2msPf3xhbkSh3iKvj.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 1497873,
-        "original_language": "zh",
-        "title": "翠湖",
-        "original_title": "翠湖",
-        "names": [
-          "Изумрудное озеро",
-          "As the Water Flows",
-          "翠湖",
-          "Cui hu"
-        ],
-        "overview": "После смерти жены пожилой мужчина хочет начать новую жизнь, но разногласия с дочерьми вынуждают его признать, что он слишком часто отсутствовал дома и не выполнял своих отцовских обязанностей. Когда старые конфликты вспыхивают снова, он пытается найти способ воссоединить распавшуюся семью.",
-        "poster_path": "/wZyRp9dL9gnXOsB9AXGaLlcR8U1.jpg",
-        "release_date": "2026-01-24",
-        "video": false,
-        "vote_average": 7,
-        "vote_count": 1,
-        "popularity": 1.2944,
-        "PG": 0,
-        "release_quality": "webdl",
-        "kinopoisk_id": "12004692",
-        "imdb_id": "tt37186694",
-        "imdb_rating": "7.4",
-        "status": "released",
-        "last_air_date": "2026-07-17",
-        "countries": [
-          "China"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.036771774291992
+  "duration": 4.2221574783325195
 }

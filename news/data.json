@@ -2,6 +2,51 @@
   "secuses": true,
   "result": [
     {
+      "id": 2875,
+      "time": 1786819404402,
+      "card_id": "1437939",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/zlxcwTkFet8e6FfGTkbKZfgb3PJ.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1437939,
+        "original_language": "fr",
+        "title": "Неожиданные связи 2",
+        "original_title": "Cocorico 2",
+        "names": [
+          "Неожиданные связи 2",
+          "Cocorico 2"
+        ],
+        "overview": "Перед самой свадьбой Алисы и Франсуа генетический тест раскрывает тайну происхождения их отцов: оказывается, оба имеют корни далеко за пределами Франции. Удивлённые открытием, мужчины с азартом начинают изучать истории своих семей.",
+        "poster_path": "/pHaA72wzEYHUMwOYETx5EkTxyJQ.jpg",
+        "release_date": "2026-04-08",
+        "video": false,
+        "vote_average": 5,
+        "vote_count": 38,
+        "popularity": 9.5295,
+        "PG": 16,
+        "release_quality": "4K",
+        "kinopoisk_id": "10187081",
+        "kp_rating": "6.1",
+        "imdb_id": "tt36933402",
+        "imdb_rating": "5.3",
+        "status": "released",
+        "last_air_date": "2026-08-07",
+        "countries": [
+          "Франция"
+        ],
+        "genres": [
+          "Комедия"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2874,
       "time": 1786778008389,
       "card_id": "950028",
@@ -2701,53 +2746,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2825,
-      "time": 1784357788668,
-      "card_id": "1497873",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/oXhCcvGRns2msPf3xhbkSh3iKvj.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 1497873,
-        "original_language": "zh",
-        "title": "Изумрудное озеро",
-        "original_title": "翠湖",
-        "names": [
-          "Изумрудное озеро",
-          "As the Water Flows",
-          "翠湖",
-          "Cui hu"
-        ],
-        "overview": "После смерти жены пожилой мужчина хочет начать новую жизнь, но разногласия с дочерьми вынуждают его признать, что он слишком часто отсутствовал дома и не выполнял своих отцовских обязанностей. Когда старые конфликты вспыхивают снова, он пытается найти способ воссоединить распавшуюся семью.",
-        "poster_path": "/wZyRp9dL9gnXOsB9AXGaLlcR8U1.jpg",
-        "release_date": "2026-01-24",
-        "video": false,
-        "vote_average": 7,
-        "vote_count": 1,
-        "popularity": 1.2944,
-        "PG": 0,
-        "release_quality": "webdl",
-        "kinopoisk_id": "12004692",
-        "imdb_id": "tt37186694",
-        "imdb_rating": "7.4",
-        "status": "released",
-        "last_air_date": "2026-07-17",
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.036771774291992
+  "duration": 4.2221574783325195
 }
