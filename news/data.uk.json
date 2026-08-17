@@ -2,6 +2,75 @@
   "secuses": true,
   "result": [
     {
+      "id": 2876,
+      "time": 1786900404310,
+      "card_id": "113962",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+        "genre_ids": [
+          18,
+          10768
+        ],
+        "id": 113962,
+        "original_language": "en",
+        "name": "Спецзагін \"Левиця\"",
+        "original_name": "Lioness",
+        "names": [
+          "Спецзагін \"Левиця\"",
+          "Спецназ: Львица",
+          "Special Ops: Lioness",
+          "Спецоперації: Левиця",
+          "Lioness",
+          "Спецназ: Львица."
+        ],
+        "overview": "Оперативниця ЦРУ Джо намагається збалансувати особисте та професійне життя, будучи вістрям списа у війні агентства з тероризмом.",
+        "poster_path": "/rs5xiB0nfs2hL6Hu8a9VuNL37Mo.jpg",
+        "first_air_date": "2023-07-23",
+        "video": false,
+        "vote_average": 8.046,
+        "vote_count": 1336,
+        "popularity": 304.9327,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1412084",
+        "kp_rating": "7.2",
+        "imdb_id": "tt13111078",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-08-16",
+        "seasons": {
+          "1": 8,
+          "2": 8,
+          "3": 3
+        },
+        "episode": {
+          "air_date": "2026-08-16",
+          "episode_number": 3,
+          "name": "Серія 3",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 52,
+          "still_path": "/osT904IAfFIZtXDOxv0yT9j2BEy.jpg",
+          "vote_average": 7.0
+        },
+        "genres": [
+          "Драма",
+          "Політика та війна"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e3",
+      "premiere": 0
+    },
+    {
       "id": 2875,
       "time": 1786819404402,
       "card_id": "1437939",
@@ -54,7 +123,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+        "backdrop_path": "/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
         "genre_ids": [
           18,
           35,
@@ -152,7 +221,7 @@
           "season_number": 3,
           "runtime": 55,
           "still_path": "/hT47PUyS6fQrmukmbyXrL9nBgKc.jpg",
-          "vote_average": 6.6
+          "vote_average": 6.414
         },
         "genres": [
           "Науково фантастичний",
@@ -223,7 +292,7 @@
           "season_number": 4,
           "runtime": 44,
           "still_path": "/rNVrMf7gXC1EZBMdgsFYFCHjpEF.jpg",
-          "vote_average": 5.281
+          "vote_average": 5.611
         },
         "genres": [
           "Екшн і Пригоди",
@@ -347,7 +416,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/ipUpVlpqI7tsDc37Lc3AOM6Bbef.jpg",
-          "vote_average": 4.958
+          "vote_average": 5.5
         },
         "genres": [
           "Драма",
@@ -369,7 +438,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+        "backdrop_path": "/gEQkOMmnJcoh9Hh1vk7fpVYnksR.jpg",
         "genre_ids": [
           18,
           35
@@ -414,7 +483,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/uQh0LIEnvwp4j3Z2Rnab4K1kG0Y.jpg",
-          "vote_average": 7.636
+          "vote_average": 8.033
         },
         "genres": [
           "Драма",
@@ -484,7 +553,7 @@
           "season_number": 3,
           "runtime": 71,
           "still_path": "/3307RKThwUvOoa0h8nhbMYZNpEd.jpg",
-          "vote_average": 6.731
+          "vote_average": 6.773
         },
         "genres": [
           "Науково фантастичний",
@@ -602,7 +671,7 @@
           "season_number": 3,
           "runtime": 53,
           "still_path": "/Gq9Z0uNqJ2MtDEaMGRWSSvXGdL.jpg",
-          "vote_average": 9.1
+          "vote_average": 8.6
         },
         "genres": [
           "Драма",
@@ -766,7 +835,7 @@
           "season_number": 3,
           "runtime": 49,
           "still_path": "/Aatcm1poF3inxNCUwZEg08qqC2t.jpg",
-          "vote_average": 9.3
+          "vote_average": 8.7
         },
         "genres": [
           "Драма",
@@ -835,7 +904,7 @@
           "season_number": 3,
           "runtime": 55,
           "still_path": "/hCUVzq1FghJlS75KIG2Ttxua4AL.jpg",
-          "vote_average": 6.309
+          "vote_average": 6.157
         },
         "genres": [
           "Науково фантастичний",
@@ -902,7 +971,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+        "backdrop_path": "/gEQkOMmnJcoh9Hh1vk7fpVYnksR.jpg",
         "genre_ids": [
           18,
           35
@@ -947,7 +1016,7 @@
           "season_number": 4,
           "runtime": 42,
           "still_path": "/xKnpiILK8q0FR1DgNvsYBdKuFDN.jpg",
-          "vote_average": 7.136
+          "vote_average": 7.261
         },
         "genres": [
           "Драма",
@@ -1230,7 +1299,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/cBsXy1Jxoun2H5mYKkzNkUysoni.jpg",
-          "vote_average": 6.327
+          "vote_average": 6.288
         },
         "genres": [
           "Науково фантастичний",
@@ -1410,7 +1479,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/zcbjuLkbVPHSphOHClKQM0v1Zjf.jpg",
-          "vote_average": 6.697
+          "vote_average": 6.638
         },
         "genres": [
           "Науково фантастичний",
@@ -1697,7 +1766,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
+        "backdrop_path": "/84FEpVVbSKYvKXDZJDZXOKBxCEm.jpg",
         "genre_ids": [
           28,
           53,
@@ -1797,7 +1866,7 @@
           "season_number": 3,
           "runtime": 63,
           "still_path": "/6nU7pbPWspOKjud544KV2VEamUe.jpg",
-          "vote_average": 6.327
+          "vote_average": 6.269
         },
         "genres": [
           "Науково фантастичний",
@@ -2296,7 +2365,7 @@
           "season_number": 3,
           "runtime": 48,
           "still_path": "/pYnJjrdS64krUWUAGB4ckZsqN1r.jpg",
-          "vote_average": 6.367
+          "vote_average": 6.25
         },
         "genres": [
           "Науково фантастичний",
@@ -2719,7 +2788,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/trmxI19SM9arfcd4Petr5sJXrGd.jpg",
-          "vote_average": 5.67
+          "vote_average": 5.65
         },
         "genres": [
           "Науково фантастичний",
@@ -2925,60 +2994,7 @@
       "type": "episode",
       "hash": "s1;e7",
       "premiere": 0
-    },
-    {
-      "id": 2826,
-      "time": 1784456788702,
-      "card_id": "283151",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/lq2aJdPlyOo11aBwojmLvGjlJS1.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 283151,
-        "original_language": "en",
-        "name": "П'ятизірковий вікенд",
-        "original_name": "The Five Star Weekend",
-        "names": [
-          "П'ятизірковий вікенд",
-          "Уикенд на пять звёзд",
-          "The Five-Star Weekend",
-          "Пятизвёздочный уикенд",
-          "The Five Star Weekend"
-        ],
-        "overview": "Після несподіваної смерті чоловіка та публічного нервового зриву відома кулінарка Голліс запрошує своїх найкращих подруг на розкішний вікенд на острові Нантакет.",
-        "poster_path": "/l9z65nDVteL88PmwDqyiTFmxCtF.jpg",
-        "first_air_date": "2026-07-09",
-        "video": false,
-        "vote_average": 4,
-        "vote_count": 4,
-        "popularity": 14.3338,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "11804682",
-        "imdb_id": "tt35587659",
-        "imdb_rating": "7.2",
-        "status": "returning series",
-        "last_air_date": "2026-07-10",
-        "seasons": {
-          "1": 8
-        },
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.2221574783325195
+  "duration": 7.018487930297852
 }

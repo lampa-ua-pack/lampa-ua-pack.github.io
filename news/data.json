@@ -2,6 +2,67 @@
   "secuses": true,
   "result": [
     {
+      "id": 2876,
+      "time": 1786900404310,
+      "card_id": "113962",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+        "genre_ids": [
+          18,
+          10768
+        ],
+        "id": 113962,
+        "original_language": "en",
+        "name": "Спецназ: Львица",
+        "original_name": "Lioness",
+        "names": [
+          "Спецназ: Львица",
+          "Special Ops: Lioness",
+          "Спецоперації: Левиця",
+          "Lioness",
+          "Спецназ: Львица."
+        ],
+        "overview": "Джо - опытная сотрудница ЦРУ, стремящаяся добиться баланса между профессиональной деятельностью и личной жизнью. Однажды она получает должность руководителя специального женского подразделения «Львица», члены которого будут действовать под прикрытием для борьбы с террористическими группировками.",
+        "poster_path": "/yWOwT5xlwdIsboOa3f20jpfxaQK.jpg",
+        "first_air_date": "2023-07-23",
+        "video": false,
+        "vote_average": 8.046,
+        "vote_count": 1336,
+        "popularity": 304.9327,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1412084",
+        "kp_rating": "7.2",
+        "imdb_id": "tt13111078",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-08-16",
+        "seasons": {
+          "1": 8,
+          "2": 8,
+          "3": 3
+        },
+        "episode": {
+          "air_date": "2026-08-16",
+          "episode_number": 3,
+          "name": "Эпизод 3",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 51,
+          "still_path": "/osT904IAfFIZtXDOxv0yT9j2BEy.jpg",
+          "vote_average": 0
+        }
+      },
+      "type": "episode",
+      "hash": "s3;e3",
+      "premiere": 0
+    },
+    {
       "id": 2875,
       "time": 1786819404402,
       "card_id": "1437939",
@@ -2694,59 +2755,7 @@
       "type": "episode",
       "hash": "s1;e7",
       "premiere": 0
-    },
-    {
-      "id": 2826,
-      "time": 1784456788702,
-      "card_id": "283151",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/lq2aJdPlyOo11aBwojmLvGjlJS1.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 283151,
-        "original_language": "en",
-        "name": "Пятизвёздочный уикенд",
-        "original_name": "The Five Star Weekend",
-        "names": [
-          "Уикенд на пять звёзд",
-          "The Five-Star Weekend",
-          "Пятизвёздочный уикенд",
-          "The Five Star Weekend"
-        ],
-        "overview": "Холлис Шоу, известная фуд-блогерша, славящаяся своими восхитительными рецептами, безупречным вкусом и доброжелательным характером, переживает сокрушительную потерю. Не в силах двигаться дальше, она обнаруживает трещины в своей идеальной жизни — напряженный брак, сложные отношения с дочерью и растущее стремление к одобрению со стороны подписчиков. Пытаясь преодолеть горе и вновь обрести себя, Холлис решает устроить выходные в своем доме на острове Нантакет с тремя подругами, представляющими разные этапы ее жизни: детство, двадцать, тридцать лет и еще одна неожиданная «пятая звезда». На фоне роскошного прибрежного пейзажа они повзрослеют так, как никогда не могли себе представить, будут раздвигаться границы дозволенного и раскрываться тайны.",
-        "poster_path": "/A0Y6xf8IDDL2dBV3mvu8fWPFYLG.jpg",
-        "first_air_date": "2026-07-09",
-        "video": false,
-        "vote_average": 4,
-        "vote_count": 4,
-        "popularity": 14.3338,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "11804682",
-        "imdb_id": "tt35587659",
-        "imdb_rating": "7.2",
-        "status": "returning series",
-        "last_air_date": "2026-07-10",
-        "seasons": {
-          "1": 8
-        },
-        "countries": [
-          "США"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.2221574783325195
+  "duration": 7.018487930297852
 }
