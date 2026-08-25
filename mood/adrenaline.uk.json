@@ -3,260 +3,257 @@
   "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><polygon fill=\"currentColor\" points=\"300,32 116,296 236,296 212,480 396,216 276,216\"/></svg>",
   "title": "Адреналін",
   "lang": "uk",
-  "updated_at": "2026-08-24T22:39:06Z",
+  "updated_at": "2026-08-25T22:40:10Z",
   "items": [
     {
-      "id": 245891,
+      "id": 449992,
       "media_type": "movie",
-      "title": "Джон Уік",
-      "original_title": "John Wick",
-      "overview": "Джон Уік - колишній найманий вбивця - живе спокійним життям, аж раптом злочинець викрадає його улюблений Mustang 1969 і заразом убиває собаку Дейзі, єдину живу згадку, що лишилася від покійної дружини. Жага помсти пробуджує у ньому задвалося б забуту мертву хватку. Джон переслідує свого ворога до Нью-Йорка, де великі боси мафії запропонують кілеру угоду...",
-      "poster_path": "/cNRQL3GdRmbD9b8MqAbBUZO5B81.jpg",
-      "backdrop_path": "/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
+      "title": "Ніч йде за нами",
+      "original_title": "The Night Comes For Us",
+      "overview": "При виконанні чергового завдання кілер тріади порушив правила - не зміг змусити себе прибрати останню свідка. У порятунку життя дівчинки він побачив знак і шанс на спокутування, але у такого вчинку будуть серйозні наслідки, і тепер відступника і його старим друзям доведеться мати справу з усією убивчою силою цієї злочинної організації.",
+      "poster_path": "/9atCf31YuBAo2T6jLF5QX44qf3L.jpg",
+      "backdrop_path": "/9uoZrTXUiByDECmWopkIJhZxSzw.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "vote_average": 6.929,
+      "vote_count": 842,
+      "release_date": "2018-10-05"
+    },
+    {
+      "id": 500664,
+      "media_type": "movie",
+      "title": "Апгрейд",
+      "original_title": "Upgrade",
+      "overview": "Мільйонер-розробник пропонує герою позбутися паралічу за допомогою імплантації експериментального чіпа під назвою Stem. Цей чіп має власний розум.",
+      "poster_path": "/s0CDJMbhh6jpxOlzQsUCaoa9yBV.jpg",
+      "backdrop_path": "/oiPUcD1IIZrYGTSIpvTmd3dRmPo.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "vote_average": 7.511,
+      "vote_count": 5186,
+      "release_date": "2018-05-31"
+    },
+    {
+      "id": 615457,
+      "media_type": "movie",
+      "title": "Ніхто",
+      "original_title": "Nobody",
+      "overview": "Непримітний чоловік живе звичайним життям, поки одного разу, рятуючи жінку від нападу бандитів, не відправляє одного з хуліганів в лікарню. Лише пізніше він дізнається, що це був брат впливового ґанґстера, який тепер жадає помсти.",
+      "poster_path": "/aHt7LWd2cG4uS9EFtHeXgkCnzfp.jpg",
+      "backdrop_path": "/61MrK5U4w4MVL1vfwoG12zYPJ8B.jpg",
       "genre_ids": [
         28,
         53
       ],
-      "vote_average": 7.462,
-      "vote_count": 21216,
-      "release_date": "2014-10-16"
+      "vote_average": 7.865,
+      "vote_count": 8615,
+      "release_date": "2021-03-18"
     },
     {
-      "id": 800158,
+      "id": 637649,
       "media_type": "movie",
-      "title": "Вбивця",
-      "original_title": "The Killer",
-      "overview": "Після доленосного промаху вбивця протистоїть замовникам і самому собі в гонитві за помстою, яка, на його думку, не є особистою.",
-      "poster_path": "/c722t1H539DVsrRGS9HlpqRLKQk.jpg",
-      "backdrop_path": "/f9Atch0jlzcOT9RbF8UccqfNOpd.jpg",
+      "title": "Гнів людський",
+      "original_title": "Wrath of Man",
+      "overview": "Гілл — загадковий і холодний на вигляд британський джентльмен, але всередині нього палає жага правосуддя. Переслідуючи свої мотиви, він має намір знайти замовника серії багатомільйонних пограбувань, що приголомшили Лос-Анджелес. У цій заплутаній грі у кожного своя роль, але винні обов’язково пізнають гнів людський…",
+      "poster_path": "/2rrU5UFxglvnOOIwYBk8HqgAIMW.jpg",
+      "backdrop_path": "/70AV2Xx5FQYj20labp0EGdbjI6E.jpg",
       "genre_ids": [
+        53,
+        80,
+        18
+      ],
+      "vote_average": 7.571,
+      "vote_count": 6257,
+      "release_date": "2021-04-22"
+    },
+    {
+      "id": 866398,
+      "media_type": "movie",
+      "title": "Бджоляр",
+      "original_title": "The Beekeeper",
+      "overview": "Жорстока кампанія помсти одного чоловіка набуває національного масштабу після того, як з'ясовується, що він є колишнім оперативником потужної підпільної організації, відомої як \"Бджолярі\".",
+      "poster_path": "/fiUUcELca5sJ6wGE0H9qxDvELUr.jpg",
+      "backdrop_path": "/f0ACHVpV707zqu4etZrXnWNdSgL.jpg",
+      "genre_ids": [
+        28,
         80,
         53
       ],
-      "vote_average": 6.6,
-      "vote_count": 2948,
-      "release_date": "2023-10-25"
+      "vote_average": 7.28,
+      "vote_count": 4479,
+      "release_date": "2024-01-08"
     },
     {
-      "id": 101,
+      "id": 437109,
       "media_type": "movie",
-      "title": "Леон",
-      "original_title": "Léon",
-      "overview": "Професійний вбивця Леон, що не знає пощади і жалості, знайомиться з своєю чарівною сусідкою Матільдою, сім’ю якій розстрілюють поліцейські, замішані в торгівлі наркотиками. Завдяки цьому знайомству він вперше переживає почуття любові, але... яке коротке життя професійного вбивці.",
-      "poster_path": "/bHQQkJJ87lK3j7lRXBJQNUFkdIr.jpg",
-      "backdrop_path": "/fj0hwDJEOOHllRim2BMt5L7tbjf.jpg",
+      "title": "Злочинниця",
+      "original_title": "악녀",
+      "overview": "З самого дитинства Сук-хи ростили як холоднокровну вбивцю. Дівчина отримує шанс на краще життя, коли південнокорейське ЦРУ пропонує їй 10 років працювати на них, а після обіцяє повну свободу. Її нову особистість звуть Чхе Ен-су, вона працює театральною актрисою і насолоджується довгоочікуваної тихим життям звичайної людини. Але просте життя - не для колишніх найманих вбивць.",
+      "poster_path": "/2arvz5fsrE1BmlbjbBHSiLltlLq.jpg",
+      "backdrop_path": "/labMpUVoAqNlHTKiu7KsoZT0v9d.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "vote_average": 6.918,
+      "vote_count": 789,
+      "release_date": "2017-06-08"
+    },
+    {
+      "id": 534490,
+      "media_type": "movie",
+      "title": "Помста",
+      "original_title": "Avengement",
+      "overview": "Довгі роки за ґратами перетворили Кейна Берджеса на жорстоку та безжальну людину, кожного дня йому доводилося битися за своє життя. Опинившись на волі в нього немає іншої мети окрім помсти тим, через кого він опинився у в'язниці і втратив все.",
+      "poster_path": "/Aio5hiAQSPTEiFrZYZfqaMzShvE.jpg",
+      "backdrop_path": "/glNHP57gEZqm42ybpToCV9oZ1AP.jpg",
       "genre_ids": [
         80,
-        18,
+        28,
+        53
+      ],
+      "vote_average": 6.795,
+      "vote_count": 633,
+      "release_date": "2019-05-24"
+    },
+    {
+      "id": 597891,
+      "media_type": "movie",
+      "title": "Кейт",
+      "original_title": "Kate",
+      "overview": "У Кейт є 24 години, щоб помститися вбивці, перш ніж вона помре.",
+      "poster_path": "/eMwGA9IBsrcbrV53JESr9XHTkF.jpg",
+      "backdrop_path": "/byflnwPMumyvrCW9SfO5Miq3647.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "vote_average": 6.615,
+      "vote_count": 1761,
+      "release_date": "2021-09-10"
+    },
+    {
+      "id": 67178,
+      "media_type": "tv",
+      "title": "Каратель",
+      "original_title": "Marvel's The Punisher",
+      "overview": "Морський піхотинець у відставці прагне покарати злочинців, відповідальних за вбивство його родини, й опиняється в епіцентрі військової змови.",
+      "poster_path": "/gx0pKJIuMyaFeXqx6AXsmZcgVKO.jpg",
+      "backdrop_path": "/jBGjbSDRxOEudW9rmQbWDzJUKq9.jpg",
+      "genre_ids": [
+        10759,
+        80,
+        18
+      ],
+      "vote_average": 8.16,
+      "vote_count": 3303,
+      "release_date": "2017-11-17"
+    },
+    {
+      "id": 241848,
+      "media_type": "movie",
+      "title": "Гість",
+      "original_title": "The Guest",
+      "overview": "Сім’я Пітерсон недавно втратила на війні в Афганістані сина Калеба, і все ще оплакує його. Раптом на порозі їх будинку з’являється незнайомець, який говорить невтішним батькам, що він армійський товариш їхнього сина і приїхав, виконуючи тим самим його останню волю. Рідні Калеба раді прийняти Девіда, але з його появою в окрузі відбувається серія смертей...",
+      "poster_path": "/1JkmMFZM6GbeKI8wBkBtN5GiXfQ.jpg",
+      "backdrop_path": "/tooNIFHXIY3rBjCMLCET8yC8cIb.jpg",
+      "genre_ids": [
+        9648,
+        53,
         28
       ],
-      "vote_average": 8.293,
-      "vote_count": 16406,
-      "release_date": "1994-09-14"
+      "vote_average": 6.62,
+      "vote_count": 2192,
+      "release_date": "2014-09-05"
     },
     {
-      "id": 1538,
+      "id": 339403,
       "media_type": "movie",
-      "title": "Співучасник",
-      "original_title": "Collateral",
-      "overview": "Бути водієм нелегко, особливо коли в таксі сідає найманий вбивця. Саме це і сталося з Максом, який був змушений потурати примхам Вінсента — душогуба, який планує вбити п’ятьох людей. У водія залишилася одна мета: врятувати себе й останню намічену жертву.",
-      "poster_path": "/gdNUkl0RFPa0QGZTskTy0hApuEO.jpg",
-      "backdrop_path": "/qVzmXKKOTtd3szkiCheCNrfa394.jpg",
+      "title": "На драйві",
+      "original_title": "Baby Driver",
+      "overview": "Вимушений працювати на кримінального боса, молодий хлопець виявляється втягнутий у приречене на провал пограбування.",
+      "poster_path": "/rqnFK6y1tGpieezm52LdM1GWd6b.jpg",
+      "backdrop_path": "/yir5430WblZSZuIMd9C6pIZerfA.jpg",
       "genre_ids": [
-        18,
-        80,
-        53
+        28,
+        80
       ],
-      "vote_average": 7.2,
-      "vote_count": 6425,
-      "release_date": "2004-08-04"
+      "vote_average": 7.444,
+      "vote_count": 17104,
+      "release_date": "2017-06-28"
     },
     {
-      "id": 27582,
+      "id": 5503,
       "media_type": "movie",
-      "title": "Механік",
-      "original_title": "The Mechanic",
-      "overview": "Професійний вбивця, що працює на якусь кримінальну організацію, планує віддалитися від справ і бере в учні сина однієї зі своїх жертв. Учень прагне пізнати всі премудрощі професії і зайняти місце в злочинній ієрархії. Але бандитські угрупування нікого просто так не відпускають.",
-      "poster_path": "/8Me6W0VxpejMIbM8HLLyRQnxdIo.jpg",
-      "backdrop_path": "/dYb6kgvoGjUH59n2uB4eV9xqmKR.jpg",
+      "title": "Втікач",
+      "original_title": "The Fugitive",
+      "overview": "Доктор Річард Кімбл, чиказький хірург, безпідставно звинувачений у вбивстві своєї дружини. Повний рішучості довести свою невинуватість, доктор здійснює втечу з в'язниці. Він хоче сам привести своїх переслідувачів - служителів закону - до справжнього вбивці...",
+      "poster_path": "/mkpFBainOIfW7kp3uyvfbLsqSww.jpg",
+      "backdrop_path": "/7WVRxZ7KZmzoHnUkAjnEFT4o6Dw.jpg",
       "genre_ids": [
         28,
         53,
-        80
-      ],
-      "vote_average": 6.545,
-      "vote_count": 3683,
-      "release_date": "2011-01-13"
-    },
-    {
-      "id": 24,
-      "media_type": "movie",
-      "title": "Убити Білла: Фільм 1",
-      "original_title": "Kill Bill: Vol. 1",
-      "overview": "У вагітну найману вбивцю на прізвисько Чорна Мамба під час одруження стріляє людина на ім'я Білл. Куля в голові жертви, кров на шлюбній сукні, темрява... Але голова в Чорної Мамби виявилася міцною. Пролежавши чотири роки в комі, Наречена приходить до тями. Вона горить бажанням знайти тих, хто її зрадив. Тепер лише безжальна помста заспокоїть серце Чорної Мамби, і вона починає вбивати по черзі всіх членів банди Білла, залишаючи ватажка наостанок.",
-      "poster_path": "/x7bteuVXQkZ5NCmuJUtChDOot0q.jpg",
-      "backdrop_path": "/iffzIhuLAO38Po6sh1s6ZEVwlNL.jpg",
-      "genre_ids": [
-        28,
-        80
-      ],
-      "vote_average": 8.0,
-      "vote_count": 19296,
-      "release_date": "2003-10-10"
-    },
-    {
-      "id": 73107,
-      "media_type": "tv",
-      "title": "Баррі",
-      "original_title": "Barry",
-      "overview": "Баррі — колишній морський піхотинець, а тепер — найманий вбивця, якому набридла його робота та спосіб життя. Опинившись у справах у Лос-Анджелесі, Баррі випадково потрапляє на заняття з акторської майстерності та розуміє, що завжди мріяв грати на сцені. Проте кілерські справи, замовники та колеги так просто не відпускають актора-початківця.",
-      "poster_path": "/5EgyjBXGkQJFQLHL1dnFJwey8ML.jpg",
-      "backdrop_path": "/nfjqhuGFUWqJD14B4fxlSiZWfeR.jpg",
-      "genre_ids": [
-        35,
-        80,
         18
       ],
-      "vote_average": 7.912,
-      "vote_count": 1206,
-      "release_date": "2018-03-25"
+      "vote_average": 7.5,
+      "vote_count": 4910,
+      "release_date": "1993-08-06"
     },
     {
-      "id": 4816,
+      "id": 44048,
       "media_type": "movie",
-      "title": "Пес-примара: Шлях самурая",
-      "original_title": "Ghost Dog: The Way of the Samurai",
-      "overview": "Пес-привид\" - загадковий воїн, який підпорядкував своє життя древнім законам честі Самураїв. Він покірливо служить своєму господареві, який колись врятував йому життя. Зневажаючи небезпеку, і, не думаючи про власну долю, таємничий вбивця-одинак прибирає з дороги ворогів свого пана.  Але його господар переслідує далеко не благородні цілі. Дрібний мафіозі заради порятунку свого життя відправляє воїна в нерівну битву з цілим злочинним синдикатом.",
-      "poster_path": "/wyZLh2UO17rwoRndFvdmbgvckyo.jpg",
-      "backdrop_path": "/9oRbHgbJf1Zr2fct8jBIKadpKya.jpg",
-      "genre_ids": [
-        80,
-        18
-      ],
-      "vote_average": 7.349,
-      "vote_count": 1446,
-      "release_date": "1999-10-06"
-    },
-    {
-      "id": 9434,
-      "media_type": "movie",
-      "title": "Вбивство у Ґросс-Пойнті",
-      "original_title": "Grosse Pointe Blank",
-      "overview": "Мартін Бленк приїжджає на зустріч випускників у своє рідне містечко Ґросс-Пойнт. У нього гарні плани на цей вечір: він повинен помиритися зі своєю колишньою дівчиною, яку не бачив десять років, а заодно, щоб поєднати приємне з корисним… скоїти вбивство. Адже на відміну від інших однокласників, Мартін вибрав кар’єру професійного кілера, і в Ґросс-Пойнті його чекає чергове завдання. І не тільки його… За Мартіном вже давно полюють два урядових агента і конкурент, які не дадуть гостям нудьгувати.",
-      "poster_path": "/aKvKjXfMuZbZAXeiwQilKH5nRTi.jpg",
-      "backdrop_path": "/paSilBRK7Qw3iIbf3xIYVDKnVF9.jpg",
+      "title": "Некерований",
+      "original_title": "Unstoppable",
+      "overview": "Це історія двох залізничників - досвідченого інженера та його заступника, які намагаються зупинити некерований потяг з вантажем токсичних матеріалів ...",
+      "poster_path": "/rjpRBcL4fflLBevuMwsFyPLAW5Z.jpg",
+      "backdrop_path": "/5JdyKWEzY6MQmJcIEdhbP4HozzZ.jpg",
       "genre_ids": [
         28,
-        35,
-        53,
-        10749
-      ],
-      "vote_average": 6.962,
-      "vote_count": 1060,
-      "release_date": "1997-04-11"
-    },
-    {
-      "id": 787,
-      "media_type": "movie",
-      "title": "Мiстер i мiсiс Смiт",
-      "original_title": "Mr. & Mrs. Smith",
-      "overview": "Звичайна подружня пара виявляється спілкою двох найманих убивць, які довгий час не здогадувалися про професію одне одного. Подружжя кілерів працює на конкуруючі організації, і одного разу чоловік одержує завдання знищити свою дружину, а вона – знищити його.",
-      "poster_path": "/1Z2IaMnxnnD1j8UcmTLWSBU7TPT.jpg",
-      "backdrop_path": "/iFaWUETEE2umP1WY0LUAmjSpzm7.jpg",
-      "genre_ids": [
-        28,
-        35,
-        18,
         53
       ],
-      "vote_average": 6.692,
-      "vote_count": 11413,
-      "release_date": "2005-06-07"
+      "vote_average": 6.623,
+      "vote_count": 3988,
+      "release_date": "2010-11-04"
     },
     {
-      "id": 390043,
+      "id": 396535,
       "media_type": "movie",
-      "title": "Тілоохоронець кілера",
-      "original_title": "The Hitman's Bodyguard",
-      "overview": "Старий кілер вирішує дати свідчення проти своїх наймачів, проте сам він вже не може забезпечити собі безпеку. Для цього він наймає молодого охоронця.",
-      "poster_path": "/mkDpVlQTAaaor0lGJSjwbM2nm5p.jpg",
-      "backdrop_path": "/7KsqfXDECZMryX1Rv4RKsT7SIjQ.jpg",
+      "title": "Потяг до Пусана",
+      "original_title": "부산행",
+      "overview": "Людство за всю історію свого існування пережило безліч різних епідемій. Дивно, але в XXI столітті, коли наука досягла грандіозних успіхів у галузі медицини, Південну Корею охопила епідемія невідомого вірусу, який перетворює заражених людей на кровожерних тварюк, які змітають усе на своєму шляху. Вірус поширюється з нечуваною швидкістю, тож уряд країни змушений оголосити воєнний стан. Жителі Сеула, які змогли уникнути зараження, сідають на потяг, який прямує в Пусан, де спалаху епідемії вдалося уникнути. Вони вважають, що це їхній шанс на порятунок. Однак вони помилялися: вірус зміг проникнути не тільки в поїзд, а й у місто їх слідування. Чим же закінчиться ця смертельно небезпечна поїздка?",
+      "poster_path": "/hrP6kkDNVyPryhmoRfyJCCpbaNf.jpg",
+      "backdrop_path": "/brnfCYyz8EMbBrHgmh8sCwBi5i1.jpg",
       "genre_ids": [
         28,
-        35,
-        80,
-        53
-      ],
-      "vote_average": 6.895,
-      "vote_count": 6778,
-      "release_date": "2017-08-16"
-    },
-    {
-      "id": 300669,
-      "media_type": "movie",
-      "title": "Не дихай",
-      "original_title": "Don't Breathe",
-      "overview": "Грабіжники пробираються в будинок самотнього сліпого старця з метою вкрасти величезну суму, яка, за чутками, захована десь всередині. Здавалося б — що може бути простіше, ніж винести гроші з дому практичного безпомічної людини. Але вони сильно помиляються: мисливці стають жертвами. І таємниця, яку зберігає старець, набагато страшніша, ніж звичайні пенсійні накопичення.",
-      "poster_path": "/iecUPQJEtcnNFVhv76faQ4jPBfz.jpg",
-      "backdrop_path": "/3mIVOqDbYeucnw09TpjgHvSjXfu.jpg",
-      "genre_ids": [
         27,
+        53
+      ],
+      "vote_average": 7.754,
+      "vote_count": 8639,
+      "release_date": "2016-07-20"
+    },
+    {
+      "id": 94329,
+      "media_type": "movie",
+      "title": "Рейд: Спокута",
+      "original_title": "Serbuan Maut",
+      "overview": "Загін спецпризначення потрапив у пастку кримінального ватажка та його армії головорізів...",
+      "poster_path": "/ignha4tJx2ss7yXNtLbC0PYhIjN.jpg",
+      "backdrop_path": "/3wf5wV222vqTmz10y1vbrPgrGDf.jpg",
+      "genre_ids": [
+        28,
         53,
         80
       ],
-      "vote_average": 7.015,
-      "vote_count": 8107,
-      "release_date": "2016-06-08"
-    },
-    {
-      "id": 376570,
-      "media_type": "movie",
-      "title": "Тиша",
-      "original_title": "Hush",
-      "overview": "Глуха жінка стає об'єктом переслідування вбивці-психопата в своєму будинку у лісі.",
-      "poster_path": "/6DHbXPldNXEYGcwgJ275efJSQBS.jpg",
-      "backdrop_path": "/1r7AVAxdG97mgjR47Zm5YOSnnMW.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "vote_average": 6.728,
-      "vote_count": 4926,
-      "release_date": "2016-03-12"
-    },
-    {
-      "id": 4547,
-      "media_type": "movie",
-      "title": "Кімната страху",
-      "original_title": "Panic Room",
-      "overview": "Мег Олтмен, яка щойно розлучилася з чоловіком, купує будинок у Вестсайді і переїздить туди разом з дочкою Сарою. Колишній власник будинку створив спеціальну кімнату-бункер, де можна було б сховатися від грабіжників. Ця кімната стає єдиним шансом на порятунок Мег і Сари під час нападу трьох злочинців - Джуніора, Бернема та Рауля...",
-      "poster_path": "/zuJopqnniP6FbdGyWLw4AhE1hHo.jpg",
-      "backdrop_path": "/gJfd2SzUsvY1q1iszthJ3ryuvEA.jpg",
-      "genre_ids": [
-        80,
-        18,
-        53
-      ],
-      "vote_average": 6.794,
-      "vote_count": 5529,
-      "release_date": "2002-03-29"
-    },
-    {
-      "id": 406994,
-      "media_type": "movie",
-      "title": "Дивись на всі боки",
-      "original_title": "Better Watch Out",
-      "overview": "У будинку на тихій приміській вуличці няня намагається захистити дванадцятирічного хлопчика від зломщиків, але незабаром виявляє, що це далеко не звичайне вторгнення.",
-      "poster_path": "/roIks3E0rjQrABK2NLE0MNaJJLN.jpg",
-      "backdrop_path": "/r7RdSJWKeqgQ6ZsxM08d2xRoKor.jpg",
-      "genre_ids": [
-        27,
-        53,
-        35
-      ],
-      "vote_average": 6.648,
-      "vote_count": 1682,
-      "release_date": "2017-10-06"
+      "vote_average": 7.413,
+      "vote_count": 3993,
+      "release_date": "2012-03-22"
     }
   ]
 }
