@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-30T00:04:39Z",
+  "updated_at": "2026-08-31T00:17:51Z",
   "themes": [
     {
       "slug": "no-think",
       "title_uk": "Розвантаження",
       "title_ru": "Разгрузка",
       "count": 15,
-      "updated_at": "2026-08-30T00:03:49Z",
+      "updated_at": "2026-08-31T00:17:35Z",
       "uk_url": "mood/no-think.uk.json",
       "ru_url": "mood/no-think.ru.json",
       "stale": false
@@ -16,7 +16,7 @@
       "title_uk": "Головоломка",
       "title_ru": "Головоломка",
       "count": 15,
-      "updated_at": "2026-08-30T00:03:53Z",
+      "updated_at": "2026-08-31T00:17:35Z",
       "uk_url": "mood/blow-mind.uk.json",
       "ru_url": "mood/blow-mind.ru.json",
       "stale": false
@@ -26,7 +26,7 @@
       "title_uk": "До сліз",
       "title_ru": "До слёз",
       "count": 15,
-      "updated_at": "2026-08-30T00:03:56Z",
+      "updated_at": "2026-08-31T00:17:40Z",
       "uk_url": "mood/cry.uk.json",
       "ru_url": "mood/cry.ru.json",
       "stale": false
@@ -36,7 +36,7 @@
       "title_uk": "Затишок",
       "title_ru": "Уют",
       "count": 15,
-      "updated_at": "2026-08-30T00:03:59Z",
+      "updated_at": "2026-08-31T00:17:44Z",
       "uk_url": "mood/cozy-rain.uk.json",
       "ru_url": "mood/cozy-rain.ru.json",
       "stale": false
@@ -46,7 +46,7 @@
       "title_uk": "Адреналін",
       "title_ru": "Адреналин",
       "count": 15,
-      "updated_at": "2026-08-30T00:04:03Z",
+      "updated_at": "2026-08-31T00:17:48Z",
       "uk_url": "mood/adrenaline.uk.json",
       "ru_url": "mood/adrenaline.ru.json",
       "stale": false
@@ -56,90 +56,90 @@
       "title_uk": "Позитив",
       "title_ru": "Позитив",
       "count": 15,
-      "updated_at": "2026-08-30T00:04:07Z",
+      "updated_at": "2026-08-31T00:17:48Z",
       "uk_url": "mood/mood-up.uk.json",
       "ru_url": "mood/mood-up.ru.json",
-      "stale": false
+      "stale": true
     },
     {
       "slug": "dark",
       "title_uk": "Нуар",
       "title_ru": "Нуар",
       "count": 15,
-      "updated_at": "2026-08-30T00:04:11Z",
+      "updated_at": "2026-08-31T00:17:49Z",
       "uk_url": "mood/dark.uk.json",
       "ru_url": "mood/dark.ru.json",
-      "stale": false
+      "stale": true
     },
     {
       "slug": "date-night",
       "title_uk": "Для двох",
       "title_ru": "Для двоих",
       "count": 15,
-      "updated_at": "2026-08-30T00:04:15Z",
+      "updated_at": "2026-08-31T00:17:49Z",
       "uk_url": "mood/date-night.uk.json",
       "ru_url": "mood/date-night.ru.json",
-      "stale": false
+      "stale": true
     },
     {
       "slug": "nostalgia",
       "title_uk": "Ретро",
       "title_ru": "Ретро",
       "count": 15,
-      "updated_at": "2026-08-30T00:04:19Z",
+      "updated_at": "2026-08-31T00:17:50Z",
       "uk_url": "mood/nostalgia.uk.json",
       "ru_url": "mood/nostalgia.ru.json",
-      "stale": false
+      "stale": true
     },
     {
       "slug": "background",
       "title_uk": "Фоном",
       "title_ru": "Фоном",
       "count": 15,
-      "updated_at": "2026-08-30T00:04:24Z",
+      "updated_at": "2026-08-31T00:17:51Z",
       "uk_url": "mood/background.uk.json",
       "ru_url": "mood/background.ru.json",
-      "stale": false
+      "stale": true
     },
     {
       "slug": "thrill-nerves",
       "title_uk": "Саспенс",
       "title_ru": "Саспенс",
       "count": 15,
-      "updated_at": "2026-08-30T00:04:29Z",
+      "updated_at": "2026-08-31T00:17:51Z",
       "uk_url": "mood/thrill-nerves.uk.json",
       "ru_url": "mood/thrill-nerves.ru.json",
-      "stale": false
+      "stale": true
     },
     {
       "slug": "epic",
       "title_uk": "Епос",
       "title_ru": "Эпос",
       "count": 15,
-      "updated_at": "2026-08-30T00:04:33Z",
+      "updated_at": "2026-08-31T00:17:51Z",
       "uk_url": "mood/epic.uk.json",
       "ru_url": "mood/epic.ru.json",
-      "stale": false
+      "stale": true
     },
     {
       "slug": "laugh",
       "title_uk": "Сміх",
       "title_ru": "Смех",
       "count": 15,
-      "updated_at": "2026-08-30T00:04:36Z",
+      "updated_at": "2026-08-31T00:17:51Z",
       "uk_url": "mood/laugh.uk.json",
       "ru_url": "mood/laugh.ru.json",
-      "stale": false
+      "stale": true
     },
     {
       "slug": "slow-beauty",
       "title_uk": "Естетика",
       "title_ru": "Эстетика",
       "count": 15,
-      "updated_at": "2026-08-30T00:04:39Z",
+      "updated_at": "2026-08-31T00:17:51Z",
       "uk_url": "mood/slow-beauty.uk.json",
       "ru_url": "mood/slow-beauty.ru.json",
-      "stale": false
+      "stale": true
     }
   ]
 }
