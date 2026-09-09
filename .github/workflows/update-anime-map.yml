@@ -31,7 +31,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "lampa.ua.pack@proton.me"
-          git add anime/map.json anime/map.json.hash anime/map.json.etag
+          git add anime/
 
           if ! git diff --cached --quiet; then
             git commit -m "Update anime tmdb→mal map"

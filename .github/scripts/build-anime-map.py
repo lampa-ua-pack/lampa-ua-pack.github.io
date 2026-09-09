@@ -57,7 +57,9 @@ def fetch(url: str) -> bytes:
 def sources_unchanged() -> bool:
     """True, якщо обидва джерела віддають ті самі ETag'и, що й на минулій збірці.
     Тоді качати 12 МБ немає сенсу."""
-    if not (MAP_FILE.exists() and ETAG_FILE.exists()):
+    # Всі три файли мусять бути на місці: якщо якийсь загубився, треба пройти
+    # повний шлях і відновити його, а не зрізати по ETag'у назавжди.
+    if not all(f.exists() for f in (MAP_FILE, HASH_FILE, ETAG_FILE)):
         return False
     try:
         seen = json.loads(ETAG_FILE.read_text(encoding="utf-8"))
