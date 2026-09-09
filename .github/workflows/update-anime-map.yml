@@ -18,16 +18,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-
-      - name: Install dependencies
-        run: pip install requests
 
       - name: Fetch latest remote state
         run: |
@@ -35,13 +25,13 @@ jobs:
           git reset --hard origin/main
 
       - name: Build anime map
-        run: python .github/scripts/build-anime-map.py
+        run: python3 .github/scripts/build-anime-map.py
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "lampa.ua.pack@proton.me"
-          git add anime/map.json anime/map.json.hash
+          git add anime/map.json anime/map.json.hash anime/map.json.etag
 
           if ! git diff --cached --quiet; then
             git commit -m "Update anime tmdb→mal map"
