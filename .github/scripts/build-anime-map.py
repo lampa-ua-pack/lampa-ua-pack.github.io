@@ -94,9 +94,11 @@ def parse_anibridge(mappings, out):
 
 
 def parse_animeapi(records, out):
-    """Додає тільки ті tmdb id, яких anibridge не дав — щоб не забруднювати
-    валідовані набори mal. Повертає кількість дозаповнених пар."""
-    primary = {sect: set(ids) for sect, ids in out.items()}
+    """Доливає mal id, яких anibridge не дав. Об'єднання саме на рівні окремої
+    пари, а не цілого tmdb id: для 139 tmdb id animeApi знає сезони/OVA, яких
+    anibridge під тим самим id не має, і губити їх не можна — карта це список
+    кандидатів, зайвий кандидат споживач відкине, а відсутнього не знайде.
+    Повертає кількість дозаповнених пар."""
     added = 0
     for rec in records:
         tid = rec.get("themoviedb")
@@ -104,10 +106,10 @@ def parse_animeapi(records, out):
         mal = rec.get("myanimelist")
         if tid is None or mal is None or mtype not in ("movie", "tv"):
             continue
-        if str(tid) in primary[mtype]:
-            continue
-        out[mtype].setdefault(str(tid), set()).add(int(mal))
-        added += 1
+        bucket = out[mtype].setdefault(str(tid), set())
+        if int(mal) not in bucket:
+            bucket.add(int(mal))
+            added += 1
     return added
 
 
